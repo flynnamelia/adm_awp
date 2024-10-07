@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sample Document Title</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created from original research by members of CWRC/CSÉC unless
+					otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+	  <text>
+    <body>
+      <div type="poem" n="1">
+        <head>Why We Oppose Pockets for Women</head>
+        <list type="ordered">
+          <item>
+            <p>Because pockets are not a natural right.</p>
+          </item>
+          <item>
+            <p>Because the great majority of women do not want pockets. If they did they would have them.</p>
+          </item>
+          <item>
+            <p>Because whenever women have had pockets they have not used them.</p>
+          </item>
+          <item>
+            <p>Because women are required to carry enough things as it is, without the additional burden of pockets.</p>
+          </item>
+          <item>
+            <p>Because it would make dissension between husband and wife as to whose pockets were to be filled.</p>
+          </item>
+          <item>
+            <p>Because it would destroy man’s chivalry toward woman, if he did not have to carry all her things in his pockets.</p>
+          </item>
+          <item>
+            <p>Because men are men, and women are women. We must not fly in the face of nature.</p>
+          </item>
+          <item>
+            <p>Because pockets have been used by men to carry tobacco, pipes, whiskey flasks, chewing gum and compromising letters. We see no reason to suppose that women would use them more wisely.</p>
+          </item><pb cert="high" facs="https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/adm_awp_OpposePockets_screenshot.png" generatedBy="human" xml:space="default" n="44"/>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>
