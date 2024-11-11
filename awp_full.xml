@@ -94,7 +94,7 @@
                <l>You must not go to the polls, Willie,</l>
                <l rend="indent">Never go to the polls,</l>
                <l>They’re dark and dreadful places</l>
-               <l rend="indent">Where many lose their souls;</l>
+               <l rend="indent">Where many lose their souls;</l><pb cert="high" generatedBy="human" n="11" xml:space="default"/>
                <l>They smirch, degrade and coarsen,</l>
                <l rend="indent">Terrible things they do</l>
                <l>To quiet, elderly women—</l>
@@ -122,7 +122,74 @@
                <l>Do you think I’d send my only son</l>
                <l rend="indent">Where I would not go myself?</l>
             </lg>
+            <pb cert="high" generatedBy="human" n="12" xml:space="default"/>
          </div>
+<div type="poem" n="1">
+        <head>Our Idea of Nothing at All</head>
+        <epigraph>
+          <quote>(“I am opposed to woman suffrage, but I am not opposed to woman.”— Anti-suffrage speech of Mr. Webb of North Carolina.)</quote>
+        </epigraph>
+            <lg type="stanza">
+                <l>O women, have you heard the news</l>
+                <l>Of charity and grace?</l>
+                <l>Look, look, how joy and gratitude</l>
+                <l>Are beaming in my face!</l>
+                <l>For Mr. Webb is not opposed</l>
+                <l>To woman in her place!</l>
+            </lg>
+            <lg type="stanza">
+                <l>O Mr. Webb, how kind you are</l>
+                <l>To let us live at all,</l>
+                <l>To let us light the kitchen range</l>
+                <l>And tidy up the hall;</l>
+                <l>To tolerate the female sex</l>
+                <l>In spite of Adam’s fall.</l>
+            </lg>
+            <lg type="stanza">
+                <l>O girls, suppose that Mr. Webb</l>
+                <l>Should alter his decree!</l>
+                <l>Suppose he were opposed to us—</l>
+                <l>Opposed to you and me.</l>
+                <l>What would be left for us to do—</l>
+                <l>Except to cease to be?</l>
+            </lg>
+</div><pb n="13"/>
+<div type="poem" xml:id="Lines_to_Mr_Bowdle_of_Ohio">
+    <head>Lines to Mr. Bowdle of Ohio</head>
+    
+    <p>“The women of this smart capital are beautiful. Their beauty
+    is disturbing to business; their feet are beautiful, their
+    ankles are beautiful, but here I must pause.” — 
+    <hi rend="italic">Mr. Bowdle’s anti-suffrage speech in Congress, January 12, 1915</hi>
+    </p>
+
+    <lg type="stanza">
+        <l>You, who despise the so-called fairer sex,</l>
+        <l rend="indent">Be brave. There really isn’t any reason</l>
+        <l>You should not, if you wish, oppose and vex</l>
+        <l rend="indent">And scold us in, and even out of season;</l>
+        <l>But don’t regard it as your bounden duty</l>
+        <l>To open with a tribute to our beauty.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Say if you like that women have no sense,</l>
+        <l rend="indent">No self-control, no power of concentration;</l>
+        <l>Say that hysterics is our one defence</l>
+        <l rend="indent">Our virtue but an absence of temptation;</l>
+        <l>These I can bear, but, oh, I own it rankles</l>
+        <l>To hear you maundering on about our ankles.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Tell those old stories, which have now and then</l>
+        <l rend="indent">Been from the Record thoughtfully deleted,</l>
+        <l>Repeat that favorite one about the hen,</l>
+        <l rend="indent">Repeat the ones that cannot be repeated;</l>
+        <l>But in the midst of such enjoyments, smother</l>
+        <l>The impulse to extol your “sainted mother.”</l>
+    </lg>
+</div>      
       </body>
 	</text>
 </TEI>
