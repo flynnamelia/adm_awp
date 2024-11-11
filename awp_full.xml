@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+            <titleStmt>
+                <title>Are Women People? A Book of Rhymes for Suffrage Times</title>
+                <author>Alice Duer Miller</author>
+                <editor>Your Name</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>George H. Doran Company</publisher>
+                <pubPlace>New York</pubPlace>
+                <date when="1915">1915</date>
+                <availability>
+                    <p>Public Domain</p>
+					<p>National American Woman Suffrage Association Collection (Library ofCongress)</p>
+                </availability>
+            </publicationStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created from original research by members of CWRC/CSÉC unless
+					otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+	<text>
+        <front>
+            <!-- Title Page -->
+            <div type="titlePage">
+                <head>ARE WOMEN PEOPLE?</head>
+                <p>ARE WOMEN PEOPLE?</p>
+                <p>A BOOK OF RHYMES FOR SUFFRAGE TIMES</p>
+                <p>BY</p>
+                <p>ALICE DUER MILLER</p>
+                <p>AUTHOR OF “BLUE ARCH,” “THE MODERN OBSTACLE,” ETC.</p>
+                <p>NEW YORK</p>
+                <p>GEORGE H. DORAN COMPANY</p>
+            </div>
+            
+            <!-- Introduction -->
+            <div type="introduction">
+                <head>Introduction</head>
+                <lg>
+                    <l>Father, what is a Legislature?</l>
+                    <l>A representative body elected by the people of the state.</l>
+                    <l>Are women people?</l>
+                    <l>No, my son, criminals, lunatics and women are not people.</l>
+                    <l>Do legislators legislate for nothing?</l>
+                    <l>Oh, no; they are paid a salary.</l>
+                    <l>By whom?</l>
+                    <l>By the people.</l>
+                    <l>Are women people?</l>
+                    <l>Of course, my son, just as much as men are.</l>
+                </lg>
+                <note>
+                    <p>To the New York Tribune, in whose generous columns many of these verses first appeared, the author here wishes to express her gratitude.</p>
+                </note>
+            </div>
+            
+            <!-- Table of Contents -->
+            <div type="toc">
+                <head>Contents</head>
+                <list>
+                    <item><ref target="#Introduction">Introduction</ref></item>
+                    <item><ref target="#TREACHEROUS_TEXTS">TreacheroUS TEXTS</ref></item>
+                    <item><ref target="#CAMPAIGN_MATERIAL">Campaign Material</ref></item>
+                    <item><ref target="#WOMENS_SPHERE">Women’s Sphere</ref></item>
+                    <item><ref target="#A_MASQUE_OF_TEACHERS">A Masque of Teachers: The Ideal Candidates</ref></item>
+                    <item><ref target="#The_Unconscious_Suffragists">The Unconscious Suffragists</ref></item>
+                </list>
+            </div>
+        </front>
+      <body>
+         <!-- Section: Treacherous Texts -->
+         <div type="section" xml:id="TREACHEROUS_TEXTS">
+            <head>TREACHEROUS TEXTS</head>
+         </div>
+         <!-- Poem: Are Women People? -->
+         <div type="poem" xml:id="ARE_WOMEN_PEOPLE">
+            <head>ARE WOMEN PEOPLE?</head>
+            <p>A Consistent Anti to Her Son</p>
+            <p>“Look at the hazards, the risks, the physical dangers that ladies would be exposed to at the polls.” — <hi rend="italic">Anti-suffrage speech</hi></p>
+            
+            <lg type="stanza">
+               <l>You’re twenty-one to-day, Willie,</l>
+               <l rend="indent">And a danger lurks at the door,</l>
+               <l>I’ve known about it always,</l>
+               <l rend="indent">But I never spoke before;</l>
+               <l>When you were only a baby</l>
+               <l rend="indent">It seemed so very remote,</l>
+               <l>But you’re twenty-one to-day, Willie,</l>
+               <l rend="indent">And old enough to vote.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>You must not go to the polls, Willie,</l>
+               <l rend="indent">Never go to the polls,</l>
+               <l>They’re dark and dreadful places</l>
+               <l rend="indent">Where many lose their souls;</l>
+               <l>They smirch, degrade and coarsen,</l>
+               <l rend="indent">Terrible things they do</l>
+               <l>To quiet, elderly women—</l>
+               <l rend="indent">What would they do to you!</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>If you’ve a boyish fancy</l>
+               <l rend="indent">For any measure or man,</l>
+               <l>Tell me, and I’ll tell Father,</l>
+               <l rend="indent">He’ll vote for it, if he can.</l>
+               <l>He casts my vote, and Louisa’s,</l>
+               <l rend="indent">And Sarah, and dear Aunt Clo;</l>
+               <l>Wouldn’t you let him vote for you?</l>
+               <l rend="indent">Father, who loves you so?</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>I’ve guarded you always, Willie,</l>
+               <l rend="indent">Body and soul from harm;</l>
+               <l>I’ll guard your faith and honor,</l>
+               <l rend="indent">Your innocence and charm</l>
+               <l>From the polls and their evil spirits,</l>
+               <l rend="indent">Politics, rum and pelf;</l>
+               <l>Do you think I’d send my only son</l>
+               <l rend="indent">Where I would not go myself?</l>
+            </lg>
+         </div>
+      </body>
+	</text>
+</TEI>
