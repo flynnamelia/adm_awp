@@ -213,7 +213,7 @@
         <l>Back to the kitchen, where angels belong.”</l>
     </lg>
 </div>
-<pb cert="high" generatedBy="human" xml:space="default" n="16"/>
+<pb cert="high" generatedBy="human" xml:space="default" n="17"/>
 <div type="poem" xml:id="The_Revolt_of_Mother">
     <head>The Revolt of Mother</head>
     
@@ -241,7 +241,7 @@
 
     <lg type="stanza">
         <l>I am old-fashioned, and I am content</l>
-        <l rend="indent"><pb cert="high" generatedBy="human" n="16" xml:space="default"/>When he explains the world of art and science</l>
+        <l rend="indent"><pb cert="high" generatedBy="human" xml:space="default" n="18"/>When he explains the world of art and science</l>
         <l>And government—to him divinely sent—</l>
         <l rend="indent">I drink it in with ladylike compliance.</l>
         <l>But cannot listen—no, I’m only human—</l>
