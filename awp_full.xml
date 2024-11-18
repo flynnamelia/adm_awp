@@ -478,8 +478,7 @@
 </div>
 <div type="poem" xml:id="The_Woman_of_Charm">
     <head>The Woman of Charm</head>
-     <epigraph><cit><quote>“I hate a woman who is not a mystery to herself, as well as to
-    me.”</quote><bibl><hi rend="italic">— The Phoenix</hi></bibl></cit></epigraph> 
+     <epigraph><cit><quote>“I hate a woman who is not a mystery to herself, as well as to me.”</quote><bibl><hi rend="italic">— The Phoenix</hi></bibl></cit></epigraph> 
 
     <lg type="stanza">
         <l>If you want a receipt for that popular mystery</l>
@@ -653,21 +652,16 @@
     <head>“Oh, That ’Twere Possible!”</head>
     
     <p><hi rend="italic">With apologies to Lord Tennyson.</hi></p>
-    
-    <p>“The grant of suffrage to women is repugnant to instincts that
+    <epigraph><cit><quote>“The grant of suffrage to women is repugnant to instincts that
     strike their roots deep in the order of nature. It runs counter
     to human reason, it flouts the teachings of experience and the
-    admonitions of common sense.” — 
-    <hi rend="italic">N.Y. Times, Feb. 7, 1915</hi>
-    </p>
-
+    admonitions of common sense."</quote><bibl><hi rend="italic">— N.Y. Times, Feb. 7, 1915</hi></bibl></cit></epigraph> 
     <lg type="stanza">
         <l>Oh, that ’twere possible</l>
         <l rend="indent">After those words inane</l>
-        <l>For me to read <hi rend="italic">The Times</hi></l>
+        <l>For me to read The Times</l>
         <l rend="indent">Ever again!</l>
     </lg>
-
     <lg type="stanza">
         <l>When I was wont to read it</l>
         <l rend="indent">In the early morning hours,</l>
@@ -687,8 +681,8 @@
     </lg>
 </div>
 <div type="poem" xml:id="The_Times_Editorials">
-    <head><hi rend="italic">The Times</hi> Editorials</head>
-asasf<lg type="stanza">
+    <head><dedication>To<hi rend="italic">The Times</hi> Editorials</dedication></head>
+    <lg type="stanza">
         <l>Lovely Antiques, breathing in every line</l>
         <l>The perfume of an age long passed away,</l>
         <l>Wafting us back to 1829,</l>
