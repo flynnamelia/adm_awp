@@ -242,7 +242,7 @@
         <l>While he instructs me how to be a woman.</l><pb cert="high" generatedBy="human" xml:space="default" n="18"/>
     </lg>
 </div>
-<div type="poem" n="6">
+<div cert="high" n="6" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>The Gallant Sex</head>
     
     <p>(A woman engineer has been dismissed by the Board of Education,
@@ -268,7 +268,7 @@
         <l>Only let me have your job!</l>
     </lg><pb cert="high" generatedBy="human" xml:space="default" n="19"/>
 </div>
-<div cert="high" n="6" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+<div cert="high" org="composite" part="Y" sample="initial" xml:space="default" n="7" type="poem">
     <head>Representation</head>
     <epigraph><cit><quote>“My wife is against suffrage, and that settles me.”</quote><bibl><hi rend="italic">— Vice-President Marshall</hi></bibl></cit></epigraph>
         <head>I</head>
