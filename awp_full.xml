@@ -629,7 +629,7 @@
 <epigraph>(The law compels a married woman to take the nationality of her
     husband.)</epigraph> 
     <head>I</head>
-    <p rend="italic">In Time of War</p>
+    <p rend="italic"><hi cert="high" generatedBy="human" rend="italic" xml:space="default">In Time of War</hi></p>
     <lg type="stanza">
         <l>Help us. Your country needs you;</l>
         <l rend="indent">Show that you love her,</l>
@@ -640,8 +640,7 @@
         <l>Not husband nor son,</l>
         <l rend="indent">She must come first of all.</l>
     </lg>
-    <lg type="stanza">
-What’s this? You’ve wed an alien,
+    <lg type="stanza">What’s this? You’ve wed an alien,
 Yet you ask for legislation
 To guard your nationality?
 We’re shocked at your demand.
