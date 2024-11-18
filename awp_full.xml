@@ -652,10 +652,7 @@
     <head>“Oh, That ’Twere Possible!”</head>
     
     <p><hi rend="italic">With apologies to Lord Tennyson.</hi></p>
-    <epigraph><cit><quote>“The grant of suffrage to women is repugnant to instincts that
-    strike their roots deep in the order of nature. It runs counter
-    to human reason, it flouts the teachings of experience and the
-    admonitions of common sense."</quote><bibl><hi rend="italic">— N.Y. Times, Feb. 7, 1915</hi></bibl></cit></epigraph> 
+    <epigraph><cit><quote>“The grant of suffrage to women is repugnant to instincts that strike their roots deep in the order of nature. It runs counter to human reason, it flouts the teachings of experience and the admonitions of common sense."</quote><bibl><hi rend="italic">— N.Y. Times, Feb. 7, 1915</hi></bibl></cit></epigraph> 
     <lg type="stanza">
         <l>Oh, that ’twere possible</l>
         <l rend="indent">After those words inane</l>
@@ -681,7 +678,7 @@
     </lg>
 </div>
 <div type="poem" xml:id="The_Times_Editorials">
-    <head><dedication>To<hi rend="italic">The Times</hi> Editorials</dedication></head>
+    <head type="dedication">To<hi rend="italic">The Times</hi> Editorials</head>
     <lg type="stanza">
         <l>Lovely Antiques, breathing in every line</l>
         <l>The perfume of an age long passed away,</l>
