@@ -350,7 +350,7 @@
         <pb cert="high" generatedBy="human" xml:space="default" n="25"/>
     </lg>
 </div>
-<div type="poem" xml:id="Home_and_Where_It_Is">
+<div cert="high" n="10" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>Home and Where It Is</head>
     <p>(An Indiana judge has recently ruled: As to the right of the
     husband to decide the location of the home that <quote>"home is where
@@ -377,7 +377,7 @@
     </lg>
     <pb cert="high" generatedBy="human" xml:space="default" n="26"/>
 </div>
-<div type="poem" xml:id="The_Maidens_Vow">
+<div cert="high" n="11" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>The Maiden’s Vow</head>
     <p>(A speaker at the National Education Association advised girls not to study algebra. Many girls, he said, had lost their souls through this study. The idea has been taken up with enthusiasm.)</p>
 
@@ -400,7 +400,7 @@
     </lg>
     <pb cert="high" generatedBy="human" xml:space="default" n="27"/>
 </div>
-<div type="poem" xml:id="Such_Nonsense">
+<div cert="high" n="12" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>Such Nonsense</head>
     <epigraph><cit><quote>“Where on earth did the idea come from that the ballot is a
     boon, a privilege and an honor? From men.”</quote><bibl><hi rend="italic">—Mrs. Prestonia Mann Martin</hi></bibl></cit></epigraph>
