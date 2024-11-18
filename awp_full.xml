@@ -245,10 +245,10 @@
 <div type="poem" n="6">
     <head>The Gallant Sex</head>
     
-    <epigraph>(A woman engineer has been dismissed by the Board of Education,
+    <p>(A woman engineer has been dismissed by the Board of Education,
     under their new rule that women shall not attend high pressure
     boilers, although her work has been satisfactory and she holds
-    a license to attend such boilers from the Police Department.)</epigraph>
+    a license to attend such boilers from the Police Department.)</p>
 
     <lg type="stanza">
         <l>Lady, dangers lurk in boilers,</l>
@@ -352,9 +352,9 @@
 </div>
 <div type="poem" xml:id="Home_and_Where_It_Is">
     <head>Home and Where It Is</head>
-    <epigraph>(An Indiana judge has recently ruled: As to the right of the
+    <p>(An Indiana judge has recently ruled: As to the right of the
     husband to decide the location of the home that <quote>"home is where
-    the husband is.”</quote>)</epigraph>
+    the husband is.”</quote>)</p>
 
     <lg type="stanza">
         <l>Home is where the husband is,</l>
@@ -379,7 +379,7 @@
 </div>
 <div type="poem" xml:id="The_Maidens_Vow">
     <head>The Maiden’s Vow</head>
-    <epigraph>(A speaker at the National Education Association advised girls not to study algebra. Many girls, he said, had lost their souls through this study. The idea has been taken up with enthusiasm.)</epigraph>
+    <p>(A speaker at the National Education Association advised girls not to study algebra. Many girls, he said, had lost their souls through this study. The idea has been taken up with enthusiasm.)</p>
 
     <lg type="stanza">
         <l>I will avoid equations,</l>
