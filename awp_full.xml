@@ -73,7 +73,7 @@
          <div type="poem" n="1">
             <head>ARE WOMEN PEOPLE?</head>
             <p>A Consistent Anti to Her Son</p>
-            <epigraph><cit>(<quote>Look at the hazards, the risks, the physical dangers that ladies would be exposed to at the polls.</quote>) — <bibl rend="italic">Anti-suffrage speech</bibl></cit></epigraph>
+            <epigraph><cit>(<quote>Look at the hazards, the risks, the physical dangers that ladies would be exposed to at the polls.</quote>) — <bibl>Anti-suffrage speech</bibl></cit></epigraph>
             
             <lg type="stanza">
                <l>You’re twenty-one to-day, Willie,</l>
@@ -123,7 +123,7 @@
 <div type="poem" n="1">
         <head>Our Idea of Nothing at All</head>
         <epigraph><cit>
-          <quote>(“I am opposed to woman suffrage, but I am not opposed to woman.”</quote><bibl rend="italic">— Anti-suffrage speech of Mr. Webb of North Carolina.)</bibl></cit>
+          <quote>(“I am opposed to woman suffrage, but I am not opposed to woman.”</quote><bibl>— Anti-suffrage speech of Mr. Webb of North Carolina.)</bibl></cit>
         </epigraph>
             <lg type="stanza">
                 <l>O women, have you heard the news</l>
@@ -189,10 +189,10 @@
       <div type="poem" xml:id="On_Not_Believing_All_You_Hear">
     <head>On Not Believing All You Hear</head>
     
-    <p>“Women are angels, they are jewels, they are queens and
-    princesses of our hearts.” — 
-    <hi rend="italic">Anti-suffrage speech of Mr. Carter of Oklahoma</hi>
-    </p>
+    <epigraph><cit><quote>“Women are angels, they are jewels, they are queens and
+    princesses of our hearts.”</quote><bibl>— 
+    <hi rend="italic">Anti-suffrage speech of Mr. Carter of Oklahoma</hi></bibl></cit>
+   </epigraph>
 
     <lg type="stanza">
         <l>“Angel, or jewel, or princess, or queen,</l>
