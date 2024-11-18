@@ -241,11 +241,11 @@
 
     <lg type="stanza">
         <l>I am old-fashioned, and I am content</l>
-        <l rend="indent">When he explains the world of art and science</l>
+        <l rend="indent">When he explains the world of art and science</l><pb cert="high" generatedBy="human" n="17" xml:space="default"/>
         <l>And government—to him divinely sent—</l>
         <l rend="indent">I drink it in with ladylike compliance.</l>
         <l>But cannot listen—no, I’m only human—</l>
-        <l>While he instructs me how to be a woman.</l><pb cert="high" generatedBy="human" xml:space="default" n="17"/>
+        <l>While he instructs me how to be a woman.</l><pb cert="high" generatedBy="human" xml:space="default" n="18"/>
     </lg>
 </div>
 <div type="poem" xml:id="The_Gallant_Sex">
