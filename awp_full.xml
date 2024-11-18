@@ -581,7 +581,7 @@
         <l rend="indent">But—the men have less to lose.</l>
     </lg>
 </div>
-<div type="poem" xml:id="Partners">
+<div cert="high" n="19" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>Partners</head>
 <epigraph><cit><quote>“Our laws have not yet reached the point of holding that property which is the result of the husband’s earnings and the wife’s savings becomes their joint property.... In this most important of all partnerships there is no partnership property.”</quote><bibl><hi rend="italic">— Recent decision of the New York Supreme Court</hi></bibl></cit></epigraph> 
     <lg type="stanza">
@@ -620,7 +620,7 @@
         <l rend="quad-indent">I shall take.</l>
     </lg>
 </div>
-<div type="poem" xml:id="What_Governments_Say_to_Women">
+<div cert="high" n="20" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>What Governments Say to Women</head>
 <p>(The law compels a married woman to take the nationality of her
     husband.)</p> 
@@ -645,7 +645,7 @@
 <l cert="high" generatedBy="human" part="Y" rend="indent" xml:space="default">What’s a woman’s native land?</l></lg>
 
 </div>
-<div type="poem" xml:id="Oh_That_Twere_Possible">
+<div cert="high" n="21" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>“Oh, That ’Twere Possible!”</head>
     
     <p><hi rend="italic">With apologies to Lord Tennyson.</hi></p>
