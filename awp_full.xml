@@ -120,7 +120,7 @@
             </lg>
             <pb cert="high" generatedBy="human" n="12" xml:space="default"/>
          </div>
-<div cert="high" org="composite" part="Y" sample="initial" xml:space="default" n="2" type="poem">
+<div n="2" type="poem">
         <head>Our Idea of Nothing at All</head>
         <epigraph><cit> <quote>"I am opposed to woman suffrage, but I am not opposed to woman."</quote><bibl><hi cert="high" generatedBy="human" rend="italic" xml:space="default">— Anti-suffrage speech of Mr. Webb of North Carolina.</hi></bibl></cit>
         </epigraph>
@@ -149,9 +149,8 @@
                 <l>Except to cease to be?</l>
             </lg>
 </div><pb cert="high" generatedBy="human" n="13" xml:space="default"/>
-<div type="poem" xml:id="Lines_to_Mr_Bowdle_of_Ohio">
+<div type="poem" n="3">
     <head>Lines to Mr. Bowdle of Ohio</head>
-    
     <epigraph><cit><quote>“The women of this smart capital are beautiful. Their beauty
     is disturbing to business; their feet are beautiful, their
     ankles are beautiful, but here I must pause.”</quote><bibl> — 
@@ -185,7 +184,7 @@
         <l>The impulse to extol your “sainted mother.”</l>
     </lg>
 </div><pb cert="high" generatedBy="human" xml:space="default" n="15"/>
-      <div type="poem" xml:id="On_Not_Believing_All_You_Hear">
+      <div type="poem" n="4">
     <head>On Not Believing All You Hear</head>
     
     <epigraph><cit><quote>“Women are angels, they are jewels, they are queens and
@@ -209,12 +208,12 @@
     </lg>
 </div>
 <pb cert="high" generatedBy="human" xml:space="default" n="16"/>
-<div type="poem" xml:id="The_Revolt_of_Mother">
+<div type="poem" n="5">
     <head>The Revolt of Mother</head>
     
-    <p><quote>“Every true woman feels—”</quote> — 
-    <hi rend="italic">Speech of almost any Congressman</hi>
-    </p>
+    <epigraph><cite><quote>“Every true woman feels—”</quote> <bibl>— 
+    <hi rend="italic">Speech of almost any Congressman</hi></bibl></cite>
+    </epigraph>
 
     <lg type="stanza">
         <l>I am old-fashioned, and I think it right</l>
@@ -243,13 +242,13 @@
         <l>While he instructs me how to be a woman.</l><pb cert="high" generatedBy="human" xml:space="default" n="18"/>
     </lg>
 </div>
-<div type="poem" xml:id="The_Gallant_Sex">
+<div type="poem" n="6">
     <head>The Gallant Sex</head>
     
-    <p>(A woman engineer has been dismissed by the Board of Education,
+    <epigraph>(A woman engineer has been dismissed by the Board of Education,
     under their new rule that women shall not attend high pressure
     boilers, although her work has been satisfactory and she holds
-    a license to attend such boilers from the Police Department.)</p>
+    a license to attend such boilers from the Police Department.)</epigraph>
 
     <lg type="stanza">
         <l>Lady, dangers lurk in boilers,</l>
@@ -271,15 +270,8 @@
 </div>
 <div type="poem" xml:id="Representation">
     <head>Representation</head>
-    
-    <p>“My wife is against suffrage, and that settles me.” — 
-    <hi rend="italic">Vice-President Marshall</hi>
-    </p>
-
-    <lg type="stanza">
-        <l>I</l>
-    </lg>
-
+    <epigraph><cit><quote>“My wife is against suffrage, and that settles me.”</quote><bibl><hi rend="italic">— Vice-President Marshall</hi></bibl></cit></epigraph>
+        <head>I</head>
     <lg type="stanza">
         <l>My wife dislikes the income tax,</l>
         <l rend="indent">And so I cannot pay it;</l>
@@ -290,11 +282,7 @@
         <l>But woman’s duty is to feel,</l>
         <l rend="indent">And man’s is to obey.</l>
     </lg>
-
-    <lg type="stanza">
-        <l>II</l>
-    </lg>
-
+        <head>II</head>
     <lg type="stanza">
         <l>I’m in a hard position for a perfect gentleman,</l>
         <l>I want to please the ladies, but I don’t see how I can,</l>
@@ -308,17 +296,14 @@
     <pb cert="high" generatedBy="human" xml:space="default" n="21"/>
 </div>
 <div type="poem" xml:id="Sonnet">
-    <head>Sonnet</head>
-    
-    <p>“Three bills known as the Thompson-Bewley cannery bills have
+    <head>Sonnet</head> 
+    <epigraph><cite><quote>“Three bills known as the Thompson-Bewley cannery bills have
     been advanced to third reading in the Senate and Assembly at
     Albany. One permits the canners to work their employés
     seven days a week, a second allows them to work women after 9
     p.m. and a third removes every restriction upon the hours of
-    labor of women and minors.” — 
-    <hi rend="italic">Zenas L. Potter, former chief cannery investigator for New York State Factory Investigating Commission</hi>
-    </p>
-
+    labor of women and minors.</quote><bibl><hi rend="italic">—Zenas L. Potter, former chief cannery investigator for New York State Factory Investigating Commission</hi></bibl></cite>
+    </epigraph>
     <lg type="stanza">
         <l>Let us not to an unrestricted day</l>
         <l>Impediments admit. Work is not work</l>
@@ -340,14 +325,11 @@
 </div>
 <div type="poem" xml:id="To_President_Wilson">
     <head>To President Wilson</head>
-    
-    <p>“I hold it as a fundamental principle and so do you, that
+    <epigraph><cite><quote>“I hold it as a fundamental principle and so do you, that
     every people has the right to determine its own form of
     government. And until recently 50 per cent. of the people of
     Mexico have not had a look-in in determining who should be
-    their governors, or what their government should be.” — 
-    <hi rend="italic">Speech of President Wilson</hi>
-    </p>
+    their governors, or what their government should be.”</quote><bibl><hi rend="italic">—Speech of President Wilson</hi></bibl></cite></epigraph>
 
     <lg type="stanza">
         <l>Wise and just man—for such I think you are—</l>
@@ -370,10 +352,9 @@
 </div>
 <div type="poem" xml:id="Home_and_Where_It_Is">
     <head>Home and Where It Is</head>
-    
-    <p>(An Indiana judge has recently ruled: As to the right of the
-    husband to decide the location of the home that “home is where
-    the husband is.”)</p>
+    <epigraph>(An Indiana judge has recently ruled: As to the right of the
+    husband to decide the location of the home that <quote>"home is where
+    the husband is.”</quote>)</epigraph>
 
     <lg type="stanza">
         <l>Home is where the husband is,</l>
@@ -398,11 +379,7 @@
 </div>
 <div type="poem" xml:id="The_Maidens_Vow">
     <head>The Maiden’s Vow</head>
-    
-    <p>(A speaker at the National Education Association advised girls
-    not to study algebra. Many girls, he said, had lost their souls
-    through this study. The idea has been taken up with
-    enthusiasm.)</p>
+    <epigraph>(A speaker at the National Education Association advised girls not to study algebra. Many girls, he said, had lost their souls through this study. The idea has been taken up with enthusiasm.)</epigraph>
 
     <lg type="stanza">
         <l>I will avoid equations,</l>
@@ -425,12 +402,8 @@
 </div>
 <div type="poem" xml:id="Such_Nonsense">
     <head>Such Nonsense</head>
-    
-    <p>“Where on earth did the idea come from that the ballot is a
-    boon, a privilege and an honor? From men.” — 
-    <hi rend="italic">Mrs. Prestonia Mann Martin</hi>
-    </p>
-
+    <epigraph><cit><quote>“Where on earth did the idea come from that the ballot is a
+    boon, a privilege and an honor? From men.”</quote><bibl><hi rend="italic">Mrs. Prestonia Mann Martin</hi></bibl></cit></epigraph>
     <lg type="stanza">
         <l>Who is it thinks the vote some use?</l>
         <l>Man. (Man is often such a goose!)</l>
@@ -470,12 +443,8 @@
 </div>
 <div type="poem" xml:id="A_Suggested_Campaign_Song">
     <head>A Suggested Campaign Song</head>
-    
-    <p>“No brass bands. No speeches. Instead a still, silent,
-    effective influence.” — 
-    <hi rend="italic">Anti-suffrage speech</hi>
-    </p>
-
+  <epigraph><cit><quote>“No brass bands. No speeches. Instead a still, silent,
+    effective influence.”</quote><bibl><hi rend="italic">Anti-suffrage speech</hi></bibl></cit></epigraph>  
     <lg type="stanza">
         <l>We are waging—can you doubt it?</l>
         <l rend="indent">A campaign so calm and still</l>
@@ -509,11 +478,8 @@
 </div>
 <div type="poem" xml:id="The_Woman_of_Charm">
     <head>The Woman of Charm</head>
-    
-    <p>“I hate a woman who is not a mystery to herself, as well as to
-    me.” — 
-    <hi rend="italic">The Phoenix</hi>
-    </p>
+     <epigraph><cit><quote>“I hate a woman who is not a mystery to herself, as well as to
+    me.”</quote><bibl><hi rend="italic">— The Phoenix</hi></bibl></cit></epigraph> 
 
     <lg type="stanza">
         <l>If you want a receipt for that popular mystery</l>
@@ -547,10 +513,7 @@
 </div>
 <div type="poem" xml:id="A_Modern_Proposal">
     <head>A Modern Proposal</head>
-    
-    <p>(It has been said that the feminist movement is the true
-    solution of the mother-in-law problem.)</p>
-
+         <epigraph>(It has been said that the feminist movement is the true solution of the mother-in-law problem.)</epigraph> 
     <lg type="stanza">
         <l>Sylvia, my dear, I would be yours with pleasure,</l>
         <l rend="indent">All that you are seems excellent to me,</l>
@@ -574,12 +537,7 @@
 </div>
 <div type="poem" xml:id="The_Newer_Lullaby">
     <head>The Newer Lullaby</head>
-    
-    <p>“Good heavens, when I think what the young boy of to-day is
-    growing up to I gasp. He has too many women around him all the
-    time. He has his mother when he is a baby.” — 
-    <hi rend="italic">Bernard Fagin, Probation Officer</hi>
-    </p>
+     <epigraph><cit><quote>“Good heavens, when I think what the young boy of to-day is growing up to I gasp. He has too many women around him all the time. He has his mother when he is a baby.”</quote><bibl><hi rend="italic">— Bernard Fagin, Probation Officer</hi></bibl></cit></epigraph> 
 
     <lg type="stanza">
         <l>Hush-a-bye, baby,</l>
@@ -594,14 +552,8 @@
 </div>
 <div type="poem" xml:id="The_Protected_Sex">
     <head>The Protected Sex</head>
-    
     <p><hi rend="italic">With apologies to James Whitcomb Riley</hi>.</p>
-    
-    <p>“The result of taking second place to girls at school is that
-    the boy feels a sense of inferiority that he is never afterward
-    able entirely to shake off.” — 
-    <hi rend="italic">Editorial in London Globe against co-education</hi>
-    </p>
+     <epigraph><cit><quote>“The result of taking second place to girls at school is that the boy feels a sense of inferiority that he is never afterward able entirely to shake off.”</quote><bibl><hi rend="italic">— Editorial in London Globe against co-education</hi></bibl></cit></epigraph> 
 
     <lg type="stanza">
         <l>There, little girl, don’t read,</l>
@@ -620,6 +572,7 @@
     her less attractive.” — 
     <hi rend="italic">Anna H. Shaw</hi>
     </p>
+     <epigraph><cit><quote>“The Latin man believes that giving woman the vote will make her less attractive.”</quote><bibl><hi rend="italic">— Anna H. Shaw</hi></bibl></cit></epigraph> 
 
     <lg type="stanza">
         <l>They must sacrifice their beauty</l>
@@ -634,15 +587,7 @@
 </div>
 <div type="poem" xml:id="Partners">
     <head>Partners</head>
-    
-    <p>“Our laws have not yet reached the point of holding that
-    property which is the result of the husband’s earnings and the
-    wife’s savings becomes their joint property.... In this most
-    important of all partnerships there is no partnership
-    property.” — 
-    <hi rend="italic">Recent decision of the New York Supreme Court</hi>
-    </p>
-
+<epigraph><cit><quote>“Our laws have not yet reached the point of holding that property which is the result of the husband’s earnings and the wife’s savings becomes their joint property.... In this most important of all partnerships there is no partnership property.”</quote><bibl><hi rend="italic">— Recent decision of the New York Supreme Court</hi></bibl></cit></epigraph> 
     <lg type="stanza">
         <l>Lady, lovely lady, come and share</l>
         <l rend="double-indent">All my care;</l>
@@ -681,18 +626,10 @@
 </div>
 <div type="poem" xml:id="What_Governments_Say_to_Women">
     <head>What Governments Say to Women</head>
-    
-    <p>(The law compels a married woman to take the nationality of her
-    husband.)</p>
-
-    <lg type="stanza">
-        <l>I</l>
-    </lg>
-
-    <lg type="stanza">
-        <l><hi rend="italic">In Time of War</hi></l>
-    </lg>
-
+<epigraph>(The law compels a married woman to take the nationality of her
+    husband.)</epigraph> 
+    <head>I</head>
+    <p rend="italic">In Time of War</p>
     <lg type="stanza">
         <l>Help us. Your country needs you;</l>
         <l rend="indent">Show that you love her,</l>
@@ -703,6 +640,17 @@
         <l>Not husband nor son,</l>
         <l rend="indent">She must come first of all.</l>
     </lg>
+    <lg type="stanza">
+What’s this? You’ve wed an alien,
+Yet you ask for legislation
+To guard your nationality?
+We’re shocked at your demand.
+A woman when she marries
+Takes her husband’s name and nation:
+She should love her husband only.
+What’s a woman’s native land?
+    </lg>
+
 </div>
 <div type="poem" xml:id="Oh_That_Twere_Possible">
     <head>“Oh, That ’Twere Possible!”</head>
