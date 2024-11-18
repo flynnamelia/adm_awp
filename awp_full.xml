@@ -512,7 +512,7 @@
 </div>
 <div type="poem" xml:id="A_Modern_Proposal">
     <head>A Modern Proposal</head>
-         <epigraph>(It has been said that the feminist movement is the true solution of the mother-in-law problem.)</epigraph> 
+         <p>(It has been said that the feminist movement is the true solution of the mother-in-law problem.)</p> 
     <lg type="stanza">
         <l>Sylvia, my dear, I would be yours with pleasure,</l>
         <l rend="indent">All that you are seems excellent to me,</l>
@@ -625,8 +625,8 @@
 </div>
 <div type="poem" xml:id="What_Governments_Say_to_Women">
     <head>What Governments Say to Women</head>
-<epigraph>(The law compels a married woman to take the nationality of her
-    husband.)</epigraph> 
+<p>(The law compels a married woman to take the nationality of her
+    husband.)</p> 
     <head>I</head>
     <p rend="italic"><hi cert="high" generatedBy="human" rend="italic" xml:space="default">In Time of War</hi></p>
     <lg type="stanza">
