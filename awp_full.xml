@@ -734,6 +734,164 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012839586",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:28:39.586Z",
+	"dcterms:modified": "2024-11-18T06:28:39.586Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012839586#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012839586#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[19]/epigraph/cit/bibl/hi/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/64807754/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?organization_annotation_20241118012907508",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:29:07.508Z",
+	"dcterms:modified": "2024-11-18T06:29:07.508Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?organization_annotation_20241118012907508#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?organization_annotation_20241118012907508#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[20]/epigraph/cit/bibl/hi/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://viaf.org/viaf/72158066389408431055/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
         <front>
@@ -1282,7 +1440,7 @@
     <head>Warning to Suffragists</head>
     
     
-     <epigraph><cit><quote>“The Latin man believes that giving woman the vote will make her less attractive.”</quote><bibl><hi rend="italic">— Anna H. Shaw</hi></bibl></cit></epigraph> 
+     <epigraph><cit><quote>“The Latin man believes that giving woman the vote will make her less attractive.”</quote><bibl><hi rend="italic">— <persName key="Shaw, Anna Howard, 1847-1919" ref="http://viaf.org/viaf/64807754/">Anna H. Shaw</persName></hi></bibl></cit></epigraph> 
 
     <lg type="stanza">
         <l>They must sacrifice their beauty</l>
@@ -1297,7 +1455,7 @@
 </div>
 <div cert="high" n="19" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>Partners</head>
-<epigraph><cit><quote>“Our laws have not yet reached the point of holding that property which is the result of the husband’s earnings and the wife’s savings becomes their joint property.... In this most important of all partnerships there is no partnership property.”</quote><bibl><hi rend="italic">— Recent decision of the New York Supreme Court</hi></bibl></cit></epigraph> 
+<epigraph><cit><quote>“Our laws have not yet reached the point of holding that property which is the result of the husband’s earnings and the wife’s savings becomes their joint property.... In this most important of all partnerships there is no partnership property.”</quote><bibl><hi rend="italic">— Recent decision of the <orgName key="New York (State). Supreme Court (9th Judicial District)" ref="http://viaf.org/viaf/72158066389408431055/">New York Supreme Court</orgName></hi></bibl></cit></epigraph> 
     <lg type="stanza">
         <l>Lady, lovely lady, come and share</l>
         <l rend="double-indent">All my care;</l>
