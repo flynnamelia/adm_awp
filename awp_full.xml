@@ -23,7 +23,6 @@
 		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
 	<text>
         <front>
-            <!-- Title Page -->
             <div type="titlePage">
                 <head>ARE WOMEN PEOPLE?</head>
                 <p>ARE WOMEN PEOPLE?</p>
@@ -34,9 +33,7 @@
                 <p>NEW YORK</p>
                 <p>GEORGE H. DORAN COMPANY</p>
             </div>
-            
-            <!-- Introduction -->
-            <div type="introduction">
+            <div type="Introduction">
                 <head>Introduction</head>
                 <lg>
                     <l>Father, what is a Legislature?</l>
@@ -50,34 +47,33 @@
                     <l>Are women people?</l>
                     <l>Of course, my son, just as much as men are.</l>
                 </lg>
+                <pb/>
                 <note>
                     <p>To the New York Tribune, in whose generous columns many of these verses first appeared, the author here wishes to express her gratitude.</p>
                 </note>
+                <pb/>
             </div>
-            
-            <!-- Table of Contents -->
             <div type="toc">
                 <head>Contents</head>
                 <list>
                     <item><ref target="#Introduction">Introduction</ref></item>
-                    <item><ref target="#TREACHEROUS_TEXTS">TreacheroUS TEXTS</ref></item>
-                    <item><ref target="#CAMPAIGN_MATERIAL">Campaign Material</ref></item>
-                    <item><ref target="#WOMENS_SPHERE">Women’s Sphere</ref></item>
-                    <item><ref target="#A_MASQUE_OF_TEACHERS">A Masque of Teachers: The Ideal Candidates</ref></item>
+                    <item><ref target="#Treacherous_Texts">Treacherous Texts</ref></item>
+                    <item><ref target="#Campaign_Material">Campaign Material (For Both Sides)</ref></item>
+                    <item><ref target="#Womens_Sphere">Women`s Sphere</ref></item>
+                    <item><ref target="#A_Masque_of_Teachers">A Masque of Teachers: The Ideal Candidates</ref></item>
                     <item><ref target="#The_Unconscious_Suffragists">The Unconscious Suffragists</ref></item>
                 </list>
             </div>
         </front>
       <body>
-         <!-- Section: Treacherous Texts -->
-         <div type="section" xml:id="TREACHEROUS_TEXTS">
+         <div type="section" xml:id="Treacherous_Texts">
             <head>TREACHEROUS TEXTS</head>
          </div>
-         <!-- Poem: Are Women People? -->
-         <div type="poem" xml:id="ARE_WOMEN_PEOPLE">
+         <pb/>
+         <div type="poem" n="1">
             <head>ARE WOMEN PEOPLE?</head>
             <p>A Consistent Anti to Her Son</p>
-            <p>“Look at the hazards, the risks, the physical dangers that ladies would be exposed to at the polls.” — <hi rend="italic">Anti-suffrage speech</hi></p>
+            <epigraph><cit>(<quote>Look at the hazards, the risks, the physical dangers that ladies would be exposed to at the polls.</quote>) — <bibl rend="italic">Anti-suffrage speech</bibl></cit></epigraph>
             
             <lg type="stanza">
                <l>You’re twenty-one to-day, Willie,</l>
@@ -126,8 +122,8 @@
          </div>
 <div type="poem" n="1">
         <head>Our Idea of Nothing at All</head>
-        <epigraph>
-          <quote>(“I am opposed to woman suffrage, but I am not opposed to woman.”— Anti-suffrage speech of Mr. Webb of North Carolina.)</quote>
+        <epigraph><cit>
+          <quote>(“I am opposed to woman suffrage, but I am not opposed to woman.”</quote><bibl rend="italic">— Anti-suffrage speech of Mr. Webb of North Carolina.)</bibl></cit>
         </epigraph>
             <lg type="stanza">
                 <l>O women, have you heard the news</l>
@@ -157,11 +153,11 @@
 <div type="poem" xml:id="Lines_to_Mr_Bowdle_of_Ohio">
     <head>Lines to Mr. Bowdle of Ohio</head>
     
-    <p>“The women of this smart capital are beautiful. Their beauty
+    <epigraph><cit><quote>“The women of this smart capital are beautiful. Their beauty
     is disturbing to business; their feet are beautiful, their
-    ankles are beautiful, but here I must pause.” — 
-    <hi rend="italic">Mr. Bowdle’s anti-suffrage speech in Congress, January 12, 1915</hi>
-    </p>
+    ankles are beautiful, but here I must pause.”</quote><bibl> — 
+    <hi rend="italic">Mr. Bowdle’s anti-suffrage speech in Congress, January 12, 1915</hi></bibl></cit>
+   </epigraph>
 
     <lg type="stanza">
         <l>You, who despise the so-called fairer sex,</l>
