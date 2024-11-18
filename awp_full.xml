@@ -972,6 +972,163 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?date_annotation_20241118013007741",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:30:07.741Z",
+	"dcterms:modified": "2024-11-18T06:30:07.741Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?date_annotation_20241118013007741#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?date_annotation_20241118013007741#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[22]/epigraph/cit/bibl/hi/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1915-02-07"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?organization_annotation_20241118013145128",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:31:45.128Z",
+	"dcterms:modified": "2024-11-18T06:31:45.128Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?organization_annotation_20241118013145128#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?organization_annotation_20241118013145128#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[12]/p/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://viaf.org/viaf/9761147665849560670009/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
         <front>
@@ -1331,7 +1488,7 @@
 </div>
 <div cert="high" n="11" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>The Maiden’s Vow</head>
-    <p>(A speaker at the National Education Association advised girls not to study algebra. Many girls, he said, had lost their souls through this study. The idea has been taken up with enthusiasm.)</p>
+    <p>(A speaker at the <orgName key="National Education Association of the United States. Office of Professional Development and Welfare" ref="http://viaf.org/viaf/9761147665849560670009/">National Education Association</orgName> advised girls not to study algebra. Many girls, he said, had lost their souls through this study. The idea has been taken up with enthusiasm.)</p>
 
     <lg type="stanza">
         <l>I will avoid equations,</l>
@@ -1601,7 +1758,7 @@
     <head>“Oh, That ’Twere Possible!”</head>
     
     <p><hi rend="italic">With apologies to <persName key="Alfred Tennyson" ref="http://www.wikidata.org/entity/Q173869" cert="high" type="real">Lord Tennyson</persName>.</hi></p>
-    <epigraph><cit><quote>“The grant of suffrage to women is repugnant to instincts that strike their roots deep in the order of nature. It runs counter to human reason, it flouts the teachings of experience and the admonitions of common sense."</quote><bibl><hi rend="italic">— N.Y. Times, Feb. 7, 1915</hi></bibl></cit></epigraph> 
+    <epigraph><cit><quote>“The grant of suffrage to women is repugnant to instincts that strike their roots deep in the order of nature. It runs counter to human reason, it flouts the teachings of experience and the admonitions of common sense."</quote><bibl><hi rend="italic">— N.Y. Times, <date when="1915-02-07" cert="high">Feb. 7, 1915</date></hi></bibl></cit></epigraph> 
     <lg type="stanza">
         <l>Oh, that ’twere possible</l>
         <l rend="indent">After those words inane</l>
