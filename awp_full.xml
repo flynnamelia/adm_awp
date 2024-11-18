@@ -295,7 +295,7 @@
     </lg>
     <pb cert="high" generatedBy="human" xml:space="default" n="21"/>
 </div>
-<div type="poem" xml:id="Sonnet">
+<div cert="high" n="7" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>Sonnet</head> 
     <epigraph><cit><quote>“Three bills known as the Thompson-Bewley cannery bills have
     been advanced to third reading in the Senate and Assembly at
