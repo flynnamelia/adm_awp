@@ -441,7 +441,7 @@
     </lg>
     <pb cert="high" generatedBy="human" xml:space="default" n="29"/>
 </div>
-<div type="poem" xml:id="A_Suggested_Campaign_Song">
+<div cert="high" n="13" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>A Suggested Campaign Song</head>
   <epigraph><cit><quote>“No brass bands. No speeches. Instead a still, silent,
     effective influence.”</quote><bibl><hi rend="italic">—Anti-suffrage speech</hi></bibl></cit></epigraph>  
@@ -476,7 +476,7 @@
     </lg>
     <pb cert="high" generatedBy="human" xml:space="default" n="29"/>
 </div>
-<div type="poem" xml:id="The_Woman_of_Charm">
+<div cert="high" n="14" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>The Woman of Charm</head>
      <epigraph><cit><quote>“I hate a woman who is not a mystery to herself, as well as to me.”</quote><bibl><hi rend="italic">— The Phoenix</hi></bibl></cit></epigraph> 
 
@@ -510,7 +510,7 @@
 
     </lg>
 </div>
-<div type="poem" xml:id="A_Modern_Proposal">
+<div cert="high" n="15" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>A Modern Proposal</head>
          <p>(It has been said that the feminist movement is the true solution of the mother-in-law problem.)</p> 
     <lg type="stanza">
