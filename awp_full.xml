@@ -643,9 +643,8 @@
     <lg type="stanza"><l>What’s this? You’ve wed an alien,</l>
 <l cert="high" generatedBy="human" part="Y" rend="indent" xml:space="default">Yet you ask for legislation</l>
 <l cert="high" generatedBy="human" part="Y" xml:space="default">To guard your nationality?</l>
-We’re shocked at your demand.
-A woman when she marries
-Takes her husband’s name and nation:
+<l cert="high" generatedBy="human" part="Y" rend="indent" xml:space="default">We’re shocked at your demand.</l>
+<l>A woman when she marries </l>Takes her husband’s name and nation:
 She should love her husband only.
 What’s a woman’s native land?
     </lg>
