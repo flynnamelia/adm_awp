@@ -211,8 +211,8 @@
 <div type="poem" n="5">
     <head>The Revolt of Mother</head>
     
-    <epigraph><cite><quote>“Every true woman feels—”</quote> <bibl>— 
-    <hi rend="italic">Speech of almost any Congressman</hi></bibl></cite>
+    <epigraph><cit><quote>“Every true woman feels—”</quote> <bibl>— 
+    <hi rend="italic">Speech of almost any Congressman</hi></bibl></cit>
     </epigraph>
 
     <lg type="stanza">
@@ -297,12 +297,12 @@
 </div>
 <div type="poem" xml:id="Sonnet">
     <head>Sonnet</head> 
-    <epigraph><cite><quote>“Three bills known as the Thompson-Bewley cannery bills have
+    <epigraph><cit><quote>“Three bills known as the Thompson-Bewley cannery bills have
     been advanced to third reading in the Senate and Assembly at
     Albany. One permits the canners to work their employés
     seven days a week, a second allows them to work women after 9
     p.m. and a third removes every restriction upon the hours of
-    labor of women and minors.</quote><bibl><hi rend="italic">—Zenas L. Potter, former chief cannery investigator for New York State Factory Investigating Commission</hi></bibl></cite>
+    labor of women and minors.</quote><bibl><hi rend="italic">—Zenas L. Potter, former chief cannery investigator for New York State Factory Investigating Commission</hi></bibl></cit>
     </epigraph>
     <lg type="stanza">
         <l>Let us not to an unrestricted day</l>
@@ -325,11 +325,11 @@
 </div>
 <div type="poem" xml:id="To_President_Wilson">
     <head>To President Wilson</head>
-    <epigraph><cite><quote>“I hold it as a fundamental principle and so do you, that
+    <epigraph><cit><quote>“I hold it as a fundamental principle and so do you, that
     every people has the right to determine its own form of
     government. And until recently 50 per cent. of the people of
     Mexico have not had a look-in in determining who should be
-    their governors, or what their government should be.”</quote><bibl><hi rend="italic">—Speech of President Wilson</hi></bibl></cite></epigraph>
+    their governors, or what their government should be.”</quote><bibl><hi rend="italic">—Speech of President Wilson</hi></bibl></cit></epigraph>
 
     <lg type="stanza">
         <l>Wise and just man—for such I think you are—</l>
