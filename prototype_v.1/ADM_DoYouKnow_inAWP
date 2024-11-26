@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Do You Know</title>
+            <author>Alice Duer Miller</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Read Books Limited</publisher>
+            <date>1915</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Are Women People?</title>
+               <author>Alice Duer Miller</author>
+               <publisher>Read Books Limited</publisher>
+               <date>1915</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+</rdf:RDF></xenoData></teiHeader>
+   <text>
+      <body>
+         <lg type="poem">
+            <head>Do You Know</head>
+            <l>That in 1869 Miss Jex-Blake and four other women entered for a medical degree at the University of Edinburgh?</l>
+            <l>That the president of the College of Physicians refused to give the women the prizes they had won?</l>
+            <l>That the undergraduates insulted any professor who allowed women to compete for prizes?</l>
+            <l>That the women were stoned in the streets, and finally excluded from the medical school?</l>
+            <l>That in 1877 the British Medical Association declared women ineligible for membership?</l>
+            <l>That in 1881 the International Medical Congress excluded women from all but its “social and ceremonial meetings”?</l>
+            <l>That the Obstetrical Society refused to allow a woman’s name to appear on the title page of a pamphlet which she had written with her husband?</l>
+            <l>That according to a recent dispatch from London, many hospitals, since the outbreak of hostilities, have asked women to become resident physicians, and public authorities are daily endeavoring to obtain women as assistant medical officers and as school doctors?</l>
+         </lg>
+      </body>
+   </text>
+</TEI>
