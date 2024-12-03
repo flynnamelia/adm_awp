@@ -1597,7 +1597,7 @@
         <l>That if they stayed tucked up in beds,</l>
         <l>Avoiding politics and strife,</l>
         <l>They’d lead a pleasant, peaceful life.</l>
-     <pb cert="high" generatedBy="human" xml:space="default" n="28"/>
+     
     </lg>
 
     <lg type="stanza">
@@ -1606,7 +1606,7 @@
         <l>But teach our children o’er and o’er</l>
         <l>That liberty is just a chore.</l>
     </lg>
-    <pb cert="high" generatedBy="human" xml:space="default" n="29"/>
+    
 </div>
 <div cert="high" n="13" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>A Suggested Campaign Song</head>
@@ -1641,7 +1641,7 @@
         <l rend="double-indent">What we oppose,</l>
         <l rend="indent">For we call it “You-Know-What.”</l>
     </lg>
-    <pb cert="high" generatedBy="human" xml:space="default" n="29"/>
+    
 </div>
 <div cert="high" n="14" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>The Woman of Charm</head>
@@ -1660,7 +1660,7 @@
         <l rend="indent">The wit of a Chambers’ incomparable minx,</l>
         <l>The conjugal views of the patient Griselda,</l>
         <l rend="indent">The fire of Sappho, the calm of the Sphinx,</l>
-         <pb cert="high" generatedBy="human" xml:space="default" n="31"/>
+         
 
         <l>The eyes of La Vallière, the voice of Cordelia,</l>
         <l>The musical gifts of the sainted Cecelia,</l>
@@ -1673,7 +1673,7 @@
         <l rend="indent">Set ’em to simmer and take off the scum,</l>
         <l rend="indent">And a Woman of Charm is the residuum!</l>
         <l rend="double-indent">(Slightly adapted from <persName key="Gilbert, W.S. (William Schwenck), 1836-1911" ref="http://viaf.org/viaf/22191447/">W.S. Gilbert.</persName>)</l>
-            <pb cert="high" generatedBy="human" xml:space="default" n="32"/>
+            
 
     </lg>
 </div>
