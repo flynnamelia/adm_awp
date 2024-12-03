@@ -1755,7 +1755,7 @@
         <l>Lady, lovely lady, come and share</l>
         <l rend="double-indent">All my care;</l>
         <l>Oh how gladly I will hurry</l>
-        <l>To confide my every worry</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="emotional_labour">To confide my every worry</span></l>
         <l>(And they’re very dark and drear)</l>
         <l rend="double-indent">In your ear.</l>
     </lg>
