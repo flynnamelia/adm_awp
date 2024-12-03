@@ -1,0 +1,1889 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+            <titleStmt>
+                <title>Are Women People? A Book of Rhymes for Suffrage Times</title>
+                <author>Alice Duer Miller</author>
+                <editor>Your Name</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>George H. Doran Company</publisher>
+                <pubPlace>New York</pubPlace>
+                <date when="1915">1915</date>
+                <availability>
+                    <p>Public Domain</p>
+					<p>National American Woman Suffrage Association Collection (Library ofCongress)</p>
+                </availability>
+            </publicationStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created from original research by members of CWRC/CSÉC unless
+					otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118010505756",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:05:05.756Z",
+	"dcterms:modified": "2024-11-18T06:05:05.756Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118010505756#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118010505756#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[9]/epigraph/cit/bibl/hi/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/78479754/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118011004196",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:10:04.196Z",
+	"dcterms:modified": "2024-11-18T06:10:04.196Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118011004196#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118011004196#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[8]/epigraph/cit/bibl/hi/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/50868805/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118011811229",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:18:11.229Z",
+	"dcterms:modified": "2024-11-18T06:18:11.229Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118011811229#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118011811229#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[4]/epigraph/cit/bibl/hi/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q2331671",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?date_annotation_20241118011848233",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:18:48.233Z",
+	"dcterms:modified": "2024-11-18T06:18:48.233Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?date_annotation_20241118011848233#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?date_annotation_20241118011848233#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[4]/epigraph/cit/bibl/hi/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1915-01-12"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012013540",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:20:13.540Z",
+	"dcterms:modified": "2024-11-18T06:20:13.540Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012013540#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012013540#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[3]/epigraph/cit/bibl/hi/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/46400502/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012235331",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:22:35.331Z",
+	"dcterms:modified": "2024-11-18T06:22:35.331Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012235331#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012235331#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[5]/epigraph/cit/bibl/hi/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q1064019",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012306339",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:23:06.339Z",
+	"dcterms:modified": "2024-11-18T06:23:06.339Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012306339#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012306339#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[10]/epigraph/cit/bibl/hi/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q34296",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012335629",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:23:35.629Z",
+	"dcterms:modified": "2024-11-18T06:23:35.629Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012335629#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012335629#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[13]/epigraph/cit/bibl/hi/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/175743620/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012822651",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:28:22.651Z",
+	"dcterms:modified": "2024-11-18T06:28:22.651Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012822651#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012822651#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[18]/p/hi/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/77111882/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012839586",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:28:39.586Z",
+	"dcterms:modified": "2024-11-18T06:28:39.586Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012839586#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012839586#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[19]/epigraph/cit/bibl/hi/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/64807754/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?organization_annotation_20241118012907508",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:29:07.508Z",
+	"dcterms:modified": "2024-11-18T06:29:07.508Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?organization_annotation_20241118012907508#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?organization_annotation_20241118012907508#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[20]/epigraph/cit/bibl/hi/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://viaf.org/viaf/72158066389408431055/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012935601",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:29:35.601Z",
+	"dcterms:modified": "2024-11-18T06:29:35.601Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012935601#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118012935601#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[22]/p/hi/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q173869",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?date_annotation_20241118013007741",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:30:07.741Z",
+	"dcterms:modified": "2024-11-18T06:30:07.741Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?date_annotation_20241118013007741#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?date_annotation_20241118013007741#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[22]/epigraph/cit/bibl/hi/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1915-02-07"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?organization_annotation_20241118013145128",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:31:45.128Z",
+	"dcterms:modified": "2024-11-18T06:31:45.128Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?organization_annotation_20241118013145128#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?organization_annotation_20241118013145128#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[12]/p/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://viaf.org/viaf/9761147665849560670009/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118014133333",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-18T06:41:33.333Z",
+	"dcterms:modified": "2024-11-18T06:41:33.333Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118014133333#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/awp_full.xml?person_annotation_20241118014133333#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[15]/lg/l[23]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/22191447/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader>
+	<text>
+        <front>
+            <div type="titlePage">
+                <head>ARE WOMEN PEOPLE?</head>
+                <p>ARE WOMEN PEOPLE?</p>
+                <p>A BOOK OF RHYMES FOR SUFFRAGE TIMES</p>
+                <p>BY</p>
+                <p>ALICE DUER MILLER</p>
+                <p>AUTHOR OF “BLUE ARCH,” “THE MODERN OBSTACLE,” ETC.</p>
+                <p>NEW YORK</p>
+                <p>GEORGE H. DORAN COMPANY</p>
+            </div>
+            <div type="Introduction">
+                <head>Introduction</head>
+                <lg>
+                    <l>Father, what is a Legislature?</l>
+                    <l>A representative body elected by the people of the state.</l>
+                    <l>Are women people?</l>
+                    <l>No, my son, criminals, lunatics and women are not people.</l>
+                    <l>Do legislators legislate for nothing?</l>
+                    <l>Oh, no; they are paid a salary.</l>
+                    <l>By whom?</l>
+                    <l>By the people.</l>
+                    <l>Are women people?</l>
+                    <l>Of course, my son, just as much as men are.</l>
+                </lg>
+                <pb/>
+                <note>
+                    <p>To the New York Tribune, in whose generous columns many of these verses first appeared, the author here wishes to express her gratitude.</p>
+                </note>
+                <pb/>
+            </div>
+            <div type="toc">
+                <head>Contents</head>
+                <list>
+                    <item><ref target="#Introduction">Introduction</ref></item>
+                    <item><ref target="#Treacherous_Texts">Treacherous Texts</ref></item>
+                    <item><ref target="#Campaign_Material">Campaign Material (For Both Sides)</ref></item>
+                    <item><ref target="#Womens_Sphere">Women`s Sphere</ref></item>
+                    <item><ref target="#A_Masque_of_Teachers">A Masque of Teachers: The Ideal Candidates</ref></item>
+                    <item><ref target="#The_Unconscious_Suffragists">The Unconscious Suffragists</ref></item>
+                </list>
+            </div>
+        </front>
+      <body>
+         <div type="section" xml:id="Treacherous_Texts">
+            <head>TREACHEROUS TEXTS</head>
+         </div>
+         <pb/>
+         <div type="poem" n="1">
+            <head>ARE WOMEN PEOPLE?</head>
+            <head cert="high" generatedBy="human" place="top" xml:space="default">A Consistent Anti to Her Son</head>
+            <epigraph><cit><quote>Look at the hazards, the risks, the physical dangers that ladies would be exposed to at the polls.</quote><bibl>—<hi cert="high" generatedBy="human" rend="italic" xml:space="default">Anti-suffrage speech</hi></bibl></cit></epigraph>
+            
+            <lg type="stanza">
+               <l>You’re twenty-one to-day, Willie,</l>
+               <l rend="indent">And a danger lurks at the door,</l>
+               <l>I’ve known about it always,</l>
+               <l rend="indent">But I never spoke before;</l>
+               <l>When you were only a baby</l>
+               <l rend="indent">It seemed so very remote,</l>
+               <l>But you’re twenty-one to-day, Willie,</l>
+               <l rend="indent">And old enough to vote.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>You must not go to the polls, Willie,</l>
+               <l rend="indent">Never go to the polls,</l>
+               <l>They’re dark and dreadful places</l>
+               <l rend="indent">Where many lose their souls;</l><pb cert="high" generatedBy="human" n="11" xml:space="default"/>
+               <l>They smirch, degrade and coarsen,</l>
+               <l rend="indent">Terrible things they do</l>
+               <l>To quiet, elderly women—</l>
+               <l rend="indent">What would they do to you!</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>If you’ve a boyish fancy</l>
+               <l rend="indent">For any measure or man,</l>
+               <l>Tell me, and I’ll tell Father,</l>
+               <l rend="indent">He’ll vote for it, if he can.</l>
+               <l>He casts my vote, and Louisa’s,</l>
+               <l rend="indent">And Sarah, and dear Aunt Clo;</l>
+               <l>Wouldn’t you let him vote for you?</l>
+               <l rend="indent">Father, who loves you so?</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>I’ve guarded you always, Willie,</l>
+               <l rend="indent">Body and soul from harm;</l>
+               <l>I’ll guard your faith and honor,</l>
+               <l rend="indent">Your innocence and charm</l>
+               <l>From the polls and their evil spirits,</l>
+               <l rend="indent">Politics, rum and pelf;</l>
+               <l>Do you think I’d send my only son</l>
+               <l rend="indent">Where I would not go myself?</l>
+            </lg>
+            <pb cert="high" generatedBy="human" n="12" xml:space="default"/>
+         </div>
+<div n="2" type="poem">
+        <head>Our Idea of Nothing at All</head>
+        <epigraph><cit> <quote>"I am opposed to woman suffrage, but I am not opposed to woman."</quote><bibl><hi cert="high" generatedBy="human" xml:space="default" rend="italic">— Anti-suffrage speech of <persName key="Webb, E. Y. (Edwin Yates), 1872-1955" ref="http://viaf.org/viaf/46400502/">Mr. Webb</persName> of North Carolina.</hi></bibl></cit>
+        </epigraph>
+            <lg type="stanza">
+                <l>O women, have you heard the news</l>
+                <l>Of charity and grace?</l>
+                <l>Look, look, how joy and gratitude</l>
+                <l>Are beaming in my face!</l>
+                <l>For Mr. Webb is not opposed</l>
+                <l>To woman in her place!</l>
+            </lg>
+            <lg type="stanza">
+                <l>O Mr. Webb, how kind you are</l>
+                <l>To let us live at all,</l>
+                <l>To let us light the kitchen range</l>
+                <l>And tidy up the hall;</l>
+                <l>To tolerate the female sex</l>
+                <l>In spite of Adam’s fall.</l>
+            </lg>
+            <lg type="stanza">
+                <l>O girls, suppose that Mr. Webb</l>
+                <l>Should alter his decree!</l>
+                <l>Suppose he were opposed to us—</l>
+                <l>Opposed to you and me.</l>
+                <l>What would be left for us to do—</l>
+                <l>Except to cease to be?</l>
+            </lg>
+</div><pb cert="high" generatedBy="human" n="13" xml:space="default"/>
+<div type="poem" n="3">
+    <head>Lines to Mr. Bowdle of Ohio</head>
+    <epigraph><cit><quote>“The women of this smart capital are beautiful. Their beauty
+    is disturbing to business; their feet are beautiful, their
+    ankles are beautiful, but here I must pause.”</quote><bibl> — 
+    <hi rend="italic"><persName key="Stanley E. Bowdle" ref="http://www.wikidata.org/entity/Q2331671" type="real">Mr. Bowdle</persName>’s anti-suffrage speech in Congress, <date when="1915-01-12">January 12, 1915</date></hi></bibl></cit>
+   </epigraph>
+
+    <lg type="stanza">
+        <l>You, who despise the so-called fairer sex,</l>
+        <l rend="indent">Be brave. There really isn’t any reason</l>
+        <l>You should not, if you wish, oppose and vex</l>
+        <l rend="indent">And scold us in, and even out of season;</l>
+        <l>But don’t regard it as your bounden duty</l>
+        <l>To open with a tribute to our beauty.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Say if you like that women have no sense,</l>
+        <l rend="indent">No self-control, no power of concentration;</l>
+        <l>Say that hysterics is our one defence</l>
+        <l rend="indent">Our virtue but an absence of temptation;</l>
+        <l>These I can bear, but, oh, I own it rankles</l>
+        <l>To hear you maundering on about our ankles.</l>
+    </lg><pb cert="high" generatedBy="human" xml:space="default" n="14"/>
+
+    <lg type="stanza">
+        <l>Tell those old stories, which have now and then</l>
+        <l rend="indent">Been from the Record thoughtfully deleted,</l>
+        <l>Repeat that favorite one about the hen,</l>
+        <l rend="indent">Repeat the ones that cannot be repeated;</l>
+        <l>But in the midst of such enjoyments, smother</l>
+        <l>The impulse to extol your “sainted mother.”</l>
+    </lg>
+</div><pb cert="high" generatedBy="human" xml:space="default" n="15"/>
+      <div type="poem" n="4">
+    <head>On Not Believing All You Hear</head>
+    
+    <epigraph><cit><quote>“Women are angels, they are jewels, they are queens and
+    princesses of our hearts.”</quote><bibl>— 
+    <hi rend="italic">Anti-suffrage speech of <persName key="Charles D. Carter" ref="http://www.wikidata.org/entity/Q1064019" cert="high" type="real">Mr. Carter</persName> of Oklahoma</hi></bibl></cit>
+   </epigraph>
+
+    <lg type="stanza">
+        <l>“Angel, or jewel, or princess, or queen,</l>
+        <l>Tell me immediately, where have you been?”</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>“I’ve been to ask all my slaves so devoted</l>
+        <l>Why they against my enfranchisement voted.”</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>“Angel and princess, that action was wrong.</l>
+        <l>Back to the kitchen, where angels belong.”</l>
+    </lg>
+</div>
+<pb cert="high" generatedBy="human" xml:space="default" n="16"/>
+<div type="poem" n="5">
+    <head>The Revolt of Mother</head>
+    
+    <epigraph><cit><quote>“Every true woman feels—”</quote> <bibl>— 
+    <hi rend="italic">Speech of almost any Congressman</hi></bibl></cit>
+    </epigraph>
+
+    <lg type="stanza">
+        <l>I am old-fashioned, and I think it right</l>
+        <l rend="indent">That man should know, by Nature’s laws eternal,</l>
+        <l>The proper way to rule, to earn, to fight,</l>
+        <l rend="indent">And exercise those functions called paternal;</l>
+        <l>But even I a little bit rebel</l>
+        <l>At finding that he knows my job as well.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>At least he’s always ready to expound it,</l>
+        <l rend="indent">Especially in legislative hall,</l>
+        <l>The joys, the cares, the halos that surround it,</l>
+        <l rend="indent">“How women feel”—he knows that best of all.</l>
+        <l>In fact his thesis is that no one can</l>
+        <l>Know what is womanly except a man.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>I am old-fashioned, and I am content</l>
+        <l rend="indent">When he explains the world of art and science</l><pb cert="high" generatedBy="human" n="17" xml:space="default"/>
+        <l>And government—to him divinely sent—</l>
+        <l rend="indent">I drink it in with ladylike compliance.</l>
+        <l>But cannot listen—no, I’m only human—</l>
+        <l>While he instructs me how to be a woman.</l><pb cert="high" generatedBy="human" xml:space="default" n="18"/>
+    </lg>
+</div>
+<div cert="high" n="6" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>The Gallant Sex</head>
+    
+    <p>(A woman engineer has been dismissed by the Board of Education,
+    under their new rule that women shall not attend high pressure
+    boilers, although her work has been satisfactory and she holds
+    a license to attend such boilers from the Police Department.)</p>
+
+    <lg type="stanza">
+        <l>Lady, dangers lurk in boilers,</l>
+        <l rend="indent">Risks I could not let you face.</l>
+        <l>Men were meant to be the toilers,</l>
+        <l rend="indent">Home, you know, is woman’s place.</l>
+        <l>Have no home? Well, is that so?</l>
+        <l>Still, it’s not my fault, you know.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Charming lady, work no more;</l>
+        <l rend="indent">Fair you are and sweet as honey;</l>
+        <l>Work might make your fingers sore,</l>
+        <l rend="indent">And, besides, I need the money.</l>
+        <l>Prithee rest,—or starve or rob—</l>
+        <l>Only let me have your job!</l>
+    </lg><pb cert="high" generatedBy="human" xml:space="default" n="19"/>
+</div>
+<div cert="high" org="composite" part="Y" sample="initial" xml:space="default" n="7" type="poem">
+    <head>Representation</head>
+    <epigraph><cit><quote>“My wife is against suffrage, and that settles me.”</quote><bibl><hi rend="italic">— <persName key="Marshall, Thomas R. (Thomas Riley), 1854-1925" ref="http://viaf.org/viaf/50868805/" cert="high">Vice-President Marshall</persName></hi></bibl></cit></epigraph>
+        <head>I</head>
+    <lg type="stanza">
+        <l>My wife dislikes the income tax,</l>
+        <l rend="indent">And so I cannot pay it;</l>
+        <l>She thinks that golf all interest lacks,</l>
+        <l rend="indent">So now I never play it;</l>
+        <l>She is opposed to tolls repeal</l>
+        <l rend="indent">(Though why I cannot say),</l>
+        <l>But woman’s duty is to feel,</l>
+        <l rend="indent">And man’s is to obey.</l>
+    </lg>
+        <head>II</head>
+    <lg type="stanza">
+        <l>I’m in a hard position for a perfect gentleman,</l>
+        <l>I want to please the ladies, but I don’t see how I can,</l>
+        <l>My present wife’s a suffragist, and counts on my support,</l>
+        <l>But my mother is an anti, of a rather biting sort;</l><pb cert="high" generatedBy="human" n="20" xml:space="default"/>
+        <l>One grandmother is on the fence, the other much opposed,</l>
+        <l>And my sister lives in Oregon, and thinks the question’s closed;</l>
+        <l>Each one is counting on my vote to represent her view.</l>
+        <l>Now what should you think proper for a gentleman to do?</l>
+    </lg>
+    <pb cert="high" generatedBy="human" xml:space="default" n="21"/>
+</div>
+<div cert="high" org="composite" part="Y" sample="initial" xml:space="default" n="8" type="poem">
+    <head>Sonnet</head> 
+    <epigraph><cit><quote>“Three bills known as the Thompson-Bewley cannery bills have
+    been advanced to third reading in the Senate and Assembly at
+    Albany. One permits the canners to work their employés
+    seven days a week, a second allows them to work women after 9
+    p.m. and a third removes every restriction upon the hours of
+    labor of women and minors.</quote><bibl><hi rend="italic">—<persName key="Potter, Zenas L." ref="http://viaf.org/viaf/78479754/" type="real">Zenas L. Potter</persName>, former chief cannery investigator for New York State Factory Investigating Commission</hi></bibl></cit>
+    </epigraph>
+    <lg type="stanza">
+        <l>Let us not to an unrestricted day</l>
+        <l>Impediments admit. Work is not work</l>
+        <l>To our employés, but a merry play;</l>
+        <l>They do not ask the law’s excuse to shirk.</l>
+        <l>Ah, no, the canning season is at hand,</l>
+        <l>When summer scents are on the air distilled,</l>
+        <l>When golden fruits are ripening in the land,</l>
+        <l>And silvery tins are gaping to be filled.</l>
+        <l>Now to the cannery with jocund mien</l>
+        <l>Before the dawn come women, girls and boys,</l>
+        <l>Whose weekly hours (a hundred and nineteen)</l>
+        <pb cert="high" generatedBy="human" xml:space="default" n="22"/>
+        <l>Seem all too short for their industrious joys.</l>
+        <l rend="indent">If this be error and be proved, alas</l>
+        <l rend="indent">The Thompson-Bewley bills may fail to pass!</l>
+        <pb cert="high" generatedBy="human" xml:space="default" n="23"/>
+    </lg>
+</div>
+<div cert="high" n="9" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>To President Wilson</head>
+    <epigraph><cit><quote>“I hold it as a fundamental principle and so do you, that
+    every people has the right to determine its own form of
+    government. And until recently 50 per cent. of the people of
+    Mexico have not had a look-in in determining who should be
+    their governors, or what their government should be.”</quote><bibl><hi rend="italic">—Speech of <persName key="Woodrow Wilson" ref="http://www.wikidata.org/entity/Q34296">President Wilson</persName></hi></bibl></cit></epigraph>
+
+    <lg type="stanza">
+        <l>Wise and just man—for such I think you are—</l>
+        <l>How can you see so burningly and clear</l>
+        <l>Injustices and tyrannies afar,</l>
+        <l>Yet blind your eyes to one that lies so near?</l>
+        <l>How can you plead so earnestly for men</l>
+        <l>Who fight their own fight with a bloody hand;</l>
+        <l>How hold their cause so wildly dear, and then</l>
+        <l>Forget the women of your native land?</l>
+        <l>With your stern ardor and your scholar’s word</l>
+        <l>You speak to us of human liberty;</l>
+        <pb cert="high" generatedBy="human" xml:space="default" n="24"/>
+        <l>Can you believe that women are not stirred</l>
+        <l>By this same human longing to be free?</l>
+        <l rend="indent">He who for liberty would strike a blow</l>
+        <l rend="indent">Need not take arms, or fly to Mexico.</l>
+        <pb cert="high" generatedBy="human" xml:space="default" n="25"/>
+    </lg>
+</div>
+<div cert="high" n="10" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>Home and Where It Is</head>
+    <p>(An Indiana judge has recently ruled: As to the right of the
+    husband to decide the location of the home that <quote>"home is where
+    the husband is.”</quote>)</p>
+
+    <lg type="stanza">
+        <l>Home is where the husband is,</l>
+        <l>Be it near or be it far,</l>
+        <l>Office, theatre, Pullman car,</l>
+        <l>Poolroom, polls, or corner bar—</l>
+        <l>All good wives remember this—</l>
+        <l>Home is where the husband is.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Woman’s place is home, I wis.</l>
+        <l>Leave your family bacon frying,</l>
+        <l>Leave your wash and dishes drying,</l>
+        <l>Leave your little children crying;</l>
+        <l>Join your husband, near or far,</l>
+        <l>At the club or corner bar,</l>
+        <l>For the court has taught us this:</l>
+        <l>“Home is where the husband is.”</l>
+    </lg>
+    <pb cert="high" generatedBy="human" xml:space="default" n="26"/>
+</div>
+<div cert="high" n="11" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>The Maiden’s Vow</head>
+    <p>(A speaker at the <orgName key="National Education Association of the United States. Office of Professional Development and Welfare" ref="http://viaf.org/viaf/9761147665849560670009/">National Education Association</orgName> advised girls not to study algebra. Many girls, he said, had lost their souls through this study. The idea has been taken up with enthusiasm.)</p>
+
+    <lg type="stanza">
+        <l>I will avoid equations,</l>
+        <l rend="indent">And shun the naughty surd,</l>
+        <l>I must beware the perfect square,</l>
+        <l rend="indent">Through it young girls have erred:</l>
+        <l>And when men mention Rule of Three</l>
+        <l rend="indent">Pretend I have not heard.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Through Sturm’s delightful theorems</l>
+        <l rend="indent">Illicit joys assure,</l>
+        <l>Though permutations and combinations</l>
+        <l rend="indent">My woman’s heart allure,</l>
+        <l>I’ll never study algebra,</l>
+        <l rend="indent">But keep my spirit pure.</l>
+    </lg>
+    <pb cert="high" generatedBy="human" xml:space="default" n="27"/>
+</div>
+<div cert="high" n="12" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>Such Nonsense</head>
+    <epigraph><cit><quote>“Where on earth did the idea come from that the ballot is a
+    boon, a privilege and an honor? From men.”</quote><bibl><hi rend="italic">—<persName key="Martin, Prestonia Mann, 1861-1945" ref="http://viaf.org/viaf/175743620/" cert="high" type="real">Mrs. Prestonia Mann Martin</persName></hi></bibl></cit></epigraph>
+    <lg type="stanza">
+        <l>Who is it thinks the vote some use?</l>
+        <l>Man. (Man is often such a goose!)</l>
+        <l>Indeed it makes me laugh to see</l>
+        <l>How men have struggled to be free.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Poor Washington, who meant so well,</l>
+        <l>And Nathan Hale and William Tell,</l>
+        <l>Hampden and Bolivar and Pym,</l>
+        <l>And L’Ouverture—remember him?</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>And Garibaldi and Kossuth,</l>
+        <l>And some who threw away their youth,</l>
+        <l>All bitten by the stupid notion</l>
+        <l>That liberty was worth emotion.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>They could not get it through their heads</l>
+        <l>That if they stayed tucked up in beds,</l>
+        <l>Avoiding politics and strife,</l>
+        <l>They’d lead a pleasant, peaceful life.</l>
+     <pb cert="high" generatedBy="human" xml:space="default" n="28"/>
+    </lg>
+
+    <lg type="stanza">
+        <l>Let us, dear sisters, never make</l>
+        <l>Such a ridiculous mistake;</l>
+        <l>But teach our children o’er and o’er</l>
+        <l>That liberty is just a chore.</l>
+    </lg>
+    <pb cert="high" generatedBy="human" xml:space="default" n="29"/>
+</div>
+<div cert="high" n="13" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>A Suggested Campaign Song</head>
+  <epigraph><cit><quote>“No brass bands. No speeches. Instead a still, silent,
+    effective influence.”</quote><bibl><hi rend="italic">—Anti-suffrage speech</hi></bibl></cit></epigraph>  
+    <lg type="stanza">
+        <l>We are waging—can you doubt it?</l>
+        <l rend="indent">A campaign so calm and still</l>
+        <l>No one knows a thing about it,</l>
+        <l rend="indent">And we hope they never will.</l>
+        <l rend="double-indent">No one knows</l>
+        <l rend="double-indent">What we oppose,</l>
+        <l rend="indent">And we hope they never will.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>We are ladylike and quiet,</l>
+        <l rend="indent">Here a whisper—there a hint;</l>
+        <l>Never speeches, bands or riot,</l>
+        <l rend="indent">Nothing suitable for print.</l>
+        <l rend="double-indent">No one knows</l>
+        <l rend="double-indent">What we oppose,</l>
+        <l rend="indent">For we never speak for print.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Sometimes in profound seclusion,</l>
+        <l rend="indent">In some far (but homelike) spot,</l>
+        <l>We will make a dark allusion:</l>
+        <l rend="indent">“We’re opposed to you-know-what.”</l>
+        <l rend="double-indent">No one knows</l>
+        <l rend="double-indent">What we oppose,</l>
+        <l rend="indent">For we call it “You-Know-What.”</l>
+    </lg>
+    <pb cert="high" generatedBy="human" xml:space="default" n="29"/>
+</div>
+<div cert="high" n="14" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>The Woman of Charm</head>
+     <epigraph><cit><quote>“I hate a woman who is not a mystery to herself, as well as to me.”</quote><bibl><hi rend="italic">— The Phoenix</hi></bibl></cit></epigraph> 
+
+    <lg type="stanza">
+        <l>If you want a receipt for that popular mystery</l>
+        <l rend="indent">Known to the world as a Woman of Charm,</l>
+        <l>Take all the conspicuous ladies of history,</l>
+        <l rend="indent">Mix them all up without doing them harm.</l>
+        <l>The beauty of Helen, the warmth of Cleopatra,</l>
+        <l rend="indent">Salome’s notorious skill in the dance,</l>
+        <l>The dusky allure of the belles of Sumatra,</l>
+        <l rend="indent">The fashion and finish of ladies from France.</l>
+        <l>The youth of Susanna, beloved by an elder,</l>
+        <l rend="indent">The wit of a Chambers’ incomparable minx,</l>
+        <l>The conjugal views of the patient Griselda,</l>
+        <l rend="indent">The fire of Sappho, the calm of the Sphinx,</l>
+         <pb cert="high" generatedBy="human" xml:space="default" n="31"/>
+
+        <l>The eyes of La Vallière, the voice of Cordelia,</l>
+        <l>The musical gifts of the sainted Cecelia,</l>
+        <l>Trilby and Carmen and Ruth and Ophelia,</l>
+        <l>Madame de Staël and the matron Cornelia,</l>
+        <l>Iseult, Hypatia and naughty Nell Gwynn,</l>
+        <l>Una, Titania and Elinor Glyn.</l>
+        <l rend="indent">Take of these elements all that is fusible,</l>
+        <l rend="indent">Melt ’em all down in a pipkin or crucible,</l>
+        <l rend="indent">Set ’em to simmer and take off the scum,</l>
+        <l rend="indent">And a Woman of Charm is the residuum!</l>
+        <l rend="double-indent">(Slightly adapted from <persName key="Gilbert, W.S. (William Schwenck), 1836-1911" ref="http://viaf.org/viaf/22191447/">W.S. Gilbert.</persName>)</l>
+            <pb cert="high" generatedBy="human" xml:space="default" n="32"/>
+
+    </lg>
+</div>
+<div cert="high" n="15" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>A Modern Proposal</head>
+         <p>(It has been said that the feminist movement is the true solution of the mother-in-law problem.)</p> 
+    <lg type="stanza">
+        <l>Sylvia, my dear, I would be yours with pleasure,</l>
+        <l rend="indent">All that you are seems excellent to me,</l>
+        <l>Except your mother, who’s much more at leisure</l>
+        <l rend="indent">Than mothers ought to be.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Find her a fad, a job, an occupation,</l>
+        <l rend="indent">Eugenics, dancing, uplift, yes, or crime,</l>
+        <l>Set her to work for her Emancipation—</l>
+        <l rend="indent">That takes a lot of time.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Or, if the suffrage doctrine fails to charm her,</l>
+        <l rend="indent">There are the Antis—rather in her line—</l>
+        <l>Guarding the Home from Maine to Alabama</l>
+        <l rend="indent">Would keep her out of mine.</l>
+    </lg>
+</div>
+<div cert="high" n="16" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>The Newer Lullaby</head>
+     <epigraph><cit><quote>“Good heavens, when I think what the young boy of to-day is growing up to I gasp. He has too many women around him all the time. He has his mother when he is a baby.”</quote><bibl><hi rend="italic">— <persName>Bernard Fagin</persName>, Probation Officer</hi></bibl></cit></epigraph> 
+
+    <lg type="stanza">
+        <l>Hush-a-bye, baby,</l>
+        <l rend="indent">Feel no alarm,</l>
+        <l>Gunmen shall guard you,</l>
+        <l rend="indent">Lest Mother should harm.</l>
+        <l>Wake in your cradle,</l>
+        <l rend="indent">Hear father curse!</l>
+        <l>Isn’t that better</l>
+        <l rend="indent">Than Mother or Nurse?</l>
+    </lg>
+</div>
+<div cert="high" n="17" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>The Protected Sex</head>
+    <p><hi rend="italic">With apologies to <persName key="Riley, James Whitcomb, 1849-1916" ref="http://viaf.org/viaf/77111882/" cert="high" type="real">James Whitcomb Riley</persName></hi>.</p>
+     <epigraph><cit><quote>“The result of taking second place to girls at school is that the boy feels a sense of inferiority that he is never afterward able entirely to shake off.”</quote><bibl><hi rend="italic">— Editorial in London Globe against co-education</hi></bibl></cit></epigraph> 
+
+    <lg type="stanza">
+        <l>There, little girl, don’t read,</l>
+        <l>You’re fond of your books, I know,</l>
+        <l>But Brother might mope</l>
+        <l>If he had no hope</l>
+        <l>Of getting ahead of you.</l>
+        <l>It’s dull for a boy who cannot lead.</l>
+        <l>There, little girl, don’t read.</l>
+    </lg>
+</div>
+<div cert="high" n="18" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>Warning to Suffragists</head>
+    
+    
+     <epigraph><cit><quote>“The Latin man believes that giving woman the vote will make her less attractive.”</quote><bibl><hi rend="italic">— <persName key="Shaw, Anna Howard, 1847-1919" ref="http://viaf.org/viaf/64807754/">Anna H. Shaw</persName></hi></bibl></cit></epigraph> 
+
+    <lg type="stanza">
+        <l>They must sacrifice their beauty</l>
+        <l>Who would do their civic duty,</l>
+        <l rend="indent">Who the polling booth would enter,</l>
+        <l rend="indent">Who the ballot box would use;</l>
+        <l>As they drop their ballots in it</l>
+        <l>Men and women in a minute,</l>
+        <l rend="indent">Lose their charm, the antis tell us,</l>
+        <l rend="indent">But—the men have less to lose.</l>
+    </lg>
+</div>
+<div cert="high" n="19" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>Partners</head>
+<epigraph><cit><quote>“Our laws have not yet reached the point of holding that property which is the result of the husband’s earnings and the wife’s savings becomes their joint property.... In this most important of all partnerships there is no partnership property.”</quote><bibl><hi rend="italic">— Recent decision of the <orgName key="New York (State). Supreme Court (9th Judicial District)" ref="http://viaf.org/viaf/72158066389408431055/">New York Supreme Court</orgName></hi></bibl></cit></epigraph> 
+    <lg type="stanza">
+        <l>Lady, lovely lady, come and share</l>
+        <l rend="double-indent">All my care;</l>
+        <l>Oh how gladly I will hurry</l>
+        <l>To confide my every worry</l>
+        <l>(And they’re very dark and drear)</l>
+        <l rend="double-indent">In your ear.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Lady, share the praise I obtain</l>
+        <l rend="double-indent">Now and again;</l>
+        <l>Though I’m shy, it doesn’t matter,</l>
+        <l>I will tell you how they flatter:</l>
+        <l>Every compliment I’ll share</l>
+        <l rend="double-indent">Fair and square.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Lady, I my toil will divide</l>
+        <l rend="double-indent">At your side;</l>
+        <l>I outside the home, you within;</l>
+        <l>You shall wash and cook and spin,</l>
+        <l>I’ll provide the flax and food,</l>
+        <l rend="quad-indent">If you’re good.</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>Partners, lady, we shall be,</l>
+        <l rend="quad-indent">You and me,</l>
+        <l>Partners in the highest sense</l>
+        <l>Looking for no recompense,</l>
+        <l>For, the savings that we make,</l>
+        <l rend="quad-indent">I shall take.</l>
+    </lg>
+</div>
+<div cert="high" n="20" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>What Governments Say to Women</head>
+<p>(The law compels a married woman to take the nationality of her
+    husband.)</p> 
+    <head>I</head>
+    <p rend="italic"><hi cert="high" generatedBy="human" rend="italic" xml:space="default">In Time of War</hi></p>
+    <lg type="stanza">
+        <l>Help us. Your country needs you;</l>
+        <l rend="indent">Show that you love her,</l>
+        <l>Give her your men to fight,</l>
+        <l rend="indent">Ay, even to fall;</l>
+        <l>The fair, free land of your birth,</l>
+        <l rend="indent">Set nothing above her,</l>
+        <l>Not husband nor son,</l>
+        <l rend="indent">She must come first of all.</l>
+    </lg>
+	<head>II</head>
+    <p rend="italic"><hi cert="high" generatedBy="human" rend="italic" xml:space="default">In Time of Peace</hi></p>
+    <lg type="stanza"><l>What’s this? You’ve wed an alien,</l>
+<l cert="high" generatedBy="human" part="Y" rend="indent" xml:space="default">Yet you ask for legislation</l>
+<l cert="high" generatedBy="human" part="Y" xml:space="default">To guard your nationality?</l>
+<l cert="high" generatedBy="human" part="Y" rend="indent" xml:space="default">We’re shocked at your demand.</l>
+<l>A woman when she marries </l><l cert="high" generatedBy="human" part="Y" rendition="indent" xml:space="default">Takes her husband’s name and nation:</l>
+<l>She should love her husband only.</l>
+<l cert="high" generatedBy="human" part="Y" rend="indent" xml:space="default">What’s a woman’s native land?</l></lg>
+
+</div>
+<div cert="high" n="21" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head>“Oh, That ’Twere Possible!”</head>
+    
+    <p><hi rend="italic">With apologies to <persName key="Alfred Tennyson" ref="http://www.wikidata.org/entity/Q173869" cert="high" type="real">Lord Tennyson</persName>.</hi></p>
+    <epigraph><cit><quote>“The grant of suffrage to women is repugnant to instincts that strike their roots deep in the order of nature. It runs counter to human reason, it flouts the teachings of experience and the admonitions of common sense."</quote><bibl><hi rend="italic">— N.Y. Times, <date when="1915-02-07" cert="high">Feb. 7, 1915</date></hi></bibl></cit></epigraph> 
+    <lg type="stanza">
+        <l>Oh, that ’twere possible</l>
+        <l rend="indent">After those words inane</l>
+        <l>For me to read The Times</l>
+        <l rend="indent">Ever again!</l>
+    </lg>
+    <lg type="stanza">
+        <l>When I was wont to read it</l>
+        <l rend="indent">In the early morning hours,</l>
+        <l>In a mood ’twixt wrath and mirth,</l>
+        <l rend="indent">I exclaimed: “Alas, Ye Powers,</l>
+        <l>These ideas are fainter, quainter</l>
+        <l rend="indent">Than anything on earth!”</l>
+    </lg>
+
+    <lg type="stanza">
+        <l>A paper’s laid before me.</l>
+        <l rend="indent">Not thou, not like to thee.</l>
+        <l>Dear me, if it were possible</l>
+        <l rend="indent"><hi rend="italic">The Times</hi> should ever see</l>
+        <l>How very far the times have moved</l>
+        <l rend="indent">(Spelt with a little “t”).</l>
+    </lg>
+</div>
+<div cert="high" n="22" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
+    <head type="dedication">To<hi rend="italic">The Times</hi> Editorials</head>
+    <lg type="stanza">
+        <l>Lovely Antiques, breathing in every line</l>
+        <l>The perfume of an age long passed away,</l>
+        <l>Wafting us back to 1829,</l>
+        <l>Museum pieces of a by-gone day,</l>
+        <l>You should not languish in the public press</l>
+        <l>Where modern thought might reach and do you harm,</l>
+        <l>And vulgar youth insult your hoariness,</l>
+        <l>Missing the flavor of your old world charm;</l>
+        <l>You should be locked, where rust cannot corrode</l>
+        <l>In some old rosewood cabinet, dimmed by age,</l>
+        <l>With silver-lustre, tortoise shell and Spode;</l>
+        <l>And all would cry, who read your yellowing page:</l>
+        <l rend="indent">“Yes, that’s the sort of thing that men believed</l>
+        <l rend="indent">Before the First Reform Bill was conceived!”</l>
+    </lg>
+</div>
+
+      </body>
+	</text>
+</TEI>
