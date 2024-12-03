@@ -1418,10 +1418,7 @@
 <div cert="high" n="6" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>The Gallant Sex</head>
     
-    <p>(A woman engineer has been dismissed by the Board of Education,
-    under their new rule that women shall not attend high pressure
-    boilers, although her work has been satisfactory and she holds
-    a license to attend such boilers from the Police Department.)</p>
+    <p>(<span cert="high" evaluate="all" generatedBy="human" type="womens_labour" xml:space="default">A woman engineer has been dismissed by the Board of Education, under their new rule that women shall not attend high pressure boilers, although her work has been satisfactory and she holds a license to attend such boilers from the Police Department.</span>)</p>
 
     <lg type="stanza">
         <l>Lady, dangers lurk in boilers,</l>
@@ -1460,13 +1457,13 @@
         <l>I’m in a hard position for a perfect gentleman,</l>
         <l>I want to please the ladies, but I don’t see how I can,</l>
         <l>My present wife’s a suffragist, and counts on my support,</l>
-        <l>But my mother is an anti, of a rather biting sort;</l><pb cert="high" generatedBy="human" n="20" xml:space="default"/>
+        <l>But my mother is an anti, of a rather biting sort;</l>
         <l>One grandmother is on the fence, the other much opposed,</l>
         <l>And my sister lives in Oregon, and thinks the question’s closed;</l>
         <l>Each one is counting on my vote to represent her view.</l>
         <l>Now what should you think proper for a gentleman to do?</l>
     </lg>
-    <pb cert="high" generatedBy="human" xml:space="default" n="21"/>
+    
 </div>
 <div cert="high" org="composite" part="Y" sample="initial" xml:space="default" n="8" type="poem">
     <head>Sonnet</head> 
