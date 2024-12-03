@@ -1509,12 +1509,12 @@
         <l>Forget the women of your native land?</l>
         <l>With your stern ardor and your scholar’s word</l>
         <l>You speak to us of human liberty;</l>
-        <pb cert="high" generatedBy="human" xml:space="default" n="24"/>
+        
         <l>Can you believe that women are not stirred</l>
         <l>By this same human longing to be free?</l>
         <l rend="indent">He who for liberty would strike a blow</l>
         <l rend="indent">Need not take arms, or fly to Mexico.</l>
-        <pb cert="high" generatedBy="human" xml:space="default" n="25"/>
+        
     </lg>
 </div>
 <div cert="high" n="10" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
@@ -1542,7 +1542,7 @@
         <l>For the court has taught us this:</l>
         <l>“Home is where the husband is.”</l>
     </lg>
-    <pb cert="high" generatedBy="human" xml:space="default" n="26"/>
+    
 </div>
 <div cert="high" n="11" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>The Maiden’s Vow</head>
@@ -1565,7 +1565,7 @@
         <l>I’ll never study algebra,</l>
         <l rend="indent">But keep my spirit pure.</l>
     </lg>
-    <pb cert="high" generatedBy="human" xml:space="default" n="27"/>
+    
 </div>
 <div cert="high" n="12" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>Such Nonsense</head>
