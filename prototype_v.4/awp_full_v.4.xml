@@ -1772,8 +1772,8 @@
     <lg type="stanza">
         <l>Lady, I my toil will divide</l>
         <l rend="double-indent">At your side;</l>
-        <l>I outside the home, you within;</l>
-        <l>You shall wash and cook and spin,</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="labour" xml:space="default" type="inequality">I outside the home, you within;</span></l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="labour" xml:space="default" type="inequality">You shall wash and cook and spin</span>,</l>
         <l>I’ll provide the flax and food,</l>
         <l rend="quad-indent">If you’re good.</l>
     </lg>
