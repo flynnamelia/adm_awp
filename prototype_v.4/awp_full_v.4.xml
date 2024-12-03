@@ -1804,7 +1804,7 @@
     </lg>
 	<head>II</head>
     <p rend="italic"><hi cert="high" generatedBy="human" rend="italic" xml:space="default">In Time of Peace</hi></p>
-    <lg type="stanza"><l>What’s this? You’ve wed an alien,</l>
+    <lg type="stanza"><l>What’s this? You’ve <span cert="high" evaluate="all" generatedBy="human" subtype="legal" xml:space="default" type="inequality">wed an alien</span>,</l>
 <l cert="high" generatedBy="human" part="Y" rend="indent" xml:space="default">Yet you ask for legislation</l>
 <l cert="high" generatedBy="human" part="Y" xml:space="default">To guard your nationality?</l>
 <l cert="high" generatedBy="human" part="Y" rend="indent" xml:space="default">We’re shocked at your demand.</l>
