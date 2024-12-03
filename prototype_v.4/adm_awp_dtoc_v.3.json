@@ -1,0 +1,60 @@
+{
+    "editionTitle": "Are Women People v.3",
+    "editionSubtitle": "",
+    "ignoreNamespace": true,
+    "documents": "//div[@type=\"poem\"]",
+    "documentContent": "",
+    "documentTitle": "head",
+    "documentAuthor": "docAuthor[1]",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "//note",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/awp_full.xml"
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//epigraph",
+                "label": "Epigraph"
+            },
+            {
+                "xpath": "//persName",
+                "label": "Person"
+            },
+            {
+                "xpath": "//quote",
+                "label": "Quote"
+            },
+            {
+                "xpath": "//div",
+                "label": "div"
+            }
+        ],
+        "toc": [
+            "21b2e4d51dcf4bda50d2a8d7ab27147e8d83f31aed11d24971e66cc1aff63384",
+            "acdb55f2b2ec784540472074d8842abb60d8db8b3b240cf4f1e9482eb84ede10",
+            "35d08320361ebe8b2d92f4ae3c37ec371f2ef22ddb73ac62d8569ab43a71332a",
+            "2be05b78d83315b03e88fe91596c6ca2322b0bf44935d8605b1abc7cf401b83d",
+            "2d60de57be0b0b4b22d5a146220bba0f4c97e539a97cad74273d0eb76afa07c5",
+            "7dccb6ce3c42dfa60a56074ea0222ed3aa9ae620653a83c6919f020b34575df5",
+            "e77d948f97f3f536870b8288ac291966095bc9f132b61fee20d5f80d9f5d65ba",
+            "809731919ea3970594bb62d8bc43ae26ee1afea0d1053a25c6b65a23339b2416",
+            "d0c95a03851343289d6ca7f780d44b853c9f0f127d9b2a7a9bba84fb1d2aca82",
+            "0dcb014631e8a020197e77936d3bd90617d5f4b940247697f25a3ffbff86f2ca",
+            "2753c8ee139386a245c3989fce1e36d23a4458da610c3eeb5552ffdc05ce87f1",
+            "b573787b1557a430e94e6720b7436318b893dba6e22b9c655a0b41c8b174dbf1",
+            "57db5648db5f1e91671a07e9465efe0789535c6a5fc56ce805eeee5cf389f8e5",
+            "170ce945ece4c1017d6d50656f22aee9e5a7eee6643d5e701237fca71d1cb6be",
+            "72b34f42b9359d20dfde926925ca4bd65c96b9e66c176236ebcffdde179aa977",
+            "6d59bbbad92e5bd9723e5c22004de86777a57eb50f77d98b592dbc65341f1a2b",
+            "3b80aa4fea35c5425b98de6d7c6c92fad16fd9567a51cb24afe9642337f31aae",
+            "05dca6de971773de6d6a7bfcef8065ff081e09b97ab49f5136a70a2c0156ec83",
+            "7a6229b33e2ed8e2847ae07fede47fec8fa5955d80f282ca8af8141b2d61110a",
+            "11b2e4bf79d9d633d3a1361608392bd51694ef5833da81d5d69f69a726e55522",
+            "a8ac497ccac124bfefccab14b3a4497c1b13842364a98226cd326f7e3a372f4e",
+            "b762540c463a8501fb327218f8bd524dcb081cf3a0e88b2a8fc1c4330f9c0761"
+        ]
+    }
+}
