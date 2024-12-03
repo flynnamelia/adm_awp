@@ -1789,7 +1789,7 @@
 </div>
 <div cert="high" n="20" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>What Governments Say to Women</head>
-<p>(The law compels a married woman to take the nationality of her husband.)</p> 
+<p>(The <span cert="high" evaluate="all" generatedBy="human" subtype="legal" xml:space="default" type="inequality">law</span> compels a married woman to take the nationality of her husband.)</p> 
     <head>I</head>
     <p rend="italic"><hi cert="high" generatedBy="human" rend="italic" xml:space="default">In Time of War</hi></p>
     <lg type="stanza">
