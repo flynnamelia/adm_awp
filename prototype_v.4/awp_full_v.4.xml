@@ -1774,7 +1774,7 @@
         <l rend="double-indent">At your side;</l>
         <l><span cert="high" evaluate="all" generatedBy="human" subtype="labour" xml:space="default" type="inequality">I outside the home, you within;</span></l>
         <l><span cert="high" evaluate="all" generatedBy="human" subtype="labour" xml:space="default" type="inequality">You shall wash and cook and spin</span>,</l>
-        <l>I’ll provide the flax and food,</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="labour">I’ll provide the flax and food,</span></l>
         <l rend="quad-indent">If you’re good.</l>
     </lg>
 
