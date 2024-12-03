@@ -1303,7 +1303,7 @@
                 <l>Look, look, how joy and gratitude</l>
                 <l>Are beaming in my face!</l>
                 <l>For Mr. Webb is not opposed</l>
-                <l>To woman in her place!</l>
+                <l>To <span cert="high" evaluate="all" generatedBy="human" type="gender_roles" xml:space="default">woman in her place</span>!</l>
             </lg>
             <lg type="stanza">
                 <l>O Mr. Webb, how kind you are</l>
