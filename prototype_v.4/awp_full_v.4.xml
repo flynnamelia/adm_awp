@@ -1750,7 +1750,7 @@
 </div>
 <div cert="high" n="19" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>Partners</head>
-<epigraph><cit><quote>“Our laws have not yet reached the point of holding that property which is the result of the husband’s earnings and the wife’s savings becomes their joint property.... In this most important of all partnerships there is no partnership property.”</quote><bibl><hi rend="italic">— Recent decision of the <orgName key="New York (State). Supreme Court (9th Judicial District)" ref="http://viaf.org/viaf/72158066389408431055/">New York Supreme Court</orgName></hi></bibl></cit></epigraph> 
+<epigraph><cit><quote>“Our <span cert="high" evaluate="all" generatedBy="human" subtype="legal" xml:space="default" type="inequality">laws</span> have not yet reached the point of holding that property which is the result of the husband’s earnings and the wife’s savings becomes their joint property.... In this most important of all partnerships there is no partnership property.”</quote><bibl><hi rend="italic">— Recent decision of the <orgName key="New York (State). Supreme Court (9th Judicial District)" ref="http://viaf.org/viaf/72158066389408431055/">New York Supreme Court</orgName></hi></bibl></cit></epigraph> 
     <lg type="stanza">
         <l>Lady, lovely lady, come and share</l>
         <l rend="double-indent">All my care;</l>
