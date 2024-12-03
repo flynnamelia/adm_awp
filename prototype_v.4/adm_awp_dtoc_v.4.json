@@ -1,17 +1,17 @@
 {
-    "editionTitle": "Are Women People v.3",
-    "editionSubtitle": "",
+    "editionTitle": "Are Women People? ",
+    "editionSubtitle": "CTS*4010 Final Prototype (v.4)",
     "ignoreNamespace": true,
-    "documents": "//div[@type=\"poem\"]",
+    "documents": "//div[@type=\"poem\" or @type=\"toc\" or @type=\"titlePage\" or @type=\"Introduction\"]",
     "documentContent": "",
     "documentTitle": "head",
-    "documentAuthor": "docAuthor[1]",
+    "documentAuthor": "",
     "indexDocument": "",
     "documentImages": "",
-    "documentNotes": "//note",
+    "documentNotes": "",
     "documentLinks": "",
     "inputs": [
-        "https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/awp_full.xml"
+        "https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/prototype_v.4/awp_full_v.4.xml"
     ],
     "curation": {
         "markup": [
@@ -30,9 +30,17 @@
             {
                 "xpath": "//div",
                 "label": "div"
+            },
+            {
+                "xpath": "//note",
+                "label": "note",
+                "usage": "note"
             }
         ],
         "toc": [
+            "7f8549dca02d91a9e940e9ed1ba7af410e1c7051fdf960e2871a7a2065bc8406",
+            "d8822f6d645afd34c0ccfa544ea5a8163b5de5c0f0477f87b58d8315d5b74b7d",
+            "a67208f91516d3531314522cefd3152b489bc953ac4a96354e9b51eb599f4d92",
             "21b2e4d51dcf4bda50d2a8d7ab27147e8d83f31aed11d24971e66cc1aff63384",
             "acdb55f2b2ec784540472074d8842abb60d8db8b3b240cf4f1e9482eb84ede10",
             "35d08320361ebe8b2d92f4ae3c37ec371f2ef22ddb73ac62d8569ab43a71332a",
