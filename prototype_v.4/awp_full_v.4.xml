@@ -1772,7 +1772,7 @@
     <lg type="stanza">
         <l>Lady, I my toil will divide</l>
         <l rend="double-indent">At your side;</l>
-        <l><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="labour">I outside</span> the home, you within;</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="labour">I outside</span> the home, <span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="labour">you within</span>;</l>
         <l><span cert="high" evaluate="all" generatedBy="human" xml:space="default" subtype="women" type="labour">You shall wash and cook and spin</span>,</l>
         <l><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="labour">I’ll provide the flax and food,</span></l>
         <l rend="quad-indent">If you’re good.</l>
@@ -1784,7 +1784,7 @@
         <l>Partners in the highest sense</l>
         <l>Looking for no recompense,</l>
         <l>For, the savings that we make,</l>
-        <l rend="quad-indent">I shall take.</l>
+        <l rend="quad-indent"><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="economic">I shall take</span>.</l>
     </lg>
 </div>
 <div cert="high" n="20" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
