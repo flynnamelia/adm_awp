@@ -1697,7 +1697,7 @@
     <lg type="stanza">
         <l>Or, if the suffrage doctrine fails to charm her,</l>
         <l rend="indent">There are the Antis—rather in her line—</l>
-        <l>Guarding the Home from Maine to Alabama</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="sphere">Guarding the Home from Maine to Alabama</span></l>
         <l rend="indent">Would keep her out of mine.</l>
     </lg>
 </div>
