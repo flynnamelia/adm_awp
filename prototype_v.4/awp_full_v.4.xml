@@ -1702,7 +1702,7 @@
         <l>Hush-a-bye, baby,</l>
         <l rend="indent">Feel no alarm,</l>
         <l>Gunmen shall guard you,</l>
-        <l rend="indent">Lest Mother should harm.</l>
+        <l rend="indent"><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="violence">Lest Mother should harm.</span></l>
         <l>Wake in your cradle,</l>
         <l rend="indent">Hear father curse!</l>
         <l>Isn’t that better</l>
