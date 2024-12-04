@@ -1525,8 +1525,8 @@
     <lg type="stanza">
         <l>Home is where the husband is,</l>
         <l>Be it near or be it far,</l>
-        <l>Office, theatre, Pullman car,</l>
-        <l>Poolroom, polls, or corner bar—</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="sphere">Office, theatre, Pullman car,</span></l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" target="sphere">Poolroom, polls, or corner bar</span>—</l>
         <l>All good wives remember this—</l>
         <l>Home is where the husband is.</l>
     </lg>
