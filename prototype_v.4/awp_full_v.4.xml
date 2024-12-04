@@ -1845,7 +1845,7 @@
         <l>You should not languish in the public press</l>
         <l>Where modern thought might reach and do you harm,</l>
         <l>And vulgar youth insult your hoariness,</l>
-        <l>Missing the flavor of your old world charm;</l>
+        <l>Missing the flavor of your <span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="nationality">old world charm</span>;</l>
         <l>You should be locked, where rust cannot corrode</l>
         <l>In some old rosewood cabinet, dimmed by age,</l>
         <l>With silver-lustre, tortoise shell and Spode;</l>
