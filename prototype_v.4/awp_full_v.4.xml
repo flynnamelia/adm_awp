@@ -1423,7 +1423,7 @@
     <lg type="stanza">
         <l>Lady, dangers lurk in boilers,</l>
         <l rend="indent">Risks I could not let you face.</l>
-        <l>Men were meant to be the toilers,</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="sphere">Men were meant to be the toilers,</span></l>
         <l rend="indent"><span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="sphere">Home, you know, is woman’s place.</span></l>
         <l><span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="sphere">Have no home? Well, is that so?</span></l>
         <l>Still, it’s not my fault, you know.</l>
