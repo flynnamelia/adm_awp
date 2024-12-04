@@ -1246,7 +1246,7 @@
          <div type="poem" n="1">
             <head>ARE WOMEN PEOPLE?</head>
             <head cert="high" generatedBy="human" place="top" xml:space="default">A Consistent Anti to Her Son</head>
-            <epigraph><cit><quote>Look at the hazards, the risks, the physical dangers that ladies would be exposed to at the polls.</quote><bibl>—<hi cert="high" generatedBy="human" rend="italic" xml:space="default">Anti-suffrage speech</hi></bibl></cit></epigraph>
+            <epigraph><cit><quote>Look at the <span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="violence">hazards, the risks, the physical dangers that ladies would be exposed to at the polls.</span></quote><bibl>—<hi cert="high" generatedBy="human" rend="italic" xml:space="default">Anti-suffrage speech</hi></bibl></cit></epigraph>
             
             <lg type="stanza">
                <l>You’re twenty-one to-day, Willie,</l>
