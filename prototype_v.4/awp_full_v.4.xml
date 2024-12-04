@@ -1719,7 +1719,7 @@
 <div cert="high" n="17" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>The Protected Sex</head>
     <p><hi rend="italic">With apologies to <persName key="Riley, James Whitcomb, 1849-1916" ref="http://viaf.org/viaf/77111882/" cert="high" type="real">James Whitcomb Riley</persName></hi>.</p>
-     <epigraph><cit><quote>“The result of taking second place to girls at school is that the <span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" target="education">boy feels a sense of inferiority</span> that he is never afterward able entirely to shake off.”</quote><bibl><hi rend="italic">— Editorial in London Globe against co-education</hi></bibl></cit></epigraph> 
+     <epigraph><cit><quote>“The result of  <span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" target="education">taking second place to girls at school is that the boy feels a sense of inferiority</span> that he is never afterward able entirely to shake off.”</quote><bibl><hi rend="italic">— Editorial in London Globe against co-education</hi></bibl></cit></epigraph> 
 
     <lg type="stanza">
         <l>There, little girl, don’t read,</l>
