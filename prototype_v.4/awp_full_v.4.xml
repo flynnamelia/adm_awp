@@ -1377,7 +1377,7 @@
 
     <lg type="stanza">
         <l>“Angel and princess, that action was wrong.</l>
-        <l>Back to the kitchen, where angels belong.”</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="sphere">Back to the kitchen, where angels belong.”</span></l>
     </lg>
 </div>
 <pb cert="high" generatedBy="human" xml:space="default" n="16"/>
