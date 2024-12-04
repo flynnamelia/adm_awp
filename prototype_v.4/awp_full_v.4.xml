@@ -1202,12 +1202,12 @@
 				</figure>
                 <head>ARE WOMEN PEOPLE?</head>
                 <p>Are Women People?</p>
-                <p>A BOOK OF RHYMES FOR SUFFRAGE TIMES</p>
-                <p>BY</p>
-                <p>ALICE DUER MILLER</p>
-                <p>AUTHOR OF “BLUE ARCH,” “THE MODERN OBSTACLE,” ETC.</p>
-                <p>NEW YORK</p>
-                <p>GEORGE H. DORAN COMPANY</p>
+                <p>A Book of Rhymes for Suffrage Times</p>
+                <p>By</p>
+                <p>Alice Duer Miller</p>
+                <p>Author of “Blue Arch,” “The Modern Obstacle,” etc.</p>
+                <p>New York</p>
+                <p>Georfe H. Dorian Company</p>
             </div>
             <div type="Introduction">
                 <head>Introduction</head>
@@ -1223,11 +1223,10 @@
                     <l>Are women people?</l>
                     <l>Of course, my son, just as much as men are.</l>
                 </lg>
-                
-                <note>
+            <div type="dedication">
+				<head>Dedication</head>
                     <p>To the New York Tribune, in whose generous columns many of these verses first appeared, the author here wishes to express her gratitude.</p>
-                </note>
-                
+            </div>
             </div>
             <div type="toc">
                 <head>Contents</head>
@@ -1242,7 +1241,7 @@
             </div>
         </front>
       <body>
-         <div type="section" xml:id="Treacherous_Texts">
+         <div type="section">
             <head>TREACHEROUS TEXTS</head>
          </div>
          
