@@ -1256,11 +1256,11 @@
                <l>When you were only a baby</l>
                <l rend="indent">It seemed so very remote,</l>
                <l>But you’re twenty-one to-day, Willie,</l>
-               <l rend="indent">And old enough to <span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="vote">vote</span>.</l>
+               <l rend="indent">And old enough to vote.</l>
             </lg>
             
             <lg type="stanza">
-               <l>You must not go to the polls, Willie,</l>
+               <l><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="vote">You must not go to the polls, Willie,</span></l>
                <l rend="indent">Never go to the polls,</l>
                <l>They’re dark and dreadful places</l>
                <l rend="indent">Where many lose their souls;</l>
