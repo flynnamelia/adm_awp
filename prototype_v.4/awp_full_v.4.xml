@@ -1742,7 +1742,7 @@
         <l>Who would do their civic duty,</l>
         <l rend="indent">Who the polling booth would enter,</l>
         <l rend="indent">Who the ballot box would use;</l>
-        <l>As they drop their ballots in it</l>
+        <l>As <span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="vote">they drop their ballots in it</span></l>
         <l>Men and women in a minute,</l>
         <l rend="indent">Lose their charm, the antis tell us,</l>
         <l rend="indent">But—the men have less to lose.</l>
