@@ -1408,8 +1408,8 @@
 
     <lg type="stanza">
         <l>I am old-fashioned, and I am content</l>
-        <l rend="indent">When he explains the world of art and science</l>
-        <l>And government—to him divinely sent—</l>
+        <l rend="indent">When he explains the world of <span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="education">art and science</span></l>
+        <l>And <span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="politics">government</span>—to him divinely sent—</l>
         <l rend="indent">I drink it in with ladylike compliance.</l>
         <l>But cannot listen—no, I’m only human—</l>
         <l>While he instructs me how to be a woman.</l>
