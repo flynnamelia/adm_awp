@@ -1683,8 +1683,8 @@
     <lg type="stanza">
         <l>Sylvia, my dear, I would be yours with pleasure,</l>
         <l rend="indent">All that you are seems excellent to me,</l>
-        <l><span cert="high" evaluate="all" generatedBy="human" subtype="woman" xml:space="default" type="family"/>Except your mother, who’s much more at leisure</l>
-        <l rend="indent">Than mothers ought to be.</l>
+        <l>Except your mother, who’s much more at leisure</l>
+        <l rend="indent">Than mothers ought to be.<span cert="high" evaluate="all" generatedBy="human" subtype="woman" xml:space="default" type="family"/></l>
     </lg>
 
     <lg type="stanza">
