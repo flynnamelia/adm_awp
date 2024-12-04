@@ -1384,7 +1384,7 @@
 <div type="poem" n="5">
     <head>The Revolt of Mother</head>
     
-    <epigraph><cit><quote>“Every true woman feels—”</quote> <bibl>— 
+    <epigraph><cit><quote><span cert="high" evaluate="all" generatedBy="human" source="women" xml:space="default" target="emotional_labour">“Every true woman feels—”</span></quote> <bibl>— 
     <hi rend="italic">Speech of almost any Congressman</hi></bibl></cit>
     </epigraph>
 
@@ -1412,7 +1412,7 @@
         <l>And <span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="politics">government</span>—to him divinely sent—</l>
         <l rend="indent">I drink it in with ladylike compliance.</l>
         <l>But cannot listen—no, I’m only human—</l>
-        <l>While he instructs me how to be a woman.</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" type="education" xml:space="default">While he instructs me how to be a woman.</span></l>
     </lg>
 </div>
 <div cert="high" n="6" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
