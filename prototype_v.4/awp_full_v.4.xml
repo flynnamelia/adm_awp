@@ -1469,7 +1469,7 @@
     <head>Sonnet</head> 
     <epigraph><cit><quote>“Three bills known as the Thompson-Bewley cannery bills have
     been advanced to third reading in the Senate and Assembly at
-    Albany. <span cert="high" evaluate="all" generatedBy="human" type="womens_labour" xml:space="default">One permits the canners to work their employés seven days a week, a second allows them to work women after 9 p.m. and a third removes every restriction upon the hours of labor of women and minors.</span></quote><bibl><hi rend="italic">—<persName key="Potter, Zenas L." ref="http://viaf.org/viaf/78479754/" type="real">Zenas L. Potter</persName>, former chief cannery investigator for New York State Factory Investigating Commission</hi></bibl></cit>
+    Albany. <span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="employment">One permits the canners to work their employés seven days a week, a second allows them to work women after 9 p.m. and a third removes every restriction upon the hours of labor of women and minors.</span></quote><bibl><hi rend="italic">—<persName key="Potter, Zenas L." ref="http://viaf.org/viaf/78479754/" type="real">Zenas L. Potter</persName>, former chief cannery investigator for New York State Factory Investigating Commission</hi></bibl></cit>
     </epigraph>
     <lg type="stanza">
         <l>Let us not to an unrestricted day</l>
