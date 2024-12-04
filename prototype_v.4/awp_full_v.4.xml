@@ -1416,7 +1416,7 @@
 <div cert="high" n="6" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>The Gallant Sex</head>
     
-    <p>(<span cert="high" evaluate="all" generatedBy="human" type="womens_labour" xml:space="default">A woman engineer has been dismissed by the Board of Education, under their new rule that women shall not attend high pressure boilers, although her work has been satisfactory and she holds a license to attend such boilers from the Police Department.</span>)</p>
+    <p>(<span cert="high" evaluate="all" generatedBy="human" xml:space="default" subtype="women" type="labour">A <span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="employment">woman engineer</span> has been dismissed by the Board of Education, under their new rule that women shall not attend high pressure boilers, although her work has been satisfactory and she holds a license to attend such boilers from the Police Department.</span>)</p>
 
     <lg type="stanza">
         <l>Lady, dangers lurk in boilers,</l>
