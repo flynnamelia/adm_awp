@@ -1275,9 +1275,9 @@
                <l rend="indent">For any measure or man,</l>
                <l>Tell me, and I’ll tell Father,</l>
                <l rend="indent">He’ll vote for it, if he can.</l>
-               <l>He casts my vote, and Louisa’s,</l>
+               <l><span cert="high" evaluate="all" generatedBy="human" subtype="man" xml:space="default" type="family">He casts my vote, and Louisa’s,</span></l>
                <l rend="indent">And Sarah, and dear Aunt Clo;</l>
-               <l>Wouldn’t you let him vote for you?</l>
+               <l><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="vote">Wouldn’t you let him vote for you?</span></l>
                <l rend="indent">Father, who loves you so?</l>
             </lg>
             
