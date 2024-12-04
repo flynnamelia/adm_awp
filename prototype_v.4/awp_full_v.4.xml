@@ -1722,7 +1722,7 @@
      <epigraph><cit><quote>“The result of taking second place to girls at school is that the <span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" target="education">boy feels a sense of inferiority</span> that he is never afterward able entirely to shake off.”</quote><bibl><hi rend="italic">— Editorial in London Globe against co-education</hi></bibl></cit></epigraph> 
 
     <lg type="stanza">
-        <l>There, little girl, don’t read,</l>
+        <l>There, <span type="education" subtype="woman">little girl, don’t read,</span></l>
         <l>You’re fond of your books, I know,</l>
         <l>But Brother might mope</l>
         <l>If he had no hope</l>
