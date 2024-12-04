@@ -1196,7 +1196,7 @@
       </rdf:RDF></xenoData></teiHeader>
 	<text>
         <front>
-            <div cert="high" org="composite" part="Y" sample="initial" xml:space="default">
+            <div type="titlePage" cert="high" org="composite" part="Y" sample="initial" xml:space="default">
 				<figure>
 					<graphic url="https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/prototype_v.3/images_v.3/AWP_cover.jpg"/>
 				</figure></div>
@@ -1206,7 +1206,6 @@
                 <p/>
                 <p>By Alice Duer Miller</p>
                 <p>Author of “Blue Arch,” “The Modern Obstacle,” etc.</p>
-				<p/>
                 <p>New York</p>
                 <p>George H. Dorian Company</p>
             </div>
