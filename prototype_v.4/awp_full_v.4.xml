@@ -1738,7 +1738,7 @@
      <epigraph><cit><quote>“The Latin man believes that <span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="physical_appearance">giving woman the vote will make her less attractive</span>.”</quote><bibl><hi rend="italic">— <persName key="Shaw, Anna Howard, 1847-1919" ref="http://viaf.org/viaf/64807754/">Anna H. Shaw</persName></hi></bibl></cit></epigraph> 
 
     <lg type="stanza">
-        <l>They must sacrifice their beauty</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="ambiguous" xml:space="default" type="physical_appearance">They must sacrifice their beauty</span></l>
         <l>Who would do their civic duty,</l>
         <l rend="indent">Who the polling booth would enter,</l>
         <l rend="indent">Who the ballot box would use;</l>
