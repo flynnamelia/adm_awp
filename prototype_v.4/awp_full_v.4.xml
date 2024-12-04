@@ -1209,7 +1209,9 @@
                 <p>New York</p>
                 <p>George H. Dorian Company</p>
             </div>
-            <div type="Introduction">
+            <div cert="high" org="composite" part="Y" sample="initial" xml:space="default"><figure>
+					<graphic url="https://github.com/flynnamelia/adm_awp/blob/e579e0263cfd51071d6ed4c60ef3033d33e14365/prototype_v.3/images_v.3/AWP_cover.jpg"/>
+				</figure></div><div type="Introduction">
                 <head>Introduction</head>
                 <lg>
                     <l>Father, what is a Legislature?</l>
