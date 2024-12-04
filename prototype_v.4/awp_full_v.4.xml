@@ -1520,7 +1520,7 @@
 <div cert="high" n="10" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>Home and Where It Is</head>
     <p>(An Indiana judge has recently ruled: As to the right of the
-    husband to decide the location of the home that <quote>"home is where
+    husband to decide the location of the <span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="legal">home</span> that <quote>"home is where
     the husband is.”</quote>)</p>
 
     <lg type="stanza">
@@ -1546,7 +1546,7 @@
 </div>
 <div cert="high" n="11" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>The Maiden’s Vow</head>
-    <p>(A speaker at the <orgName key="National Education Association of the United States. Office of Professional Development and Welfare" ref="http://viaf.org/viaf/9761147665849560670009/">National Education Association</orgName> advised girls not to study algebra. Many girls, he said, had lost their souls through this study. The idea has been taken up with enthusiasm.)</p>
+    <p>(A speaker at the <orgName key="National Education Association of the United States. Office of Professional Development and Welfare" ref="http://viaf.org/viaf/9761147665849560670009/">National Education Association</orgName> <span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="education">advised girls not to study algebra</span>. Many girls, he said, had lost their souls through this study. The idea has been taken up with enthusiasm.)</p>
 
     <lg type="stanza">
         <l>I will avoid equations,</l>
