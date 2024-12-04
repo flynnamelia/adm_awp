@@ -4,7 +4,7 @@
             <titleStmt>
                 <title>Are Women People? A Book of Rhymes for Suffrage Times</title>
                 <author>Alice Duer Miller</author>
-                <editor>Your Name</editor>
+                <editor>Amelia Flynn</editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>George H. Doran Company</publisher>
@@ -12,7 +12,7 @@
                 <date when="1915">1915</date>
                 <availability>
                     <p>Public Domain</p>
-					<p>National American Woman Suffrage Association Collection (Library ofCongress)</p>
+					<p>National American Woman Suffrage Association Collection (Library of Congress)</p>
                 </availability>
             </publicationStmt>
 			<sourceDesc sameAs="http://www.cwrc.ca">
@@ -1196,19 +1196,20 @@
       </rdf:RDF></xenoData></teiHeader>
 	<text>
         <front>
-            <div type="titlePage">
+            <div cert="high" org="composite" part="Y" sample="initial" xml:space="default"><figure>
+					<graphic url="https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/prototype_v.3/images_v.3/AWP_cover.jpg"/>
+			<div type="titlePage">
 				
                 <head>ARE WOMEN PEOPLE?</head>
                 <p>Are Women People?</p>
                 <p>A Book of Rhymes for Suffrage Times</p>
-                
+                <p/>
                 <p>By Alice Duer Miller</p>
                 <p>Author of “Blue Arch,” “The Modern Obstacle,” etc.</p>
+				<p/>
                 <p>New York</p>
                 <p>George H. Dorian Company</p>
             </div>
-            <div cert="high" org="composite" part="Y" sample="initial" xml:space="default"><figure>
-					<graphic url="https://github.com/flynnamelia/adm_awp/blob/e579e0263cfd51071d6ed4c60ef3033d33e14365/prototype_v.3/images_v.3/AWP_cover.jpg"/>
 				</figure></div><div type="Introduction">
                 <head>Introduction</head>
                 <lg>
