@@ -1788,7 +1788,7 @@
     <lg type="stanza">
         <l>Help us. Your country needs you;</l>
         <l rend="indent">Show that you love her,</l>
-        <l>Give her your men to fight,</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="violence">Give her your men to fight,</span></l>
         <l rend="indent">Ay, even to fall;</l>
         <l>The fair, free land of your birth,</l>
         <l rend="indent">Set nothing above her,</l>
