@@ -1432,8 +1432,8 @@
     <lg type="stanza">
         <l><span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" target="labour">Charming lady, work no more;</span></l>
         <l rend="indent">Fair you are and sweet as honey;</l>
-        <l>Work might make your fingers sore,</l>
-        <l rend="indent">And, besides, I need the money.</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="physical_appearance">Work might make your fingers sore,</span></l>
+        <l rend="indent">And, besides, <span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="economic">I need the money.</span></l>
         <l>Prithee rest,—or starve or rob—</l>
         <l>Only let me have your job!</l>
     </lg>
