@@ -1603,7 +1603,7 @@
     <lg type="stanza">
         <l>Let us, dear sisters, never make</l>
         <l>Such a ridiculous mistake;</l>
-        <l>But teach our children o’er and o’er</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="education">But teach our children o’er and o’er</span></l>
         <l>That liberty is just a chore.</l>
     </lg>
     
