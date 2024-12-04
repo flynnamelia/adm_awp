@@ -1735,7 +1735,7 @@
     <head>Warning to Suffragists</head>
     
     
-     <epigraph><cit><quote>“The Latin man believes that giving woman the vote will make her less attractive.”</quote><bibl><hi rend="italic">— <persName key="Shaw, Anna Howard, 1847-1919" ref="http://viaf.org/viaf/64807754/">Anna H. Shaw</persName></hi></bibl></cit></epigraph> 
+     <epigraph><cit><quote>“The Latin man believes that <span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="physical_appearance">giving woman the vote will make her less attractive</span>.”</quote><bibl><hi rend="italic">— <persName key="Shaw, Anna Howard, 1847-1919" ref="http://viaf.org/viaf/64807754/">Anna H. Shaw</persName></hi></bibl></cit></epigraph> 
 
     <lg type="stanza">
         <l>They must sacrifice their beauty</l>
