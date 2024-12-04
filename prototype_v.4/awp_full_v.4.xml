@@ -1294,7 +1294,7 @@
                <l>Do you think I’d send my only son</l>
                <l rend="indent">Where I would not go myself?</l>
             </lg>
-            <pb cert="high" generatedBy="human" n="12" xml:space="default"/>
+            
          </div>
 <div n="2" type="poem">
         <head>Our Idea of Nothing at All</head>
@@ -1357,7 +1357,7 @@
         <l>But in the midst of such enjoyments, smother</l>
         <l>The impulse to extol your “sainted mother.”</l>
     </lg>
-</div><pb cert="high" generatedBy="human" xml:space="default" n="15"/>
+</div>
       <div type="poem" n="4">
     <head>On Not Believing All You Hear</head>
     
@@ -1381,7 +1381,7 @@
         <l><span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="sphere">Back to the kitchen, where angels belong.”</span></l>
     </lg>
 </div>
-<pb cert="high" generatedBy="human" xml:space="default" n="16"/>
+
 <div type="poem" n="5">
     <head>The Revolt of Mother</head>
     
