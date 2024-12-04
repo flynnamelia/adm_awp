@@ -1490,7 +1490,7 @@
 </div>
 <div cert="high" n="9" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>To President Wilson</head>
-    <epigraph><cit><quote>“I hold it as a fundamental principle and so do you, <span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="politics">that every people has the right to determine its own form of government</span>. And until recently <span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="vote">50 per cent. of the people of Mexico have not had a look-in in <span cert="high" evaluate="all" generatedBy="human" xml:space="default" target="nationality">determining who should be their governors,</span> or what their government should be.</span>”</quote><bibl><hi rend="italic">—Speech of <persName key="Woodrow Wilson" ref="http://www.wikidata.org/entity/Q34296">President Wilson</persName></hi></bibl></cit></epigraph>
+    <epigraph><cit><quote>“I hold it as a fundamental principle and so do you, <span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="politics">that every people has the right to determine its own form of government</span>. And until recently <span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="vote">50 per cent. of the people of Mexico have not had a look-in in determining who should be their governors, or what their government should be.</span>”</quote><bibl><hi rend="italic">—Speech of <persName key="Woodrow Wilson" ref="http://www.wikidata.org/entity/Q34296">President Wilson</persName></hi></bibl></cit></epigraph>
 
     <lg type="stanza">
         <l>Wise and just man—for such I think you are—</l>
