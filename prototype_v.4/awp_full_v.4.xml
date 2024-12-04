@@ -1793,7 +1793,7 @@
         <l>The fair, free land of your birth,</l>
         <l rend="indent">Set nothing above her,</l>
         <l>Not husband nor son,</l>
-        <l rend="indent">She must come first of all.</l>
+        <l rend="indent"><span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="national">She must come first of all.</span></l>
     </lg>
 	<head>II</head>
     <p rend="italic"><hi cert="high" generatedBy="human" rend="italic" xml:space="default">In Time of Peace</hi></p>
