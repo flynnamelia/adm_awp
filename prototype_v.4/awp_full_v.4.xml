@@ -1273,9 +1273,9 @@
             <lg type="stanza">
                <l>If you’ve a boyish fancy</l>
                <l rend="indent">For any measure or man,</l>
-               <l>Tell me, and I’ll tell Father,</l>
+               <l><span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="family">Tell me, and I’ll tell Father,</span></l>
                <l rend="indent">He’ll vote for it, if he can.</l>
-               <l>He casts my vote, and Louisa’s,</l>
+               <l><span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="vote">He casts my vote, and Louisa’s,</span></l>
                <l rend="indent">And Sarah, and dear Aunt Clo;</l>
                <l>Wouldn’t you let him vote for you?</l>
                <l rend="indent">Father, who loves you so?</l>
