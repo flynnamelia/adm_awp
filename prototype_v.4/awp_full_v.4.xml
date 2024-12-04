@@ -1419,7 +1419,7 @@
     <p>(<span cert="high" evaluate="all" generatedBy="human" xml:space="default" subtype="women" type="labour">A <span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="employment">woman engineer</span> has been dismissed by the <span cert="high" evaluate="all" generatedBy="human" subtype="male" xml:space="default" type="politics">Board of Education</span>, under their new rule that women shall not attend high pressure boilers, although her work has been satisfactory and she holds a license to attend such boilers from the Police Department.</span>)</p>
 
     <lg type="stanza">
-        <l>Lady, dangers lurk in boilers,</l>
+        <l><span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="violence">Lady, dangers lurk in boilers,</span></l>
         <l rend="indent">Risks I could not let you face.</l>
         <l><span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="sphere">Men were meant to be the toilers,</span></l>
         <l rend="indent"><span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="sphere">Home, you know, is woman’s place.</span></l>
