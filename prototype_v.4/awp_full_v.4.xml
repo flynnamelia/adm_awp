@@ -1209,7 +1209,22 @@
                 <p>New York</p>
                 <p>George H. Dorian Company</p>
             </div>
-				<div type="Introduction">
+            <div type="toc">
+                <head>Contents</head>
+                <list>
+                    <item><ref target="#Introduction">Introduction</ref></item>
+                    <item><ref target="#Treacherous_Texts">Treacherous Texts</ref></item>
+                    <item><ref target="#Campaign_Material">Campaign Material (For Both Sides)</ref></item>
+                    <item><ref target="#Womens_Sphere">Women`s Sphere</ref></item>
+                    <item><ref target="#A_Masque_of_Teachers">A Masque of Teachers: The Ideal Candidates</ref></item>
+                    <item><ref target="#The_Unconscious_Suffragists">The Unconscious Suffragists</ref></item>
+                </list>
+            </div>
+			<div type="dedication">
+				<head>Dedication</head>
+                    <p>To the New York Tribune, in whose generous columns many of these verses first appeared, the author here wishes to express her gratitude.</p>
+            </div>
+<div type="Introduction">
                 <head>Introduction</head>
                 <lg>
                     <l>Father, what is a Legislature?</l>
@@ -1223,21 +1238,6 @@
                     <l>Are women people?</l>
                     <l>Of course, my son, just as much as men are.</l>
                 </lg>
-            <div type="dedication">
-				<head>Dedication</head>
-                    <p>To the New York Tribune, in whose generous columns many of these verses first appeared, the author here wishes to express her gratitude.</p>
-            </div>
-            </div>
-            <div type="toc">
-                <head>Contents</head>
-                <list>
-                    <item><ref target="#Introduction">Introduction</ref></item>
-                    <item><ref target="#Treacherous_Texts">Treacherous Texts</ref></item>
-                    <item><ref target="#Campaign_Material">Campaign Material (For Both Sides)</ref></item>
-                    <item><ref target="#Womens_Sphere">Women`s Sphere</ref></item>
-                    <item><ref target="#A_Masque_of_Teachers">A Masque of Teachers: The Ideal Candidates</ref></item>
-                    <item><ref target="#The_Unconscious_Suffragists">The Unconscious Suffragists</ref></item>
-                </list>
             </div>
         </front>
       <body>
