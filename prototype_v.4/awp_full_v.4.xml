@@ -1486,7 +1486,7 @@
         
         <l>Seem all too short for their industrious joys.</l>
         <l rend="indent">If this be error and be proved, alas</l>
-        <l rend="indent">The Thompson-Bewley bills may fail to pass!</l>
+        <l rend="indent">The <span cert="high" evaluate="all" generatedBy="human" xml:space="default" target="legislation">Thompson-Bewley bills</span> may fail to pass!</l>
         
     </lg>
 </div>
