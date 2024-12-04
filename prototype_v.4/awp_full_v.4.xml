@@ -1196,13 +1196,13 @@
       </rdf:RDF></xenoData></teiHeader>
 	<text>
         <front>
-            <div cert="high" org="composite" part="Y" sample="initial" xml:space="default"><figure>
+            <div cert="high" org="composite" part="Y" sample="initial" xml:space="default">
+				<figure>
 					<graphic url="https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/prototype_v.3/images_v.3/AWP_cover.jpg"/>
+				</figure></div>
 			<div type="titlePage">
-				
                 <head>ARE WOMEN PEOPLE?</head>
-                <p>Are Women People?</p>
-                <p>A Book of Rhymes for Suffrage Times</p>
+                <head>A Book of Rhymes for Suffrage Times</head>
                 <p/>
                 <p>By Alice Duer Miller</p>
                 <p>Author of “Blue Arch,” “The Modern Obstacle,” etc.</p>
@@ -1210,7 +1210,7 @@
                 <p>New York</p>
                 <p>George H. Dorian Company</p>
             </div>
-				</figure></div><div type="Introduction">
+				<div type="Introduction">
                 <head>Introduction</head>
                 <lg>
                     <l>Father, what is a Legislature?</l>
