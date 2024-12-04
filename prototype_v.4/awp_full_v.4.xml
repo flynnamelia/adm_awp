@@ -1688,7 +1688,7 @@
     </lg>
 
     <lg type="stanza">
-        <l><span cert="high" evaluate="all" generatedBy="human" subtype="woman" xml:space="default" type="occupation">Find her a fad, a job, an occupation</span>,</l>
+        <l>Find her a fad, a job, an occupation,</l>
         <l rend="indent">Eugenics, dancing, uplift, yes, or crime,</l>
         <l>Set her to work for her Emancipation—</l>
         <l rend="indent">That takes a lot of time.</l>
@@ -1697,7 +1697,7 @@
     <lg type="stanza">
         <l>Or, if the suffrage doctrine fails to charm her,</l>
         <l rend="indent">There are the Antis—rather in her line—</l>
-        <l><span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="sphere">Guarding the Home from Maine to Alabama</span></l>
+        <l>Guarding the Home from Maine to Alabama</l>
         <l rend="indent">Would keep her out of mine.</l>
     </lg>
 </div>
