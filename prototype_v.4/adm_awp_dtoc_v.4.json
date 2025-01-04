@@ -15,83 +15,80 @@
     "curation": {
         "markup": [
             {
-                "xpath": "//span[@evaluate=\"all\"]",
-                "label": "All Structural Inequalities (SI)"
-            },
-            {
                 "xpath": "//epigraph",
-                "label": "Epigraph"
+                "label": "Form: Epigraph"
             },
             {
                 "xpath": "//persName",
-                "label": "Person"
+                "label": "Form: Person"
             },
             {
                 "xpath": "//quote",
-                "label": "Quote"
+                "label": "Form: Quote"
+            },
+            {
+                "xpath": "//span[@evaluate=\"all\"]",
+                "label": "Theme: All Structural Inequalities (SI)"
             },
             {
                 "xpath": "//span[@type=\"vote\"]",
-                "label": "SI: All Votes"
+                "label": "Theme: All Votes"
             },
             {
                 "xpath": "//span[@type=\"physical_appearance\"]",
-                "label": "SI: Appearance"
+                "label": "Theme: Appearance"
             },
             {
                 "xpath": "//span[@type=\"economic\"]",
-                "label": "SI: Economic"
+                "label": "Theme: Economic"
             },
             {
                 "xpath": "//span[@type=\"education\"]",
-                "label": "SI: Education"
-            },
-            {
-                "xpath": "//span[@type=\"emotional_labour\"]",
-                "label": "SI: Emotional Labour"
+                "label": "Theme: Education"
             },
             {
                 "xpath": "//span[@type=\"employment\"]",
-                "label": "SI: Employment"
+                "label": "Theme: Employment"
             },
             {
                 "xpath": "//span[@type=\"family\"]",
-                "label": "SI: Family"
+                "label": "Theme: Family"
             },
             {
                 "xpath": "//span[@type=\"labour\"]",
-                "label": "SI: Labour"
+                "label": "Theme: Labour"
             },
             {
                 "xpath": "//span[@type=\"legal\"]",
-                "label": "SI: Legal"
+                "label": "Theme: Legal"
             },
             {
                 "xpath": "//span[@type=\"nationality\"]",
-                "label": "SI: Nationality"
+                "label": "Theme: Nationality"
             },
             {
                 "xpath": "//span[@type=\"sphere\"]",
-                "label": "SI: Public and Private Spheres "
+                "label": "Theme: Public and Private Spheres "
             },
             {
                 "xpath": "//span[@type=\"religion\"]",
-                "label": "SI: Religion"
+                "label": "Theme: Religion"
             },
             {
                 "xpath": "//span[@type=\"violence\"]",
-                "label": "SI: Violence"
+                "label": "Theme: Violence"
             },
             {
                 "xpath": "//span[@type=\"education\" and @subtype='women']",
-                "label": "SI: Women's Education"
+                "label": "Theme: Women's Education"
             }
         ],
         "toc": [
-            "7f8549dca02d91a9e940e9ed1ba7af410e1c7051fdf960e2871a7a2065bc8406",
-            "d8822f6d645afd34c0ccfa544ea5a8163b5de5c0f0477f87b58d8315d5b74b7d",
+            "f5475a6280843e861384b45f1b7e5ed2dd1ce39dde4e4f7e18d07cefe2ced30d",
+            "ed52d8799528a9386bd80e7116242511039e0d1d021d7838acb1791d7ae13426",
             "a67208f91516d3531314522cefd3152b489bc953ac4a96354e9b51eb599f4d92",
-            "83c3b04cf6e7c3f88d01c3702bda8911b267ea0a139429c21e97649afd79fa38",
+            "1f8a8e465864ac080d2889cf4065b27345f03badbd363212e6a0541dc1d87394",
+            "ecb4af521ebe529314cbfa1fdc433858f2b644b74c25ae8c4e407dbd30ae239d",
             "6687257a919b64f5272df67075a889a8da02cae2b030e76b208700145e0b1bdb",
             "cf5dc53afa2b532f9c85c53a1b1e69620df9eba98779f433f46772cef9fc8152",
             "c21f02d70a19f7401d5050cb94ea6ca79ece212dbe77ef2ac4fc756489a5d624",
