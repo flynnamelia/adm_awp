@@ -1,0 +1,115 @@
+{
+    "inputs": [
+        "https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/prototype_v.4/awp_full_v.4.xml"
+    ],
+    "documents": "//div[@type=\"poem\" or @type=\"toc\" or @type=\"titlePage\" or @type=\"Introduction\"]",
+    "ignoreNamespace": true,
+    "documentTitle": "head",
+    "documentAuthor": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "indexDocument": "",
+    "editionTitle": "Are Women People? ",
+    "editionSubtitle": "CTS*4010 Final Prototype (v.4)",
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//epigraph",
+                "label": "Form: Epigraph"
+            },
+            {
+                "xpath": "//persName",
+                "label": "Form: Person"
+            },
+            {
+                "xpath": "//quote",
+                "label": "Form: Quote"
+            },
+            {
+                "xpath": "//span[@evaluate=\"all\"]",
+                "label": "Theme: All Structural Inequalities (SI)"
+            },
+            {
+                "xpath": "//span[@type=\"vote\"]",
+                "label": "Theme: All Votes"
+            },
+            {
+                "xpath": "//span[@type=\"physical_appearance\"]",
+                "label": "Theme: Appearance"
+            },
+            {
+                "xpath": "//span[@type=\"economic\"]",
+                "label": "Theme: Economic"
+            },
+            {
+                "xpath": "//span[@type=\"education\"]",
+                "label": "Theme: Education"
+            },
+            {
+                "xpath": "//span[@type=\"employment\"]",
+                "label": "Theme: Employment"
+            },
+            {
+                "xpath": "//span[@type=\"family\"]",
+                "label": "Theme: Family"
+            },
+            {
+                "xpath": "//span[@type=\"labour\"]",
+                "label": "Theme: Labour"
+            },
+            {
+                "xpath": "//span[@type=\"legal\"]",
+                "label": "Theme: Legal"
+            },
+            {
+                "xpath": "//span[@type=\"nationality\"]",
+                "label": "Theme: Nationality"
+            },
+            {
+                "xpath": "//span[@type=\"sphere\"]",
+                "label": "Theme: Public and Private Spheres "
+            },
+            {
+                "xpath": "//span[@type=\"religion\"]",
+                "label": "Theme: Religion"
+            },
+            {
+                "xpath": "//span[@type=\"violence\"]",
+                "label": "Theme: Violence"
+            },
+            {
+                "xpath": "//span[@type=\"education\" and @subtype='women']",
+                "label": "Theme: Women's Education"
+            }
+        ],
+        "toc": [
+            "f5475a6280843e861384b45f1b7e5ed2dd1ce39dde4e4f7e18d07cefe2ced30d",
+            "ed52d8799528a9386bd80e7116242511039e0d1d021d7838acb1791d7ae13426",
+            "a67208f91516d3531314522cefd3152b489bc953ac4a96354e9b51eb599f4d92",
+            "1f8a8e465864ac080d2889cf4065b27345f03badbd363212e6a0541dc1d87394",
+            "ecb4af521ebe529314cbfa1fdc433858f2b644b74c25ae8c4e407dbd30ae239d",
+            "6687257a919b64f5272df67075a889a8da02cae2b030e76b208700145e0b1bdb",
+            "cf5dc53afa2b532f9c85c53a1b1e69620df9eba98779f433f46772cef9fc8152",
+            "c21f02d70a19f7401d5050cb94ea6ca79ece212dbe77ef2ac4fc756489a5d624",
+            "8733cb71ff79159d6353a8fa476c98c6f213a66ed7ae923a8cce265f38e77419",
+            "28d1b9093815f12f285c02225945aed7a6ec922fc7925bd79a5861a7a66bf009",
+            "1c2ae96081847474ddfb5bac020dd74ade03a5b7c47832233c24707a6dde5cc0",
+            "15a2d827bf3d23eeb4ac548d6eec423bffb86b75e50c564771228c86594b6704",
+            "414104389bfb295cba55d4d44e0a88e5d85fea0f96f413126df10860f0329485",
+            "2e576269780c2cb9b521d0e7262ef2fd7bdcb2aea3d5193f823bf3b392a44fda",
+            "1e827dc3c5567aaec66da2641b357c9e01da0c1a5615eae2782a7a0f2edacdd0",
+            "4cc8b76acedcb0ae2c25fd70f57de79e353479b3287373137f755e5b00c07072",
+            "8800f53989a14b6fb03ae91ce54c9712edc08033f5946c5778910f008f12ec1e",
+            "bf2227ed96d632d24e1837c961d15e4da2b2044e5653ad8456642932fbbca394",
+            "baa9cd44eadd1847fe1bd53a88817d32141a758342126d6cab74c28f0dced085",
+            "c5466b5c182774b267b99585070791a2014ddfbbf02cff9fbaa905ecc17320e6",
+            "0cc6007b525aea2845c80142f2d7b37c0e8bdcfaa1ef9bda316a33620732a7e1",
+            "ceb18bf05a1443d819a0c43e12b01f6175ff7b6a3e8cbd8d474005e8c68c8819",
+            "f4c05752107c2f70282862e6ad421a570189bb1f9756bd84215996613378b161",
+            "02bd798564ae361a8837caf0815b08bbdf1599ab122384663b6896ed8ab4ba6c",
+            "a8ac497ccac124bfefccab14b3a4497c1b13842364a98226cd326f7e3a372f4e",
+            "35b10c8a19d175757b3042786dcf98ad9ef537a4bd2d35c4f0d3ee9f72f3ecd8"
+        ]
+    }
+}
