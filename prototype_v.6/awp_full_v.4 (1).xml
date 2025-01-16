@@ -74,7 +74,7 @@
          
          <div type="poem" n="1">
             
-            <head cert="high" generatedBy="human" place="top" xml:space="default">A Consistent Anti to Her Son</head>
+            <pb cert="high" generatedBy="human" xml:space="default" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images/AWP_p11_Consistent_1915.03.21.jpeg?raw=true" n="1"/><head cert="high" generatedBy="human" place="top" xml:space="default">A Consistent Anti to Her Son</head>
             <epigraph><cit><quote>Look at the <span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="violence">hazards, the risks, the physical dangers that ladies would be exposed to at the polls.</span></quote><bibl>—<hi cert="high" generatedBy="human" rend="italic" xml:space="default">Anti-suffrage speech</hi></bibl></cit></epigraph>
             
             <lg type="stanza">
@@ -118,7 +118,7 @@
                <l>From the polls and their evil spirits,</l>
                <l rend="indent">Politics, rum and pelf;</l>
                <l>Do you think I’d send my only son</l>
-               <l rend="indent">Where I would not go myself?<pb cert="high" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images/AWP_p11_Consistent_1915.03.21.jpeg?raw=true" generatedBy="human" xml:space="default"/></l>
+               <l rend="indent">Where I would not go myself?</l>
             </lg>
             
          </div>
