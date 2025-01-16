@@ -209,7 +209,7 @@
 </div>
 
 <div type="poem" n="5">
-    <head>The Revolt of Mother</head>
+    <pb cert="high" generatedBy="human" n="5" xml:space="default"/><head>The Revolt of Mother</head>
     
     <epigraph><cit><quote><span cert="high" evaluate="all" generatedBy="human" source="women" xml:space="default" target="emotional_labour">“Every true woman feels—”</span></quote> <bibl>— 
     <hi rend="italic">Speech of almost any Congressman</hi></bibl></cit>
