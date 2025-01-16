@@ -152,7 +152,7 @@
             </lg>
 </div>
 <div type="poem" n="3">
-    <head>Lines to Mr. Bowdle of Ohio</head>
+    <pb cert="high" generatedBy="human" n="3" xml:space="default"/><head>Lines to Mr. Bowdle of Ohio</head>
     <epigraph><cit><quote>“<span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="physical_appearance">The women of this smart capital are beautiful. Their beauty is disturbing to business; their feet are beautiful, their ankles are beautiful, but here I must pause.”</span></quote><bibl> — 
     <hi rend="italic"><persName key="Stanley E. Bowdle" ref="http://www.wikidata.org/entity/Q2331671" type="real">Mr. Bowdle</persName>’s anti-suffrage speech in Congress, <date when="1915-01-12">January 12, 1915</date></hi></bibl></cit>
    </epigraph>
@@ -185,7 +185,7 @@
     </lg>
 </div>
       <div type="poem" n="4">
-    <pb cert="high" generatedBy="human" n="3" xml:space="default"/><head>On Not Believing All You Hear</head>
+    <pb cert="high" generatedBy="human" xml:space="default" n="4"/><head>On Not Believing All You Hear</head>
     
     <epigraph><cit><quote>“Women are angels, they are jewels, they are queens and
     princesses of our hearts.”</quote><bibl>— 
