@@ -52,9 +52,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118010505756",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118010505756",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:05:05.756Z",
+	"dcterms:modified": "2024-11-18T06:05:05.756Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -65,10 +66,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118010505756#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118010505756#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -79,7 +80,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118010505756#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118010505756#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/epigraph/cit/bibl/hi/persName"
 		}
@@ -130,9 +131,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118011004196",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118011004196",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:10:04.196Z",
+	"dcterms:modified": "2024-11-18T06:10:04.196Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -143,10 +145,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118011004196#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118011004196#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -157,7 +159,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118011004196#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118011004196#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[8]/epigraph/cit/bibl/hi/persName"
 		}
@@ -209,9 +211,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118011811229",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118011811229",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:18:11.229Z",
+	"dcterms:modified": "2024-11-18T06:18:11.229Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -222,10 +225,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118011811229#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118011811229#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -236,7 +239,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118011811229#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118011811229#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[4]/epigraph/cit/bibl/hi/persName"
 		}
@@ -287,9 +290,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?date_annotation_20241118011848233",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?date_annotation_20241118011848233",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:18:48.233Z",
+	"dcterms:modified": "2024-11-18T06:18:48.233Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -300,10 +304,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?date_annotation_20241118011848233#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?date_annotation_20241118011848233#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -314,7 +318,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?date_annotation_20241118011848233#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?date_annotation_20241118011848233#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[4]/epigraph/cit/bibl/hi/date"
 		}
@@ -364,9 +368,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012013540",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012013540",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:20:13.540Z",
+	"dcterms:modified": "2024-11-18T06:20:13.540Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -377,10 +382,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012013540#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012013540#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -391,7 +396,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012013540#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012013540#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[3]/epigraph/cit/bibl/hi/persName"
 		}
@@ -442,9 +447,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012235331",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012235331",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:22:35.331Z",
+	"dcterms:modified": "2024-11-18T06:22:35.331Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -455,10 +461,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012235331#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012235331#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -469,7 +475,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012235331#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012235331#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[5]/epigraph/cit/bibl/hi/persName"
 		}
@@ -521,9 +527,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012306339",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012306339",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:23:06.339Z",
+	"dcterms:modified": "2024-11-18T06:23:06.339Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -534,10 +541,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012306339#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012306339#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -548,7 +555,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012306339#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012306339#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[10]/epigraph/cit/bibl/hi/persName"
 		}
@@ -599,9 +606,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012335629",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012335629",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:23:35.629Z",
+	"dcterms:modified": "2024-11-18T06:23:35.629Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -612,10 +620,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012335629#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012335629#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -626,7 +634,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012335629#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012335629#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[13]/epigraph/cit/bibl/hi/persName"
 		}
@@ -678,9 +686,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012822651",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012822651",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:28:22.651Z",
+	"dcterms:modified": "2024-11-18T06:28:22.651Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -691,10 +700,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012822651#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012822651#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -705,7 +714,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012822651#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012822651#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[18]/p/hi/persName"
 		}
@@ -757,9 +766,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012839586",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012839586",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:28:39.586Z",
+	"dcterms:modified": "2024-11-18T06:28:39.586Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -770,10 +780,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012839586#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012839586#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -784,7 +794,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012839586#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012839586#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[19]/epigraph/cit/bibl/hi/persName"
 		}
@@ -835,9 +845,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?organization_annotation_20241118012907508",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?organization_annotation_20241118012907508",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:29:07.508Z",
+	"dcterms:modified": "2024-11-18T06:29:07.508Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -848,10 +859,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?organization_annotation_20241118012907508#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?organization_annotation_20241118012907508#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -862,7 +873,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?organization_annotation_20241118012907508#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?organization_annotation_20241118012907508#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[20]/epigraph/cit/bibl/hi/orgName"
 		}
@@ -913,9 +924,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012935601",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012935601",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:29:35.601Z",
+	"dcterms:modified": "2024-11-18T06:29:35.601Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -926,10 +938,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012935601#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012935601#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -940,7 +952,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118012935601#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118012935601#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[22]/p/hi/persName"
 		}
@@ -992,9 +1004,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?date_annotation_20241118013007741",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?date_annotation_20241118013007741",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:30:07.741Z",
+	"dcterms:modified": "2024-11-18T06:30:07.741Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -1005,10 +1018,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?date_annotation_20241118013007741#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?date_annotation_20241118013007741#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1019,7 +1032,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?date_annotation_20241118013007741#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?date_annotation_20241118013007741#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[22]/epigraph/cit/bibl/hi/date"
 		}
@@ -1069,9 +1082,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?organization_annotation_20241118013145128",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?organization_annotation_20241118013145128",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:31:45.128Z",
+	"dcterms:modified": "2024-11-18T06:31:45.128Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -1082,10 +1096,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?organization_annotation_20241118013145128#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?organization_annotation_20241118013145128#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1096,7 +1110,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?organization_annotation_20241118013145128#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?organization_annotation_20241118013145128#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[12]/p/orgName"
 		}
@@ -1147,9 +1161,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118014133333",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118014133333",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-18T06:41:33.333Z",
+	"dcterms:modified": "2024-11-18T06:41:33.333Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -1160,10 +1175,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118014133333#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118014133333#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1174,7 +1189,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.4/awp_full_v.4.xml?person_annotation_20241118014133333#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.6/awp_full_v.4%20(1).xml?person_annotation_20241118014133333#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[15]/lg/l[23]/persName"
 		}
@@ -1291,7 +1306,7 @@
                <l>From the polls and their evil spirits,</l>
                <l rend="indent">Politics, rum and pelf;</l>
                <l>Do you think I’d send my only son</l>
-               <l rend="indent">Where I would not go myself?</l>
+               <l rend="indent">Where I would not go myself?<pb cert="high" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images/AWP_p11_Consistent_1915.03.21.jpeg?raw=true" generatedBy="human" xml:space="default"/></l>
             </lg>
             
          </div>
