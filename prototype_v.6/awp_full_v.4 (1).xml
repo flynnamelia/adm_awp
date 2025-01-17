@@ -266,7 +266,7 @@
     </lg>
 </div>
 <div cert="high" org="composite" part="Y" sample="initial" xml:space="default" n="7" type="poem">
-    <head>Representation</head>
+    <pb cert="high" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1914-06-07.jpeg?raw=true" generatedBy="human" xml:space="default" n="6"/><head>Representation</head>
     <epigraph><cit><quote>“My wife is against suffrage, and that settles me.”</quote><bibl><hi rend="italic">— <persName key="Marshall, Thomas R. (Thomas Riley), 1854-1925" ref="http://viaf.org/viaf/50868805/" cert="high">Vice-President Marshall</persName></hi></bibl></cit></epigraph>
         <head>I</head>
     <lg type="stanza">
