@@ -152,7 +152,7 @@
             </lg>
 </div>
 <div type="poem" n="3">
-    <pb cert="high" generatedBy="human" n="3" xml:space="default"/><head>Lines to Mr. Bowdle of Ohio</head>
+    <pb cert="high" generatedBy="human" xml:space="default" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images/AWP_p3_Bowdle_15.01.24.jpeg?raw=true" n="3"/><head>Lines to Mr. Bowdle of Ohio</head>
     <epigraph><cit><quote>“<span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="physical_appearance">The women of this smart capital are beautiful. Their beauty is disturbing to business; their feet are beautiful, their ankles are beautiful, but here I must pause.”</span></quote><bibl> — 
     <hi rend="italic"><persName key="Stanley E. Bowdle" ref="http://www.wikidata.org/entity/Q2331671" type="real">Mr. Bowdle</persName>’s anti-suffrage speech in Congress, <date when="1915-01-12">January 12, 1915</date></hi></bibl></cit>
    </epigraph>
