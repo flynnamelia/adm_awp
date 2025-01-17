@@ -123,7 +123,7 @@
             
          </div>
 <div n="2" type="poem">
-        <pb cert="high" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1915-01-31.jpeg?raw=true" generatedBy="human" xml:space="default" n="2"/><head>Our Idea of Nothing at All</head>
+        <pb cert="high" generatedBy="human" xml:space="default" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1915-01-24.jpeg?raw=true" n="2"/><head>Our Idea of Nothing at All</head>
         <epigraph><cit> <quote>"I am opposed to woman suffrage, but I am not opposed to woman."</quote><bibl><hi cert="high" generatedBy="human" xml:space="default" rend="italic">— Anti-suffrage speech of <persName key="Webb, E. Y. (Edwin Yates), 1872-1955" ref="http://viaf.org/viaf/46400502/">Mr. Webb</persName> of North Carolina.</hi></bibl></cit>
         </epigraph>
             <lg type="stanza">
@@ -152,7 +152,7 @@
             </lg>
 </div>
 <div type="poem" n="3">
-    <pb cert="high" generatedBy="human" xml:space="default" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images/AWP_p3_Bowdle_15.01.24.jpeg?raw=true" n="3"/><head>Lines to Mr. Bowdle of Ohio</head>
+    <pb cert="high" generatedBy="human" xml:space="default" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1915-01-24.jpeg?raw=true" n="3"/><head>Lines to Mr. Bowdle of Ohio</head>
     <epigraph><cit><quote>“<span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="physical_appearance">The women of this smart capital are beautiful. Their beauty is disturbing to business; their feet are beautiful, their ankles are beautiful, but here I must pause.”</span></quote><bibl> — 
     <hi rend="italic"><persName key="Stanley E. Bowdle" ref="http://www.wikidata.org/entity/Q2331671" type="real">Mr. Bowdle</persName>’s anti-suffrage speech in Congress, <date when="1915-01-12">January 12, 1915</date></hi></bibl></cit>
    </epigraph>
