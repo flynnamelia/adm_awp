@@ -293,7 +293,7 @@
     
 </div>
 <div cert="high" org="composite" part="Y" sample="initial" xml:space="default" n="8" type="poem">
-    <pb cert="high" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1914-06-07.jpeg?raw=true" generatedBy="human" xml:space="default" n="8"/><head>Sonnet</head> 
+    <pb cert="high" generatedBy="human" xml:space="default" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1914-12-20.jpeg?raw=true" n="8"/><head>Sonnet</head> 
     <epigraph><cit><quote>“Three bills known as the Thompson-Bewley cannery bills have
     been advanced to third reading in the Senate and Assembly at
     Albany. <span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="employment">One permits the canners to work their employés seven days a week, a second allows them to work women after 9 p.m. and a third removes every restriction upon the hours of labor of women and minors.</span></quote><bibl><hi rend="italic">—<persName key="Potter, Zenas L." ref="http://viaf.org/viaf/78479754/" type="real">Zenas L. Potter</persName>, former chief cannery investigator for New York State Factory Investigating Commission</hi></bibl></cit>
