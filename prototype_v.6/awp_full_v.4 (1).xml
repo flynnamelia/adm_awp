@@ -367,7 +367,7 @@
     
 </div>
 <div cert="high" n="11" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
-    <head>The Maiden’s Vow</head>
+    <pb cert="high" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1914-07-19.jpeg?raw=true" generatedBy="human" xml:space="default" n="11"/><head>The Maiden’s Vow</head>
     <p>(A speaker at the <orgName key="National Education Association of the United States. Office of Professional Development and Welfare" ref="http://viaf.org/viaf/9761147665849560670009/">National Education Association</orgName> <span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="education">advised girls not to study algebra</span>. Many girls, he said, had lost their souls through this study. The idea has been taken up with enthusiasm.)</p>
 
     <lg type="stanza">
