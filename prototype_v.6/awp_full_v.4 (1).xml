@@ -610,7 +610,7 @@
     </lg>
 </div>
 <div cert="high" n="20" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
-    <head>What Governments Say to Women</head>
+    <pb cert="high" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1915-02-28.jpeg?raw=true" generatedBy="human" xml:space="default" n="19"/><head>What Governments Say to Women</head>
 <p>(The <span cert="high" evaluate="all" generatedBy="human" subtype="legal" xml:space="default" type="inequality">law</span> compels a married woman to take the nationality of her husband.)</p> 
     <p>I</p>
     <p rend="italic"><hi cert="high" generatedBy="human" rend="italic" xml:space="default">In Time of War</hi></p>
