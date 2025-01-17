@@ -612,7 +612,7 @@
 <div cert="high" n="20" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <head>What Governments Say to Women</head>
 <p>(The <span cert="high" evaluate="all" generatedBy="human" subtype="legal" xml:space="default" type="inequality">law</span> compels a married woman to take the nationality of her husband.)</p> 
-    <head>I</head>
+    <p>I</p>
     <p rend="italic"><hi cert="high" generatedBy="human" rend="italic" xml:space="default">In Time of War</hi></p>
     <lg type="stanza">
         <l>Help us. Your country needs you;</l>
@@ -624,7 +624,7 @@
         <l>Not husband nor son,</l>
         <l rend="indent">She must come first of all.</l>
     </lg>
-	<head>II</head>
+	<p>II</p>
     <p rend="italic"><hi cert="high" generatedBy="human" rend="italic" xml:space="default">In Time of Peace</hi></p>
     <lg type="stanza"><l>What’s this? You’ve <span cert="high" evaluate="all" generatedBy="human" xml:space="default" type="legal">wed an <span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" type="nationality">alien</span></span>,</l>
 <l cert="high" generatedBy="human" part="Y" rend="indent" xml:space="default">Yet you ask for legislation</l>
