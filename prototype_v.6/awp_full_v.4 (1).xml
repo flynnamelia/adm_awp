@@ -341,7 +341,7 @@
     </lg>
 </div>
 <div cert="high" n="10" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
-    <head>Home and Where It Is</head>
+    <pb cert="high" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1915-01-24.jpeg?raw=true" generatedBy="human" xml:space="default" n="10"/><head>Home and Where It Is</head>
     <p>(An <span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" target="legal">Indiana judge has recently ruled: As to the right of the husband to decide the location of the home</span> that <quote>"home is where
     the husband is.”</quote>)</p>
 
