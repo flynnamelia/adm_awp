@@ -541,7 +541,7 @@
 <div cert="high" n="17" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <pb cert="high" generatedBy="human" xml:space="default" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1914-03-01.jpeg?raw=true" n="17"/><head>The Protected Sex</head>    
     
-     <epigraph><cit><quote>“The result of taking second place to girls at school is that the <span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" target="education">boy feels a sense of inferiority</span> that he is never afterward able entirely to shake off.”</quote><bibl><hi rend="italic">— Editorial in London Globe against co-education</hi></bibl></cit><p><hi rend="italic">With apologies to <persName key="Riley, James Whitcomb, 1849-1916" ref="http://viaf.org/viaf/77111882/" cert="high" type="real">James Whitcomb Riley</persName></hi>.</p></epigraph> 
+     <epigraph><p><hi rend="italic">With apologies to <persName key="Riley, James Whitcomb, 1849-1916" ref="http://viaf.org/viaf/77111882/" cert="high" type="real">James Whitcomb Riley</persName></hi>.</p><cit><quote>“The result of taking second place to girls at school is that the <span cert="high" evaluate="all" generatedBy="human" subtype="men" xml:space="default" target="education">boy feels a sense of inferiority</span> that he is never afterward able entirely to shake off.”</quote><bibl><hi rend="italic">— Editorial in London Globe against co-education</hi></bibl></cit></epigraph> 
 
     <lg type="stanza">
         <l>There, <span type="education" subtype="woman">little girl, don’t read,</span></l>
