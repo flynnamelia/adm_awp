@@ -638,7 +638,7 @@
 <div cert="high" n="21" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
     <pb cert="high" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1915-02-14.jpeg?raw=true" generatedBy="human" xml:space="default" n="21"/><head>“Oh, That ’Twere Possible!”</head>
     
-    <epigraph><hi rend="italic">With apologies to <persName key="Alfred Tennyson" ref="http://www.wikidata.org/entity/Q173869" cert="high" type="real">Lord Tennyson</persName>.</hi><cit><quote>“The grant of suffrage to women is repugnant to instincts that strike their roots deep in the order of nature. It runs counter to human reason, it flouts the teachings of experience and the admonitions of common sense."</quote><bibl><hi rend="italic">— N.Y. Times, <date when="1915-02-07" cert="high">Feb. 7, 1915</date></hi></bibl></cit></epigraph> 
+    <epigraph><p cert="high" generatedBy="human" part="Y" rend="italic" xml:space="default">With apologies to Lord Tennyson.</p><cit><quote>“The grant of suffrage to women is repugnant to instincts that strike their roots deep in the order of nature. It runs counter to human reason, it flouts the teachings of experience and the admonitions of common sense."</quote><bibl><hi rend="italic">— N.Y. Times, <date when="1915-02-07" cert="high">Feb. 7, 1915</date></hi></bibl></cit></epigraph> 
     <lg type="stanza">
         <l>Oh, that ’twere possible</l>
         <l rend="indent">After those words inane</l>
