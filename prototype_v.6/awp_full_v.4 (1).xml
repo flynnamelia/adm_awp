@@ -279,7 +279,7 @@
         <l>But woman’s duty is to feel,</l>
         <l rend="indent">And man’s is to obey.</l>
     </lg>
-        <head>II</head>
+        <p>II</p>
     <lg type="stanza">
         <l>I’m in a hard position for a perfect gentleman,</l>
         <l>I want to please the ladies, but I don’t see how I can,</l>
@@ -665,7 +665,7 @@
     </lg>
 </div>
 <div cert="high" n="22" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
-    <head type="dedication">To<hi rend="italic">The Times</hi> Editorials</head>
+    <head type="dedication">To <hi rend="italic">The Times</hi> Editorials</head>
     <lg type="stanza">
         <l>Lovely Antiques, breathing in every line</l>
         <l>The perfume of an age long passed away,</l>
