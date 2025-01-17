@@ -209,7 +209,7 @@
 </div>
 
 <div type="poem" n="5">
-    <pb cert="high" generatedBy="human" n="5" xml:space="default"/><head>The Revolt of Mother</head>
+    <pb cert="high" generatedBy="human" xml:space="default" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1915-03-07.jpeg?raw=true" n="5"/><head>The Revolt of Mother</head>
     
     <epigraph><cit><quote><span cert="high" evaluate="all" generatedBy="human" source="women" xml:space="default" target="emotional_labour">“Every true woman feels—”</span></quote> <bibl>— 
     <hi rend="italic">Speech of almost any Congressman</hi></bibl></cit>
@@ -243,7 +243,7 @@
     </lg>
 </div>
 <div cert="high" n="6" org="composite" part="Y" sample="initial" xml:space="default" type="poem">
-    <head>The Gallant Sex</head>
+    <pb cert="high" facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.6/images_v.6/AWP_1914-12-20.jpeg?raw=true" generatedBy="human" xml:space="default" n="6"/><head>The Gallant Sex</head>
     
     <p>(<span cert="high" evaluate="all" generatedBy="human" xml:space="default" subtype="women" type="labour">A <span cert="high" evaluate="all" generatedBy="human" subtype="women" xml:space="default" type="employment">woman engineer</span> has been dismissed by the <span cert="high" evaluate="all" generatedBy="human" subtype="male" xml:space="default" type="politics">Board of Education</span>, under their new rule that women shall not attend high pressure boilers, although her work has been satisfactory and she holds a license to attend such boilers from the Police Department.</span>)</p>
 
