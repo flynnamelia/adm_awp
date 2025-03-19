@@ -18,7 +18,7 @@
                 </bibl>
             </sourceDesc>
         </fileDesc>
-    </teiHeader>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
     <text>
         <front>
             <div type="titlepage">
@@ -62,11 +62,11 @@
             </div>
         </front>
         <body>
-          <div type="section"  n="1">
+          <div type="section" n="1">
                 <head>TREACHEROUS TEXTS</head>
 
             <div type="poem" n="1">
-                <head>A Consistent Anti to Her Son</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-21.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-21.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-31.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-12-20.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-06-07.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_ED_1915-03-23.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-07-19.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_02_07.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_04_04.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-15.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_04_04.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-01.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-05-31.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-03.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-02-28.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-02-14.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_ED_1915-02-10.jpeg?raw=true"/><head>A Consistent Anti to Her Son</head>
                 <epigraph><cit><quote>“Look at the hazards, the risks, the physical dangers that
                     ladies would be exposed to at the
                     polls.”</quote><bibl>—Anti-suffrage speech.</bibl></cit></epigraph>
@@ -113,9 +113,9 @@
                     </lg>
                 </lg>
             </div>
-
+<div>
             <div type="poem" n="2">
-                <head>Our Idea of Nothing at All</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-31.jpeg?raw=true"/><head>Our Idea of Nothing at All</head>
                     <epigraph>
                         <cit>
                             <quote>I am opposed to woman suffrage, but I am not opposed to
@@ -150,9 +150,9 @@
                     </lg>
                 </lg>
             </div>
-
+</div>
             <div type="poem" n="3">
-                <head>Lines to Mr. Bowdle of Ohio</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg?raw=true"/><head>Lines to Mr. Bowdle of Ohio</head>
                     <epigraph>
                         <cit>
                             <quote>The women of this smart capital are beautiful. Their beauty is
@@ -191,7 +191,7 @@
             </div>
 
             <div type="poem" n="4">
-                <head>On Not Believing All You Hear</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-31.jpeg?raw=true"/><head>On Not Believing All You Hear</head>
                     <epigraph>
                         <cit>
                             <quote>Women are angels, they are jewels, they are queens and princesses
@@ -216,7 +216,7 @@
             </div>
 
             <div type="poem" n="5">
-                <head>The Revolt of Mother</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg?raw=true"/><head>The Revolt of Mother</head>
                     <epigraph>
                         <cit>
                             <quote>Every true woman feels---</quote>
@@ -256,7 +256,7 @@
             </div>
 
             <div type="poem" n="6">
-                <head>The Gallant Sex</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-12-20.jpeg?raw=true"/><head>The Gallant Sex</head>
                     <epigraph>
                         <p>A woman engineer has been dismissed by the Board of Education, under
                             their new rule that women shall not attend high pressure boilers,
@@ -284,7 +284,7 @@
             </div>
 
             <div type="poem" n="7">
-                <head>Representation</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-06-07.jpeg?raw=true"/><head>Representation</head>
                     <epigraph>
                         <cit>
                             <quote>My wife is against suffrage, and that settles me.</quote>
@@ -327,7 +327,7 @@
             </div>
 
             <div type="poem" n="8">
-                <head>Sonnet</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_ED_1915-03-23.jpeg?raw=true"/><head>Sonnet</head>
                     <epigraph>
                         <cit>
                             <quote>Three bills known as the Thompson-Bewley cannery bills have been
@@ -361,7 +361,7 @@
             </div>
 
             <div type="poem" n="9">
-                <head>To President Wilson</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>To President Wilson</head>
                     <epigraph>
                         <cit>
                             <quote>I hold it as a fundamental principle and so do you, that every
@@ -394,7 +394,7 @@
             </div>
 
             <div type="poem" n="10">
-                <head>Home and Where It Is</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg?raw=true"/><head>Home and Where It Is</head>
                     <epigraph>
                         <p>An Indiana judge has recently ruled: As to the right of the husband to
                             decide the location of the home that<quote>home is where the husband
@@ -423,7 +423,7 @@
             </div>
 
             <div type="poem" n="11">
-                <head>The Maiden’s Vow</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_02_07.jpeg?raw=true"/><head>The Maiden’s Vow</head>
                     <epigraph>
                         <p>A speaker at the National Education Association advised girls not to
                             study algebra. Many girls, he said, had lost their souls through this
@@ -450,7 +450,7 @@
             </div>
 
             <div type="poem" n="12">
-                <head>Such Nonsense</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_02_07.jpeg?raw=true"/><head>Such Nonsense</head>
                     <epigraph>
                         <cit>
                             <quote>Where on earth did the idea come from that the ballot is a boon,
@@ -493,7 +493,7 @@
             </div>
 
             <div type="poem" n="13">
-                <head>A Suggested Campaign Song</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_04_04.jpeg?raw=true"/><head>A Suggested Campaign Song</head>
                     <epigraph>
                         <cit>
                             <quote>No brass bands. No speeches. Instead a still, silent, effective
@@ -533,7 +533,7 @@
             </div>
 
             <div type="poem" n="14">
-                <head>The Woman of Charm</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg?raw=true"/><head>The Woman of Charm</head>
                     <epigraph>
                         <cit>
                             <quote>I hate a woman who is not a mystery to herself, as well as to
@@ -572,7 +572,7 @@
             </div>
 
             <div type="poem" n="15">
-                <head>A Modern Proposal</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-15.jpeg?raw=true"/><head>A Modern Proposal</head>
                     <epigraph>
                         <p>It has been said that the feminist movement is the true solution of the
                             mother-in-law problem.</p>
@@ -601,7 +601,7 @@
             </div>
 
             <div type="poem" n="16">
-                <head>The Newer Lullaby</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_04_04.jpeg?raw=true"/><head>The Newer Lullaby</head>
                     <epigraph>
                         <cit>
                             <quote>Good heavens, when I think what the young boy of to-day is
@@ -625,7 +625,7 @@
             </div>
 
             <div type="poem" n="17">
-                <head>The Protected Sex</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-01.jpeg?raw=true"/><head>The Protected Sex</head>
                     <epigraph>
                         <p>With apologies to James Whitcomb Riley</p>
                         <cit>
@@ -648,7 +648,7 @@
                 </lg>
             </div>
                 <div type="poem" n="18">
-                    <head>Warning to Suffragists</head>
+                    <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-05-31.jpeg?raw=true"/><head>Warning to Suffragists</head>
                     <epigraph>
                         <cit>
                             <quote>The Latin man believes that giving woman the vote will make her
@@ -670,7 +670,7 @@
                 </lg>
             </div>
             <div type="poem" n="19">
-                <head>Partners</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-03.jpeg?raw=true"/><head>Partners</head>
                     <epigraph>
                         <cit>
                             <quote>Our laws have not yet reached the point of holding that property
@@ -717,7 +717,7 @@
             </div>
 
             <div type="poem" n="20">
-                <head>What Governments Say to Women</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-02-28.jpeg?raw=true"/><head>What Governments Say to Women</head>
                     <epigraph>
                         <p>The law compels a married woman to take the nationality of her
                             husband.</p>
@@ -759,7 +759,7 @@
             </div>
 
             <div type="poem" n="21">
-                <head>“Oh, That ’Twere Possible!”</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-02-14.jpeg?raw=true"/><head>“Oh, That ’Twere Possible!”</head>
                     <epigraph>
                         <p>With apologies to Lord Tennyson.</p>
                         <cit>
@@ -797,7 +797,7 @@
             </div>
 
             <div type="poem" n="22">
-                <head>The Times Editorials</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_ED_1915-02-10.jpeg?raw=true"/><head>The Times Editorials</head>
                 <lg>
                     <lg>
                         <l>Lovely Antiques, breathing in every line</l>
@@ -820,12 +820,12 @@
                 </lg>
             </div>
             </div>
-          <div type="section"  n="2">
+          <div type="section" n="2">
                 <head>CAMPAIGN MATERIAL</head>
-                <quote>(For Both Sides)</quote>
+                <p>(For Both Sides)</p>
 
             <div type="poem" n="23">
-                <head>Our Own Twelve Anti-suffragist Reasons</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-29.jpeg?raw=true"/><head>Our Own Twelve Anti-suffragist Reasons</head>
                     <list>
                         <item>
                             <p>1. Because no woman will leave her domestic duties to vote.</p>
@@ -870,7 +870,7 @@
             </div>
 
             <div type="poem" n="24">
-                <head>Why We Oppose Pockets for Women</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-05-03.jpeg?raw=true"/><head>Why We Oppose Pockets for Women</head>
                     <list>
                         <item>
                             <p>1. Because pockets are not a natural right.</p>
@@ -908,7 +908,7 @@
             </div>
 
             <div type="poem" n="25">
-                <head>Fashion Notes: Past and Present</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-06-14.jpeg?raw=true"/><head>Fashion Notes: Past and Present</head>
                 <p>1880—Anti-suffrage arguments are being worn long, calm
   and flowing this year, with the dominant note that of woman’s
   intellectual inferiority.</p>
@@ -925,7 +925,7 @@
             </div>
 
             <div type="poem" n="26">
-                <head>Why We Oppose Women Travelling in Railway Trains</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-06-07.jpeg?raw=true"/><head>Why We Oppose Women Travelling in Railway Trains</head>
                     <list>
                         <item>
                             <p>1. Because travelling in trains is not a natural right.</p>
@@ -953,7 +953,7 @@
             </div>
 
             <div type="poem" n="27">
-                <head>Why We Oppose Schools for Children</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-04-12.jpeg?raw=true"/><head>Why We Oppose Schools for Children</head>
                 <p>(By the Children’s Anti-School League.)</p>
                     <list>
                         <item>
@@ -998,7 +998,7 @@
             </div>
 
             <div type="poem" n="28">
-                <head>But Then Who Cares for Figures</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-15.jpeg?raw=true"/><head>But Then Who Cares for Figures</head>
                 <p>An argument sometimes used against paying women as highly as
   men for the same work is that women are only temporarily in
   industry.</p>
@@ -1019,7 +1019,7 @@
             </div>
 
             <div type="poem" n="29">
-                <head>Why We Oppose Votes for Men</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Why We Oppose Votes for Men</head>
                     <list>
                         <item>
                             <p>1. Because man’s place is the armory.</p>
@@ -1047,7 +1047,7 @@
             </div>
 
             <div type="poem" n="30">
-                <head>The Logic of the Law</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>The Logic of the Law</head>
                 <p>In 1875 the Supreme Court of Wisconsin in denying the petition
   of women to practise before it said:</p>
                 <p>“It would be shocking to man’s reverence for womanhood and
@@ -1059,7 +1059,7 @@
             </div>
 
             <div type="poem" n="31">
-                <head>Consistency</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg?raw=true"/><head>Consistency</head>
                     <epigraph>
                         <cit>
                             <quote>Vile insults, lewd talk and brutal conduct were used by the
@@ -1076,7 +1076,7 @@
             </div>
 
             <div type="poem" n="32">
-                <head>Sometimes We’re Ivy, and Sometimes We’re Oak</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg?raw=true"/><head>Sometimes We’re Ivy, and Sometimes We’re Oak</head>
                 <p>Is it true that the English government is calling on women to
   do work abandoned by men?</p>
                 <p>Yes, it is true.</p>
@@ -1089,7 +1089,7 @@
             </div>
 
             <div type="poem" n="33">
-                <head>Do You Know</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-28.jpeg?raw=true"/><head>Do You Know</head>
                 <p>That in 1869 Miss Jex-Blake and four other women entered for a
   medical degree at the University of Edinburgh?</p>
                 <p>That the president of the College of Physicians refused to
@@ -1113,7 +1113,7 @@
             </div>
 
             <div type="poem" n="34">
-                <head>Interviews With Celebrated Anti-Suffragists</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg?raw=true"/><head>Interviews With Celebrated Anti-Suffragists</head>
                 <p>“Woman’s place is in my home.”—Appius Claudius.</p>
                 <p>“I have never felt the need of the
   ballot.”—Cleopatra.</p>
@@ -1127,7 +1127,7 @@
             </div>
 
             <div type="poem" n="35">
-                <head>Another of Those Curious Coincidences</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg?raw=true"/><head>Another of Those Curious Coincidences</head>
                 <p>On February 15, the House of Representatives passed a bill
   making it unlawful to ship in interstate commerce the products of
   a mill, cannery or factory which have been produced by the labor
@@ -1140,7 +1140,7 @@
             </div>
 
             <div type="poem" n="36">
-                <head>The New Freedom</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-02-28.jpeg?raw=true"/><head>The New Freedom</head>
                 <p>“The Michigan commission on industrial relations has
   discovered,” says “The Detroit Journal,” “that thousands of wives
   support their husbands.”</p>
@@ -1149,7 +1149,7 @@
             </div>
 
             <div type="poem" n="37">
-                <head>To the Great Dining Out Majority</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg?raw=true"/><head>To the Great Dining Out Majority</head>
                 <p>The New York State Association Opposed to Woman Suffrage is
   sending out leaflets to its members urging them to “tell every
   man you meet, your tailor, your postman, your grocer, as well as
@@ -1165,10 +1165,10 @@
   because they fear it might take women out of the home.</p>
             </div>
             </div>
-          <div type="section"  n="3">
+          <div type="section" n="3">
                 <head>WOMEN’S SPHERE</head>
             <div type="poem" n="38">
-                <head>Many Men to Any Woman</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-10.jpeg?raw=true"/><head>Many Men to Any Woman</head>
                 <lg>
                     <lg>
                         <l>If you have beauty, charm, refinement, tact,</l>
@@ -1190,7 +1190,7 @@
             </div>
 
             <div type="poem" n="39">
-                <head>A Sex Difference</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-08-02.jpeg?raw=true"/><head>A Sex Difference</head>
                 <lg>
                     <lg>
                         <l>When men in Congress come to blows at something someone
@@ -1205,7 +1205,7 @@
             </div>
 
             <div type="poem" n="40">
-                <head>Advice to Heroines</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Advice to Heroines</head>
                 <lg>
                     <lg>
                         <l>I</l>
@@ -1238,7 +1238,7 @@
             </div>
 
             <div type="poem" n="41">
-                <head>Mutual Vows</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Mutual Vows</head>
                 <lg>
                     <lg>
                         <l>“My dear,” he said, “observe this frightful bill,</l>
@@ -1256,7 +1256,7 @@
             </div>
 
             <div type="poem" n="42">
-                <head>If They Meant All They Said</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-09-06.jpeg?raw=true"/><head>If They Meant All They Said</head>
                 <lg>
                     <lg>
                         <l>Charm is a woman’s strongest arm;</l>
@@ -1286,7 +1286,7 @@
             </div>
 
             <div type="poem" n="43">
-                <head>Democracy</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Democracy</head>
                 <lg>
                     <lg>
                         <l>Democracy is this—to hold</l>
@@ -1299,7 +1299,7 @@
             </div>
 
             <div type="poem" n="44">
-                <head>Feminism</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Feminism</head>
                 <lg>
                     <lg>
                         <l>“Mother, what is a Feminist?”</l>
@@ -1312,7 +1312,7 @@
             </div>
 
             <div type="poem" n="45">
-                <head>The Warning</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-05-03.jpeg?raw=true"/><head>The Warning</head>
                 <lg>
                     <lg>
                         <l>No, it isn’t home neglecting</l>
@@ -1334,7 +1334,7 @@
             </div>
 
             <div type="poem" n="46">
-                <head>Evolution</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-05-24.jpeg?raw=true"/><head>Evolution</head>
                 <lg>
                     <lg>
                         <l>Said Mr. Jones in 1910:</l>
@@ -1356,7 +1356,7 @@
             </div>
 
             <div type="poem" n="47">
-                <head>Intercepted</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-12-06.jpeg?raw=true"/><head>Intercepted</head>
                 <lg>
                     <lg>
                         <l>“Only the worst of them vote.”</l>
@@ -1392,7 +1392,7 @@
             </div>
 
             <div type="poem" n="48">
-                <head>The Universal Answer</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg?raw=true"/><head>The Universal Answer</head>
                 <lg>
                     <lg>
                         <l>Oh, there you go again,</l>
@@ -1414,7 +1414,7 @@
             </div>
 
             <div type="poem" n="49">
-                <head>Candor</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-08-02.jpeg?raw=true"/><head>Candor</head>
                 <quote>(By an admirer of the late H.C. Bunner.)</quote>
                 <lg>
                     <lg>
@@ -1450,7 +1450,7 @@
             </div>
 
             <div type="poem" n="50">
-                <head>What Every Woman Must Not Say</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-08-09.jpeg?raw=true"/><head>What Every Woman Must Not Say</head>
                 <lg>
                     <lg>
                         <l>“I don’t pretend I’m clever,” he remarked, “or very
@@ -1484,7 +1484,7 @@
             </div>
 
             <div type="poem" n="51">
-                <head>Chivalry</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Chivalry</head>
                 <lg>
                     <lg>
                         <l>It’s treating a woman politely</l>
@@ -1509,7 +1509,7 @@
             </div>
 
             <div type="poem" n="52">
-                <head>Women</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-08-16.jpeg?raw=true"/><head>Women</head>
                 <quote>(With rather insincere apologies to Mr. Rudyard
     Kipling.)</quote>
                 <lg>
@@ -1571,7 +1571,7 @@
             </div>
 
             <div type="poem" n="53">
-                <head>Beware!</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Beware!</head>
                 <lg>
                     <lg>
                         <l>In the days that are gone when a statue was wanted</l>
@@ -1595,7 +1595,7 @@
             </div>
 
             <div type="poem" n="54">
-                <head>Male Philosophy</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-10.jpeg?raw=true"/><head>Male Philosophy</head>
                 <lg>
                     <lg>
                         <l>Men are very brave, you know,</l>
@@ -1617,7 +1617,7 @@
             </div>
 
             <div type="poem" n="55">
-                <head>From a Man’s Point of View</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>From a Man’s Point of View</head>
                 <lg>
                     <lg>
                         <l>Women love self-sacrifice</l>
@@ -1639,7 +1639,7 @@
             </div>
 
             <div type="poem" n="56">
-                <head>Glory</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-12-20.jpeg?raw=true"/><head>Glory</head>
                 <lg>
                     <lg>
                         <l>I went to see old Susan Gray,</l>
@@ -1665,7 +1665,7 @@
             </div>
 
             <div type="poem" n="57">
-                <head>Dependence</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-12-13.jpeg?raw=true"/><head>Dependence</head>
                     <epigraph>
                         <cit>
                             <quote>An Englishwoman whose income has stopped owing to her two sons
@@ -1703,7 +1703,7 @@
             </div>
 
             <div type="poem" n="58">
-                <head>Playthings</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-09-06.jpeg?raw=true"/><head>Playthings</head>
                 <lg>
                     <lg>
                         <l>Last year the shops were crowded</l>
@@ -1729,7 +1729,7 @@
             </div>
 
             <div type="poem" n="59">
-                <head>Militants</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Militants</head>
                 <lg>
                     <lg>
                         <l>Hippolta, Penthesilea,</l>
@@ -1746,7 +1746,7 @@
             </div>
 
             <div type="poem" n="60">
-                <head>A Lady’s Choice</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>A Lady’s Choice</head>
                 <lg>
                     <lg>
                         <l>Her old love in tears and silence had been building her a
@@ -1773,7 +1773,7 @@
             </div>
 
             <div type="poem" n="61">
-                <head>The Ballad of Lost Causes</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-04-11.jpeg?raw=true"/><head>The Ballad of Lost Causes</head>
                 <quote>(About 465 years after Villon.)</quote>
                 <lg>
                     <lg>
@@ -1806,7 +1806,7 @@
             </div>
 
             <div type="poem" n="62">
-                <head>Thoughts at an Anti Meeting</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-04-11.jpeg?raw=true"/><head>Thoughts at an Anti Meeting</head>
                 <lg>
                     <lg>
                         <l>There are no homes in suffrage states,</l>
@@ -1823,7 +1823,7 @@
                 </lg>
             </div>
             </div>
-          <div type="section"  n="4">
+          <div type="section" n="4">
                 <head>A MASQUE OF TEACHERS</head>
                 <quote>AND</quote>
                 <quote>THE UNCONSCIOUS SUFFRAGISTS</quote>
