@@ -21,39 +21,56 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body>
-
-            <div type="chapter">
-                <head>Introduction</head>
-                <p>Father, what is a Legislature?</p>
-                <p>A representative body elected by the people of the state.</p>
-                <p>Are women people?</p>
-                <p>No, my son, criminals, lunatics and women are not people.</p>
-                <p>Do legislators legislate for nothing?</p>
-                <p>Oh, no; they are paid a salary.</p>
-                <p>By whom?</p>
-                <p>By the people.</p>
-                <p>Are women people?</p>
-                <p>Of course, my son, just as much as men are.</p>
-                <p>To the New York Tribune, in whose generous columns many of
-  these verses first appeared, the author here wishes to express
-  her gratitude.</p>
-            </div>
-
-            <div type="chapter">
-                <head>CONTENTS</head>
-            </div>
-
-            <div type="chapter">
-                <head>TREACHEROUS TEXTS</head>
-            </div>
-
-            <div type="chapter">
+        <front>
+            <div type="titlepage">
                 <head>ARE WOMEN PEOPLE?</head>
-                <quote>A Consistent Anti to Her Son</quote>
-                <quote>(“Look at the hazards, the risks, the physical dangers that
-    ladies would be exposed to at the
-    polls.”—Anti-suffrage speech.)</quote>
+                <head>A Book of Rhymes for Suffrage Times</head>
+                <p/>
+                <p>By Alice Duer Miller</p>
+                <p>Author of “Blue Arch,” “The Modern Obstacle,” etc.</p>
+                <p>New York</p>
+                <p>George H. Dorian Company</p>
+            </div>
+            <div type="introduction">
+                <head>Introduction</head>
+                <lg>
+                    <l>Father, what is a Legislature?</l>
+                    <l>A representative body elected by the people of the state.</l>
+                    <l>Are women people?</l>
+                    <l>No, my son, criminals, lunatics and women are not people.</l>
+                    <l>Do legislators legislate for nothing?</l>
+                    <l>Oh, no; they are paid a salary.</l>
+                    <l>By whom?</l>
+                    <l>By the people.</l>
+                    <l>Are women people?</l>
+                    <l>Of course, my son, just as much as men are.</l>
+                </lg>
+            </div>
+            <div type="toc">
+                <head>Contents</head>
+                <list>
+                    <item>Introduction</item>
+                    <item>Treacherous Texts</item>
+                    <item>Campaign Material (For Both Sides)</item>
+                    <item>Women`s Sphere</item>
+                    <item>A Masque of Teachers: The Ideal Candidates</item>
+                    <item>The Unconscious Suffragists</item>
+                </list>
+            </div>
+            <div type="dedication">
+                <head>Dedication</head>
+                <p>To the New York Tribune, in whose generous columns many of these verses first appeared, the author here wishes to express her gratitude.</p>
+            </div>
+        </front>
+        <body>
+          <div type="section"  n="1">
+                <head>TREACHEROUS TEXTS</head>
+
+            <div type="poem" n="1">
+                <head>A Consistent Anti to Her Son</head>
+                <epigraph><cit><quote>“Look at the hazards, the risks, the physical dangers that
+                    ladies would be exposed to at the
+                    polls.”</quote><bibl>—Anti-suffrage speech.</bibl></cit></epigraph>
                 <lg>
                     <lg>
                         <l>You’re twenty-one to-day, Willie,</l>
@@ -98,11 +115,15 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="2">
                 <head>Our Idea of Nothing at All</head>
-                <quote>(“I am opposed to woman suffrage, but I am not opposed to
-    woman.”—Anti-suffrage speech of Mr. Webb of North
-    Carolina.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>I am opposed to woman suffrage, but I am not opposed to
+                                woman..</quote>
+                            <bibl>—Anti-suffrage speech of Mr. Webb of North Carolina.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>O women, have you heard the news</l>
@@ -131,13 +152,17 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="3">
                 <head>Lines to Mr. Bowdle of Ohio</head>
-                <quote>(“The women of this smart capital are beautiful. Their beauty
-    is disturbing to business; their feet are beautiful, their
-    ankles are beautiful, but here I must pause.”—Mr.
-    Bowdle’s anti-suffrage speech in Congress, January 12,
-    1915.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>The women of this smart capital are beautiful. Their beauty is
+                                disturbing to business; their feet are beautiful, their ankles are
+                                beautiful, but here I must pause.</quote>
+                            <bibl>”—Mr. Bowdle’s anti-suffrage speech in Congress, January 12,
+                                1915.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>You, who despise the so-called fairer sex,</l>
@@ -166,11 +191,15 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="4">
                 <head>On Not Believing All You Hear</head>
-                <quote>(“Women are angels, they are jewels, they are queens and
-    princesses of our hearts.”—Anti-suffrage speech of Mr.
-    Carter of Oklahoma.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>Women are angels, they are jewels, they are queens and princesses
+                                of our hearts</quote>
+                            <bibl>—Anti-suffrage speech of Mr. Carter of Oklahoma.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>“Angel, or jewel, or princess, or queen,</l>
@@ -187,10 +216,14 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="5">
                 <head>The Revolt of Mother</head>
-                <quote>(“Every true woman feels----”—Speech of almost any
-    Congressman.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>Every true woman feels---</quote>
+                            <bibl>—Speech of almost any Congressman.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>I am old-fashioned, and I think it right</l>
@@ -223,12 +256,14 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="6">
                 <head>The Gallant Sex</head>
-                <quote>(A woman engineer has been dismissed by the Board of Education,
-    under their new rule that women shall not attend high pressure
-    boilers, although her work has been satisfactory and she holds
-    a license to attend such boilers from the Police Department.)</quote>
+                    <epigraph>
+                        <p>A woman engineer has been dismissed by the Board of Education, under
+                            their new rule that women shall not attend high pressure boilers,
+                            although her work has been satisfactory and she holds a license to
+                            attend such boilers from the Police Department.</p>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>Lady, dangers lurk in boilers,</l>
@@ -249,10 +284,14 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="7">
                 <head>Representation</head>
-                <quote>(“My wife is against suffrage, and that settles
-    me.”—Vice-President Marshall.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>My wife is against suffrage, and that settles me.</quote>
+                            <bibl>—Vice-President Marshall.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>I</l>
@@ -288,16 +327,20 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="8">
                 <head>Sonnet</head>
-                <quote>(“Three bills known as the Thompson-Bewley cannery bills have
-    been advanced to third reading in the Senate and Assembly at
-    Albany. One permits the canners to work their employés
-    seven days a week, a second allows them to work women after 9
-    p.m. and a third removes every restriction upon the hours of
-    labor of women and minors.”—Zenas L. Potter, former
-    chief cannery investigator for New York State Factory
-    Investigating Commission.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>Three bills known as the Thompson-Bewley cannery bills have been
+                                advanced to third reading in the Senate and Assembly at Albany. One
+                                permits the canners to work their employés seven days a week, a
+                                second allows them to work women after 9 p.m. and a third removes
+                                every restriction upon the hours of labor of women and
+                                minors.</quote>
+                            <bibl>—Zenas L. Potter, former chief cannery investigator for New York
+                                State Factory Investigating Commission.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>Let us not to an unrestricted day</l>
@@ -318,14 +361,18 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="9">
                 <head>To President Wilson</head>
-                <quote>(“I hold it as a fundamental principle and so do you, that
-    every people has the right to determine its own form of
-    government. And until recently 50 per cent. of the people of
-    Mexico have not had a look-in in determining who should be
-    their governors, or what their government should
-    be.”—Speech of President Wilson.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>I hold it as a fundamental principle and so do you, that every
+                                people has the right to determine its own form of government. And
+                                until recently 50 per cent. of the people of Mexico have not had a
+                                look-in in determining who should be their governors, or what their
+                                government should be.</quote>
+                            <bibl>—Speech of President Wilson</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>Wise and just man—for such I think you
@@ -347,11 +394,13 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="10">
                 <head>Home and Where It Is</head>
-                <quote>(An Indiana judge has recently ruled: As to the right of the
-    husband to decide the location of the home that “home is where
-    the husband is.”)</quote>
+                    <epigraph>
+                        <p>An Indiana judge has recently ruled: As to the right of the husband to
+                            decide the location of the home that<quote>home is where the husband
+                                is.</quote></p>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>Home is where the husband is,</l>
@@ -374,12 +423,13 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="11">
                 <head>The Maiden’s Vow</head>
-                <quote>(A speaker at the National Education Association advised girls
-    not to study algebra. Many girls, he said, had lost their souls
-    through this study. The idea has been taken up with
-    enthusiasm.)</quote>
+                    <epigraph>
+                        <p>A speaker at the National Education Association advised girls not to
+                            study algebra. Many girls, he said, had lost their souls through this
+                            study. The idea has been taken up with enthusiasm.</p>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>I will avoid equations,</l>
@@ -400,11 +450,15 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="12">
                 <head>Such Nonsense</head>
-                <quote>(“Where on earth did the idea come from that the ballot is a
-    boon, a privilege and an honor? From men.”—Mrs.
-    Prestonia Mann Martin.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>Where on earth did the idea come from that the ballot is a boon,
+                                a privilege and an honor? From men.</quote>
+                            <bibl>—Mrs. Prestonia Mann Martin</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>Who is it thinks the vote some use?</l>
@@ -439,10 +493,15 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="13">
                 <head>A Suggested Campaign Song</head>
-                <quote>(“No brass bands. No speeches. Instead a still, silent,
-    effective influence.”—Anti-suffrage speech.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>No brass bands. No speeches. Instead a still, silent, effective
+                                influence.</quote>
+                            <bibl>—Anti-suffrage speech.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>We are waging—can you doubt it?</l>
@@ -474,10 +533,15 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="14">
                 <head>The Woman of Charm</head>
-                <quote>(“I hate a woman who is not a mystery to herself, as well as to
-    me.”—The Phoenix.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>I hate a woman who is not a mystery to herself, as well as to
+                                me.</quote>
+                            <bibl>—The Phoenix.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>If you want a receipt for that popular mystery</l>
@@ -508,10 +572,12 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="15">
                 <head>A Modern Proposal</head>
-                <quote>(It has been said that the feminist movement is the true
-    solution of the mother-in-law problem.)</quote>
+                    <epigraph>
+                        <p>It has been said that the feminist movement is the true solution of the
+                            mother-in-law problem.</p>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>Sylvia, my dear, I would be yours with pleasure,</l>
@@ -535,12 +601,16 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="16">
                 <head>The Newer Lullaby</head>
-                <quote>(“Good heavens, when I think what the young boy of to-day is
-    growing up to I gasp. He has too many women around him all the
-    time. He has his mother when he is a baby.”—Bernard
-    Fagin, Probation Officer.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>Good heavens, when I think what the young boy of to-day is
+                                growing up to I gasp. He has too many women around him all the time.
+                                He has his mother when he is a baby.</quote>
+                            <bibl>—Bernard Fagin, Probation Officer.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>Hush-a-bye, baby,</l>
@@ -555,13 +625,17 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="17">
                 <head>The Protected Sex</head>
-                <quote>With apologies to James Whitcomb Riley.</quote>
-                <quote>(“The result of taking second place to girls at school is that
-    the boy feels a sense of inferiority that he is never afterward
-    able entirely to shake off.”—Editorial in London Globe
-    against co-education.)</quote>
+                    <epigraph>
+                        <p>With apologies to James Whitcomb Riley</p>
+                        <cit>
+                            <quote>The result of taking second place to girls at school is that the
+                                boy feels a sense of inferiority that he is never afterward able
+                                entirely to shake off.</quote>
+                            <bibl>—Editorial in London Globe against co-education.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>There, little girl, don’t read,</l>
@@ -573,8 +647,16 @@
                         <l>There, little girl, don’t read.</l>
                     </lg>
                 </lg>
-                <quote>(“The Latin man believes that giving woman the vote will make
-    her less attractive.”—Anna H. Shaw.)</quote>
+            </div>
+                <div type="poem" n="18">
+                    <head>Warning to Suffragists</head>
+                    <epigraph>
+                        <cit>
+                            <quote>The Latin man believes that giving woman the vote will make her
+                                less attractive.</quote>
+                            <bibl>—Anna H. Shaw.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>They must sacrifice their beauty</l>
@@ -588,15 +670,17 @@
                     </lg>
                 </lg>
             </div>
-
-            <div type="chapter">
+            <div type="poem" n="19">
                 <head>Partners</head>
-                <quote>(“Our laws have not yet reached the point of holding that
-    property which is the result of the husband’s earnings and the
-    wife’s savings becomes their joint property.... In this most
-    important of all partnerships there is no partnership
-    property.”—Recent decision of the New York Supreme
-    Court.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>Our laws have not yet reached the point of holding that property
+                                which is the result of the husband’s earnings and the wife’s savings
+                                becomes their joint property.... In this most important of all
+                                partnerships there is no partnership property.</quote>
+                            <bibl>—Recent decision of the New York Supreme Court.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>Lady, lovely lady, come and share</l>
@@ -633,10 +717,12 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="20">
                 <head>What Governments Say to Women</head>
-                <quote>(The law compels a married woman to take the nationality of her
-    husband.)</quote>
+                    <epigraph>
+                        <p>The law compels a married woman to take the nationality of her
+                            husband.</p>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>I</l>
@@ -673,14 +759,18 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="21">
                 <head>“Oh, That ’Twere Possible!”</head>
-                <quote>With apologies to Lord Tennyson.</quote>
-                <quote>(“The grant of suffrage to women is repugnant to instincts that
-    strike their roots deep in the order of nature. It runs counter
-    to human reason, it flouts the teachings of experience and the
-    admonitions of common sense.”—N.Y. Times, Feb. 7,
-    1915.)</quote>
+                    <epigraph>
+                        <p>With apologies to Lord Tennyson.</p>
+                        <cit>
+                            <quote>The grant of suffrage to women is repugnant to instincts that
+                                strike their roots deep in the order of nature. It runs counter to
+                                human reason, it flouts the teachings of experience and the
+                                admonitions of common sense.</quote>
+                            <bibl>—N.Y. Times, Feb. 7, 1915.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>Oh, that ’twere possible</l>
@@ -707,7 +797,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="22">
                 <head>The Times Editorials</head>
                 <lg>
                     <lg>
@@ -730,56 +820,95 @@
                     </lg>
                 </lg>
             </div>
-
-            <div type="chapter">
+            </div>
+          <div type="section"  n="2">
                 <head>CAMPAIGN MATERIAL</head>
                 <quote>(For Both Sides)</quote>
-            </div>
 
-            <div type="chapter">
+            <div type="poem" n="23">
                 <head>Our Own Twelve Anti-suffragist Reasons</head>
-                <p>1. Because no woman will leave her domestic duties to
-  vote.</p>
-                <p>2. Because no woman who may vote will attend to her domestic
-  duties.</p>
-                <p>3. Because it will make dissension between husband and
-  wife.</p>
-                <p>4. Because every woman will vote as her husband tells her
-  to.</p>
-                <p>5. Because bad women will corrupt politics.</p>
-                <p>6. Because bad politics will corrupt women.</p>
-                <p>7. Because women have no power of organization.</p>
-                <p>8. Because women will form a solid party and outvote men.</p>
-                <p>9. Because men and women are so different that they must stick
-  to different duties.</p>
-                <p>10. Because men and women are so much alike that men, with one
-  vote each, can represent their own views and ours too.</p>
-                <p>11. Because women cannot use force.</p>
-                <p>12. Because the militants did use force.</p>
+                    <list>
+                        <item>
+                            <p>1. Because no woman will leave her domestic duties to vote.</p>
+                        </item>
+                        <item>
+                            <p>2. Because no woman who may vote will attend to her domestic
+                                duties.</p>
+                        </item>
+                        <item>
+                            <p>3. Because it will make dissension between husband and wife.</p>
+                        </item>
+                        <item>
+                            <p>4. Because every woman will vote as her husband tells her to.</p>
+                        </item>
+                        <item>
+                            <p>5. Because bad women will corrupt politics.</p>
+                        </item>
+                        <item>
+                            <p>6. Because bad politics will corrupt women.</p>
+                        </item>
+                        <item>
+                            <p>7. Because women have no power of organization.</p>
+                        </item>
+                        <item>
+                            <p>8. Because women will form a solid party and outvote men.</p>
+                        </item>
+                        <item>
+                            <p>9. Because men and women are so different that they must stick to
+                                different duties.</p>
+                        </item>
+                        <item>
+                            <p>10. Because men and women are so much alike that men, with one vote
+                                each, can represent their own views and ours too.</p>
+                        </item>
+                        <item>
+                            <p>11. Because women cannot use force.</p>
+                        </item>
+                        <item>
+                            <p>12. Because the militants did use force.</p>
+                        </item>
+                    </list>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="24">
                 <head>Why We Oppose Pockets for Women</head>
-                <p>1. Because pockets are not a natural right.</p>
-                <p>2. Because the great majority of women do not want pockets. If
-  they did they would have them.</p>
-                <p>3. Because whenever women have had pockets they have not used
-  them.</p>
-                <p>4. Because women are required to carry enough things as it is,
-  without the additional burden of pockets.</p>
-                <p>5. Because it would make dissension between husband and wife
-  as to whose pockets were to be filled.</p>
-                <p>6. Because it would destroy man’s chivalry toward woman, if he
-  did not have to carry all her things in his pockets.</p>
-                <p>7. Because men are men, and women are women. We must not fly
-  in the face of nature.</p>
-                <p>8. Because pockets have been used by men to carry tobacco,
-  pipes, whiskey flasks, chewing gum and compromising letters. We
-  see no reason to suppose that women would use them more
-  wisely.</p>
+                    <list>
+                        <item>
+                            <p>1. Because pockets are not a natural right.</p>
+                        </item>
+                        <item>
+                            <p>2. Because the great majority of women do not want pockets. If they
+                                did they would have them.</p>
+                        </item>
+                        <item>
+                            <p>3. Because whenever women have had pockets they have not used
+                                them.</p>
+                        </item>
+                        <item>
+                            <p>4. Because women are required to carry enough things as it is,
+                                without the additional burden of pockets.</p>
+                        </item>
+                        <item>
+                            <p>5. Because it would make dissension between husband and wife as to
+                                whose pockets were to be filled.</p>
+                        </item>
+                        <item>
+                            <p>6. Because it would destroy man’s chivalry toward woman, if he did
+                                not have to carry all her things in his pockets.</p>
+                        </item>
+                        <item>
+                            <p>7. Because men are men, and women are women. We must not fly in the
+                                face of nature.</p>
+                        </item>
+                        <item>
+                            <p>8. Because pockets have been used by men to carry tobacco, pipes,
+                                whiskey flasks, chewing gum and compromising letters. We see no
+                                reason to suppose that women would use them more wisely.</p>
+                        </item>
+                    </list>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="25">
                 <head>Fashion Notes: Past and Present</head>
                 <p>1880—Anti-suffrage arguments are being worn long, calm
   and flowing this year, with the dominant note that of woman’s
@@ -796,47 +925,80 @@
   piquant and surprising.</p>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="26">
                 <head>Why We Oppose Women Travelling in Railway Trains</head>
-                <p>1. Because travelling in trains is not a natural right.</p>
-                <p>2. Because our great-grandmothers never asked to travel in
-  trains.</p>
-                <p>3. Because woman’s place is the home, not the train.</p>
-                <p>4. Because it is unnecessary; there is no point reached by a
-  train that cannot be reached on foot.</p>
-                <p>5. Because it will double the work of conductors, engineers
-  and brakemen who are already overburdened.</p>
-                <p>6. Because men smoke and play cards in trains. Is there any
-  reason to believe that women will behave better?</p>
+                    <list>
+                        <item>
+                            <p>1. Because travelling in trains is not a natural right.</p>
+                        </item>
+                        <item>
+                            <p>2. Because our great-grandmothers never asked to travel in
+                                trains.</p>
+                        </item>
+                        <item>
+                            <p>3. Because woman’s place is the home, not the train.</p>
+                        </item>
+                        <item>
+                            <p>4. Because it is unnecessary; there is no point reached by a train
+                                that cannot be reached on foot.</p>
+                        </item>
+                        <item>
+                            <p>5. Because it will double the work of conductors, engineers and
+                                brakemen who are already overburdened.</p>
+                        </item>
+                        <item>
+                            <p>6. Because men smoke and play cards in trains. Is there any reason to
+                                believe that women will behave better?</p>
+                        </item>
+                    </list>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="27">
                 <head>Why We Oppose Schools for Children</head>
                 <p>(By the Children’s Anti-School League.)</p>
-                <p>1. Because education is a burden, not a right.</p>
-                <p>2. Because not one-tenth of one per cent. of the children of
-  this country have demanded education.</p>
-                <p>3. Because if we are educated we should have to behave as if
-  we were and we don’t want to.</p>
-                <p>4. Because it is essentially against the nature of a child to
-  be educated.</p>
-                <p>5. Because we can’t see that it has done so much for
-  grown-ups, and there is no reason for thinking it will make
-  children perfect.</p>
-                <p>6. Because the time of children is already sufficiently
-  occupied without going to school.</p>
-                <p>7. Because it would make dissension between parent and child.
-  Imagine the home life of a parent who turned out to be more
-  ignorant than his (or her) child?</p>
-                <p>8. Because we believe in the indirect education of the
-  theatre, the baseball field and the moving picture. We believe
-  that schools would in a great measure deprive us of this.</p>
-                <p>9. Because our parents went to school. They love us, they take
-  care of us, they tell us what to do. We are content that they
-  should be educated for us.</p>
+                    <list>
+                        <item>
+                            <p>1. Because education is a burden, not a right.</p>
+                        </item>
+                        <item>
+                            <p>2. Because not one-tenth of one per cent. of the children of this
+                                country have demanded education.</p>
+                        </item>
+                        <item>
+                            <p>3. Because if we are educated we should have to behave as if we were
+                                and we don’t want to.</p>
+                        </item>
+                        <item>
+                            <p>4. Because it is essentially against the nature of a child to be
+                                educated.</p>
+                        </item>
+                        <item>
+                            <p>5. Because we can’t see that it has done so much for grown-ups, and
+                                there is no reason for thinking it will make children perfect.</p>
+                        </item>
+                        <item>
+                            <p>6. Because the time of children is already sufficiently occupied
+                                without going to school.</p>
+                        </item>
+                        <item>
+                            <p>7. Because it would make dissension between parent and child. Imagine
+                                the home life of a parent who turned out to be more ignorant than
+                                his (or her) child?</p>
+                        </item>
+                        <item>
+                            <p>8. Because we believe in the indirect education of the theatre, the
+                                baseball field and the moving picture. We believe that schools would
+                                in a great measure deprive us of this.</p>
+                        </item>
+                        <item>
+                            <p>9. Because our parents went to school. They love us, they take care
+                                of us, they tell us what to do. We are content that they should be
+                                educated for us.</p>
+                        </item>
+                    </list>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="28">
                 <head>But Then Who Cares for Figures</head>
                 <p>An argument sometimes used against paying women as highly as
   men for the same work is that women are only temporarily in
@@ -857,23 +1019,35 @@
   it benefit men?”</p>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="29">
                 <head>Why We Oppose Votes for Men</head>
-                <p>1. Because man’s place is the armory.</p>
-                <p>2. Because no really manly man wants to settle any question
-  otherwise than by fighting about it.</p>
-                <p>3. Because if men should adopt peaceable methods women will no
-  longer look up to them.</p>
-                <p>4. Because men will lose their charm if they step out of their
-  natural sphere and interest themselves in other matters than
-  feats of arms, uniforms and drums.</p>
-                <p>5. Because men are too emotional to vote. Their conduct at
-  baseball games and political conventions shows this, while their
-  innate tendency to appeal to force renders them peculiarly unfit
-  for the task of government.</p>
+                    <list>
+                        <item>
+                            <p>1. Because man’s place is the armory.</p>
+                        </item>
+                        <item>
+                            <p>2. Because no really manly man wants to settle any question otherwise
+                                than by fighting about it.</p>
+                        </item>
+                        <item>
+                            <p>3. Because if men should adopt peaceable methods women will no longer
+                                look up to them.</p>
+                        </item>
+                        <item>
+                            <p>4. Because men will lose their charm if they step out of their
+                                natural sphere and interest themselves in other matters than feats
+                                of arms, uniforms and drums.</p>
+                        </item>
+                        <item>
+                            <p>5. Because men are too emotional to vote. Their conduct at baseball
+                                games and political conventions shows this, while their innate
+                                tendency to appeal to force renders them peculiarly unfit for the
+                                task of government.</p>
+                        </item>
+                    </list>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="30">
                 <head>The Logic of the Law</head>
                 <p>In 1875 the Supreme Court of Wisconsin in denying the petition
   of women to practise before it said:</p>
@@ -885,19 +1059,24 @@
   women—three of them are crimes committed against women.</p>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="31">
                 <head>Consistency</head>
-                <p>(“Vile insults, lewd talk and brutal conduct were used by the
-  indicted men to frighten respectable women who went to the polls
-  in Terre Haute at the last election, asserted District Attorney
-  Dailey.”—Press Dispatch.)</p>
+                    <epigraph>
+                        <cit>
+                            <quote>Vile insults, lewd talk and brutal conduct were used by the
+                                indicted men to frighten respectable women who went to the polls in
+                                Terre Haute at the last election, asserted District Attorney
+                                Dailey.</quote>
+                            <bibl>—Press Dispatch.</bibl>
+                        </cit>
+                    </epigraph>
                 <p>Are the polls unfit for decent women?</p>
                 <p>No, sir, they are perfectly orderly.</p>
                 <p>Tut, tut! Go there at once and swear and be brutal, or what
   will become of our anti-suffrage argument?</p>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="32">
                 <head>Sometimes We’re Ivy, and Sometimes We’re Oak</head>
                 <p>Is it true that the English government is calling on women to
   do work abandoned by men?</p>
@@ -910,7 +1089,7 @@
                 <p>As soon as men want their jobs back again.</p>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="33">
                 <head>Do You Know</head>
                 <p>That in 1869 Miss Jex-Blake and four other women entered for a
   medical degree at the University of Edinburgh?</p>
@@ -934,7 +1113,7 @@
   school doctors?</p>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="34">
                 <head>Interviews With Celebrated Anti-Suffragists</head>
                 <p>“Woman’s place is in my home.”—Appius Claudius.</p>
                 <p>“I have never felt the need of the
@@ -948,7 +1127,7 @@
   Protective Association.</p>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="35">
                 <head>Another of Those Curious Coincidences</head>
                 <p>On February 15, the House of Representatives passed a bill
   making it unlawful to ship in interstate commerce the products of
@@ -961,7 +1140,7 @@
   from any state where women vote for Congressmen.</p>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="36">
                 <head>The New Freedom</head>
                 <p>“The Michigan commission on industrial relations has
   discovered,” says “The Detroit Journal,” “that thousands of wives
@@ -970,7 +1149,7 @@
   is sometimes allowed to send her wages as a substitute.</p>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="37">
                 <head>To the Great Dining Out Majority</head>
                 <p>The New York State Association Opposed to Woman Suffrage is
   sending out leaflets to its members urging them to “tell every
@@ -986,12 +1165,10 @@
   their dinner partners that they are opposed to woman suffrage
   because they fear it might take women out of the home.</p>
             </div>
-
-            <div type="chapter">
-                <head>WOMEN’S SPHERE</head>
             </div>
-
-            <div type="chapter">
+          <div type="section"  n="3">
+                <head>WOMEN’S SPHERE</head>
+            <div type="poem" n="38">
                 <head>Many Men to Any Woman</head>
                 <lg>
                     <lg>
@@ -1013,7 +1190,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="39">
                 <head>A Sex Difference</head>
                 <lg>
                     <lg>
@@ -1028,7 +1205,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="40">
                 <head>Advice to Heroines</head>
                 <lg>
                     <lg>
@@ -1061,7 +1238,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="41">
                 <head>Mutual Vows</head>
                 <lg>
                     <lg>
@@ -1079,7 +1256,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="42">
                 <head>If They Meant All They Said</head>
                 <lg>
                     <lg>
@@ -1109,7 +1286,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="43">
                 <head>Democracy</head>
                 <lg>
                     <lg>
@@ -1122,7 +1299,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="44">
                 <head>Feminism</head>
                 <lg>
                     <lg>
@@ -1135,7 +1312,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="45">
                 <head>The Warning</head>
                 <lg>
                     <lg>
@@ -1157,7 +1334,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="46">
                 <head>Evolution</head>
                 <lg>
                     <lg>
@@ -1179,7 +1356,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="47">
                 <head>Intercepted</head>
                 <lg>
                     <lg>
@@ -1215,7 +1392,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="48">
                 <head>The Universal Answer</head>
                 <lg>
                     <lg>
@@ -1237,7 +1414,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="49">
                 <head>Candor</head>
                 <quote>(By an admirer of the late H.C. Bunner.)</quote>
                 <lg>
@@ -1273,7 +1450,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="50">
                 <head>What Every Woman Must Not Say</head>
                 <lg>
                     <lg>
@@ -1307,7 +1484,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="51">
                 <head>Chivalry</head>
                 <lg>
                     <lg>
@@ -1332,7 +1509,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="52">
                 <head>Women</head>
                 <quote>(With rather insincere apologies to Mr. Rudyard
     Kipling.)</quote>
@@ -1394,7 +1571,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="53">
                 <head>Beware!</head>
                 <lg>
                     <lg>
@@ -1418,7 +1595,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="54">
                 <head>Male Philosophy</head>
                 <lg>
                     <lg>
@@ -1440,7 +1617,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="55">
                 <head>From a Man’s Point of View</head>
                 <lg>
                     <lg>
@@ -1462,7 +1639,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="56">
                 <head>Glory</head>
                 <lg>
                     <lg>
@@ -1488,11 +1665,16 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="57">
                 <head>Dependence</head>
-                <quote>(An Englishwoman whose income has stopped owing to her two sons
-    having joined the English army, was taken care of last night at
-    the Florence Crittenden Mission.—Press Clipping.)</quote>
+                    <epigraph>
+                        <cit>
+                            <quote>An Englishwoman whose income has stopped owing to her two sons
+                                having joined the English army, was taken care of last night at the
+                                Florence Crittenden Mission.</quote>
+                            <bibl>—Press Clipping.</bibl>
+                        </cit>
+                    </epigraph>
                 <lg>
                     <lg>
                         <l>The young men said to their mother,</l>
@@ -1521,7 +1703,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="58">
                 <head>Playthings</head>
                 <lg>
                     <lg>
@@ -1547,7 +1729,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="59">
                 <head>Militants</head>
                 <lg>
                     <lg>
@@ -1564,7 +1746,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="60">
                 <head>A Lady’s Choice</head>
                 <lg>
                     <lg>
@@ -1591,7 +1773,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="61">
                 <head>The Ballad of Lost Causes</head>
                 <quote>(About 465 years after Villon.)</quote>
                 <lg>
@@ -1624,7 +1806,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="poem" n="62">
                 <head>Thoughts at an Anti Meeting</head>
                 <lg>
                     <lg>
@@ -1641,15 +1823,20 @@
                     </lg>
                 </lg>
             </div>
-
-            <div type="chapter">
+            </div>
+          <div type="section"  n="4">
                 <head>A MASQUE OF TEACHERS</head>
                 <quote>AND</quote>
                 <quote>THE UNCONSCIOUS SUFFRAGISTS</quote>
-            </div>
 
-            <div type="chapter">
+            <div type="drama" n="63">
                 <head>The Ideal Candidates</head>
+                    <epigraph>
+                        <cit>
+                            <quote/>
+                            <bibl>.</bibl>
+                        </cit>
+                    </epigraph>
                 <p>(A by-law of the New York Board of Education says: “No married
   woman shall be appointed to any teaching or supervising position
   in the New York public schools unless her husband is mentally or
@@ -1756,7 +1943,7 @@
                 </lg>
             </div>
 
-            <div type="chapter">
+            <div type="quotations" n="64">
                 <head>The Unconscious Suffragists</head>
                 <p>“They who have no voice nor vote in the electing of
   representatives do not enjoy liberty, but are absolutely enslaved
@@ -1800,6 +1987,7 @@ take care of. And I have seen them shiver when it was suggested that they
 arrange to have something done by the people for themselves.”—The New
 Freedom, by Woodrow Wilson.</p>
             </div>
+           </div>
 
         </body>
     </text>
