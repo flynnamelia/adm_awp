@@ -418,8 +418,7 @@
             </div>
 
             <div type="poem" n="9">
-                <pb
-                        facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-17.jpeg?raw=true"/><head>To President Wilson</head>
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-17.jpeg?raw=true"/><head>To President Wilson</head>
                     <epigraph>
                         <cit>
                             <quote>I hold it as a fundamental principle and so do you, that every
@@ -954,7 +953,7 @@
                                 them.</p>
                         </item>
                         <item>
-                            <p>4. Because women are required to carry enough things as it is,
+                            <p>4. Because women are <add>required</add> <del>expected</del> to carry enough things as it is,
                                 without the additional burden of pockets.</p>
                         </item>
                         <item>
