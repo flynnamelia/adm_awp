@@ -1,0 +1,2063 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Are Women People? A Book of Rhymes for Suffrage Times</title>
+                <author>Alice Duer Miller</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Project Gutenberg</publisher>
+                <date>2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Are Women People?</title>
+                    <author>Alice Duer Miller</author>
+                    <pubPlace>Online</pubPlace>
+                    <date>2004</date>
+                </bibl>
+                <listWit>
+                    <witness xml:id="AWP1915">Miller, Alice Duer. Are Women People: A Book of Rhymes for Suffrage Times. George H. Doran, 1915.</witness>
+                    <witness xml:id="AWP_1914-03-01">New York Tribune 1914-03-01, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-03-08">New York Tribune 1914-03-08, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-03-15">New York Tribune 1914-03-15, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-03-29">New York Tribune 1914-03-29, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-04-12">New York Tribune 1914-04-12, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-05-03">New York Tribune 1914-05-03, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-05-24">New York Tribune 1914-05-24, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-05-31">New York Tribune 1914-05-31, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-06-07">New York Tribune 1914-06-07, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-06-14">New York Tribune 1914-06-14, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-08-02">New York Tribune 1914-08-02, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-08-09">New York Tribune 1914-08-09, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-08-16">New York Tribune 1914-08-16, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-09-06">New York Tribune 1914-09-06, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-12-06">New York Tribune 1914-12-06, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-12-13">New York Tribune 1914-12-13, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1914-12-20">New York Tribune 1914-12-20, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-01-03">New York Tribune 1915-01-03, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-01-10">New York Tribune 1915-01-10, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-01-24">New York Tribune 1915-01-24, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-01-31">New York Tribune 1915-01-31, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-02-07">New York Tribune 1915-02-07, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-02-10">New York Tribune 1915-02-10, sec. 1: 8</witness>
+                    <witness xml:id="AWP_1915-02-14">New York Tribune 1915-02-14, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-02-28">New York Tribune 1915-02-28, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-03-07">New York Tribune 1915-03-07, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-03-14">New York Tribune 1915-03-14, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-03-21">New York Tribune 1915-03-21, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-03-23">New York Tribune 1915-03-23, sec. 1: 8</witness>
+                    <witness xml:id="AWP_1915-03-28">New York Tribune 1915-03-28, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-04-04">New York Tribune 1915-04-04, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-04-11">New York Tribune 1915-04-11, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-07-19">New York Tribune 1915-07-19, sec. 3: 10</witness>
+                    <witness xml:id="AWP_1915-12-20">New York Tribune 1915-12-20, sec. 3: 10</witness>               
+                </listWit>
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+    <text>
+        <front>
+            <div type="titlepage">
+                <head>ARE WOMEN PEOPLE?</head>
+                <head>A Book of Rhymes for Suffrage Times</head>
+                <p/>
+                <p>By Alice Duer Miller</p>
+                <p>Author of “Blue Arch,” “The Modern Obstacle,” etc.</p>
+                <p>New York</p>
+                <p>George H. Dorian Company</p>
+            </div>
+            <div type="introduction">
+                <head>Introduction</head>
+                <lg>
+                    <l>Father, what is a Legislature?</l>
+                    <l>A representative body elected by the people of the state.</l>
+                    <l>Are women people?</l>
+                    <l>No, my son, criminals, lunatics and women are not people.</l>
+                    <l>Do legislators legislate for nothing?</l>
+                    <l>Oh, no; they are paid a salary.</l>
+                    <l>By whom?</l>
+                    <l>By the people.</l>
+                    <l>Are women people?</l>
+                    <l>Of course, my son, just as much as men are.</l>
+                </lg>
+            </div>
+            <div type="toc">
+                <head>Contents</head>
+                <list>
+                    <item>Introduction</item>
+                    <item>Treacherous Texts</item>
+                    <item>Campaign Material (For Both Sides)</item>
+                    <item>Women`s Sphere</item>
+                    <item>A Masque of Teachers: The Ideal Candidates</item>
+                    <item>The Unconscious Suffragists</item>
+                </list>
+            </div>
+            <div type="dedication">
+                <head>Dedication</head>
+                <p>To the New York Tribune, in whose generous columns many of these verses first appeared, the author here wishes to express her gratitude.</p>
+            </div>
+        </front>
+        <body>
+          <div type="section" n="1">
+                <head>TREACHEROUS TEXTS</head>
+
+            <div type="poem" n="1">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-21.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-21.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-31.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-12-20.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-06-07.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_ED_1915-03-23.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-07-19.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_02_07.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_04_04.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-15.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_04_04.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-01.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-05-31.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-03.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-02-28.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-02-14.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_ED_1915-02-10.jpeg?raw=true"/><head>A Consistent <app xml:id="poem1_app1">
+                            <lem wit="AWP_1915">Anti</lem>
+                            <rdg wit="AWP_1915-03-21">Mother</rdg>
+                            <note type="editorial">
+                                <p>"Anti" appears as "Mother in the first published version,
+                                    possibly changed for rhetorical and political effect in the book
+                                    edition.</p>
+                            </note>
+                        </app> to Her Son</head>
+                <epigraph><cit><quote>“Look at the hazards, the risks, the physical dangers that
+                    ladies would be exposed to at the
+                    polls.”</quote><bibl>—Anti-suffrage speech.</bibl></cit></epigraph>
+                <lg>
+                    <lg>
+                        <l>You’re twenty-one to-day, Willie,</l>
+                        <l>And a danger lurks at the door,</l>
+                        <l>I’ve known about it always,</l>
+                        <l>But I never spoke before;</l>
+                        <l>When you were only a baby</l>
+                        <l>It seemed so very remote,</l>
+                        <l>But you’re twenty-one to-day, Willie,</l>
+                        <l>And old enough to vote.</l>
+                    </lg>
+                    <lg>
+                        <l>You must not go to the polls, Willie,</l>
+                        <l>Never go to the polls,</l>
+                        <l>They’re dark and dreadful places</l>
+                        <l>Where many lose their souls;</l>
+                        <l>They smirch, degrade and coarsen,</l>
+                        <l>Terrible things they do</l>
+                        <l>To quiet, elderly women—</l>
+                        <l>What would they do to you!</l>
+                    </lg>
+                    <lg>
+                        <l>If you’ve a boyish fancy</l>
+                        <l>For any measure or man,</l>
+                        <l>Tell me, and I’ll tell Father,</l>
+                        <l>He’ll vote for it, if he can.</l>
+                        <l>He casts my vote, and Louisa’s,</l>
+                        <l>And Sarah, and dear Aunt Clo;</l>
+                        <l>Wouldn’t you let him vote for you?</l>
+                        <l>Father, who loves you so?</l>
+                    </lg>
+                    <lg>
+                        <l>I’ve guarded you always, Willie,</l>
+                        <l>Body and soul from harm;</l>
+                        <l>I’ll guard your faith and honor,</l>
+                        <l>Your innocence and charm</l>
+                        <l>From the polls and their evil spirits,</l>
+                        <l>Politics, rum and pelf;</l>
+                        <l>Do you think I’d send my only son</l>
+                        <l>Where I would not go myself?</l>
+                    </lg>
+                </lg>
+            </div>
+<div>
+            <div type="poem" n="2">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-31.jpeg?raw=true"/><head>Our Idea of Nothing at All</head>
+                    <epigraph>
+                        <cit>
+                            <quote>I am opposed to woman suffrage, but I am not opposed to
+                                woman..</quote>
+                            <bibl>—Anti-suffrage speech of Mr. Webb of North Carolina.</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>O women, have you heard the news</l>
+                        <l>Of charity and grace?</l>
+                        <l>Look, look<add>,</add> how joy and gratitude</l>
+                        <l>Are beaming in my face!</l>
+                        <l>For Mr. Webb is not opposed</l>
+                        <l>To woman in her place!</l>
+                    </lg>
+                    <lg>
+                        <l>O Mr. Webb, how kind you are</l>
+                        <l>To let us live at all,</l>
+                        <l>To let us light the kitchen range</l>
+                        <l>And tidy up the hall;</l>
+                        <l>To tolerate the female sex</l>
+                        <l>In spite of Adam’s fall.</l>
+                    </lg>
+                    <lg>
+                        <l>O girls, suppose that Mr. Webb</l>
+                        <l>Should alter his decree!</l>
+                        <l>Suppose he were opposed to us—</l>
+                        <l>Opposed to you and me<del>.</del><add>!</add></l>
+                        <l>What would be left for us to do—</l>
+                        <l>Except to cease to be?</l>
+                    </lg>
+                </lg>
+            </div>
+</div>
+            <div type="poem" n="3">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg?raw=true"/><head>Lines to Mr. Bowdle of Ohio</head>
+                    <epigraph>
+                        <cit>
+                            <quote>The women of this smart capital are beautiful. Their beauty is
+                                disturbing to business; their feet are beautiful, their ankles are
+                                beautiful, but here I must pause.</quote>
+                            <bibl>”—<del>Press report of</del>Mr. Bowdle’s anti-suffrage speech in
+                                Congress, January 12, 1915.</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>You, who despise the so-called fairer sex,</l>
+                        <l>Be brave. There really isn’t any reason</l>
+                        <l>You should not, if you wish, oppose and vex</l>
+                        <l>And scold us in, and <del>even</del><add>often</add> out<del>,</del> of
+                                season;</l>
+                        <l>But don’t regard it as your bounden duty</l>
+                        <l>To open with a tribute to our beauty.</l>
+                    </lg>
+                    <lg>
+                        <l>Say<del>,</del> if you like<del>,</del> that women have no sense,</l>
+                        <l>No self-control, no power of concentration<add>;</add><del>,</del></l>
+                        <l>Say that hysterics is our one defence</l>
+                        <l>Our virtue but an absence of temptation;</l>
+                        <l>These I can bear, but<add>,</add> oh, I own it rankles</l>
+                        <l>To hear you maundering on about our ankles.</l>
+                    </lg>
+                    <lg>
+                        <l>Tell those old stories, which have now and then</l>
+                        <l>Been from the Record thoughtfully deleted<add>,</add><del>;</del></l>
+                        <l>Repeat that <add>favorite one about</add><del>fine allusion to</del> the
+                                hen,</l>
+                        <l>Repeat the ones that cannot be repeated;</l>
+                        <l>But in the midst of such enjoyments, smother</l>
+                        <l>The impulse to extol your “sainted mother.”</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="4">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-31.jpeg?raw=true"/><head>On Not Believing All You Hear</head>
+                    <epigraph>
+                        <cit>
+                            <quote>Women are angels, they are jewels, they are queens and princesses
+                                of our hearts</quote>
+                            <bibl>—Anti-suffrage speech of Mr. Carter of Oklahoma.</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>“Angel, or jewel, or princess, or queen,</l>
+                        <l>Tell me immediately<del>,</del> where <del>you</del>have <add>you</add>
+                                    been<add>?</add><del>.</del>”</l>
+                    </lg>
+                    <lg>
+                        <l>“I’ve been to ask all my slaves so devoted</l>
+                        <l>Why they against my enfranchisement voted.”</l>
+                    </lg>
+                    <lg>
+                        <l>“Angel and princess, that action was wrong.</l>
+                        <l>Back to the kitchen, where angels belong.”</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="5">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg?raw=true"/><head>The Revolt of Mother</head>
+                    <epigraph>
+                        <cit>
+                            <quote>Every true woman feels---</quote>
+                            <bibl>—Speech of almost any Congressman.</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>I am old-fashioned, and I think it right</l>
+                        <l>That man should know, by Nature’s laws
+      eternal,</l>
+                        <l>The proper way to rule, to earn, to fight,</l>
+                        <l>And exercise those functions called
+      paternal;</l>
+                        <l>But even I a little bit rebel</l>
+                        <l>At finding that he knows my job as well.</l>
+                    </lg>
+                    <lg>
+                        <l>At least he’s always ready to expound it,</l>
+                        <l>Especially in legislative hall,</l>
+                        <l>The joys, the cares, the halos that surround it,</l>
+                        <l>“How <add>women</add><del>good wives</del> feel”—he knows that best of
+                                all.</l>
+                        <l>In fact his thesis is that no one can</l>
+                        <l>Know what is womanly except a man.</l>
+                    </lg>
+                    <lg>
+                        <l>I am old-fashioned, and I am content</l>
+                        <l>When he explains the world of art and
+      science</l>
+                        <l>And government—to him divinely sent—</l>
+                        <l>I drink it in with ladylike compliance.</l>
+                        <l>But cannot listen—no, I’m only human—</l>
+                        <l>While he instructs me how to be a woman.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="6">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-12-20.jpeg?raw=true"/><head>The Gallant Sex</head>
+                    <epigraph>
+                        <p>A woman engineer has been dismissed by the Board of Education,
+                                <del>(</del>under their new rule that women shall not attend high
+                            pressure boilers<del>)</del>, although her work has been satisfactory
+                            and she holds a license <add>to attend such boilers</add> from the
+                            Police Department <del>to attend such boilers</del>. </p>
+                        <p><del>Protect women by giving their jobs to men!</del></p>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>Lady, dangers lurk in boilers,</l>
+                        <l>Risks I could not let you face.</l>
+                        <l>Men were meant to be the toilers,</l>
+                        <l>Home, you know, is woman’s place.</l>
+                        <l>Have no home? Well, is that so?</l>
+                        <l>Still, it’s not my fault, you know.</l>
+                    </lg>
+                    <lg>
+                        <l>Charming lady, work no more;</l>
+                        <l>Fair you are and sweet as honey;</l>
+                        <l>Work might make your fingers sore,</l>
+                        <l>And, besides, I need the money.</l>
+                        <l>Prithee<del>,</del> rest<add>,</add>—or starve or rob—</l>
+                        <l>Only let me have your job!</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="7">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-06-07.jpeg?raw=true"/><head>Representation</head>
+                    <epigraph>
+                        <cit>
+                            <quote>My wife is against suffrage, and that settles me.</quote>
+                            <bibl>—Vice-President Marshall.</bibl>
+                        </cit>
+                        <p><del>The fact that Vice-President Marshall has said: <quote>My wife is
+                                    against suffrage, and that settles me,</quote>has naturally
+                                inspired a good deal of poetry.</del></p>
+                    </epigraph>
+                <lg>
+                    <lg>
+                            <l><add>I</add></l>
+                            <del>Feargus O'Brien writes:</del>
+                        </lg>
+                    <lg>
+                        <l>My wife dislikes the income tax,</l>
+                        <l>And so I cannot pay it;</l>
+                        <l>She <add>thinks</add><del>says</del> that golf all interest lacks,</l>
+                        <l>So now I never play it;</l>
+                        <l>She is opposed to tolls repeal</l>
+                        <l>(Though why<add>,</add> I cannot say),</l>
+                        <l>But woman’s duty is to feel,</l>
+                        <l>And man’s is to obey.</l>
+                    </lg>
+                    <lg>
+                        <l><add>II</add><del>And Peter Parkins says:</del></l>
+                    </lg>
+                    <lg>
+                        <l>I’m in a hard position for a perfect gentleman,</l>
+                        <l>I want to please the ladies, but I don’t see how I
+      can,</l>
+                        <l>My present wife’s a suffragist, and counts on my
+      support,</l>
+                        <l>But my mother is an anti, of a rather biting sort;</l>
+                        <l>One grandmother is on the fence, the other much
+      opposed,</l>
+                        <l>And my sister live<add>s</add><del>d</del> in Oregon, and thinks the
+                                question’s closed;</l>
+                        <l>Each one is counting on my vote to represent her view.</l>
+                        <l>Now what should you think proper for a gentleman to
+      do?</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="8">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_ED_1915-03-23.jpeg?raw=true"/><head>Sonnet</head>
+                    <epigraph>
+                        <cit>
+                            <quote>Three bills known as the Thompson-Bewley cannery bills have been
+                                advanced to third reading in the Senate and Assembly at Albany. One
+                                permits the canners to work their employés seven days a week, a
+                                second allows them to work women after 9 p.m. and a third removes
+                                every restriction upon the hours of labor of women and
+                                minors.</quote>
+                            <bibl>—Zenas L. Potter, former chief cannery investigator for New York
+                                State Factory Investigating Commission.</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>Let us not to an unrestricted day</l>
+                        <l>Impediments admit. Work is not work</l>
+                        <l>To our employés, but a merry play;</l>
+                        <l>They do not ask the law’s excuse to shirk.</l>
+                        <l>Ah, no, the canning season is at hand,</l>
+                        <l>When summer scents are on the air distilled,</l>
+                        <l>When golden fruits are ripening in the land,</l>
+                        <l>And silvery tins are gaping to be filled.</l>
+                        <l>Now to the cannery with jocund mien</l>
+                        <l>Before the dawn come women, girls and boys,</l>
+                        <l>Whose weekly hours (a hundred and nineteen)</l>
+                        <l>Seem all too short for their industrious joys.</l>
+                        <l>If this be error and be proved, alas</l>
+                        <l>The Thompson-Bewley bills may fail to pass!</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="9">
+                <pb
+                        facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-17.jpeg?raw=true"/><head>To President Wilson</head>
+                    <epigraph>
+                        <cit>
+                            <quote>I hold it as a fundamental principle and so do you, that every
+                                people has the right to determine its own form of government. And
+                                until recently 50 per cent of the people of Mexico have not had a
+                                look-in in determining who should be their governors, or what their
+                                government should be.</quote>
+                            <bibl>—Speech of President Wilson</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>Wise and just man—for such I think you
+      are—</l>
+                        <l>How can you see so burningly and clear</l>
+                        <l>Injustices and tyrannies afar,</l>
+                        <l>Yet blind your eyes to one that lies so near?</l>
+                        <l>How can you plead so earnestly for men</l>
+                        <l>Who fight their own fight with a bloody hand;</l>
+                        <l>How hold their cause so wildly dear, and then</l>
+                        <l>Forget the women of your native land?</l>
+                        <l>With your stern ardor and your scholar’s word</l>
+                        <l>You speak to us of human liberty;</l>
+                        <l>Can you believe that women are not stirred</l>
+                        <l>By this same human longing to be free?</l>
+                        <l>He who for liberty would strike a blow</l>
+                        <l>Need not take arms, or fly to Mexico.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="10">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg?raw=true"/><head>Home and Where It Is</head>
+                    <epigraph>
+                        <p>An Indiana judge has recently ruled: As to the right of the husband to
+                            decide the location of the home that<quote>home is where the husband
+                                is.</quote></p>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>Home is where the husband is,</l>
+                        <l>Be it near or be it far,</l>
+                        <l>Office, theatre, Pullman car,</l>
+                        <l>Poolroom, polls, or corner bar—</l>
+                        <l>All good wives remember this—</l>
+                        <l>Home is where the husband is.</l>
+                    </lg>
+                    <lg>
+                        <l>Woman’s place is home, I wis.</l>
+                        <l>Leave your <del>clothes and dishes drying</del><add>family bacon
+                                    frying</add>,</l>
+                        <l>Leave <del>the family bacon frying</del><add>your wash and dishes
+                                    drying</add>,</l>
+                        <l>Leave your little children crying;</l>
+                        <l>Join your husband, near or far,</l>
+                        <l>At the club or corner bar,</l>
+                        <l>For the court has taught us this:</l>
+                        <l><add>“</add>Home is where the husband is.<add>”</add></l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="11">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_02_07.jpeg?raw=true"/><head>The Maiden’s Vow</head>
+                    <epigraph>
+                        <p>A speaker at the National Education Association advised girls not to
+                            study algebra. Many girls, he said, had lost their souls through this
+                            study. The idea has been taken up with enthusiasm <del>by many girls, as
+                                the following poem indicates:</del>.</p>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>I will avoid equations,</l>
+                        <l>And shun the naughty surd,</l>
+                        <l>I must beware the perfect square,</l>
+                        <l>Through it young girls have erred:</l>
+                        <l>And when men mention Rule of Three</l>
+                        <l>Pretend I have not heard.</l>
+                    </lg>
+                    <lg>
+                        <l>Through Sturm’s delightful theorems</l>
+                        <l>Illicit joys assure,</l>
+                        <l>Though permutations and combinations</l>
+                        <l>My woman’s heart allure,</l>
+                        <l>I’ll never study algebra,</l>
+                        <l>But keep my spirit pure.</l>
+                    </lg>
+                </lg>
+                    <p><del>Mabel May Orville</del></p>
+            </div>
+
+            <div type="poem" n="12">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_02_07.jpeg?raw=true"/><head>Such Nonsense</head>
+                    <epigraph>
+                        <cit>
+                            <quote>Where on earth did the idea come from that the ballot is a boon,
+                                a privilege and an honor? From men.</quote>
+                            <bibl>—Mrs. Prestonia Mann Martin</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>Who is it thinks the vote some use?</l>
+                        <l>Man. (Man is often such a goose!)</l>
+                        <l>Indeed it makes me laugh to see</l>
+                        <l>How men have struggled to be free.</l>
+                    </lg>
+                    <lg>
+                        <l>Poor Washington, who meant so well,</l>
+                        <l>And Nathan Hale and William Tell,</l>
+                        <l>Hampden and Bolivar and Pym,</l>
+                        <l>And L’Ouverture—remember him?</l>
+                    </lg>
+                    <lg>
+                        <l>And Garibaldi and Kossuth,</l>
+                        <l>And some who threw away their youth,</l>
+                        <l>All bitten by the stupid notion</l>
+                        <l>That liberty was worth emotion.</l>
+                    </lg>
+                    <lg>
+                        <l>They could not get it through their heads</l>
+                        <l>That if they stayed tucked up in beds,</l>
+                        <l>Avoiding politics and strife,</l>
+                        <l>They’d lead a pleasant, peaceful life.</l>
+                    </lg>
+                    <lg>
+                        <l>Let us, dear sisters, never make</l>
+                        <l>Such a ridiculous mistake;</l>
+                        <l>But teach our children o’er and o’er</l>
+                        <l>That liberty is just a chore.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="13">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_04_04.jpeg?raw=true"/><head>A Suggested Campaign Song</head>
+                    <epigraph>
+                        <cit>
+                            <quote>No brass bands. No speeches. Instead a still, silent, effective
+                                influence.</quote>
+                            <bibl>—Anti-suffrage speech.</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>We are waging—can you doubt it?</l>
+                        <l>A campaign so calm and still</l>
+                        <l>No one knows a thing about it,</l>
+                        <l>And we hope they never will.</l>
+                        <l>No one knows</l>
+                        <l>What we oppose,</l>
+                        <l>And we hope they never will.</l>
+                    </lg>
+                    <lg>
+                        <l>We are ladylike and quiet,</l>
+                        <l>Here a whisper—there a hint;</l>
+                        <l>Never speeches, bands or riot,</l>
+                        <l>Nothing suitable for print.</l>
+                        <l>No one knows</l>
+                        <l>What we oppose,</l>
+                        <l>For we never speak for print.</l>
+                    </lg>
+                    <lg>
+                        <l>Sometimes in profound seclusion,</l>
+                        <l>In some far (but homelike) spot,</l>
+                        <l>We will make a dark allusion:</l>
+                        <l>“We’re opposed to you-know-what.”</l>
+                        <l>No one knows</l>
+                        <l>What we oppose,</l>
+                        <l>For we call it “You-Know-What.”</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="14">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg?raw=true"/><head>The Woman of Charm</head>
+                    <epigraph>
+                        <cit>
+                            <quote>I hate a woman who is not a mystery to herself, as well as to
+                                me.</quote>
+                            <bibl>—The Phoenix.</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>If you want a receipt for that popular mystery</l>
+                        <l>Known to the world as a Woman of Charm,</l>
+                        <l>Take all the conspicuous ladies of history,</l>
+                        <l>Mix them all up without doing them harm.</l>
+                        <l>The beauty of Helen, the warmth of Cleopatra,</l>
+                        <l>Salome’s notorious skill in the dance,</l>
+                        <l>The dusky allure of the belles of Sumatra,</l>
+                        <l>The fashion and finish of ladies from
+      France.</l>
+                        <l>The youth of Susanna, beloved by an elder,</l>
+                        <l>The wit of a Chambers’ incomparable minx,</l>
+                        <l>The conjugal views of the patient Griselda,</l>
+                        <l>The fire of Sappho, the calm of the Sphinx,</l>
+                        <l>The eyes of La Vallière, the voice of Cordelia,</l>
+                        <l>The musical gifts of the sainted Cecelia,</l>
+                        <l>Trilby and Carmen and Ruth and Ophelia,</l>
+                        <l>Madame de Staël and the matron Cornelia,</l>
+                        <l>Iseult, Hypatia and naughty Nell Gwynn,</l>
+                        <l>Una, Titania and Elinor Glyn.</l>
+                        <l>Take of these elements all that is fusible,</l>
+                        <l>Melt ’em all down in a pipkin or crucible,</l>
+                        <l>Set ’em to simmer and take off the scum,</l>
+                        <l>And a Woman of Charm is the residuum!</l>
+                        <l>(Slightly adapted from W.S. Gilbert.)</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="15">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-15.jpeg?raw=true"/><head>A Modern Proposal</head>
+                    <epigraph>
+                        <p><del>Some one has</del><add>It has been</add> said that the feminist
+                            movement is the true solution of the mother-in-law problem.</p>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>Sylvia, my dear, I would be yours with pleasure,</l>
+                        <l>All that you are seems excellent to me,</l>
+                        <l>Except your mother, who’s much more at leisure</l>
+                        <l>Than mothers ought to be.</l>
+                    </lg>
+                    <lg>
+                        <l>Find her a fad, a job, an occupation,</l>
+                        <l>Eugenics, dancing, uplift, yes, or crime,</l>
+                        <l>Set her to work <del>at</del><add>for</add> her Emancipation—</l>
+                        <l>That takes a lot of time.</l>
+                    </lg>
+                    <lg>
+                        <l>Or<add>,</add> if the suffrage doctrine fails to charm her,</l>
+                        <l>There are the Antis—rather in her
+      line—</l>
+                        <l>Guarding the Home<del>,</del> from Maine to Alabama</l>
+                        <l>Would keep her out of mine.</l>
+                    </lg>
+                </lg>
+                    <p>W.G.</p>
+            </div>
+
+            <div type="poem" n="16">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_04_04.jpeg?raw=true"/><head>The Newer Lullaby</head>
+                    <epigraph>
+                        <cit>
+                            <quote>Good heavens, when I think what the young boy of to-day is
+                                growing up to I gasp. He has too many women around him all the time.
+                                He has his mother when he is a baby.</quote>
+                            <bibl>—Bernard Fagin, Probation Officer.</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>Hush-a-bye, baby,</l>
+                        <l>Feel no alarm,</l>
+                        <l>Gunmen shall guard you,</l>
+                        <l>Lest Mother should harm.</l>
+                        <l>Wake in your cradle,</l>
+                        <l>Hear father curse!</l>
+                        <l>Isn’t that better</l>
+                        <l>Than Mother or Nurse?</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="17">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-01.jpeg?raw=true"/><head>The Protected Sex</head>
+                    <epigraph>
+                        <p><add>With apologies to James Whitcomb Riley</add><del>The London Globe in
+                                an editorial against co-education says:</del></p>
+                        <cit>
+                            <quote>The result of taking second place to <del>the</del> girls at
+                                school is that the boy feels a sense of inferiority that he is never
+                                afterward able entirely to shake off.</quote>
+                            <bibl>—Editorial in London Globe against co-education.</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>There, little girl, don’t read<add>,</add><del>!</del></l>
+                        <l>You’re fond of your books, <add>I know,</add><del>it's true;</del></l>
+                        <l>But Brother might mope</l>
+                        <l>If he had no hope</l>
+                        <l>Of getting ahead of you.</l>
+                        <l>It’s dull for a boy who cannot lead.</l>
+                        <l>There, little girl, don’t read<add>,</add><del>!</del></l>
+                    </lg>
+                </lg>
+            </div>
+                <div type="poem" n="18">
+                    <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-05-31.jpeg?raw=true"/><head>Warning to Suffragists</head>
+                    <epigraph>
+                        <cit>
+                            <quote>The Latin man believes that giving woman the vote will make her
+                                less attractive.</quote>
+                            <bibl>—Anna H. Shaw. <del>Speech at Rome.</del></bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>They must sacrifice their beauty</l>
+                        <l>Who would do their civic duty,</l>
+                        <l>Who the polling booth would enter,</l>
+                        <l>Who the ballot box would use;</l>
+                        <l>As they drop their ballots in it</l>
+                        <l>Men and women in a minute,</l>
+                        <l>Lose their charm, the antis tell us,</l>
+                        <l>But—the men have less to lose.</l>
+                    </lg>
+                </lg>
+            </div>
+            <div type="poem" n="19">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-03.jpeg?raw=true"/><head>Partners</head>
+                    <epigraph>
+                        <cit>
+                            <quote>Our laws have not yet reached the point of holding that property
+                                which is the result of the husband’s earnings and the wife’s savings
+                                becomes their joint property.... In this most important of all
+                                partnerships there is no partnership property.</quote>
+                            <bibl>—Recent decision of the New York Supreme Court.</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>Lady, lovely lady, come and share</l>
+                        <l>All my care;</l>
+                        <l>Oh how gladly I will hurry</l>
+                        <l>To confide my every worry</l>
+                        <l>(And they’re very dark and drear)</l>
+                        <l>In your ear.</l>
+                    </lg>
+                    <lg>
+                        <l>Lady, share the praise I obtain</l>
+                        <l>Now and again;</l>
+                        <l>Though I’m shy, it doesn’t matter,</l>
+                        <l>I will tell you how they flatter:</l>
+                        <l>Every compliment I’ll share</l>
+                        <l>Fair and square.</l>
+                    </lg>
+                    <lg>
+                        <l>Lady, I my toil will divide</l>
+                        <l>At your side;</l>
+                        <l>I outside the home, you within;</l>
+                        <l>You shall wash and cook and spin,</l>
+                        <l>I’ll provide the flax and food,</l>
+                        <l>If you’re good.</l>
+                    </lg>
+                    <lg>
+                        <l>Partners, lady, we shall be,</l>
+                        <l>You and me<add>,</add><del>;</del></l>
+                        <l>Partners in the highest sense<del>,</del></l>
+                        <l>Looking for no recompense,</l>
+                        <l>For, the savings that we make,</l>
+                        <l>I shall take.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="20">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-02-28.jpeg?raw=true"/><head>What Governments Say to Women</head>
+                    <epigraph>
+                        <p>The law compels a married woman to take the nationality of her
+                            husband.</p>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>I</l>
+                    </lg>
+                    <lg>
+                        <l>In Time of War</l>
+                    </lg>
+                    <lg>
+                        <l>Help us. Your country needs you;</l>
+                        <l>Show that you love her,</l>
+                        <l>Give her your men to fight,</l>
+                        <l>Ay, even to fall;</l>
+                        <l>The fair, free land of your birth,</l>
+                        <l>Set nothing above her<add>,</add><del>;</del></l>
+                        <l>Not husband nor son,</l>
+                        <l>She must come first of all.</l>
+                    </lg>
+                    <lg>
+                        <l>II</l>
+                    </lg>
+                    <lg>
+                        <l>In Time of Peace</l>
+                    </lg>
+                    <lg>
+                        <l>What’s this? You’ve wed an alien,</l>
+                        <l>Yet you ask for legislation</l>
+                        <l>To guard your nationality?</l>
+                        <l>We’re shocked at your demand.</l>
+                        <l>A woman when she marries</l>
+                        <l>Takes her husband’s name and nation:</l>
+                        <l>She should love her husband only.</l>
+                        <l>What’s a woman’s native land?</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="21">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-02-14.jpeg?raw=true"/><head>“Oh, That ’Twere Possible!”</head>
+                    <epigraph>
+                        <p>With apologies to Lord Tennyson.</p>
+                        <cit>
+                            <quote>The grant of suffrage to women is repugnant to instincts that
+                                strike their roots deep in the order of nature. It runs counter to
+                                human reason, it flouts the teachings of experience and the
+                                admonitions of common sense.</quote>
+                            <bibl>—N.Y. Times, Feb. 7, 1915.</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>Oh, that ’twere possible</l>
+                        <l>After those words inane</l>
+                        <l>For me to read The Times</l>
+                        <l>Ever again!</l>
+                    </lg>
+                    <lg>
+                        <l>When I was wont to read it</l>
+                        <l>In the early morning hours,</l>
+                        <l>In a mood ’twixt wrath and mirth,</l>
+                        <l>I exclaimed: “Alas, Ye Powers,</l>
+                        <l>These ideas are fainter, quainter</l>
+                        <l>Than anything on earth!”</l>
+                    </lg>
+                    <lg>
+                        <l>A paper’s laid before me.</l>
+                        <l>Not thou, not like to thee.</l>
+                        <l>Dear me, if it were possible</l>
+                        <l>The Times should ever see</l>
+                        <l>How very far the times have moved</l>
+                        <l>(Spelt with a little “t”).</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="22">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_ED_1915-02-10.jpeg?raw=true"/><head>The Times Editorials</head>
+                <lg>
+                    <lg>
+                        <l>Lovely Antiques<add>,</add><del>!</del> breathing in every line</l>
+                        <l>The perfume of an age long passed away,</l>
+                        <l>Wafting us back to 1829,</l>
+                        <l>Museum pieces of a by<add>-</add>gone day,</l>
+                        <l>You should not languish in the public press</l>
+                        <l>Where modern thought might reach and do you harm,</l>
+                        <l>And vulgar youth insult your hoariness,</l>
+                        <l>Missing the flavor of your old<del>-</del>world charm;</l>
+                        <l>You should be locked, where rust cannot corrode</l>
+                        <l>In some old rosewood cabinet, dimmed by age,</l>
+                        <l>With silver-lustre, tortoise shell and Spode;</l>
+                        <l><del>While</del><add>And</add> all would cry, who read your yellowing
+                                page:</l>
+                        <l>“Yes, that’s the sort of thing that men
+      believed</l>
+                        <l>Before the First Reform Bill was
+      conceived!”</l>
+                    </lg>
+                </lg>
+            </div>
+            </div>
+          <div type="section" n="2">
+                <head>CAMPAIGN MATERIAL</head>
+                <p>(For Both Sides)</p>
+
+            <div type="poem" n="23">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-29.jpeg?raw=true"/><head>Our Own Twelve Anti-suffragist Reasons</head>
+                    <list>
+                        <item>
+                            <p>1. Because no woman will leave her domestic duties to vote.</p>
+                        </item>
+                        <item>
+                            <p>2. Because no woman who <add>may</add> vote<del>s</del> will attend
+                                to her domestic duties.</p>
+                        </item>
+                        <item>
+                            <p>3. Because it will make dissension between husband and wife.</p>
+                        </item>
+                        <item>
+                            <p>4. Because every <add>woman</add>
+                                <del>wife</del> will vote <del>exactly</del> as her husband
+                                    <del>does</del><add>tells her to</add>.</p>
+                        </item>
+                        <item>
+                            <p>5. Because bad women will corrupt <del>our</del> politics.</p>
+                        </item>
+                        <item>
+                            <p>6. Because bad politics will corrupt <del>our</del> women.</p>
+                        </item>
+                        <item>
+                            <p>7. Because women have no power of organization.</p>
+                        </item>
+                        <item>
+                            <p>8. Because women will form <del>themselves into a women's</del>
+                                <add>a solid</add> party <add>and outvote men</add>.</p>
+                        </item>
+                        <item>
+                            <p>9. Because men and women are so different that they must
+                                    <del>have</del>
+                                <add>stick to</add> different duties.</p>
+                        </item>
+                        <item>
+                            <p>10. Because men and women are so much alike that men<add>,</add> with
+                                one vote each<add>,</add> can <del>express themselves and us
+                                    </del><add>represent their own views and ours</add> too.</p>
+                        </item>
+                        <item>
+                            <p>11. Because women cannot use force.</p>
+                        </item>
+                        <item>
+                            <p>12. Because the militants did use force.</p>
+                        </item>
+                    </list>
+            </div>
+
+            <div type="poem" n="24">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-05-03.jpeg?raw=true"/><head>Why We Oppose Pockets for Women</head>
+                    <list>
+                        <item>
+                            <p>1. Because pockets are not a natural right.</p>
+                        </item>
+                        <item>
+                            <p>2. Because the great majority of women do not want pockets. If they
+                                did they would have them.</p>
+                        </item>
+                        <item>
+                            <p>3. Because whenever women have had pockets they have not used
+                                them.</p>
+                        </item>
+                        <item>
+                            <p>4. Because women are required to carry enough things as it is,
+                                without the additional burden of pockets.</p>
+                        </item>
+                        <item>
+                            <p>5. Because it would make dissension between husband and wife as to
+                                whose pockets were to be filled.</p>
+                        </item>
+                        <item>
+                            <p>6. Because it would destroy man’s chivalry toward woman, if he did
+                                not have to carry all her things in his pockets.</p>
+                        </item>
+                        <item>
+                            <p>7. Because men are men, and women are women. We must not fly in the
+                                face of nature.</p>
+                        </item>
+                        <item>
+                            <p>8. Because pockets have been used by men to carry tobacco, pipes,
+                                whiskey flasks, chewing gum and compromising letters. We see no
+                                reason to suppose that women would use them more wisely.</p>
+                        </item>
+                    </list>
+            </div>
+
+            <div type="poem" n="25">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-06-14.jpeg?raw=true"/><head>Fashion Notes: Past and Present</head>
+                <p>1880—Anti-suffrage arguments are being worn long, calm
+  and flowing this year, with the dominant note that of woman’s
+  intellectual inferiority.</p>
+                <p>1890—Violence is very evident in this season’s modes,
+  and our more conservative thinkers are saying that woman suffrage
+  threatens the home, the Church and the Republic.</p>
+                <p>1900—A complete change of style has taken place.
+  Everything is being worn a l’aristocrate, with the
+  repeated assertion that too many people are voting already.</p>
+                <p>1915—The best line of goods shown by the leading
+  anti-suffrage houses this spring is the statement that woman
+  suffrage is the same thing as free love. The effect is extremely
+  piquant and surprising.</p>
+            </div>
+
+            <div type="poem" n="26">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-06-07.jpeg?raw=true"/><head>Why We Oppose Women Travelling in Railway Trains</head>
+                    <list>
+                        <item>
+                            <p>1. Because travelling in trains is not a natural right.</p>
+                        </item>
+                        <item>
+                            <p>2. Because our great-grandmothers never asked to travel in
+                                trains.</p>
+                        </item>
+                        <item>
+                            <p>3. Because woman’s place is the home, not the train.</p>
+                        </item>
+                        <item>
+                            <p>4. Because it is unnecessary; there is no point reached by a train
+                                that cannot be reached on foot.</p>
+                        </item>
+                        <item>
+                            <p>5. Because it will double the work of conductors, engineers and
+                                brakemen who are already overburdened.</p>
+                        </item>
+                        <item>
+                            <p>6. Because men smoke and play cards in trains. Is there any reason to
+                                believe that women will behave better?</p>
+                        </item>
+                    </list>
+            </div>
+
+            <div type="poem" n="27">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-04-12.jpeg?raw=true"/><head>Why We Oppose Schools for Children</head>
+                <p>(By the Children’s Anti-School League.)</p>
+                    <list>
+                        <item>
+                            <p>1. Because education is a burden, not a right.</p>
+                        </item>
+                        <item>
+                            <p>2. Because not one-tenth of one per cent. of the children of this
+                                country have demanded education.</p>
+                        </item>
+                        <item>
+                            <p>3. Because if we are educated we should have to behave as if we were
+                                and we don’t want to.</p>
+                        </item>
+                        <item>
+                            <p>4. Because it is essentially against the nature of a child to be
+                                educated.</p>
+                        </item>
+                        <item>
+                            <p>5. Because we can’t see that it has done so much for grown-ups, and
+                                there is no reason for thinking it will make children perfect.</p>
+                        </item>
+                        <item>
+                            <p>6. Because the time of children is already sufficiently occupied
+                                without going to school.</p>
+                        </item>
+                        <item>
+                            <p>7. Because it would make dissension between parent and child. Imagine
+                                the home life of a parent who turned out to be more ignorant than
+                                his (or her) child?</p>
+                        </item>
+                        <item>
+                            <p>8. Because we believe in the indirect education of the theatre, the
+                                baseball field and the moving picture. We believe that schools would
+                                in a great measure deprive us of this.</p>
+                        </item>
+                        <item>
+                            <p>9. Because our parents went to school. They love us, they take care
+                                of us, they tell us what to do. We are content that they should be
+                                educated for us.</p>
+                        </item>
+                    </list>
+            </div>
+
+            <div type="poem" n="28">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-15.jpeg?raw=true"/><head>But Then Who Cares for Figures</head>
+                <p>An argument sometimes used against paying women as highly as
+  men for the same work is that women are only temporarily in
+  industry.</p>
+                <p>Forty-four per cent of the women teachers in the public
+  schools of New York have been more than ten years in the service,
+  while only twenty-six per cent of the men teachers have served as
+  long.</p>
+                <p>The Bundesrath of Germany has decided to furnish medical and
+  financial assistance to women at the time of childbirth, in order
+  “to alleviate the anxiety of husbands at the front.”</p>
+                <p>How strange this would sound: “The Bundesrath has decided to
+  furnish medical assistance to the wounded at the front, in order
+  to alleviate the anxiety of wives and mothers at home.”</p>
+                <p>When a benefit is suggested for men, the question asked is:
+  “Will it benefit men?”</p>
+                <p>When a benefit is suggested for women, the question is: “Will
+  it benefit men?”</p>
+            </div>
+
+            <div type="poem" n="29">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Why We Oppose Votes for Men</head>
+                    <list>
+                        <item>
+                            <p>1. Because man’s place is the armory.</p>
+                        </item>
+                        <item>
+                            <p>2. Because no really manly man wants to settle any question otherwise
+                                than by fighting about it.</p>
+                        </item>
+                        <item>
+                            <p>3. Because if men should adopt peaceable methods women will no longer
+                                look up to them.</p>
+                        </item>
+                        <item>
+                            <p>4. Because men will lose their charm if they step out of their
+                                natural sphere and interest themselves in other matters than feats
+                                of arms, uniforms and drums.</p>
+                        </item>
+                        <item>
+                            <p>5. Because men are too emotional to vote. Their conduct at baseball
+                                games and political conventions shows this, while their innate
+                                tendency to appeal to force renders them peculiarly unfit for the
+                                task of government.</p>
+                        </item>
+                    </list>
+            </div>
+
+            <div type="poem" n="30">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>The Logic of the Law</head>
+                <p>In 1875 the Supreme Court of Wisconsin in denying the petition
+  of women to practise before it said:</p>
+                <p>“It would be shocking to man’s reverence for womanhood and
+  faith in woman ... that woman should be permitted to mix
+  professionally in all the nastiness which finds its way into
+  courts of justice.”</p>
+                <p>It then names thirteen subjects as unfit for the attention of
+  women—three of them are crimes committed against women.</p>
+            </div>
+
+            <div type="poem" n="31">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg?raw=true"/><head>Consistency</head>
+                    <epigraph>
+                        <cit>
+                            <quote>Vile insults, lewd talk and brutal conduct were used by the
+                                indicted men to frighten respectable women who went to the polls in
+                                Terre Haute at the last election, asserted District Attorney
+                                Dailey.</quote>
+                            <bibl>—Press Dispatch.</bibl>
+                        </cit>
+                    </epigraph>
+                <p>Are the polls unfit for decent women?</p>
+                <p>No, sir, they are perfectly orderly.</p>
+                <p>Tut, tut! Go there at once and swear and be brutal, or what
+  will become of our anti-suffrage argument?</p>
+            </div>
+
+            <div type="poem" n="32">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg?raw=true"/><head>Sometimes We’re Ivy, and Sometimes We’re Oak</head>
+                <p>Is it true that the English government is calling on women to
+  do work abandoned by men?</p>
+                <p>Yes, it is true.</p>
+                <p>Is not woman’s place the home?</p>
+                <p>No, not when men need her services outside the home.</p>
+                <p>Will she never be told again that her place is the home?</p>
+                <p>Oh, yes, indeed.</p>
+                <p>When?</p>
+                <p>As soon as men want their jobs back again.</p>
+            </div>
+
+            <div type="poem" n="33">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-28.jpeg?raw=true"/><head>Do You Know</head>
+                <p>That in 1869 Miss Jex-Blake and four other women entered for a
+  medical degree at the University of Edinburgh?</p>
+                <p>That the president of the College of Physicians refused to
+  give the women the prizes they had won?</p>
+                <p>That the undergraduates insulted any professor who allowed
+  women to compete for prizes?</p>
+                <p>That the women were stoned in the streets, and finally
+  excluded from the medical school?</p>
+                <p>That in 1877 the British Medical Association declared women
+  ineligible for membership?</p>
+                <p>That in 1881 the International Medical Congress excluded women
+  from all but its “social and ceremonial meetings”?</p>
+                <p>That the Obstetrical Society refused to allow a woman’s name
+  to appear on the title page of a pamphlet which she had written
+  with her husband?</p>
+                <p>That according to a recent dispatch from London, many
+  hospitals, since the outbreak of hostilities, have asked women to
+  become resident physicians, and public authorities are daily
+  endeavoring to obtain women as assistant medical officers and as
+  school doctors?</p>
+            </div>
+
+            <div type="poem" n="34">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg?raw=true"/><head>Interviews With Celebrated Anti-Suffragists</head>
+                <p>“Woman’s place is in my home.”—Appius Claudius.</p>
+                <p>“I have never felt the need of the
+  ballot.”—Cleopatra.</p>
+                <p>“Magna Charta merely fashionable fad of ye Barons.”—King
+  John.</p>
+                <p>“Boston Tea Party shows American colonists to be hysterical
+  and utterly incapable of self-government.”—George III.</p>
+                <p>“Know of no really good slaves who desire
+  emancipation.”—President of the United Slaveholders’
+  Protective Association.</p>
+            </div>
+
+            <div type="poem" n="35">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg?raw=true"/><head>Another of Those Curious Coincidences</head>
+                <p>On February 15, the House of Representatives passed a bill
+  making it unlawful to ship in interstate commerce the products of
+  a mill, cannery or factory which have been produced by the labor
+  of children under fourteen years.</p>
+                <p>Forty-three gentlemen voted against it.</p>
+                <p>Forty-one of those forty-three had also voted against the
+  woman suffrage bill.</p>
+                <p>Not one single vote was cast against it by a representative
+  from any state where women vote for Congressmen.</p>
+            </div>
+
+            <div type="poem" n="36">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-02-28.jpeg?raw=true"/><head>The New Freedom</head>
+                <p>“The Michigan commission on industrial relations has
+  discovered,” says “The Detroit Journal,” “that thousands of wives
+  support their husbands.”</p>
+                <p>Woman’s place is the home, but under a special privilege she
+  is sometimes allowed to send her wages as a substitute.</p>
+            </div>
+
+            <div type="poem" n="37">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg?raw=true"/><head>To the Great Dining Out Majority</head>
+                <p>The New York State Association Opposed to Woman Suffrage is
+  sending out leaflets to its members urging them to “tell every
+  man you meet, your tailor, your postman, your grocer, as well as
+  your dinner partner, that you are opposed to woman
+  suffrage.”</p>
+                <p>We hope that the 90,000 sewing machine operatives, the 40,000
+  saleswomen, the 32,000 laundry operatives, the 20,000 knitting
+  and silk mill girls, the 17,000 women janitors and cleaners, the
+  12,000 cigar-makers, to say nothing of the 700,000 other women
+  and girls in industry in New York State, will remember when they
+  have drawn off their long gloves and tasted their oysters to tell
+  their dinner partners that they are opposed to woman suffrage
+  because they fear it might take women out of the home.</p>
+            </div>
+            </div>
+          <div type="section" n="3">
+                <head>WOMEN’S SPHERE</head>
+            <div type="poem" n="38">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-10.jpeg?raw=true"/><head>Many Men to Any Woman</head>
+                <lg>
+                    <lg>
+                        <l>If you have beauty, charm, refinement, tact,</l>
+                        <l>If you can prove that should I set you free,</l>
+                        <l>You would not contemplate the smallest act</l>
+                        <l>That might annoy or interfere with me.</l>
+                        <l>If you can show that women will abide</l>
+                        <l>By the best standards of their womanhood—</l>
+                        <l>(And I must be the person to decide</l>
+                        <l>What in a woman is the highest good);</l>
+                        <l>If you display efficiency supreme</l>
+                        <l>In philanthropic work devoid of pay;</l>
+                        <l>If you can show a clearly thought-out scheme</l>
+                        <l>For bringing the millennium in a day:</l>
+                        <l>Why, then, dear lady, at some time remote,</l>
+                        <l>I might consider giving you the vote.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="39">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-08-02.jpeg?raw=true"/><head>A Sex Difference</head>
+                <lg>
+                    <lg>
+                        <l>When men in Congress come to blows at something someone
+      said,</l>
+                        <l>I always notice that it shows their blood is quick and
+      red;</l>
+                        <l>But if two women disagree, with very little noise,</l>
+                        <l>It proves, and this seems strange to me, that women have
+      no poise.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="40">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Advice to Heroines</head>
+                <lg>
+                    <lg>
+                        <l>I</l>
+                    </lg>
+                    <lg>
+                        <l>A heroine must shrink and cling</l>
+                        <l>When heroes are about,</l>
+                        <l>And thus the watching world will think:</l>
+                        <l>“How brave his heart and stout!”</l>
+                        <l>But if he chance to be away</l>
+                        <l>When bright-faced dangers shine,</l>
+                        <l>It will be best for her to play</l>
+                        <l>The oak-tree, not the vine.</l>
+                        <l>In fact the most important thing</l>
+                        <l>Is knowing when it’s time to cling.</l>
+                    </lg>
+                    <lg>
+                        <l>II</l>
+                    </lg>
+                    <lg>
+                        <l>With apologies to R.L.S.</l>
+                    </lg>
+                    <lg>
+                        <l>A heroine must be polite</l>
+                        <l>And do what others say is right,</l>
+                        <l>And think men wise and formidable—</l>
+                        <l>At least as far as she is able.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="41">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Mutual Vows</head>
+                <lg>
+                    <lg>
+                        <l>“My dear,” he said, “observe this frightful bill,</l>
+                        <l>Run up, I think you’ll own, against my will.</l>
+                        <l>If you will recollect our wedding day</l>
+                        <l>You vowed on that occasion to obey.”</l>
+                        <l>“I do recall the day,” said she, “and how</l>
+                        <l>Me with your worldly goods you did endow.”</l>
+                        <l>“That,” he replied, “is palpably absurd----”</l>
+                        <l>“You mean you did not mean to keep your word?”</l>
+                        <l>“O, yes,” he answered, “in a general way.”</l>
+                        <l>“And that,” said she, “is how I meant obey.”</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="42">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-09-06.jpeg?raw=true"/><head>If They Meant All They Said</head>
+                <lg>
+                    <lg>
+                        <l>Charm is a woman’s strongest arm;</l>
+                        <l>My charwoman is full of charm;</l>
+                        <l>I chose her, not for strength of arm</l>
+                        <l>But for her strange elusive charm.</l>
+                    </lg>
+                    <lg>
+                        <l>And how tears heighten woman’s powers!</l>
+                        <l>My typist weeps for hours and hours:</l>
+                        <l>I took her for her weeping powers—</l>
+                        <l>They so delight my business hours.</l>
+                    </lg>
+                    <lg>
+                        <l>A woman lives by intuition.</l>
+                        <l>Though my accountant shuns addition</l>
+                        <l>She has the rarest intuition.</l>
+                        <l>(And I myself can do addition.)</l>
+                    </lg>
+                    <lg>
+                        <l>Timidity in girls is nice.</l>
+                        <l>My cook is so afraid of mice.</l>
+                        <l>Now you’ll admit it’s very nice</l>
+                        <l>To feel your cook’s afraid of mice.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="43">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Democracy</head>
+                <lg>
+                    <lg>
+                        <l>Democracy is this—to hold</l>
+                        <l>That all who wander down the pike</l>
+                        <l>In cart or car, on foot or bike,</l>
+                        <l>Or male or female, young or old,</l>
+                        <l>Are much alike—are much alike.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="44">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Feminism</head>
+                <lg>
+                    <lg>
+                        <l>“Mother, what is a Feminist?”</l>
+                        <l>“A Feminist, my daughter,</l>
+                        <l>Is any woman now who cares</l>
+                        <l>To think about her own affairs</l>
+                        <l>As men don’t think she oughter.”</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="45">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-05-03.jpeg?raw=true"/><head>The Warning</head>
+                <lg>
+                    <lg>
+                        <l>No, it isn’t home neglecting</l>
+                        <l>If you spend your time selecting</l>
+                        <l>Seven blouses and a jacket and a hat;</l>
+                        <l>Or to give your day to paying</l>
+                        <l>Needless visits, or to playing</l>
+                        <l>Auction bridge. What critic could object to
+      that?</l>
+                        <l>But to spend two precious hours</l>
+                        <l>At a lecture! Oh, my powers,</l>
+                        <l>The home is all a woman needs to learn.</l>
+                        <l>And an hour, or a quarter,</l>
+                        <l>Spent in voting! Why, my daughter,</l>
+                        <l>You could not find your home on your
+      return.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="46">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-05-24.jpeg?raw=true"/><head>Evolution</head>
+                <lg>
+                    <lg>
+                        <l>Said Mr. Jones in 1910:</l>
+                        <l>“Women, subject yourselves to men.”</l>
+                        <l>Nineteen-Eleven heard him quote:</l>
+                        <l>“They rule the world without the vote.”</l>
+                        <l>By Nineteen-Twelve, he would submit</l>
+                        <l>“When all the women wanted it.”</l>
+                        <l>By Nineteen-Thirteen, looking glum,</l>
+                        <l>He said that it was bound to come.</l>
+                        <l>This year I heard him say with pride:</l>
+                        <l>“No reasons on the other side!”</l>
+                        <l>By Nineteen-Fifteen, he’ll insist</l>
+                        <l>He’s always been a suffragist.</l>
+                        <l>And what is really stranger, too,</l>
+                        <l>He’ll think that what he says is true.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="47">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-12-06.jpeg?raw=true"/><head>Intercepted</head>
+                <lg>
+                    <lg>
+                        <l>“Only the worst of them vote.”</l>
+                        <l>“Are not the suffragists frights?”</l>
+                        <l>“Nietzsche’s the person to quote.”</l>
+                        <l>“I prefer love to my rights.”</l>
+                    </lg>
+                    <lg>
+                        <l>“Are not the suffragists frights?”</l>
+                        <l>“Sex is their only appeal.”</l>
+                        <l>“I prefer love to my rights.”</l>
+                        <l>“No, we don’t think, but we feel.”</l>
+                    </lg>
+                    <lg>
+                        <l>“Sex is their only appeal.”</l>
+                        <l>“Woman belongs at the loom.”</l>
+                        <l>“No, we don’t think, but we feel.”</l>
+                        <l>“Doesn’t it rub off the bloom?”</l>
+                    </lg>
+                    <lg>
+                        <l>“Woman belongs at the loom.”</l>
+                        <l>“Isn’t the speaker a bore!”</l>
+                        <l>“Doesn’t it rub off the bloom?”</l>
+                        <l>“Oh, it’s a fad—nothing more.”</l>
+                    </lg>
+                    <lg>
+                        <l>“Isn’t the speaker a bore!”</l>
+                        <l>“Nietzsche’s the person to quote.”</l>
+                        <l>“Oh, it’s a fad—nothing more.”</l>
+                        <l>“Only the worst of them vote.”</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="48">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg?raw=true"/><head>The Universal Answer</head>
+                <lg>
+                    <lg>
+                        <l>Oh, there you go again,</l>
+                        <l>Invading man’s domain!</l>
+                        <l>It’s Nature’s laws, you know, you are defying.</l>
+                        <l>Don’t fancy that you can</l>
+                        <l>Be really like a man,</l>
+                        <l>So what’s the use of all this fuss and trying?</l>
+                        <l>It seems to me so clear,</l>
+                        <l>That women’s highest sphere</l>
+                        <l>Is being loving wives and patient mothers.</l>
+                        <l>Oh, can’t you be content</l>
+                        <l>To be as you were meant?</l>
+                        <l>{souls</l>
+                        <l>For {books belong to husbands and to brothers.</l>
+                        <l>{votes</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="49">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-08-02.jpeg?raw=true"/><head>Candor</head>
+                <quote>(By an admirer of the late H.C. Bunner.)</quote>
+                <lg>
+                    <lg>
+                        <l>“I know what you’re going to say,” she said,</l>
+                        <l>And she stood up, causing him some alarm;</l>
+                        <l>“You’re going to tell me I’ll lose my
+      charm,</l>
+                        <l>And what is a woman when charm has fled?</l>
+                        <l>And you’re going to say that you greatly
+      fear</l>
+                        <l>I don’t understand a woman’s sphere;</l>
+                        <l>Now aren’t you honestly?” “Yes,” he said.</l>
+                    </lg>
+                    <lg>
+                        <l>“I know what you’re going to say,” she said,</l>
+                        <l>“You’re going to ask what I hope to gain</l>
+                        <l>By stepping down to the dusty plain,</l>
+                        <l>By seeking a stone when I might have bread;</l>
+                        <l>You’re going to say: ‘Can a vote replace</l>
+                        <l>The tender force of a woman’s grace?’</l>
+                        <l>Now, aren’t you honestly?” “Yes,” he said.</l>
+                    </lg>
+                    <lg>
+                        <l>“I know what you’re going to do,” he said,</l>
+                        <l>“You’re going to talk to me all day long</l>
+                        <l>Trying to make me see I’m wrong;</l>
+                        <l>And other men who are less misled</l>
+                        <l>Will pale with jealousy when they see</l>
+                        <l>The time you give to converting me;</l>
+                        <l>Now, aren’t you honestly?” “Ye-es,” she said.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="50">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-08-09.jpeg?raw=true"/><head>What Every Woman Must Not Say</head>
+                <lg>
+                    <lg>
+                        <l>“I don’t pretend I’m clever,” he remarked, “or very
+      wise,”</l>
+                        <l>And at this she murmured, “Really,” with the right polite
+      surprise.</l>
+                        <l>“But women,” he continued, “I must own I understand;</l>
+                        <l>Women are a contradiction—honorable and
+      underhand—</l>
+                        <l>Constant as the star Polaris, yet as changeable as
+      Fate,</l>
+                        <l>Always flying what they long for, always seeking what they
+      hate.”</l>
+                        <l>“Don’t you think,” began the lady, but he cut her short:
+      “I see</l>
+                        <l>That you take it personally—women always do,” said
+      he.</l>
+                        <l>“You will pardon me for saying every woman is the
+      same,</l>
+                        <l>Always greedy for approval, always sensitive to blame;</l>
+                        <l>Sweet and passionate are women; weak in mind, though
+      strong in soul;</l>
+                        <l>Even you admit, I fancy, that they have no
+      self-control?”</l>
+                        <l>“No, I don’t admit they haven’t,” said the patient lady
+      then,</l>
+                        <l>“Or they could not sit and listen to the nonsense talked
+      by men.”</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="51">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Chivalry</head>
+                <lg>
+                    <lg>
+                        <l>It’s treating a woman politely</l>
+                        <l>As long as she isn’t a fright:</l>
+                        <l>It’s guarding the girls who act rightly,</l>
+                        <l>If you can be judge of what’s right;</l>
+                        <l>It’s being—not just, but so pleasant;</l>
+                        <l>It’s tipping while wages are low;</l>
+                        <l>It’s making a beautiful present,</l>
+                        <l>And failing to pay what you owe.</l>
+                    </lg>
+                    <lg>
+                        <l>From Our Own Nursery Rhymes</l>
+                    </lg>
+                    <lg>
+                        <l>“Chivalry, Chivalry, where have you been?”</l>
+                        <l>“I’ve been out seeking a beautiful queen.”</l>
+                        <l>“Chivalry, Chivalry, what did you find?”</l>
+                        <l>“Commonplace women, not much to my mind.”</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="52">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-08-16.jpeg?raw=true"/><head>Women</head>
+                <quote>(With rather insincere apologies to Mr. Rudyard
+    Kipling.)</quote>
+                <lg>
+                    <lg>
+                        <l>I went to ask my government if they would set me free,</l>
+                        <l>They gave a pardoned crook a vote, but hadn’t one for
+      me;</l>
+                        <l>The men about me laughed and frowned and said: “Go home,
+      because</l>
+                        <l>We really can’t be bothered when we’re busy making
+      laws.”</l>
+                    </lg>
+                    <lg>
+                        <l>Oh, it’s women this, and women that and women have no
+      sense,</l>
+                        <l>But it’s pay your taxes promptly when it comes to the
+      expense,</l>
+                        <l>It comes to the expense, my dears, it comes to the
+      expense,</l>
+                        <l>It’s pay your taxes promptly when it comes to the
+      expense.</l>
+                    </lg>
+                    <lg>
+                        <l>I went into a factory to earn my daily bread:</l>
+                        <l>Men said: “The home is woman’s sphere.” “I have no home,”
+      I said.</l>
+                        <l>But when the men all marched to war, they cried to wife
+      and maid,</l>
+                        <l>“Oh, never mind about the home, but save the export
+      trade.”</l>
+                    </lg>
+                    <lg>
+                        <l>For it’s women this and women that, and home’s the place
+      for you,</l>
+                        <l>But it’s patriotic angels when there’s outside work to
+      do,</l>
+                        <l>There’s outside work to do, my dears, there’s outside work
+      to do,</l>
+                        <l>It’s patriotic angels when there’s outside work to do.</l>
+                    </lg>
+                    <lg>
+                        <l>We are not really senseless, and we are not angels,
+      too,</l>
+                        <l>But very human beings, human just as much as you.</l>
+                        <l>It’s hard upon occasions to be forceful and sublime</l>
+                        <l>When you’re treated as incompetents three-quarters of the
+      time.</l>
+                    </lg>
+                    <lg>
+                        <l>But it’s women this and women that, and woman’s like a
+      hen,</l>
+                        <l>But it’s do the country’s work alone, when war takes off
+      the men,</l>
+                        <l>And it’s women this and women that and everything you
+      please,</l>
+                        <l>But woman is observant, and be sure that woman sees.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="53">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Beware!</head>
+                <lg>
+                    <lg>
+                        <l>In the days that are gone when a statue was wanted</l>
+                        <l>In park or museum where statues must be,</l>
+                        <l>A chivalrous male would come forward undaunted</l>
+                        <l>And say: “If you must have one, make it of
+      me.</l>
+                        <l>Bad though they be, yet I’ll agree</l>
+                        <l>If you must make them, why make them of me.”</l>
+                    </lg>
+                    <lg>
+                        <l>But chivalry’s dead, as I always expected</l>
+                        <l>Since women would not let things stay as they
+      were;</l>
+                        <l>So now, I suppose, when a statue’s erected</l>
+                        <l>Men will say brutally: “Make it of her.”</l>
+                        <l>She may prefer things as they were</l>
+                        <l>When they start making the statues of her.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="54">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-10.jpeg?raw=true"/><head>Male Philosophy</head>
+                <lg>
+                    <lg>
+                        <l>Men are very brave, you know,</l>
+                        <l>That was settled long ago;</l>
+                        <l>Ask, however, if you doubt it,</l>
+                        <l>Any man you meet about it;</l>
+                        <l>He will say, I think, like me,</l>
+                        <l>Men are brave as they can be.</l>
+                    </lg>
+                    <lg>
+                        <l>Women think they’re brave, you say?</l>
+                        <l>Do they really? Well, they may,</l>
+                        <l>But such biased attestation</l>
+                        <l>Is not worth consideration,</l>
+                        <l>For a legal judgment shelves</l>
+                        <l>What they say about themselves.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="55">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>From a Man’s Point of View</head>
+                <lg>
+                    <lg>
+                        <l>Women love self-sacrifice</l>
+                        <l>Suffering and good advice;</l>
+                        <l>If they don’t love these sincerely</l>
+                        <l>Then they’re not true women really.</l>
+                        <l>Oh, it shocks me so to note</l>
+                        <l>Women pleading for the vote!</l>
+                        <l>Saying publicly it would</l>
+                        <l>Educate and do them good.</l>
+                        <l>Such a selfish reason trips</l>
+                        <l>Oddly from a woman’s lips.</l>
+                        <l>But it must not be supposed</l>
+                        <l>I am in the least opposed.</l>
+                        <l>If they want it let them try it.</l>
+                        <l>For I think we’ll profit by it.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="56">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-12-20.jpeg?raw=true"/><head>Glory</head>
+                <lg>
+                    <lg>
+                        <l>I went to see old Susan Gray,</l>
+                        <l>Whose soldier sons had marched away,</l>
+                        <l>And this is what she had to say:</l>
+                    </lg>
+                    <lg>
+                        <l>“It isn’t war I hate at all—</l>
+                        <l>’Tis likely men must fight—</l>
+                        <l>But, oh, these flags and uniforms,</l>
+                        <l>It’s them that isn’t right!</l>
+                        <l>If war must come, and come it does</l>
+                        <l>To take our boys from play,</l>
+                        <l>It isn’t right to make it seem</l>
+                        <l>So beautiful and gay.”</l>
+                    </lg>
+                    <lg>
+                        <l>I left old Susan with a sigh;</l>
+                        <l>A famous band was marching by</l>
+                        <l>To make men glad they had to die.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="57">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-12-13.jpeg?raw=true"/><head>Dependence</head>
+                    <epigraph>
+                        <cit>
+                            <quote>An Englishwoman whose income has stopped owing to her two sons
+                                having joined the English army, was taken care of last night at the
+                                Florence Crittenden Mission.</quote>
+                            <bibl>—Press Clipping.</bibl>
+                        </cit>
+                    </epigraph>
+                <lg>
+                    <lg>
+                        <l>The young men said to their mother,</l>
+                        <l>“Hear us, O dearest and best!</l>
+                        <l>Time cannot cool or smother</l>
+                        <l>The love of you in our breast;</l>
+                        <l>Here is your place and no other—</l>
+                        <l>Come home and rest.”</l>
+                    </lg>
+                    <lg>
+                        <l>And the mother’s heart was grateful</l>
+                        <l>For the love of her cherished ones,</l>
+                        <l>And her labor, bitter and hateful,</l>
+                        <l>She left at the word of her sons,</l>
+                        <l>Till she heard far off the fateful</l>
+                        <l>Voices of guns.</l>
+                    </lg>
+                    <lg>
+                        <l>Their love did more enslave her;</l>
+                        <l>They did not understand</l>
+                        <l>That none could guard or save her</l>
+                        <l>When war was on the land,</l>
+                        <l>But herself, and God, who gave her</l>
+                        <l>Heart and mind and hand.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="58">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-09-06.jpeg?raw=true"/><head>Playthings</head>
+                <lg>
+                    <lg>
+                        <l>Last year the shops were crowded</l>
+                        <l>With soldier suits and guns—</l>
+                        <l>The presents that at Christmas time</l>
+                        <l>We give our little sons;</l>
+                        <l>And many a glittering trumpet</l>
+                        <l>And many a sword and drum;</l>
+                        <l>But as they’re made in Germany</l>
+                        <l>This year they will not come.</l>
+                    </lg>
+                    <lg>
+                        <l>Perhaps another season</l>
+                        <l>We shall not give our boys</l>
+                        <l>Such very warlike playthings,</l>
+                        <l>Such military toys;</l>
+                        <l>Perhaps another season</l>
+                        <l>We shall not think it sweet</l>
+                        <l>To watch their game of soldier men,</l>
+                        <l>Who dream not of defeat.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="59">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>Militants</head>
+                <lg>
+                    <lg>
+                        <l>Hippolta, Penthesilea,</l>
+                        <l>Maria Teresa and Joan,</l>
+                        <l>Agustina and Boadicea</l>
+                        <l>And some militant girls of our own—</l>
+                        <l>It would take a brave man and a dull one</l>
+                        <l>To say to these ladies: “Of course</l>
+                        <l>We adore you while meek,</l>
+                        <l>Timid, clinging and weak,</l>
+                        <l>But a woman can never use force.”</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="60">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true"/><head>A Lady’s Choice</head>
+                <lg>
+                    <lg>
+                        <l>Her old love in tears and silence had been building her a
+      palace</l>
+                        <l>Ringed by moats and flanked with towers, he had
+      set it on a hill</l>
+                        <l>“Here,” he said, “will come no whisper of the world’s
+      alarms and</l>
+                        <l>malice,</l>
+                        <l>In these granite walls imprisoned, I will keep
+      you safe from ill.”</l>
+                    </lg>
+                    <lg>
+                        <l>As he spoke along the highway there came riding by a
+      stranger,</l>
+                        <l>For an instant on her features, he a fleeting
+      glance bestowed,</l>
+                        <l>Then he said: “My heart is fickle and the world is full of
+      danger,”</l>
+                        <l>And he offered her his stirrup and he pointed
+      down the road.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="61">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-04-11.jpeg?raw=true"/><head>The Ballad of Lost Causes</head>
+                <quote>(About 465 years after Villon.)</quote>
+                <lg>
+                    <lg>
+                        <l>Tell me in what spot remote</l>
+                        <l>Do the antis dwell to-day,</l>
+                        <l>Those who did not want to vote,</l>
+                        <l>Feared their sex’s prompt decay?</l>
+                        <l>Where are those who used to say:</l>
+                        <l>“Home alone is woman’s sphere;</l>
+                        <l>Only those should vote who slay”?</l>
+                        <l>Where the snows of yester-year?</l>
+                    </lg>
+                    <lg>
+                        <l>Where are those who used to quote</l>
+                        <l>Nietzsche’s words in dread array?</l>
+                        <l>Where the ancient crones who wrote:</l>
+                        <l>“Women rule through Beauty’s sway”?</l>
+                        <l>And those lovers, where are they,</l>
+                        <l>Who could hold no woman dear</l>
+                        <l>If she had the ballot? Nay!</l>
+                        <l>Where the snows of yester-year?</l>
+                    </lg>
+                    <lg>
+                        <l>Prince, inquire no more, I pray,</l>
+                        <l>Whither antis disappear.</l>
+                        <l>Suffrage won; they melt away,</l>
+                        <l>Like the snows of yester-year.</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="poem" n="62">
+                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-04-11.jpeg?raw=true"/><head>Thoughts at an Anti Meeting</head>
+                <lg>
+                    <lg>
+                        <l>There are no homes in suffrage states,</l>
+                        <l>There are no children, glad and good,</l>
+                        <l>There, men no longer seek for mates,</l>
+                        <l>And women lose their womanhood.</l>
+                    </lg>
+                    <lg>
+                        <l>This I believe without debate,</l>
+                        <l>And yet I ask—and ask in vain—</l>
+                        <l>Why no one in a suffrage state</l>
+                        <l>Has moved to change things back again?</l>
+                    </lg>
+                </lg>
+            </div>
+            </div>
+          <div type="section" n="4">
+                <head>A MASQUE OF TEACHERS</head>
+                <quote>AND</quote>
+                <quote>THE UNCONSCIOUS SUFFRAGISTS</quote>
+
+            <div type="drama" n="63">
+                <head>The Ideal Candidates</head>
+                    <epigraph>
+                        <cit>
+                            <quote/>
+                            <bibl>.</bibl>
+                        </cit>
+                    </epigraph>
+                <p>(A by-law of the New York Board of Education says: “No married
+  woman shall be appointed to any teaching or supervising position
+  in the New York public schools unless her husband is mentally or
+  physically incapacitated to earn a living or has deserted her for
+  a period of not less than one year.”)</p>
+                <p>CHARACTERS</p>
+                <lg>
+                    <lg>
+                        <l>Board of Education.</l>
+                        <l>Three Would-Be Teachers.</l>
+                    </lg>
+                    <lg>
+                        <l>Chorus by Board:</l>
+                        <l>Now please don’t waste</l>
+                        <l>Your time and ours</l>
+                        <l>By pleas all based</l>
+                        <l>On mental powers.</l>
+                        <l>She seems to us</l>
+                        <l>The proper stuff</l>
+                        <l>Who has a hus-</l>
+                        <l>Band bad enough.</l>
+                        <l>All other pleas appear to us</l>
+                        <l>Excessively superfluous.</l>
+                    </lg>
+                    <lg>
+                        <l>1st Teacher:</l>
+                        <l>My husband is not really bad----</l>
+                    </lg>
+                    <lg>
+                        <l>Board:</l>
+                        <l>How very sad, how very sad!</l>
+                    </lg>
+                    <lg>
+                        <l>1st Teacher:</l>
+                        <l>He’s good, but hear my one excuse----</l>
+                    </lg>
+                    <lg>
+                        <l>Board:</l>
+                        <l>Oh, what’s the use, oh, what’s the use?</l>
+                    </lg>
+                    <lg>
+                        <l>1st Teacher:</l>
+                        <l>Last winter in a railroad wreck</l>
+                        <l>He lost an arm and broke his neck.</l>
+                        <l>He’s doomed, but lingers day by day.</l>
+                    </lg>
+                    <lg>
+                        <l>Board:</l>
+                        <l>Her husband’s doomed! Hurray! hurray!</l>
+                    </lg>
+                    <lg>
+                        <l>2nd Teacher:</l>
+                        <l>My husband’s kind and healthy, too----</l>
+                    </lg>
+                    <lg>
+                        <l>Board:</l>
+                        <l>Why, then, of course, you will not do.</l>
+                    </lg>
+                    <lg>
+                        <l>2nd Teacher:</l>
+                        <l>Just hear me out. You’ll find you’re wrong.</l>
+                        <l>It’s true his body’s good and strong;</l>
+                        <l>But, ah, his wits are all astray.</l>
+                    </lg>
+                    <lg>
+                        <l>Board:</l>
+                        <l>Her husband’s mad. Hip, hip, hurray!</l>
+                    </lg>
+                    <lg>
+                        <l>3rd Teacher:</l>
+                        <l>My husband’s wise and well—the
+      creature!</l>
+                    </lg>
+                    <lg>
+                        <l>Board:</l>
+                        <l>Then you can never be a teacher.</l>
+                    </lg>
+                    <lg>
+                        <l>3rd Teacher:</l>
+                        <l>Wait. For I led him such a life</l>
+                        <l>He could not stand me as a wife;</l>
+                        <l>Last Michaelmas, he ran away.</l>
+                    </lg>
+                    <lg>
+                        <l>Board:</l>
+                        <l>Her husband hates her, Hip, hurray!</l>
+                    </lg>
+                    <lg>
+                        <l>Chorus by Board:</l>
+                        <l>Now we have found</l>
+                        <l>Without a doubt,</l>
+                        <l>By process sound</l>
+                        <l>And well thought out,</l>
+                        <l>Each candidate</l>
+                        <l>Is fit in truth</l>
+                        <l>To educate</l>
+                        <l>The mind of youth.</l>
+                        <l>No teacher need apply to us</l>
+                        <l>Whose married life’s harmonious.</l>
+                    </lg>
+                    <lg>
+                        <l>(Curtain.)</l>
+                    </lg>
+                </lg>
+            </div>
+
+            <div type="quotations" n="64">
+                <head>The Unconscious Suffragists</head>
+                <p>“They who have no voice nor vote in the electing of
+  representatives do not enjoy liberty, but are absolutely enslaved
+  to those who have votes.”—Benjamin Franklin.</p>
+                <p>“No such phrase as virtual representation was ever known in
+  law or constitution.”—James Otis.</p>
+                <p>“But these great cities, says my honorable friend, are
+  virtually, though not directly represented. Are not the wishes of
+  Manchester, he asks, as much consulted as those of any other town
+  which sends members to Parliament? Now, sir, I do not understand
+  how a power which is salutary when exercised virtually can be
+  noxious when exercised directly. If the wishes of Manchester have
+  as much weight with us as they would have under a system which
+  gives representatives to Manchester, how can there be any danger
+  in giving representatives to Manchester?”—Lord Macaulay’s
+  Speech on the Reform Bill.</p>
+                <p>“Universal suffrage prolongs in the United States the effect
+  of universal education: for it stimulates all citizens throughout
+  their lives to reflect on problems outside the narrow circle of
+  their private interests and occupations: to read about public
+  questions; to discuss public characters and to hold themselves
+  ready in some degree to give a rational account of their
+  political faith.”—Dr. Charles Eliot.</p>
+                <p>“But liberty is not the chief and constant object of their
+  (the American people) desires: equality is their idol; they make
+  rapid and sudden efforts to obtain liberty and if they miss their
+  aim, resign themselves to their disappointment; but nothing can
+  satisfy them without equality, and they would rather perish than
+  lose it.”—De Tocqueville: Democracy in America, 1835.</p>
+                <p>“A government is for the benefit of all the people. We believe
+  that this benefit is best accomplished by popular government
+  because in the long run each class of individuals is apt to
+  secure better provision for themselves through their own voice in
+  government than through the altruistic interest of others,
+  however intelligent or philanthropic.”—William H. Taft in
+  Special Message.</p>
+                <p>“I have listened to some very honest and eloquent orators whose sentiments were
+noteworthy for this: that when they spoke of the people, they were not thinking
+of themselves, they were thinking of somebody whom they were commissioned to
+take care of. And I have seen them shiver when it was suggested that they
+arrange to have something done by the people for themselves.”—The New
+Freedom, by Woodrow Wilson.</p>
+            </div>
+           </div>
+
+        </body>
+    </text>
+</TEI>
