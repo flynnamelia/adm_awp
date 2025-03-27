@@ -1581,9 +1581,9 @@
                         <l>(And I myself can do addition<add>.</add>)<del>.</del></l>
                     </lg>
                     <lg>
-                        <l>Timidity in girls is nice.</l>
+                        <l>Timidity in girls is nice<del>;</del><add>.</add></l>
                         <l>My cook is so afraid of mice.</l>
-                        <l>Now you’ll admit it’s very nice</l>
+                        <l>Now<del>,</del> you’ll admit it’s very nice</l>
                         <l>To feel your cook’s afraid of mice.</l>
                     </lg>
                 </lg>
