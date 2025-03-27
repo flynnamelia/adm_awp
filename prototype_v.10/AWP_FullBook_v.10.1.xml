@@ -2108,7 +2108,7 @@
                         <l>Such military toys;</l>
                         <l>Perhaps another season</l>
                         <l>We shall not <del>find</del> <add>think</add> it sweet</l>
-                        <l>To watch <del>this</del> their game of soldier men,</l>
+                        <l>To watch <del>this</del> <add>their</add> game of soldier men,</l>
                         <l>Who dream not of defeat.</l>
                     </lg>
                 </lg>
@@ -2118,7 +2118,7 @@
                 <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-08-30.jpeg?raw=true"/><head>Militants</head>
                 <lg>
                     <lg>
-                        <l>Hippolta, Penthesilea,</l>
+                        <l><del>Hippolyte</del> <add>Hippolta</add>, Penthesilea,</l>
                         <l>Maria Teresa and Joan,</l>
                         <l>Agustina and Boadicea</l>
                         <l>And some militant girls of our own—</l>
