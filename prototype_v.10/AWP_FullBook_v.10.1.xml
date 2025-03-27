@@ -1577,8 +1577,8 @@
                     <lg>
                         <l>A woman lives by intuition.</l>
                         <l>Though my accountant shuns addition</l>
-                        <l>She has the rarest intuition.</l>
-                        <l>(And I myself can do addition.)</l>
+                        <l>She has the rarest intuition<add>.</add></l>
+                        <l>(And I myself can do addition<add>.</add>)<del>.</del></l>
                     </lg>
                     <lg>
                         <l>Timidity in girls is nice.</l>
