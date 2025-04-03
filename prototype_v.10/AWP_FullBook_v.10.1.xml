@@ -691,6 +691,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?note_annotation_20250403051003970",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-04-03T09:10:03.970Z",
+	"dcterms:modified": "2025-04-03T09:10:03.970Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?note_annotation_20250403051003970#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?note_annotation_20250403051003970#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/div[11]/p[8]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:Note",
+		"dc:format": "text/plain",
+		"rdf:value": "In Are Women People? 1914-03-01:\n\n\"In 1850 the medical students at Harvard petitioned against opening the medical school to women, on the ground that \"whenever a woman should prove herself capable of an intellectual achievement this latter would cease to constitute an honor for the men who had previously prized it.\" Their wisdom is shown by a letter in \"The New York Times\" from Dr. Mall, of Johns Hopkins, who says: \"This year we shall graduate in medicine cighty men and ten women; two men and four women are leading the class.\" The fact that 40 per cent of the women and only 2% g per cent of the men are among these leaders would indicade that men no longer prize leadership\""
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
     <text>
         <front>
@@ -1802,7 +1881,9 @@
   hospitals, since the outbreak of hostilities, have asked women to
   become resident physicians, and public authorities are daily
   endeavoring to obtain women as assistant medical officers and as
-  school doctors?</p>
+  school doctors?<note>In Are Women People? 1914-03-01:
+
+"In 1850 the medical students at Harvard petitioned against opening the medical school to women, on the ground that "whenever a woman should prove herself capable of an intellectual achievement this latter would cease to constitute an honor for the men who had previously prized it." Their wisdom is shown by a letter in "The New York Times" from Dr. Mall, of Johns Hopkins, who says: "This year we shall graduate in medicine cighty men and ten women; two men and four women are leading the class." The fact that 40 per cent of the women and only 2% g per cent of the men are among these leaders would indicade that men no longer prize leadership"</note></p>
             </div>
 
             <div type="poem" n="34">
