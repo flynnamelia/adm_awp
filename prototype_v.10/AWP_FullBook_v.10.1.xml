@@ -1323,6 +1323,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?note_annotation_20250403051435006",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-04-03T09:14:35.006Z",
+	"dcterms:modified": "2025-04-03T09:14:35.006Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?note_annotation_20250403051435006#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?note_annotation_20250403051435006#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[9]/lg/lg/l[14]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:Note",
+		"dc:format": "text/plain",
+		"rdf:value": "\"This poem appears in the column without an epigraph. Instead, directly above the poem, under the heading, \"\"Beginning at Home\"\"  Miller modifies the escerpt from Woodrow Wilosn's speech that was utilized as the epigraph to his poem, expressing the wish that: \"\"If only President Wilson had said...\"\".t\n\nhat every people has the right to determine its own form of government ... and until recently the women of America, 50 per cent of the people, have not had a 'look in' in determining who should be their governors, or what their government should be. Now I am for the 50 per cent. The liberty, If they can get it, is theirs. And so far as my influence goes while I am President, nobody shall interfere with them.\"\" He did use almost these exact words, but his enthusiasm was roused for the liberty of the men of Mexico--not for that of his own country-women. \n\nInstead, his speech quoted as the epigraph of this poem: \n\nI hold it as a fundamental principle and so do you, that every people has the right to determine its own form of government. And until recently 50 per cent of the people of Mexico have not had a look-in in determining who should be their governors, or what their government should be.\""
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
     <text>
         <front>
@@ -1704,7 +1783,13 @@ On page 3 of this issue is an article about a man dressing as a woman to work at
                         <l>Can you believe that women are not stirred</l>
                         <l>By this same human longing to be free?</l>
                         <l>He who for liberty would strike a blow</l>
-                        <l>Need not take arms, or fly to Mexico.</l>
+                        <l>Need not take arms, or fly to Mexico.<note>"This poem appears in the column without an epigraph. Instead, directly above the poem, under the heading, ""Beginning at Home""  Miller modifies the escerpt from Woodrow Wilosn's speech that was utilized as the epigraph to his poem, expressing the wish that: ""If only President Wilson had said..."".t
+
+hat every people has the right to determine its own form of government ... and until recently the women of America, 50 per cent of the people, have not had a 'look in' in determining who should be their governors, or what their government should be. Now I am for the 50 per cent. The liberty, If they can get it, is theirs. And so far as my influence goes while I am President, nobody shall interfere with them."" He did use almost these exact words, but his enthusiasm was roused for the liberty of the men of Mexico--not for that of his own country-women. 
+
+Instead, his speech quoted as the epigraph of this poem: 
+
+I hold it as a fundamental principle and so do you, that every people has the right to determine its own form of government. And until recently 50 per cent of the people of Mexico have not had a look-in in determining who should be their governors, or what their government should be."</note></l>
                     </lg>
                 </lg>
             </div>
