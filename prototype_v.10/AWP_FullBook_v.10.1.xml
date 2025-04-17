@@ -4840,105 +4840,126 @@ Presumably attributed to W. G.  Identity of W.G. is unknown. </note></p>
   in the New York public schools unless her husband is mentally or
   physically incapacitated to earn a living or has deserted her for
   a period of not less than one year. <del>Satisfactory proof of such incapacity or desertion must be presented to the board of education.</del>”)</p>
-                <p>CHARACTERS</p>
-                <lg>
-                    <lg>
-                        <l>Board of Education.</l>
-                        <l>Three Would-Be Teachers.</l>
-                    </lg>
-                    <lg>
-                        <l>Chorus by Board:</l>
-                        <l>Now please don’t waste</l>
-                        <l>Your time and ours</l>
-                        <l>By pleas all based</l>
-                        <l>On mental powers.</l>
-                        <l>She seems to us</l>
-                        <l>The proper stuff</l>
-                        <l>Who has a hus-</l>
-                        <l>Band bad enough.</l>
-                        <l>All other pleas appear to us</l>
-                        <l>Excessively superfluous.</l>
-                    </lg>
-                    <lg>
-                        <l>1st Teacher:</l>
-                        <l>My husband is not really bad----</l>
-                    </lg>
-                    <lg>
-                        <l>Board:</l>
-                        <l>How very sad, how very sad!</l>
-                    </lg>
-                    <lg>
-                        <l>1st Teacher:</l>
-                        <l>He’s good, but hear my one excuse----</l>
-                    </lg>
-                    <lg>
-                        <l>Board:</l>
-                        <l>Oh, what’s the use, oh, what’s the use?</l>
-                    </lg>
-                    <lg>
-                        <l>1st Teacher:</l>
-                        <l>Last winter in a railroad wreck</l>
-                        <l>He lost an arm and broke his neck.</l>
-                        <l>He’s doomed, but lingers day by day.</l>
-                    </lg>
-                    <lg>
-                        <l>Board:</l>
-                        <l>Her husband’s doomed! Hurray! hurray!</l>
-                    </lg>
-                    <lg>
-                        <l>2nd Teacher:</l>
-                        <l>My husband’s kind and healthy, too----</l>
-                    </lg>
-                    <lg>
-                        <l>Board:</l>
-                        <l>Why, then, of course, you will not do.</l>
-                    </lg>
-                    <lg>
-                        <l>2nd Teacher:</l>
-                        <l>Just hear me out. You’ll find you’re wrong.</l>
-                        <l>It’s true his body’s good and strong;</l>
-                        <l>But, ah, his wits are all astray.</l>
-                    </lg>
-                    <lg>
-                        <l>Board:</l>
-                        <l>Her husband’s mad. Hip, hip, hurray!</l>
-                    </lg>
-                    <lg>
-                        <l>3rd Teacher:</l>
-                        <l>My husband’s wise and well—the
-      creature!</l>
-                    </lg>
-                    <lg>
-                        <l>Board:</l>
-                        <l>Then you can never be a teacher.</l>
-                    </lg>
-                    <lg>
-                        <l>3rd Teacher:</l>
-                        <l>Wait. For I led him such a life</l>
-                        <l>He could not stand me as a wife;</l>
-                        <l>Last Michaelmas, he ran away.</l>
-                    </lg>
-                    <lg>
-                        <l>Board:</l>
-                        <l>Her husband hates her, Hip, hurray!</l>
-                    </lg>
-                    <lg>
-                        <l>Chorus by Board:</l>
-                        <l>Now we have found</l>
-                        <l>Without a doubt,</l>
-                        <l>By process sound</l>
-                        <l>And well thought out,</l>
-                        <l>Each candidate</l>
-                        <l>Is fit in truth</l>
-                        <l>To educate</l>
-                        <l>The mind of youth.</l>
-                        <l>No teacher need apply to us</l>
-                        <l>Whose married life’s harmonious.</l>
-                    </lg>
-                    <lg>
-                        <l>(Curtain.)</l>
-                    </lg>
-                </lg>
+            `<castList>
+			<p>CHARACTERS</p>
+
+          <castItem>
+            <role>Board of Education</role>
+          </castItem>
+          <castItem>
+            <role>Three Would-Be Teachers</role>
+          </castItem>
+        </castList>
+
+        <sp>
+          <speaker>Chorus by Board</speaker>
+          <lg type="stanza">
+            <l>Now please don’t waste</l>
+            <l>Your time and ours</l>
+            <l>By pleas all based</l>
+            <l>On mental powers.</l>
+          </lg>
+          <lg type="stanza">
+            <l>She seems to us</l>
+            <l>The proper stuff</l>
+            <l>Who has a hus-</l>
+            <l>Band bad enough.</l>
+          </lg>
+          <lg type="stanza">
+            <l>All other pleas appear to us</l>
+            <l>Excessively superfluous.</l>
+          </lg>
+        </sp>
+
+        <sp>
+          <speaker>1st Teacher</speaker>
+          <l>My husband is not really bad—</l>
+        </sp>
+        <sp>
+          <speaker>Board</speaker>
+          <l>How very sad, how very sad!</l>
+        </sp>
+
+        <sp>
+          <speaker>1st Teacher</speaker>
+          <l>He’s good, but hear my one excuse—</l>
+        </sp>
+        <sp>
+          <speaker>Board</speaker>
+          <l>Oh, what’s the use, oh, what’s the use?</l>
+        </sp>
+
+        <sp>
+          <speaker>1st Teacher</speaker>
+          <l>Last winter in a railroad wreck</l>
+          <l>He lost an arm and broke his neck.</l>
+          <l>He’s doomed, but lingers day by day.</l>
+        </sp>
+        <sp>
+          <speaker>Board</speaker>
+          <l>Her husband’s doomed! Hurray! hurray!</l>
+        </sp>
+
+        <sp>
+          <speaker>2nd Teacher</speaker>
+          <l>My husband’s kind and healthy, too—</l>
+        </sp>
+        <sp>
+          <speaker>Board</speaker>
+          <l>Why, then, of course, you will not do.</l>
+        </sp>
+
+        <sp>
+          <speaker>2nd Teacher</speaker>
+          <l>Just hear me out. You’ll find you’re wrong.</l>
+          <l>It’s true his body’s good and strong;</l>
+          <l>But, ah, his wits are all astray.</l>
+        </sp>
+        <sp>
+          <speaker>Board</speaker>
+          <l>Her husband’s mad. Hip, hip, hurray!</l>
+        </sp>
+
+        <sp>
+          <speaker>3rd Teacher</speaker>
+          <l>My husband’s wise and well—the creature!</l>
+        </sp>
+        <sp>
+          <speaker>Board</speaker>
+          <l>Then you can never be a teacher.</l>
+        </sp>
+
+        <sp>
+          <speaker>3rd Teacher</speaker>
+          <l>Wait. For I led him such a life</l>
+          <l>He could not stand me as a wife;</l>
+          <l>Last Michaelmas, he ran away.</l>
+        </sp>
+        <sp>
+          <speaker>Board</speaker>
+          <l>Her husband hates her, Hip, hurray!</l>
+        </sp>
+
+        <sp>
+          <speaker>Chorus by Board</speaker>
+          <lg type="stanza">
+            <l>Now we have found</l>
+            <l>Without a doubt,</l>
+            <l>By process sound</l>
+            <l>And well thought out,</l>
+          </lg>
+          <lg type="stanza">
+            <l>Each candidate</l>
+            <l>Is fit in truth</l>
+            <l>To educate</l>
+            <l>The mind of youth.</l>
+          </lg>
+          <lg type="stanza">
+            <l>No teacher need apply to us</l>
+            <l>Whose married life’s harmonious.</l>
+          </lg>
+        </sp>
+        <stage>(Curtain.)</stage>
             </div>
 
             <div type="quotations" n="64">
