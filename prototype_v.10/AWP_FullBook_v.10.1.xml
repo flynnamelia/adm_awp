@@ -3019,7 +3019,7 @@
 	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?note_annotation_20250416215623511",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-17T01:56:23.511Z",
-	"dcterms:modified": "2025-04-17T01:56:23.511Z",
+	"dcterms:modified": "2025-04-17T01:58:10.198Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -3050,7 +3050,7 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:Note",
+		"@type": "cwrc:NoteScholarly",
 		"dc:format": "text/plain",
 		"rdf:value": "This discussion continues in heading immediately below the script: \n\nASK YOUR FATHER.\nThe New York Board of Education gives as the first cause for which leave of absence may be granted: Serious personal illness of the teacher.\nWe have not yet discovered whether the illness incident to bearing a child is not serious, or not personal."
 	},
@@ -5037,7 +5037,7 @@ Presumably attributed to W. G.  Identity of W.G. is unknown. </note></p>
           </lg>
         </sp>
         <stage>(Curtain.)</stage>
-<note>This discussion continues in heading immediately below the script: 
+<note type="scholarNote">This discussion continues in heading immediately below the script: 
 
 ASK YOUR FATHER.
 The New York Board of Education gives as the first cause for which leave of absence may be granted: Serious personal illness of the teacher.
