@@ -3178,7 +3178,7 @@
 	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416220335031",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-17T02:03:35.031Z",
-	"dcterms:modified": "2025-04-17T02:03:35.031Z",
+	"dcterms:modified": "2025-04-17T02:12:41.474Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -3257,7 +3257,7 @@
 	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416220948388",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-17T02:09:48.388Z",
-	"dcterms:modified": "2025-04-17T02:09:48.388Z",
+	"dcterms:modified": "2025-04-17T02:12:36.691Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -3284,11 +3284,15 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416220948388#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/div[22]/lg/lg/l[3]/persName"
+			"rdf:value": "TEI/text/body/div[3]/div[22]/lg/lg/l[3]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
 		"@id": "https://viaf.org/en/viaf/16011925",
 		"dc:format": "text/plain"
 	},
@@ -3337,7 +3341,7 @@
 	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416221003993",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-17T02:10:03.993Z",
-	"dcterms:modified": "2025-04-17T02:10:03.993Z",
+	"dcterms:modified": "2025-04-17T02:12:31.241Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -3379,6 +3383,90 @@
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
 	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416221210599",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-04-17T02:12:10.599Z",
+	"dcterms:modified": "2025-04-17T02:12:10.599Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416221210599#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416221210599#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[3]/div[22]/lg/lg/l[3]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person",
+			"cwrc:FictionalPerson"
+		],
+		"@id": "https://viaf.org/en/viaf/90456227",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
@@ -5130,7 +5218,7 @@ Presumably attributed to W. G.  Identity of W.G. is unknown. </note></p>
                     <lg>
                         <l><del>Hippolyte</del> <add>Hippolta</add>, Penthesilea,</l>
                         <l><persName key="Teresa Maria" ref="http://temp.lincsproject.ca/winton_henry_david_8/teresa_maria_">Maria Teresa</persName> and <persName key="Joan of Arc" ref="http://www.wikidata.org/entity/Q7226">Joan</persName>,</l>
-                        <l>Agustina and <persName key="Boadicea" ref="https://viaf.org/en/viaf/16011925" cert="high" type="real">Boadicea</persName></l>
+                        <l><persName key="Agustina" ref="https://viaf.org/en/viaf/90456227" cert="high" type="both">Agustina</persName> and <persName key="Boadicea" ref="https://viaf.org/en/viaf/16011925" cert="high" type="both">Boadicea</persName></l>
                         <l>And some militant girls of our own—</l>
                         <l>It would take a brave man and a dull one</l>
                         <l>To say to these ladies: “Of course</l>
