@@ -2429,6 +2429,164 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416213444162",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-04-17T01:34:44.162Z",
+	"dcterms:modified": "2025-04-17T01:34:44.162Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416213444162#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416213444162#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[4]/div[2]/p[7]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q34296",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416213507451",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-04-17T01:35:07.451Z",
+	"dcterms:modified": "2025-04-17T01:35:07.451Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416213507451#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416213507451#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[4]/div[2]/p[6]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://commons.cwrc.ca/orlando:4a088bad-56de-48b1-a382-8fced0dedd31",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
     <text>
         <front>
@@ -4421,14 +4579,14 @@ Presumably attributed to W. G.  Identity of W.G. is unknown. </note></p>
   because in the long run each class of individuals is apt to
   secure better provision for themselves through their own voice in
   government than through the altruistic interest of others,
-  however intelligent or philanthropic.”—William H. Taft in
+  however intelligent or philanthropic.”—<persName key="William Howard Taft" ref="https://commons.cwrc.ca/orlando:4a088bad-56de-48b1-a382-8fced0dedd31" role="aqt">William H. Taft</persName> in
   Special Message.</p>
                 <p>“I have listened to some very honest and eloquent orators whose sentiments were
 noteworthy for this: that when they spoke of the people, they were not thinking
 of themselves, they were thinking of somebody whom they were commissioned to
 take care of. And I have seen them shiver when it was suggested that they
 arrange to have something done by the people for themselves.”—The New
-Freedom, by Woodrow Wilson.</p>
+Freedom, by <persName key="Woodrow Wilson" ref="http://www.wikidata.org/entity/Q34296" role="aqt">Woodrow Wilson</persName>.</p>
             </div>
            </div>
 
