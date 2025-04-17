@@ -4161,7 +4161,86 @@
 	"oa:hasBody": {
 		"@type": "oa:TextualBody",
 		"dc:format": "text/plain",
-		"rdf:value": "The Supreme Court of Wisconsin denied Lavinia Goodell's 1875 application for admission to the state bar, ruling that women were not included within the legal meaning of the word “person” as used in the statute governing bar admissions."
+		"rdf:value": "The Supreme Court of Wisconsin denied Lavinia Goodell's 1875 application for admission to the state bar, ruling that women were not included within the legal definition of the word “person” as used in the statute governing bar admissions."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417001336408",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-04-17T04:13:36.408Z",
+	"dcterms:modified": "2025-04-17T04:13:36.408Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417001336408#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417001336408#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/div[8]/p[3]/note/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://viaf.org/en/viaf/9196268",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5239,7 +5318,7 @@ Presumably attributed to W. G.  Identity of W.G. is unknown. </note></p>
   professionally in all the nastiness which finds its way into
   courts of justice.”</p>
                 <p>It then names thirteen subjects as unfit for the attention of
-  women—three of them are crimes committed against women and in all the others women are at least as much concerned as men.<note type="annotation">The Supreme Court of Wisconsin denied Lavinia Goodell's 1875 application for admission to the state bar, ruling that women were not included within the legal meaning of the word “person” as used in the statute governing bar admissions.</note></p>
+  women—three of them are crimes committed against women and in all the others women are at least as much concerned as men.<note type="annotation">The Supreme Court of Wisconsin denied <persName key="Lavinia Goodell" ref="https://viaf.org/en/viaf/9196268" type="real">Lavinia Goodell</persName>'s 1875 application for admission to the state bar, ruling that women were not included within the legal definition of the word “person” as used in the statute governing bar admissions.</note></p>
             </div>
 
             <div type="poem" n="31">
