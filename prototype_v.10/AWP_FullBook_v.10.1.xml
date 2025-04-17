@@ -6757,7 +6757,7 @@
 	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417011251647",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-17T05:12:51.647Z",
-	"dcterms:modified": "2025-04-17T05:12:51.647Z",
+	"dcterms:modified": "2025-04-17T05:13:53.493Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -6788,7 +6788,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://viaf.org/en/viaf/175743620",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -7258,7 +7260,7 @@ Quote above the one in the epigraph not included in book: ""The most sacred and 
                         <cit>
                             <quote>Where on earth did the idea come from that the ballot is a boon,
                                 a privilege and an honor? From men.</quote>
-                            <bibl>—Mrs. <persName>Prestonia Mann Martin</persName></bibl>
+                            <bibl>—Mrs. <persName key="Prestonia Mann Martin" ref="https://viaf.org/en/viaf/175743620">Prestonia Mann Martin</persName></bibl>
                         </cit>
                     </epigraph>
                 <lg>
