@@ -5006,7 +5006,7 @@ Presumably attributed to W. G.  Identity of W.G. is unknown. </note></p>
 
             <div type="poem" n="23">
                 <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-29.jpeg?raw=true"/><head>Our Own Twelve Anti-suffragist Reasons</head>
-                    <list>
+                    <list type="ordered">
                         <item>
                             <p>1. Because no woman will leave her domestic duties to vote.</p>
                         </item>
