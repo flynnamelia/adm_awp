@@ -4207,7 +4207,7 @@
 	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250416230201796",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-17T03:02:01.796Z",
-	"dcterms:modified": "2025-04-17T03:02:01.796Z",
+	"dcterms:modified": "2025-04-17T03:03:16.432Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -4238,7 +4238,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://viaf.org/en/viaf/121572137",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -5351,7 +5353,7 @@ Presumably attributed to W. G.  Identity of W.G. is unknown. </note></p>
 
             <div type="poem" n="33">
                 <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-28.jpeg?raw=true"/><head>Do You Know</head>
-                <p>That in 1869 <persName>Miss Jex-Blake</persName> and four other women entered for a
+                <p>That in 1869 <persName key="Sophia Jex-Blake" ref="https://viaf.org/en/viaf/121572137" type="real">Miss Jex-Blake</persName> and four other women entered for a
   medical degree at the University of Edinburgh?</p>
                 <p>That the president of the College of Physicians refused to
   give the women the prizes they had won?</p>
