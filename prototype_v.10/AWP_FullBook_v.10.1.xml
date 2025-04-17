@@ -2148,7 +2148,6 @@
 	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?note_annotation_20250403052135256",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-03T09:21:35.256Z",
-	"dcterms:modified": "2025-04-03T09:21:35.256Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -2175,7 +2174,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?note_annotation_20250403052135256#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[3]/div[9]/lg/lg/l[15]/add/note"
+			"rdf:value": "TEI/text/body/div[3]/div[9]/lg/lg/l[15]/del/note"
 		}
 	},
 	"oa:hasBody": {
@@ -5616,7 +5615,7 @@ Presumably attributed to W. G.  Identity of W.G. is unknown. </note></p>
                         <l>By <del>1915</del> <add>Nineteen-Fifteen</add>, he’ll insist</l>
                         <l>He’s always been a suffragist<del>:</del><add>.</add></l>
                         <l>And what is really stranger, too,</l>
-                        <l><del>Will</del> <add>He’ll</add> think that what he says is true.</l><l><add>FELICIA<note>Also, poem in newspaper appears to be attributed to "Felicia." Identity of "Felicia" is unknown.</note></add></l>
+                        <l><del>Will</del> <add>He’ll</add> think that what he says is true.</l><l><del>FELICIA<note>Also, poem in newspaper appears to be attributed to "Felicia." Identity of "Felicia" is unknown.</note></del></l>
                     </lg>
                 </lg>
             </div>
