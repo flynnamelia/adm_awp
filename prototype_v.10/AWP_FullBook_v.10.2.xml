@@ -26,15 +26,8 @@
                 <bibl><title>Are Women People?</title>, by <author>Alice Duer Miller</author> (<publisher>George H. Doran</publisher>: <pubPlace>New York</pubPlace>), <date>1915</date>
                 </bibl>
             </sourceDesc>
-			<encodingDesc>
-         <projectDesc>
-            <p>This digital edition was created as a senior undergraduate Culture and Technology Studies project at the University of Guelph in 2024-2025. Its aim is to examine the remediations of Alice Duer Miller's suffrage poetry, from physical to digital newspapers and books.</p>
-         </projectDesc>
-		 <samplingDecl>Transcribed ebook prose was sourced from Project Gutenberg's HTML, which was automatically converted to TEI with AI and then human-edited. Frontmatter, including the original table of contents, has been omitted. Newspaper images were downloaded from Chronicling America. Only the Are Women Prople columns in which poems from this volume can be found were included in this edition. 
-		</samplingDecl>
-      </encodingDesc>
         </fileDesc>
-    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
         <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
           <![CDATA[{
 	"@context": {
@@ -6861,7 +6854,14 @@
 	}
 }]]>
         </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader>
+      </rdf:RDF></xenoData><encodingDesc>
+         <projectDesc>
+            <p>This digital edition was created as a senior undergraduate Culture and Technology Studies project at the University of Guelph in 2024-2025. Its aim is to examine the remediations of Alice Duer Miller's suffrage poetry, from physical to digital newspapers and books.</p>
+         </projectDesc>
+		 <samplingDecl>Transcribed ebook prose was sourced from Project Gutenberg's HTML, which was automatically converted to TEI with AI and then human-edited. Frontmatter, including the original table of contents, has been omitted. Newspaper images were downloaded from Chronicling America. Only the Are Women Prople columns in which poems from this volume can be found were included in this edition. 
+		</samplingDecl>
+      </encodingDesc>
+    </teiHeader>
     <text>
         <front>
             <div type="titlepage">
