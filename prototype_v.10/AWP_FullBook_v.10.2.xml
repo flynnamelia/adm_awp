@@ -6872,9 +6872,26 @@
                 <p>Author of “Blue Arch,” “The Modern Obstacle,” etc.</p>
                 <p>New York</p>
                 <p>George H. Dorian Company</p>
+				<p>To V. B. W. slave driver and friend.</p>
+			</div>
+			<div type="poem" no="0">
+				<head>Introduction</head>
+				<lg type="poem">
+         		 <l>Father, what is a Legislature?</l>
+         		 <l>A representative body elected by the people of the state.</l>
+         		 <l>Are women people?</l>
+         		 <l>No, my son, criminals, lunatics and women are not people.</l>
+         		 <l>Do legislators legislate for nothing?</l>
+          		<l>Oh, no; they are paid a salary.</l>
+          		<l>By whom?</l>
+          		<l>By the people.</l>
+         		 <l>Are women people?</l>
+         		 <l>Of course, my son, just as much as men are.</l>
+     		   </lg>	
+                <p>To the New York Tribune, in whose generous columns many of these verses first appeared, the author here wishes to express her gratitude.</p>
             </div>
             <div type="introduction">
-                <head>Introduction</head>
+                <head>Scholarly Introduction</head>
 				<p>Alice Duer Miller’s 1915 poetry collection, Are Women People?, can be considered one of the most effective textual interventions of the American women’s suffrage movement. This digital edition re-examines the work in the context of its original publication in Miller's New York Tribune column as well as its modern digital remediations.	
 				</p>
 				<p> Alice Duer Miller (1874-1942) was a bestselling American poet, novelist, and activist. Born into a socially prominent family on July 28, 1874, in New York City, Miller began publishing poetry and stories to fund her education. Miller pursued higher education at a time when few women did. She attended Barnard College, graduating in 1899 with a degree in mathematics and astronomy. In 1899, she married Henry Wise Miller, and the couple had one son. 
@@ -6885,10 +6902,6 @@
 				<p>By repackaging her columns into a book, Miller also participated in the broader suffrage movement’s strategy of textual permanence, producing material that could circulate in domestic, educational, and civic spaces beyond the newsstand. The book thus functions as a remediation of feminist activism itself, capturing the immediacy of newspaper polemic while embedding it in the longer-lasting and culturally legitimized medium of print literature. 
 				</p>
 				<p>This digital edition remediates Are Women People? once more into an TEI-XML-encoded format that makes its two previous remediations more accessible. It seeks to foreground Miller’s text as an artifact of media transition and feminist intervention. Annotations illuminate not only historical and political references but also the ways Miller’s poems reframe dominant media conventions through shifts in attribution and language. An editorial statement on encoding practices soon to follow. </p></div>
-            <div type="dedication">
-                <head>Dedication</head>
-                <p>To the New York Tribune, in whose generous columns many of these verses first appeared, the author here wishes to express her gratitude.</p>
-            </div>
         </front>
         <body>
           <div type="section" n="1">
