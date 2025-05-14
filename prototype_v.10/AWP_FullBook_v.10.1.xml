@@ -4525,10 +4525,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417004649789",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417004710523",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-04-17T04:46:49.789Z",
-	"dcterms:modified": "2025-04-17T04:47:10.523Z",
+	"dcterms:created": "2025-04-17T04:47:10.523Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -4539,7 +4538,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417004649789#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417004710523#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml",
@@ -4553,7 +4552,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417004649789#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417004710523#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[14]/lg/lg/l[5]/persName[2]"
 		}
@@ -5205,84 +5204,6 @@
 			"cwrc:FictionalPerson"
 		],
 		"@id": "https://www.wikidata.org/wiki/Q185968",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?work_annotation_20250417005937791",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-04-17T04:59:37.791Z",
-	"dcterms:modified": "2025-04-17T04:59:37.791Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/flynnamelia",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Amelia Flynn"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?work_annotation_20250417005937791#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?work_annotation_20250417005937791#Selector",
-			"@type": "oa:XPathSelector"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "bf:Title",
-		"@id": "http://www.temp.lincsproject.ca/Trilby_TITLE",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -6754,10 +6675,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417011251647",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417011353493",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-04-17T05:12:51.647Z",
-	"dcterms:modified": "2025-04-17T05:13:53.493Z",
+	"dcterms:created": "2025-04-17T05:13:53.493Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -6768,7 +6688,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417011251647#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417011353493#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml",
@@ -6782,7 +6702,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417011251647#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/AWP_FullBook_v.10.1.xml?person_annotation_20250417011353493#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[12]/epigraph/cit/bibl/persName"
 		}
@@ -7085,7 +7005,7 @@
                 <head>TREACHEROUS TEXTS</head>
 
             <div type="poem" n="1">
-                <pb facs="https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-21.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-21.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-31.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-12-20.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-06-07.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_ED_1915-03-23.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_placeholder.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-07-19.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_02_07.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_04_04.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-15.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915_04_04.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-03-01.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1914-05-31.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-01-03.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-02-28.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_1915-02-14.jpeg?raw=true https://github.com/flynnamelia/adm_awp/blob/main/prototype_v.10/images_v.10/AWP_ED_1915-02-10.jpeg?raw=true"/><head>A Consistent Anti to her Son</head>
+                <pb facs="https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/prototype_v.10/images_v.10/AWP_1915-03-21.jpeg"/><head>A Consistent Anti to her Son</head>
                 <epigraph><cit><quote>“Look at the hazards, the risks, the physical dangers that
                     ladies would be exposed to at the
                     polls.”</quote><bibl>—Anti-suffrage speech.</bibl></cit></epigraph>
