@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Homepage</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Georgia, serif;
+      background-color: #ffffff;
+      color: #333;
+    }
+
+    /* HEADER BAR */
+    header {
+      background-color: #2a2a2a;
+      color: white;
+      padding: 1em;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 1.8em;
+    }
+    .header-title a {
+      color: white;
+      text-decoration: none;
+    }
+
+    .header-title a:hover {
+      text-decoration: underline;
+    }
+
+    /* FOOTER BAR */
+    footer {
+      background-color: #2a2a2a;
+      color: white;
+      text-align: center;
+      padding: 0.8em;
+      font-size: 0.9em;
+      margin-top: 4em;
+    }
+        /* NAVIGATION */
+    nav {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      background-color: #444;
+    }
+
+    nav a {
+      color: white;
+      padding: 0.75em 1.5em;
+      text-decoration: none;
+      font-size: 1em;
+      display: inline-block;
+    }
+
+    nav a:hover {
+      background-color: #666;
+    }
+
+
+    /* MAIN CONTENT */
+    .main-content {
+      max-width: 900px;
+      margin: 3em auto;
+      padding: 0 1em;
+      text-align: center;
+    }
+
+    .main-content p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      margin-bottom: 2em;
+    }
+
+
+    /* IMAGE BUTTONS */
+    .button-container {
+      display: flex;
+      justify-content: center;
+      gap: 3em;
+      flex-wrap: wrap;
+      margin-bottom: 3em;
+    }
+
+    .image-button {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.2s ease;
+    }
+
+    .image-button img {
+      width: 200px;
+      height: auto;
+      border: 2px solid #ccc;
+      border-radius: 8px;
+      transition: box-shadow 0.3s ease;
+    }
+
+    .image-button:hover img {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    .image-button .label {
+      margin-top: 0.7em;
+      font-size: 1.1em;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+  <h1 class="header-title">
+  <a href="index.html">Are Women People?</h1>
+  </header>
+  <nav>
+    <a href="AWP_TEI_Book.html">Book</a>
+    <a href="AWP_About.html">Introduction</a>
+    <a href="AWP_Newspapers.html">Newspaper</a>
+  </nav>
+  <div class="main-content">
+    <p>
+      This digital edition presents a scholarly version of Alice Duer Miller's <em>Are Women People?</em>
+      You can explore the full reading edition of the book or browse original newspaper scans that 
+      provide historical context.
+    </p>
+    <p>
+      Use the buttons below to navigate:
+      click the book to read the edition, or click the newspaper to access newspaper images.
+    </p>
+    <div class="button-container">
+      <a href="AWP_Book.html" class="image-button">
+        <img src="images/Index1_book_awp.png" alt="Read the Book">
+        <div class="label">Read the Book</div>
+      </a>
+      <a href="AWP_Newspapers.html" class="image-button">
+        <img src="images/index1_newspaper_awp.jpg" alt="View the Newspaper">
+        <div class="label">Explore the Newspaper</div>
+      </a>
+    </div>
+  </div>
+  <footer>
+    &copy; University of Guelph, 2025. Created for CTS*4020.
+  </footer>
+<script src="toggle.js"></script>
+
+</body>
+</html>

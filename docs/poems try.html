@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Compare</title>
+  <script src="https://openseadragon.github.io/openseadragon/openseadragon.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: Georgia, serif;
+      background: #f9f8f7;
+      color: #333;
+    }
+    .poem-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      max-width: 1000px;
+      margin: 2rem auto;
+      height: 70vh;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    @media (max-width: 800px) {
+      .poem-container { grid-template-columns: 1fr; height: auto; }
+    }
+    /* Facsimile viewer panel */
+    .facsimile {
+      position: relative;
+      background: #000;
+    }
+    /* Text panel */
+    .text {
+      position: relative;
+      overflow-y: auto;
+      padding: 1.5rem;
+      background: #fff;
+    }
+    .text h2 {
+      margin-top: 10px;
+      font-size: 1.5rem;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 0.5rem;
+    }
+    /* Sticky control bar */
+    .controls {
+      position: sticky;
+      top: 0;
+      background: #fff;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid #ddd;
+      z-index: 10;
+      text-align: right;
+    }
+    .controls button {
+      background: none;
+      border: 3px solid #aaa;
+      border-radius: 2px;
+      padding: 0.4rem 0.4rem;
+      margin-left: 0.5rem;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s;
+    }
+    .controls button.active {
+      background: #333;
+      color: #fff;
+      border-color: #333;
+    }
+    /* Fade transition for readings */
+    .edition span.rdg-B,
+    .edition span.rdg-A {
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+    .edition.show-B .rdg-B,
+    .edition.show-both .rdg-B {
+      opacity: 1;
+    }
+    .edition.show-A .rdg-A,
+    .edition.show-both .rdg-A {
+      opacity: 1;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Poem 1 -->
+  <div class="poem-container" id="poem1">
+    <div class="facsimile" id="1915-03-21"></div>
+    <div class="text">
+      <div class="controls">
+        <button data-mode="B" class="active">Book</button>
+        <button data-mode="A">Newspaper</button>
+        <button data-mode="both">Both</button>
+      </div>
+      <h2>A Consistent Anti to her Son</h2>
+      <div class="edition show-B">
+        <p>“Look at the hazards, the risks, the physical dangers that ladies would be exposed to at the polls.”</p>
+        <p>You’re twenty-one to-day, Willie,</p>
+                              
+                 <p>And a danger lurks at the door,</p>
+                              
+                 <p>I’ve known about it always,</p>
+                              
+                 <p>But I never spoke before;</p>
+                              
+                 <p>When you were only a baby</p>
+                              
+                 <p>It seemed so very remote,</p>
+                              
+                 <p>But you’re twenty-one to-day, Willie,</p>
+                              
+                 <p>And old enough to vote.</p>        
+                              
+                 <p>You must not go to the polls, Willie,</p>
+                              
+                 <p>Never go to the polls,</p>
+                              
+                 <p>They’re dark and dreadful places</p>
+                              
+                 <p>Where many lose their souls;</p>
+                              
+                 <p>They smirch, degrade and coarsen,</p>
+                              
+                 <p>Terrible things they do</p>
+                              
+                 <p>To quiet, elderly women—</p>
+                              
+                 <p>What would they do to you!</p>
+                            
+                            
+                              
+                 <p>If you’ve a boyish fancy</p>
+                              
+                 <p>For any measure or man,</p>
+                              
+                 <p>Tell me, and I’ll tell Father,</p>
+                              
+                 <p>He’ll vote for it, if he can.</p>
+                              
+                 <p>He casts my vote, and Louisa’s,</p>
+                              
+                 <p>And Sarah, and dear Aunt Clo;</p>
+                              
+                 <p>Wouldn’t you let him vote for you?</p>
+                              
+                 <p>Father, who loves you so?</p>
+                            
+                            
+                              
+                 <p>I’ve guarded you always, Willie,</p>
+                              
+                 <p>Body and soul from harm;</p>
+                              
+                 <p>I’ll guard your faith and honor,</p>
+                              
+                 <p>Your innocence and charm</p>
+                              
+                 <p>From the polls and their evil spirits,</p>
+                              
+                 <p>Politics, rum and pelf;</p>
+                              
+                 <p>Do you think I’d send my only son</p>
+                              
+                 <p>Where I would not go myself?</p>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Poem 3 -->
+  <div class="poem-container" id="1915-03-07">
+    <div class="facsimile" id="1915-03-07"></div>
+    <div class="text">
+      <h2>The Revolt of Mother</h2>
+      <div class="controls">
+        <button data-mode="B" class="active">Book</button>
+        <button data-mode="A">Newspaper</button>
+        <button data-mode="both">Both</button>
+      </div>
+      <div class="edition show-B">
+        <p>I am old-fashioned, and I think it right<br>
+           That man should know, by Nature’s laws eternal,<br>
+           The proper way to rule, to earn, to fight,<br>
+           And exercise those functions called paternal;</p>
+        <p>But even I a little bit rebel<br>
+           At finding that he knows my job as well.</p>
+        <p>“How <span class="rdg-B">women</span><span class="rdg-A">good wives</span> feel”—he knows that best of all.</p>
+      </div>
+    </div>
+  </div>
+
+
+  <script>
+    // Initialize OpenSeadragon viewers
+    [
+      { id: '1914-03-01', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-01.jpeg' },
+      { id: '1914-03-08', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-08.jpeg' },
+      { id: '1914-03-15', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-15.jpeg' },
+      { id: '1914-03-08', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-29.jpeg' },
+      { id: '1914-04-12', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-04-12.jpeg' },
+      { id: '1914-05-03', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-05-03.jpeg' },
+      { id: '1914-05-24', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-05-24.jpeg' },
+      { id: '1914-05-31', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-05-31.jpeg' },
+      { id: '1914-06-07', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-06-07.jpeg' },
+      { id: '1914-07-19', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-07-19.jpeg' },
+      { id: '1914-08-02', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-08-02.jpeg' },
+      { id: '1914-08-09', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-08-09.jpeg' },
+      { id: '1914-08-16', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-08-16.jpeg' },
+      { id: '1914-09-06', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-09-06.jpeg' },
+      { id: '1914-12-06', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-12-06.jpeg' },
+      { id: '1914-12-13', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-12-13.jpeg' },
+      { id: '1914-12-20', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-12-20.jpeg' },
+      { id: '1915-01-03', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-03.jpeg' },
+      { id: '1915-01-10', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-10.jpeg' },
+      { id: '1915-01-17', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-17.jpeg' },
+      { id: '1915-01-24', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg' },
+      { id: '1915-01-31', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-31.jpeg' },
+      { id: '1915-02-07', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-07.jpeg' },
+      { id: '1915-02-14', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-14.jpeg' },
+      { id: '1915-02-21', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-21.jpeg' },
+      { id: '1915-02-28', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-28.jpeg' },
+      { id: '1915-03-07', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg' },
+      { id: '1915-03-14', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg' },
+      { id: '1915-03-15', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-15.jpeg' },
+      { id: '1915-03-21', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-21.jpeg' },
+      { id: '1915-03-28', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-28.jpeg' },
+      { id: '1915-04-04', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-04-04.jpeg' },
+      { id: '1915-04-11', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-04-11.jpeg' },
+
+
+    ].forEach(cfg => {
+      OpenSeadragon({
+        id: cfg.id,
+        prefixUrl: "https://openseadragon.github.io/openseadragon/images/",
+        tileSources: { type: 'image', url: cfg.url },
+      });
+    });
+
+    // Wire up toggles
+    document.querySelectorAll('.controls').forEach(ctrl => {
+      ctrl.addEventListener('click', e => {
+        if (e.target.tagName === 'BUTTON') {
+          const mode = e.target.dataset.mode;
+          const edition = ctrl.nextElementSibling;
+          // highlight buttons
+          ctrl.querySelectorAll('button').forEach(b => b.classList.toggle('active', b===e.target));
+          // apply class to edition
+          edition.className = 'edition show-' + mode;
+        }
+      });
+    });
+  </script>
+</body>
+</html>
+

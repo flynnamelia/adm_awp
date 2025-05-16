@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Newspaper Column</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Georgia, serif;
+      background-color: #ffffff;
+      margin: 0;
+      color: #333;
+    }
+
+    /* HEADER */
+    header {
+      background-color: #2a2a2a;
+      color: white;
+      padding: 1em 1.5em;
+    }
+
+    .header-title {
+      margin: 0;
+      font-size: 1.8em;
+      text-align: center;
+    }
+    .header-title a {
+      color: white;
+      text-decoration: none;
+    }
+
+    .header-title a:hover {
+      text-decoration: underline;
+    }
+
+    /* NAVIGATION */
+    nav {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      background-color: #444;
+    }
+
+    nav a {
+      color: white;
+      padding: 0.75em 1.5em;
+      text-decoration: none;
+      font-size: 1em;
+      display: inline-block;
+    }
+
+    nav a:hover {
+      background-color: #666;
+    }
+
+    /* MAIN CONTENT */
+    main {
+      max-width: 900px;
+      margin: 2em auto;
+      padding: 1em;
+    }
+
+    h2 {
+      text-align: center;
+      font-size: 1.6em;
+      margin-bottom: 0.5em;
+    }
+
+    p.description {
+      text-align: center;
+      font-size: 1.1em;
+      line-height: 1.5;
+      max-width: 700px;
+      margin: 0 auto 2em auto;
+    }
+
+    /* TABLE STYLING */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: #fff;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 0.75em;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      background-color: #ece8e2;
+      font-weight: bold;
+    }
+
+    tr:hover {
+      background-color: #f4f0ea;
+    }
+
+    a {
+      color: #0056a3;
+      text-decoration: underline;
+    }
+
+    a:hover {
+      text-decoration: none;
+    }
+
+    /* FOOTER */
+    footer {
+      background-color: #2a2a2a;
+      color: white;
+      text-align: center;
+      padding: 1em;
+      font-size: 0.9em;
+      margin-top: 4em;
+    }
+
+    /* RESPONSIVE DESIGN */
+    @media (max-width: 600px) {
+      nav a {
+        flex: 1 1 100%;
+        text-align: center;
+        padding: 1em;
+      }
+
+      table, thead, tbody, th, td, tr {
+        display: block;
+      }
+
+      thead {
+        display: none;
+      }
+
+      tr {
+        margin-bottom: 1em;
+        border-bottom: 2px solid #ccc;
+      }
+
+      td {
+        padding: 0.5em 1em;
+        border: none;
+        position: relative;
+      }
+
+      td::before {
+        content: attr(data-label);
+        font-weight: bold;
+        display: block;
+        margin-bottom: 0.3em;
+        color: #555;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1 class="header-title">
+  <a href="index.html">Are Women People?</h1>
+  </header>
+
+  <!-- NAVIGATION MENU -->
+  <nav>
+    <a href="AWP_TEI_Book.html">Book</a>
+    <a href="AWP_About.html">Introduction</a>
+    <a href="AWP_Newspapers.html">Newspaper</a>
+  </nav>
+
+  <main>
+    <h2>Library of Congress Newspaper Pages</h2>
+    <p class="description">
+      This page contains direct links to facsimile images of newspaper pages used in this edition.
+      All links open in a new tab and are hosted by the Library of Congress.
+    </p>
+    <iframe 
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaFjxfUC7iayn_fVkU9HLH5v892L6J4F3lvgAOoPN7cnJUss-Up-TFRI08tdDBkopxowLgbz-lLVUS/pubhtml?widget=true&amp;headers=false"
+    width="100%" 
+    height="600" 
+    frameborder="0">
+    ></iframe>
+  </main>
+
+  <footer>
+    University of Guelph, 2025. Created for CTS*4020.
+  </footer>
+
+</body>
+</html>
