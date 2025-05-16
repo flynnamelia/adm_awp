@@ -23,8 +23,14 @@
            		<authority>Amelia Flynn</authority>
             </publicationStmt>
             <sourceDesc>
-                <bibl><title>Are Women People?</title>, by <author>Alice Duer Miller</author> (<publisher>George H. Doran</publisher>: <pubPlace>New York</pubPlace>), <date>1915</date>
+                <bibl><title>Are Women People?: A Book of Rhymes For Suffrage Times</title>, by <author>Alice Duer Miller</author> (<publisher>George H. Doran</publisher>: <pubPlace>New York</pubPlace>), <date>1915</date>
                 </bibl>
+				<listWit>
+  				<witness xml:id="B_AWP">Miller, Alice Duer. Are Women People?: A Book of Rhymes For Suffrage Times. George H. Doran. 1915.</witness>
+ 				 <witness xml:id="N_AWP">Miller, Alice Duer. Are Women People?. New York Tribune. 1914-1915</witness>
+			</listWit>
+
+			<variantEncoding method="location-referenced" location="internal"/>
             </sourceDesc>
         </fileDesc>
 		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
