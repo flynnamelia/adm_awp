@@ -1,83 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Homepage</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Digital Edition Home</title>
+  <link rel="stylesheet" href="https://www.tei-c.org/release/xml/tei/stylesheet/tei.css" />
   <style>
-    body {
-      margin: 0;
-      font-family: Georgia, serif;
-      background-color: #ffffff;
-      color: #333;
+    :root {
+      --primary-color: #1a1a1a;
+      --accent-color: #a26c09;
+      --background-light: #fdfdfd;
+      --highlight-light: #e6e6e6;
     }
 
-    /* HEADER BAR */
+    body {
+      font-family: 'Georgia', serif;
+      margin: 0;
+      padding: 0;
+      background-color: var(--background-light);
+      color: var(--primary-color);
+      line-height: 1.6;
+    }
+
     header {
-      background-color: #2a2a2a;
-      color: white;
-      padding: 1em;
-      text-align: center;
+      background-color: #ffffff;
+      padding: 1.5rem 2rem;
+      border-bottom: 1px solid #ddd;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
     }
 
     header h1 {
-      margin: 0;
-      font-size: 1.8em;
-    }
-    .header-title a {
-      color: white;
-      text-decoration: none;
-    }
-
-    .header-title a:hover {
-      text-decoration: underline;
-    }
-
-    /* FOOTER BAR */
-    footer {
-      background-color: #2a2a2a;
-      color: white;
       text-align: center;
-      padding: 0.8em;
-      font-size: 0.9em;
-      margin-top: 4em;
+      margin: 0;
+      font-size: 2.5rem;
+      color: var(--accent-color);
     }
-        /* NAVIGATION */
+
     nav {
       display: flex;
-      justify-content: center;
       flex-wrap: wrap;
-      background-color: #444;
+      gap: 1.2rem;
+      justify-content: center;
+      margin-top: 1rem;
     }
 
     nav a {
-      color: white;
-      padding: 0.75em 1.5em;
       text-decoration: none;
-      font-size: 1em;
-      display: inline-block;
+      color: var(--primary-color);
+      font-weight: 600;
+      padding: 0.25rem 0.5rem;
+      transition: color 0.3s ease;
     }
 
     nav a:hover {
-      background-color: #666;
+      color: var(--accent-color);
     }
 
-
-    /* MAIN CONTENT */
-    .main-content {
-      max-width: 900px;
-      margin: 3em auto;
-      padding: 0 1em;
+    main {
+      max-width: 960px;
+      margin: 3rem auto;
+      padding: 0 2rem;
       text-align: center;
     }
 
-    .main-content p {
-      font-size: 1.1em;
-      line-height: 1.6;
-      margin-bottom: 2em;
+    h2 {
+      font-size: 1.5rem;
+      color: var(--primary-color);
+      margin-bottom: 1.5rem;
     }
-
-
-    /* IMAGE BUTTONS */
+/* IMAGE BUTTONS */
     .button-container {
       display: flex;
       justify-content: center;
@@ -96,8 +87,8 @@
     }
 
     .image-button img {
-      width: 200px;
-      height: auto;
+      width: auto;
+      height: 300px;
       border: 2px solid #ccc;
       border-radius: 8px;
       transition: box-shadow 0.3s ease;
@@ -112,43 +103,69 @@
       font-size: 1.1em;
       font-weight: bold;
     }
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      background-color: #ffffff;
+      border-top: 1px solid #ddd;
+      font-size: 0.9rem;
+      color: #666;
+    }
+
+    footer a {
+      color: var(--accent-color);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
   <header>
-  <h1 class="header-title">
-  <a href="index.html">Are Women People?</h1>
-  </header>
-  <nav>
-    <a href="AWP_TEI_Book.html">Book</a>
-    <a href="AWP_About.html">Introduction</a>
+    <h1>
+      <a href="index.html" style="text-decoration: none; color: inherit;">
+        <span style="font-variant: small-caps; letter-spacing: 0.03em;">Are Women People?</span><br>
+      </a>
+    </h1>     <nav>
+    <a href="AWP_Book.html">Book</a>
+    <span aria-hidden="true">|</span>
+    <a href="AWP_Compare.html">Compare</a>
+    <span aria-hidden="true">|</span>
     <a href="AWP_Newspapers.html">Newspaper</a>
-  </nav>
-  <div class="main-content">
-    <p>
-      This digital edition presents a scholarly version of Alice Duer Miller's <em>Are Women People?</em>
+    </nav>
+    </nav>
+  </header>
+
+  <main>
+    <h2>About This Digital Edition</h2>
+    <p>This digital edition presents a scholarly version of Alice Duer Miller's <em>Are Women People?</em>
       You can explore the full reading edition of the book or browse original newspaper scans that 
-      provide historical context.
-    </p>
-    <p>
-      Use the buttons below to navigate:
-      click the book to read the edition, or click the newspaper to access newspaper images.
-    </p>
-    <div class="button-container">
+      provide historical context.</p>
+      <p>Use the buttons below to navigate:
+      click the book to read the edition, or click the newspaper to access newspaper images.</p>
+
+      <div class="button-container">
       <a href="AWP_Book.html" class="image-button">
-        <img src="https://github.com/flynnamelia/adm_awp/blob/main/docs/Images/Index1_book_awp.jpeg?raw=true" alt="Read the Book">
+        <img src="images/AWP_frontcover.jpg" alt="Read the Book">
         <div class="label">Read the Book</div>
       </a>
       <a href="AWP_Newspapers.html" class="image-button">
-        <img src="https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/docs/Images/Index1_newspaper_awp.jpg" alt="View the Newspaper">
+        <img src="images/index1_newspaper_awp.jpg" alt="View the Newspaper">
         <div class="label">Explore the Newspaper</div>
       </a>
     </div>
-  </div>
-  <footer>
-    &copy; University of Guelph, 2025. Created for CTS*4020.
-  </footer>
-<script src="toggle.js"></script>
+      <section style="margin-top: 4rem; border-top: 2px solid #ccc; padding-top: 2rem;">
+      <h2>Scholarly Introduction</h2>
+      <p>[Insert your critical introduction here. This section can include background, theoretical framing, methodology, and editorial decisions relevant to your edition.]</p>
+    </section>
+  </main>
 
+  <footer>
+    <p>&copy; 2025 University of Guelph. This work is licensed under a
+      <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener">CC BY 4.0 International License</a>.
+    </p>
+  </footer>
 </body>
 </html>
