@@ -1,174 +1,184 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Newspaper Column</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Newspaper Archive</title>
+  <link rel="stylesheet" href="https://www.tei-c.org/release/xml/tei/stylesheet/tei.css" />
   <style>
+    :root {
+      --primary-color: #1a1a1a;
+      --accent-color: #a26c09;
+      --background-light: #fdfdfd;
+      --highlight-light: #e6e6e6;
+    }
+
     body {
-      font-family: Georgia, serif;
-      background-color: #ffffff;
+      font-family: 'Georgia', serif;
       margin: 0;
-      color: #333;
+      padding: 0;
+      background-color: var(--background-light);
+      color: var(--primary-color);
+      line-height: 1.6;
     }
 
-    /* HEADER */
     header {
-      background-color: #2a2a2a;
-      color: white;
-      padding: 1em 1.5em;
+      background-color: #ffffff;
+      padding: 1.5rem 2rem;
+      border-bottom: 1px solid #ddd;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
     }
 
-    .header-title {
-      margin: 0;
-      font-size: 1.8em;
+    header h1 {
       text-align: center;
-    }
-    .header-title a {
-      color: white;
-      text-decoration: none;
-    }
-
-    .header-title a:hover {
-      text-decoration: underline;
+      margin: 0;
+      font-size: 2.5rem;
+      color: var(--accent-color);
     }
 
-    /* NAVIGATION */
     nav {
       display: flex;
-      justify-content: center;
       flex-wrap: wrap;
-      background-color: #444;
+      gap: 1.2rem;
+      justify-content: center;
+      margin-top: 1rem;
     }
 
     nav a {
-      color: white;
-      padding: 0.75em 1.5em;
       text-decoration: none;
-      font-size: 1em;
-      display: inline-block;
+      color: var(--primary-color);
+      font-weight: 600;
+      padding: 0.25rem 0.5rem;
+      transition: color 0.3s ease;
     }
 
     nav a:hover {
-      background-color: #666;
+      color: var(--accent-color);
     }
 
-    /* MAIN CONTENT */
     main {
-      max-width: 900px;
-      margin: 2em auto;
-      padding: 1em;
+      max-width: 960px;
+      margin: 3rem auto;
+      padding: 0 2rem;
+      text-align: center;
     }
 
     h2 {
-      text-align: center;
-      font-size: 1.6em;
-      margin-bottom: 0.5em;
+      font-size: 1.5rem;
+      color: var(--primary-color);
+      margin-bottom: 1.5rem;
+    }
+/* IMAGE BUTTONS */
+    .button-container {
+      display: flex;
+      justify-content: center;
+      gap: 3em;
+      flex-wrap: wrap;
+      margin-bottom: 3em;
     }
 
-    p.description {
-      text-align: center;
+    .image-button {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.2s ease;
+    }
+
+    .image-button img {
+      width: 200px;
+      height: auto;
+      border: 2px solid #ccc;
+      border-radius: 8px;
+      transition: box-shadow 0.3s ease;
+    }
+
+    .image-button:hover img {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    .image-button .label {
+      margin-top: 0.7em;
       font-size: 1.1em;
-      line-height: 1.5;
-      max-width: 700px;
-      margin: 0 auto 2em auto;
-    }
-
-    /* TABLE STYLING */
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background-color: #fff;
-    }
-
-    th, td {
-      border: 1px solid #ccc;
-      padding: 0.75em;
-      text-align: left;
-      vertical-align: top;
-    }
-
-    th {
-      background-color: #ece8e2;
       font-weight: bold;
     }
-
-    tr:hover {
-      background-color: #f4f0ea;
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      background-color: #ffffff;
+      border-top: 1px solid #ddd;
+      font-size: 0.9rem;
+      color: #666;
     }
 
-    a {
-      color: #0056a3;
-      text-decoration: underline;
-    }
-
-    a:hover {
+    footer a {
+      color: var(--accent-color);
       text-decoration: none;
     }
 
-    /* FOOTER */
-    footer {
-      background-color: #2a2a2a;
-      color: white;
-      text-align: center;
-      padding: 1em;
-      font-size: 0.9em;
-      margin-top: 4em;
+    footer a:hover {
+      text-decoration: underline;
     }
-
-    /* RESPONSIVE DESIGN */
-    @media (max-width: 600px) {
-      nav a {
-        flex: 1 1 100%;
-        text-align: center;
-        padding: 1em;
-      }
-
-      table, thead, tbody, th, td, tr {
-        display: block;
-      }
-
-      thead {
-        display: none;
-      }
-
-      tr {
-        margin-bottom: 1em;
-        border-bottom: 2px solid #ccc;
-      }
-
-      td {
-        padding: 0.5em 1em;
-        border: none;
-        position: relative;
-      }
-
-      td::before {
-        content: attr(data-label);
-        font-weight: bold;
-        display: block;
-        margin-bottom: 0.3em;
-        color: #555;
-      }
+        /* Viewer at top */
+    #viewer {
+      flex: 1 1 60vh;
+      background: #000;
+    }
+    /* Thumbnail strip */
+    #gallery {
+      flex: 1 1 auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 6px;
+      padding: 8px;
+      overflow-y: auto;
+      background: #f9f8f7;
+    }
+    #gallery img {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+      cursor: pointer;
+      border: 2px solid transparent;
+      transition: border-color .2s;
+    }
+    #gallery img:hover,
+    #gallery img.selected {
+      border-color: var(--accent-color);
     }
   </style>
 </head>
 <body>
-
   <header>
-    <h1 class="header-title">
-  <a href="index.html">Are Women People?</h1>
+    <h1>
+      <a href="index.html" style="text-decoration: none; color: inherit;">
+        <span style="font-variant: small-caps; letter-spacing: 0.03em;">Are Women People?</span><br>
+      </a>
+    </h1>    <nav>
+    <a href="AWP_Book.html">Book</a>
+    <span aria-hidden="true">|</span>
+    <a href="AWP_Compare.html">Compare</a>
+    <span aria-hidden="true">|</span>
+    <a href="AWP_Newspapers.html">Newspaper</a>
+    </nav>
   </header>
 
-  <!-- NAVIGATION MENU -->
-  <nav>
-    <a href="AWP_TEI_Book.html">Book</a>
-    <a href="AWP_About.html">Introduction</a>
-    <a href="AWP_Newspapers.html">Newspaper</a>
-  </nav>
-
   <main>
-    <h2>Library of Congress Newspaper Pages</h2>
+    <h1>Library of Congress Newspaper Pages</h1>
+      <section style="margin-top: 4rem; border-top: 2px solid #ccc; padding-top: 2rem;">
+      <h2>Image Gallery</h2>
+      <p>[Insert your critical introduction here. This section can include background, theoretical framing, methodology, and editorial decisions relevant to your edition.]</p>
+
+    </section>
+  <div id="viewer"></div>
+
+  <!-- Thumbnails -->
+  <div id="gallery"></div>
+
+
+    <section>
+    <h2>Metadata Spreadsheet</h2>
     <p class="description">
       This page contains direct links to facsimile images of newspaper pages used in this edition.
       All links open in a new tab and are hosted by the Library of Congress.
@@ -177,13 +187,84 @@
     src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaFjxfUC7iayn_fVkU9HLH5v892L6J4F3lvgAOoPN7cnJUss-Up-TFRI08tdDBkopxowLgbz-lLVUS/pubhtml?widget=true&amp;headers=false"
     width="100%" 
     height="600" 
-    frameborder="0">
-    ></iframe>
+    frameborder="0"></iframe>
+  </section>
   </main>
 
   <footer>
-    University of Guelph, 2025. Created for CTS*4020.
+    <p>&copy; 2025 University of Guelph. This work is licensed under a
+      <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener">CC BY 4.0 International License</a>.
+    </p>
   </footer>
+  <script>
+    // 1. Your array of images
+    const images = [
+      { id: '1914-03-01', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-01.jpeg' },
+      { id: '1914-03-08', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-08.jpeg' },
+      { id: '1914-03-15', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-15.jpeg' },
+      { id: '1914-03-29', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-29.jpeg' },
+      { id: '1914-04-12', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-04-12.jpeg' },
+      { id: '1914-05-03', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-05-03.jpeg' },
+      { id: '1914-05-24', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-05-24.jpeg' },
+      { id: '1914-05-31', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-05-31.jpeg' },
+      { id: '1914-06-07', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-06-07.jpeg' },
+      { id: '1914-07-19', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-07-19.jpeg' },
+      { id: '1914-08-02', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-08-02.jpeg' },
+      { id: '1914-08-09', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-08-09.jpeg' },
+      { id: '1914-08-16', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-08-16.jpeg' },
+      { id: '1914-09-06', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-09-06.jpeg' },
+      { id: '1914-12-06', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-12-06.jpeg' },
+      { id: '1914-12-13', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-12-13.jpeg' },
+      { id: '1914-12-20', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-12-20.jpeg' },
+      { id: '1915-01-03', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-03.jpeg' },
+      { id: '1915-01-10', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-10.jpeg' },
+      { id: '1915-01-17', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-17.jpeg' },
+      { id: '1915-01-24', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg' },
+      { id: '1915-01-31', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-31.jpeg' },
+      { id: '1915-02-07', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-07.jpeg' },
+      { id: '1915-02-14', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-14.jpeg' },
+      { id: '1915-02-21', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-21.jpeg' },
+      { id: '1915-02-28', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-28.jpeg' },
+      { id: '1915-03-07', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg' },
+      { id: '1915-03-14', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg' },
+      { id: '1915-03-21', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-21.jpeg' },
+      { id: '1915-03-28', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-28.jpeg' },
+      { id: '1915-04-04', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-04-04.jpeg' },
+      { id: '1915-04-11', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-04-11.jpeg' }
+    ];
 
+    // 2. Init OpenSeadragon
+    const viewer = OpenSeadragon({
+      id: "viewer",
+      prefixUrl: "https://openseadragon.github.io/openseadragon/images/",
+      showNavigator: true
+    });
+
+    // 3. Build gallery & wire up click events
+    const gallery = document.getElementById("gallery");
+    images.forEach((img, i) => {
+      const thumb = document.createElement("img");
+      thumb.src = img.url;
+      thumb.alt = img.id;
+      thumb.loading = "lazy";
+      if (i === 0) thumb.classList.add("selected");
+
+      thumb.addEventListener("click", () => {
+        // open in viewer
+        viewer.open({ type: "image", url: img.url });
+        // highlight selected thumbnail
+        gallery.querySelectorAll("img").forEach(el => el.classList.remove("selected"));
+        thumb.classList.add("selected");
+      });
+
+      gallery.appendChild(thumb);
+    });
+
+    // 4. Open the first image by default
+    if (images.length) {
+      viewer.open({ type: "image", url: images[0].url });
+    }
+  </script>
 </body>
 </html>
+
