@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Newspaper Archive</title>
   <link rel="stylesheet" href="https://www.tei-c.org/release/xml/tei/stylesheet/tei.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
   <style>
     :root {
       --primary-color: #1a1a1a;
@@ -68,6 +69,11 @@
       color: var(--primary-color);
       margin-bottom: 1.5rem;
     }
+    
+    section {
+      padding: 2rem;
+      border-bottom: 1px solid #ccc;
+    }
 /* IMAGE BUTTONS */
     .button-container {
       display: flex;
@@ -121,31 +127,23 @@
       text-decoration: underline;
     }
         /* Viewer at top */
-    #viewer {
-      flex: 1 1 60vh;
-      background: #000;
+  #openseadragon {
+    background-color: black;
+    width: 100%;
+    max-width: 1000px;   /* Or whatever width you prefer */
+    height: 80vh;
+    margin: 2rem auto;    /* This centers it horizontally */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Optional shadow */
     }
-    /* Thumbnail strip */
-    #gallery {
-      flex: 1 1 auto;
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-      gap: 6px;
-      padding: 8px;
-      overflow-y: auto;
-      background: #f9f8f7;
+
+    .controls {
+      margin: 1rem;
     }
-    #gallery img {
-      width: 100%;
-      height: auto;
-      object-fit: cover;
-      cursor: pointer;
-      border: 2px solid transparent;
-      transition: border-color .2s;
-    }
-    #gallery img:hover,
-    #gallery img.selected {
-      border-color: var(--accent-color);
+
+    .controls button {
+      padding: 0.6rem 1.2rem;
+      margin: 0 1rem;
+      font-size: 1rem;
     }
   </style>
 </head>
@@ -166,16 +164,26 @@
 
   <main>
     <h1>Library of Congress Newspaper Pages</h1>
+     
       <section style="margin-top: 4rem; border-top: 2px solid #ccc; padding-top: 2rem;">
       <h2>Image Gallery</h2>
-      <p>[Insert your critical introduction here. This section can include background, theoretical framing, methodology, and editorial decisions relevant to your edition.]</p>
 
+      <div id="openseadragon"></div>
+
+      <div class="controls">
+        <button onclick="prevImage()">Previous</button>
+        <span id="counter">1 / 44</span>
+        <button onclick="nextImage()">Next</button>
+      </div>
     </section>
-  <div id="viewer"></div>
 
-  <!-- Thumbnails -->
-  <div id="gallery"></div>
-
+<section>
+  <h2>Transcription</h2>
+  <iframe src="https://docs.google.com/document/d/e/2PACX-1vRp75_MnjrOcxR-TQHw4liej_sfNGHoDdp-SxdtNAme12EwxIu83UJb5tuZ1vq9cnVHAaKVIyhNqm_m/pub" 
+  width="100%" 
+    height="600" 
+    frameborder="0"></iframe>
+</section>
 
     <section>
     <h2>Metadata Spreadsheet</h2>
@@ -196,74 +204,74 @@
       <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener">CC BY 4.0 International License</a>.
     </p>
   </footer>
+ 
   <script>
-    // 1. Your array of images
+    // Add your 44 image URLs here:
     const images = [
-      { id: '1914-03-01', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-01.jpeg' },
-      { id: '1914-03-08', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-08.jpeg' },
-      { id: '1914-03-15', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-15.jpeg' },
-      { id: '1914-03-29', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-29.jpeg' },
-      { id: '1914-04-12', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-04-12.jpeg' },
-      { id: '1914-05-03', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-05-03.jpeg' },
-      { id: '1914-05-24', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-05-24.jpeg' },
-      { id: '1914-05-31', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-05-31.jpeg' },
-      { id: '1914-06-07', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-06-07.jpeg' },
-      { id: '1914-07-19', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-07-19.jpeg' },
-      { id: '1914-08-02', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-08-02.jpeg' },
-      { id: '1914-08-09', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-08-09.jpeg' },
-      { id: '1914-08-16', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-08-16.jpeg' },
-      { id: '1914-09-06', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-09-06.jpeg' },
-      { id: '1914-12-06', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-12-06.jpeg' },
-      { id: '1914-12-13', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-12-13.jpeg' },
-      { id: '1914-12-20', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-12-20.jpeg' },
-      { id: '1915-01-03', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-03.jpeg' },
-      { id: '1915-01-10', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-10.jpeg' },
-      { id: '1915-01-17', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-17.jpeg' },
-      { id: '1915-01-24', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg' },
-      { id: '1915-01-31', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-31.jpeg' },
-      { id: '1915-02-07', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-07.jpeg' },
-      { id: '1915-02-14', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-14.jpeg' },
-      { id: '1915-02-21', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-21.jpeg' },
-      { id: '1915-02-28', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-28.jpeg' },
-      { id: '1915-03-07', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg' },
-      { id: '1915-03-14', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg' },
-      { id: '1915-03-21', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-21.jpeg' },
-      { id: '1915-03-28', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-28.jpeg' },
-      { id: '1915-04-04', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-04-04.jpeg' },
-      { id: '1915-04-11', url: 'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-04-11.jpeg' }
+      'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-01.jpeg',
+      'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-08.jpeg' ,
+      'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-15.jpeg',
+      'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-03-29.jpeg' ,
+       'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-04-12.jpeg',
+       'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-05-03.jpeg',
+        'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-05-24.jpeg' ,
+        'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-05-31.jpeg',
+        'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-06-07.jpeg',
+        'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-07-19.jpeg',
+        'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-08-02.jpeg' ,
+        'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-08-09.jpeg',
+        'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-08-16.jpeg' ,
+         'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-09-06.jpeg' ,
+         'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-12-06.jpeg' ,
+         'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-12-13.jpeg' ,
+         'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1914-12-20.jpeg',
+         'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-03.jpeg',
+          'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-10.jpeg',
+          'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-17.jpeg',
+           'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-24.jpeg' ,
+           'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-01-31.jpeg',
+            'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-07.jpeg' ,
+            'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-14.jpeg',
+             'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-21.jpeg' ,
+             'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-02-28.jpeg' ,
+              'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-07.jpeg' ,
+               'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-14.jpeg',
+               'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-21.jpeg' ,
+               'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-03-28.jpeg' ,
+               'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-04-04.jpeg',
+              'https://raw.githubusercontent.com/flynnamelia/adm_awp/main/prototype_v.10/images_v.10/AWP_1915-04-11.jpeg'
     ];
+    let currentIndex = 0;
 
-    // 2. Init OpenSeadragon
     const viewer = OpenSeadragon({
-      id: "viewer",
-      prefixUrl: "https://openseadragon.github.io/openseadragon/images/",
-      showNavigator: true
+      id: "openseadragon",
+      prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/",
+      tileSources: images[currentIndex]
     });
 
-    // 3. Build gallery & wire up click events
-    const gallery = document.getElementById("gallery");
-    images.forEach((img, i) => {
-      const thumb = document.createElement("img");
-      thumb.src = img.url;
-      thumb.alt = img.id;
-      thumb.loading = "lazy";
-      if (i === 0) thumb.classList.add("selected");
-
-      thumb.addEventListener("click", () => {
-        // open in viewer
-        viewer.open({ type: "image", url: img.url });
-        // highlight selected thumbnail
-        gallery.querySelectorAll("img").forEach(el => el.classList.remove("selected"));
-        thumb.classList.add("selected");
+    function updateViewer(index) {
+      viewer.open({
+        type: 'image',
+        url: images[index]
       });
-
-      gallery.appendChild(thumb);
-    });
-
-    // 4. Open the first image by default
-    if (images.length) {
-      viewer.open({ type: "image", url: images[0].url });
+      document.getElementById("counter").innerText = `${index + 1} / ${images.length}`;
+      document.getElementById("caption").innerText = captions[index];
     }
+
+    function nextImage() {
+      currentIndex = (currentIndex + 1) % images.length;
+      updateViewer(currentIndex);
+    }
+
+    function prevImage() {
+      currentIndex = (currentIndex - 1 + images.length) % images.length;
+      updateViewer(currentIndex);
+    }
+
+
+
+
+
   </script>
 </body>
 </html>
