@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-04-12</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+	<text>
+    <front>
+      <div type="header">
+		<dateline>April 12, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>IS FIVE PER CENT A MAJORITY?
+          </head>
+          <p>"With four-fifths to five-sixths of the people not voting," says The Tribune, "the state has decided to hold a constitutional convention."
+         </p>
+          <p>Must we remind even The Tribune that one-half the people were not given the opportunity to vote?
+          </p>
+		  <p>As a matter of fact, one-half of one-sixth voted, and the question was decided by the affirmative vote of seven-twelfths of one-sixth of one-half—or to put it another way—by about 5 per cent of the adult population.</p>
+        </div>
+        <div type="section" n="2">
+          <head>DID YOU KNOW?
+          </head>
+          <p>That 73 per cent of the women who registered in Chicago voted?
+         </p>
+          <p>That 72 per cent of the Chicago men voted?
+          </p>
+		  <p>That 158,000 women voted in Chicago?
+          </p>
+		  <p>That only 104,000 men voted in New York?
+          </p>
+		  <p>That there are about 200,000 more men in New York than women in Chicago?
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head>WHAT! LIQUOR MEN AGAINST SUFFRAGE? NEVER!</head>
+			<p> "Freeport, regarded as one of the wettest towns in the state (Illinois) went dry by a majority of 140. The dry victory was the result of activity by the women, who gave the 'drys' a majority of 1,019, while the male voters gave the 'wets' a majority of 880."—The New York Times, April 8, 1914.</p>
+          <p>Look at the sentiment, not the arithmetic.
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>OTHER PEOPLE'S UPLIFT
+          </head>
+          <p>The Baptist Missionary Union, of Little Rock, Ark., has protested against the prevailing fashions in women's dress. It urges its young men not only to stay off the streets in order "to avoid seeing the degrading spectacle of pure women wearing such apparel," but "to refuse to be seen with young women who fail to observe the regulations that modest women should make for themselves."
+         </p>
+          <p>At this rate we should not be at all surprised to hear that the Ladies' Sewing Circle, of East Sumptuary, Mass., has earnestly requested the Harvard crew to pull up their stockings in the race this year and wear light mackintoshes. Our members, they say, "will have to urge all young women to stay away from New London if our formerly pure college men cling to these degrading short trunks and immodest undershirts." C. S. D., JR.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>WE HAVE TO ADMIT A DIFFERENCE.
+          </head>
+          <p>The two lower classes of Barnard College have voted to send the proceeds of their annual Greek games to Wellesley, instead of devoting them to the Barnard quarter-century fund, as had been planned.
+         </p>
+          <p>It isn't quite the interchange that we have learnt to look for between some of the older universities.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>BUT THE JUDGES WERE JUST AS PLEASED.
+          </head>
+          <p>And speaking of co-operation, it was not its famous team play that won Yale the debate with Harvard.
+         </p>
+          <p>The first speaker, whose name it happened was Badger, argued that women did not need the ballot, because men, interested in exactly the same things, were eager to remedy the same evils.
+          </p>
+		 <p>Whereas, the third speaker, who hails, if "The Yale News" is to be believed, from Nineveh, feared that woman's vote would give undue prominence to certain questions with which women feel themselves specially concerned, and that they would cause legislation to be passed which men would refuse to enforce.
+         </p>
+        </div>
+        <div type="section" n="7">
+          <head>WHY WE ARE OPPOSED TO SCHOOLS FOR CHILDREN.
+          </head>
+      	<p>1. Because education is a responsibility—not a right.</p>
+        	<p>2. Because not one-tenth of 1 per cent of the children of this country have asked for education.</p>
+        	<p>3. Because if we are educated we should have to behave as if we were, and we don't want to.</p>
+        	<p>4. Because it is essentially against the nature of a child to be educated.</p>
+        	<p>5. Because we cannot see that it has done much for grown-ups, and there seems no reason to suppose that it will make children perfect.</p>
+        	<p>6. Because the time of children is already sufficiently occupied without going to school.</p>
+        	<p>7. Because it would make dissension between parent and child. Imagine the home life of a parent who turned out more ignorant than his (or her) child.</p>
+        	<p>8. Because we believe in the indirect education of the theatre, the baseball field and the moving picture show. We believe the school would, to a great degree, deprive us of this.</p>
+        	<p>9. Because our parents went to school. They love us, they take care of us, they tell us what to do. We are content that they should be educated for us.</p>
+        </div>
+        <div type="section" n="8">
+          <head>BARRIERS BURNED AWAY.
+          </head>
+          <p>Two boys out of a class of eight have won a biscuit making competition against a class of sixteen girls at Rogers High School, in Newport.
+         </p>
+          <p>This is a complete refutation of the illiberal prejudice that has barred men from the kitchen.
+          </p>
+		 <p>We stand, as ever, for equal opportunity.
+         </p>
+        </div>
+        <div type="section" n="9">
+          <head>THE UNREST AMONG WOMEN.
+          </head>
+          <p>The same Legislature in Maryland that defeated the woman suffrage bill has just lowered the age at which children may work in canneries from twelve to ten.
+         </p>
+
+        </div>
+        <div type="section" n="10">
+          <head>ON THE RECENT REVIVAL OF GOSSIP ABOUT HELEN OF TROY.
+          </head>
+<lg>
+	<lg><l>O Helen, poor dear Helen, did you think the scandal over,</l>
+	<l>That the gossip after centuries was finally dying out,</l>
+	<l>That the world was fast forgetting your excursion with your lover,</l>
+	<l>And that episode with Theseus we don't know much about?</l>
+	</lg>
+	<lg><l>Ah, it would have been forgotten—though unquestionably shady—</l>
+	<l>If it had not been for Homer and his long enduring wares:</l>
+	<l>Agamemnon may enjoy that sort of fame, but not a lady:</l>
+	<l>She does not want a sacred bard to publish her affairs.</l></lg>
+	
+	<lg><l>And even were she weak enough to like the mere narration</l>
+	<l>Of her many charms and conquests in a classic poet's rhymes,</l>
+	<l>She surely would not care to see her marital vacation</l>
+	<l>Explained away and whitewashed in the columns of</l></lg>
+	<l>"The Times." FELICIA.</l>
+</lg>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>
