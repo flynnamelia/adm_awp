@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-04-26</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>April 26, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>AN INTERESTING COINCIDENCE.
+          </head>
+          <p>Two—and apparently only two—men's organizations have declared against woman suffrage this year—the Retail Liquor Dealers' Association of Montana and the Union League Club of New York.
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>THE GREAT ILLUSION.
+          </head>
+          <p>“The appointment of Dr. Katharine Davis," said "The New York Times" editorially some months ago, "is one to be justified rather by hope than by experience. Among those familiar with the work of the department there is a feeling that a woman who undertakes it will have need of all the courage and firmness and sound judgment that are a man's part, and that are the part of few women."
+          </p>
+          <p>Men are, as W. S. Gilbert would have expressed it, the bravest sex extant; they said so, and they ought to know.
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head>THE ETERNAL QUESTION.
+          </head>
+          <p>A candidate for office in New Hampshire has announced his wish to represent "the plain people."
+          </p>
+          <p>Are women plain people?
+          </p>
+          <p>Or the fair sex?
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>A SONG AT PARTING.
+          </head>
+          <p>(Judge Dietz, of Indiana, has decided that wedding presents belong to the wife.)
+          </p>
+          <lg><l>The wedding gifts are thine, my pet,</l>
+          <l>The wedding gifts are thine.</l>
+          <l>So take them all, and don't forget</l>
+          <l>The purple satin tabouret,</l>
+          <l>The chromo from your Aunt Annette,</l>
+          <l>Those heavy volumes in a set</l>
+          <l>That nobody has opened yet;</l>
+          <l>The centrepiece of German net,</l>
+          <l>The plaster cast of La Fayette.</l>
+          <l>The law protects the weak, my pet,</l>
+          <l>The wedding gifts are thine.</l></lg>
+        </div>
+        <div type="section" n="5">
+          <head>THE PROTECTED SEX.
+          </head>
+          <p>During the last eight years the champion typewriters of the world have been three women and one man. The fastest record—125 words a minute—was made by a woman.
+          </p>
+          <p>Yet the Civil Service Commission of the United States continues to offer women stenographers and typewriters $720 and men $900 for the same job.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>OTHER PEOPLE'S BUSINESS.
+          </head>
+          <p>The London County Council has decided to ask for the resignation of the three women doctors in the Health Department, if they should ever marry. The idea appears to be a wish to protect these three possible homes.
+          </p>
+          <p>Is there no movement among men's clubs to demand a member's resignation on his marriage, since a man cannot attend so well to the needs of his family if he belongs to a club?
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>CANDID, AT LEAST.
+          </head>
+          <p>A bill has been introduced in England to permit women to practise law.
+          </p>
+          <p>The City of London Solicitors' Company is opposing it, not out of interest in the "home," but because they fear overcrowding in the legal profession.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head> </head>
+          <p> </p>
+        </div>
+        <div type="section" n="9">
+          <head>AND, OH, THE DIFFERENCE TO THEM!
+          </head>
+          <p>The Democratic party in 1900 announced: "We declare again that all governments instituted among men derive their just powers from the consent of the governed, and that any government not based upon the consent of the governed is tyranny."
+          </p>
+          <p>But, of course, they were thinking of Porto Rican men—not of American women.
+          </p>
+        </div>
+        <div type="section" n="10">
+          <head>THE ISSUE CLEARLY PUT.
+          </head>
+          <p>"The reason why women have no control in Parliament," says a book published in England in 1631, "why they make no laws, consent to none, abrogate none, is their original sin."
+          </p>
+        </div>
+        <div type="section" n="11">
+          <head> </head>
+          <p> </p>
+        </div>
+        <div type="section" n="12">
+          <head>"ECONOMY THROWN TO THE WINDS," was a
+          </head>
+          <p>headline introducing the fact that the Children's Bureau had been given the full appropriation which it had asked for—$164,000.
+          </p>
+          <p>No adverse comment has been heard of our appropriating $400,000 for protection against hog cholera, $300,000 against cattle ticks and about $165,000 for free seeds.
+          </p>
+        </div>
+        <div type="section" n="13">
+          <head>THE BELLBOY KNEW THE BREED.
+          </head>
+          <p>Helen Ring Robinson, State Senator from Colorado, tells in "The Independent" how she came back to her room the other day in a New York hotel and found a telegram stuck under her door. It was addressed to Senator Robinson, and on it had been written, "Paged in Bar and Barber Shop."
+          </p>
+        </div>
+        <div type="section" n="14">
+          <head>BEYOND THE SCOPE OF WOMEN.
+          </head>
+          <p>The judges of the Imperial Supreme Court of Leipsic have defined what constitutes "sincere resistance" to a kiss.
+          </p>
+          <p>As no expert testimony seems to have been demanded, the learned judges' own knowledge of the subject was evidently sufficient.
+          </p>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

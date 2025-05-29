@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-04-05</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>April 5, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="">
+          <head>LET THOSE WHO KNOW DECIDE.
+          </head>
+          <p>"We also believe in the development of women,"said Atterbury, of Princeton, in the intercollegate debate, "but we oppose the development of woman in opposition to her nature."
+         </p>
+          <p>Soon the question of "True Manliness for Men" is to be decided by a symposium composed of the freshman classes of Vassar, Smith and Wellesley.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>AXIOMATIC.
+            
+          </head>
+          <p>"Man's function," said the same speaker, "is to compel; woman's to persuade."
+          </p>
+          <p>Nestor, of whom Homer said: "From whose lips divine in persuasion flows"; Cardinal Wolsey, who, according to Shakespeare, was "exceeding wise, fair-spoken and persuading,” and Hampden, who, Clarendon tells us, had "a head to contrive and a tongue to persuade," were, we now fear, more effeminate than we used to think.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>DO YOU KNOW?
+            
+          </head>
+          <p>That 47 per cent of the stockholders of the Pennsylvania Railroad are women?
+          </p>
+          <p>That the percentage of women stockholders has increased 100 per cent in the last ten years?
+          </p>
+          <p>That a majority of the stockholders in the AmericanTelegraph and Telephone Company are women?
+          </p>
+          <p>That it has been estimated that women hold over 35 per cent of the stock of our principal railroads?
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>NEWS—AND HOW TO TAINT IT.
+            
+          </head>
+          <p>Next to Newport, R. I., San Francisco has more bachelors than any other city in the country.—N. Y. Tribune, March 26.</p>
+          <p>To taint according to taste of:</p>
+          <p>(a) Eastern anti-suffragist. </p>
+          <p>To Newport the most beautiful women of the East come to enjoy themselves—not to talk politics. The result is, as might be expected, that more bachelors are attracted to Newport than to any other city in the country,</p>
+          <p>(b) Western anti-suffragist, </p>
+          <p>It is no surprise for those who have watched the destructive effect of woman's suffrage on the home to learn that only one city in the country surpasses San Francisco in the number of its unmarried men,</p>
+          <p>(e) Eastern suffragist,</p>
+         <p> It is not surprising, as men begin to ask intellectual companionship from the women they marry, that Newport—the playground of the idle rich—should contain the largest number of unmarried men in this country,</p>
+          <p>(d) Western suffragist. </p>
+          <p>That suffrage has not rendered our women unattrac- tive is shown by the fact that more young bachelors seeking their life partners are drawn to San Francisco than to any other large city in this country.</p>
+        </div>
+        <div type="section" n="">
+          <head>THE OBVIOUS SOLUTION.
+            
+          </head>
+          
+          <p>An advertisement has recently appeared in California, issued by the Friends of Homeless Children, which says:</p>
+          <p>Wanted—Homes for boys.</p>
+          <p>Wanted—100 girls from six months to five years for homes now waiting.</p>
+          <p>Ah, if only women would remain between the ages of six months and five years and have blond curls there would be no woman question troubling us!</p>
+
+        </div>
+        <div type="section" n="">
+          <head>MILITANCY.
+            
+          </head>
+          <p>"Twelve hundred girls were thrown into a panic in a ten story loft building yesterday afternoon by two parties of thugs, who rushed into the factory yelling
+          </p>
+          <p>'Fire!' and throwing crude oil over the girls and the children's clothing they were working on."—N. Y. Tribune
+          </p>
+          <p>Personally, we cannot feel that such lawless and hysterical outbreaks prove the fitness of men for the ballot. No arrests appear to have been made.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>SO GREAT A FAVORITE IS WOMAN.
+            
+          </head>
+          <p>In 1886 no state appropriations were made for the support of institutions for the higher education of women, while state appropriations to the amount of $1,690,275 were made in that year for the higher education of men.
+          </p>
+          <p>Some of the property owners whose land is the most valuable in Chicago prefer to deal with men, even of the Bath House and Hinky Dink type, rather than a woman, and the word has gone forth that Miss Drake must be defeated next Tuesday,—N. Y. Times, April 2.
+          </p>
+          <p>Said Hinky Dink to Bath-House John:</p>
+          <p>"What d'ye think? The fight is on!"</p>
+         <p> "What d'ye mean? What do I think?"</p>
+          <p>Said Bath-House John to Hinky Dink.</p>
+          
+          <p>"The birth of a daughter," says an editorial in the New York Times, "is no longer a calamity, a disgrace or a misfortune,"</p>
+         <p> Flatterer!</p>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>
