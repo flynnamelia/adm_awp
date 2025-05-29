@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1915-01-24</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>January 24, 1915</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>LINES TO MR. BOWDLE OF OHIO.
+          </head>
+          <p>("The women of this smart capital are beautiful. Their beauty is disturbingto business: their feet are beautiful, their ankles are beautiful, but here I must pause."—Press report of Mr. Bowdie's anti-suffrage speech in Congress.)
+          </p>
+          <lg>
+            <lg><l>You, who despise the so-called fairer sex,</l>
+            <l>Be brave. There really isn't any reason</l>
+            <l>You should not, if you wish, oppose and vex</l>
+            <l>And scold us in, and often out, of season;</l>
+            <l>But don't regard it as your bounden duty</l>
+            <l>To open with a tribute to our beauty.</l></lg>
+            
+            <lg><l>Say, if you like, that women have no sense,</l>
+            <l>No self-control, no power of concentration, '</l>
+            <l>Say that hysterics is our one defence,</l>
+            <l>Our virtue but an absence of temptation;</l>
+            <l>These I can bear, but oh, I own it rankles,</l>
+            <l>To hear you maundering about our ankles.</l></lg>
+            
+            <lg><l>Tell those all stories which have now and then</l>
+            <l>Been from the Record thoughtfully deleted;</l>
+            <l>Repeat that fine allusion to the hen,</l>
+            <l>Repeat the ones that cannot be repeated;</l>
+            <l>But the midst of such enjoyments, smother</l>
+            <l>The impulse to extol your "sainted mother."</l></lg>
+            
+          </lg>
+        </div>
+        <div type="section" n="2">
+          <head>HOW WOMEN ARE REPRESENTED IN MR. BOWDLE'S FAMILY.
+          </head>
+          <p>"My lovely, loyal wife, who charitably puts up with much of me, believes in suffrage, and a beautiful, devoted sister living in Canton, Ohio, believes in it. My sister has asked me to content myself with voting my views merely. My wife would not have me oppose the movement.—" Mr Bowdle's Speech in Congress.
+          </p>
+          <p>Mr. Bowdle then went on to speak and vote against the suffrage amendment.
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head>PEARLS FROM THE SPEECHES OF ANTI-SUFFRAGE CONGRESSMEN.
+          </head>
+          <p>"The leaders of this movement talk about votes for women as if it were a great boon,whereas as a matter of fact it is a burdensome responsibility.”—Mr. Dies of Texas.
+          </p>
+          <p>“To exercise the franchise in this American Republic is the highest privilege that can be granted."—Mr. Underwood, of Alabama.
+          </p>
+          <p>"Who knows, maybe we shall live to see a 'Mrs.' at the other end of Pennsylvania av. as President of the United States? Who knows, a ‘Mr.' may hook up and unhook the gowns of the nation's Chief", (Applause.)—Mr. Bowdle, of Ohio.
+          </p>
+          <p>“It may be that the entrance of pure women into dirty politics would have a cleansing effect upon the politics, but I cannot believe that it would have that effect on the women. And in a case of that kind we had better have dirty linen than dirty laundresses.”—Mr. Dies of Texas.
+          </p>
+          <p>"Man has always considered woman's welfare—at least in legislative matters."—Mr. Mulkey, of Alabama.
+          </p>
+          <p>"I for one expect to cast my vote to-day to protect woman against herself." (Applause.)—Mr. Webb, of North Carolina.
+          </p>
+          <p>“Men are admittedly on a much lower moral plane than women."—Mr. Stephen, of Texas.
+          </p>
+          <p>"All history, Mr. Speaker, is nothing but the record of an affair with a woman." —Mr. Bowdle again.
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>A FEMINIST DISAPPOINTMENT. 
+          </head>
+          <p>Mrs. Catherine A. Richards, of Worcester, has given up her government pension on the ground that she no longer needs the money.
+          </p>
+          <p>This is the sort of thing that makes you wonder whether women are xxxx for political life after all.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>DO WE DETECT A SLIGHT INCONSISTENCY?
+          </head>
+          <p>"It is not surprising," says an editorial in "The New York Times," "that California, Kansas, Montana and the rest of the suffrage states voted unanimously for women suffrage. The men from those states have women voters to reckon with when they go back home."
+          </p>
+          <p>But what about that more potent, indirect influence that men from other states have to face?
+          </p>
+          <p>"It is, however, astonishing," the same editorial continues, "that out of Illinois's twenty-four votes two were cast against the amendment.
+          </p>
+          <p>In Illinois women vote for Congressmen. There must be a rare degree of courage in two Illinois districts.”
+          </p>
+          <p>Reports of these gentlemen's courage are grossly exaggerated.
+          </p>
+          <p>Women do not vote for Congressmen in Illinois.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>WHAT IT MEANS TO BE A QUEEN IN A REPUBLIC
+          </head>
+          <p>"The most sacred and potential spot on earth is the fireside shrine, and over this shrine the devoted mother presides as the reigning sovereign, the uncrowned queen," said Mr. Webb, of North Carolina, speaking against suffrage.
+          </p>
+          <p>An Indiana judge has recently ruled: As to the right of the husband to determine the location of the home, that "home is where the husband is.”
+          </p>
+          <lg>
+            <lg><l>Home is where the husband is,</l>
+            <l>Be it near or be it far;</l>
+            <l>Office, theatre, Pullman car,</l>
+            <l>Poolroom, polls or corner bar—</l>
+            <l>All good wives, remember this—</l>
+            <l>Home is where the husband is.</l></lg>
+            
+            <lg><l>Woman's place is home, I wis.</l>
+            <l>Leave your clothes and dishes drying,</l>
+            <l>Leave the family bacon frying,</l>
+            <l>Leave your little children crying;</l>
+            <l>Join your husband, near or far,</l>
+            <l>At the club or corner bar,</l>
+            <l>For the court has taught us this:</l>
+            <l>Home is where the husband is.</l></lg>
+            
+          </lg>
+        </div>
+        <div type="section" n="7">
+          <head>IF NOT, WHY NOT?
+          </head>
+          <p>A bill having been introduced into the Rhode Island Legislature abolishing property qualifications for voters, we are sending the non-property-holding men of Rhode Islands leaflets to show:
+          </p>
+          <p>First—That in Rhode Island it is flying in the face of nature for men without property to vote.
+          </p>
+          <p>Second—That they can accomplish much more by their indirect influence.
+          </p>
+          <p>Third—That politics will destroy their modesty.
+          </p>
+          <p>Fourth—That it will distract them from their real duty—earning a living.
+          </p>
+          <p>Fifth—That they are already fully represented by the property-holding clause.
+          </p>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>
