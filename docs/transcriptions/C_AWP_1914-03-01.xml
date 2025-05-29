@@ -63,10 +63,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20250526015506907",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-01.xml?person_annotation_20250526015506907",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-26T05:55:06.907Z",
-	"dcterms:modified": "2025-05-26T05:55:06.907Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -77,9 +76,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20250526015506907#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-01.xml?person_annotation_20250526015506907#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-01.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -90,7 +90,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20250526015506907#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-01.xml?person_annotation_20250526015506907#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/head/persName"
 		}
@@ -141,10 +141,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20250526015713392",
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-01.xml?person_annotation_20250526015713392",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-26T05:57:13.392Z",
-	"dcterms:modified": "2025-05-26T05:57:13.392Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/flynnamelia",
 		"@type": [
@@ -155,9 +154,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20250526015713392#Target",
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-01.xml?person_annotation_20250526015713392#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-01.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -168,7 +168,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20250526015713392#Selector",
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-01.xml?person_annotation_20250526015713392#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[10]/head/persName"
 		}
@@ -191,7 +191,7 @@
   <text>
     <front>
       <div type="header">
-        <dateline>MARCH 1, 1914</dateline>
+        <dateline>March 1, 1914</dateline>
         <head type="main">ARE WOMEN PEOPLE?</head>
         <head type="sub">By Alice Duer Miller</head>
       </div>
