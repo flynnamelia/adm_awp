@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1915-01-31</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>January 31, 1915</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="">
+          <head>OUR IDEA OF NOTHING AT ALL.
+          </head>
+          <p>Mr. Webb. of North Carolina: I am opposed to woman suffrage, but I am not opposed to woman.
+          </p>
+          <lg>
+            <lg><l>O women, have you heard the news</l>
+            <l>Of charity and grace?</l>
+            <l>Look, look how joy and gratitude</l>
+            <l>Are beaming in my face!</l>
+            <l>For Mr. Webb is not opposed</l>
+            <l>To woman in her place!</l></lg>
+            
+            <lg><l>O Mr. Webb, how kind you are</l>
+            <l>To let us live at all,</l>
+            <l>To let us light the kitchen range</l>
+            <l>And tidy up the hall;</l>
+            <l>To tolerate the female sex</l>
+            <l>In spite of Adam's fall.</l></lg>
+            
+            <lg><l>O girls, suppose that Mr. Webb</l>
+            <l>Should alter his decree!</l>
+            <l>Suppose he were opposed to us—</l>
+            <l>Opposed to you and me!</l>
+            <l>What would be left for us to do—</l>
+            <l>Except to cease to be?</l></lg>
+            
+          </lg>
+        </div>
+        <div type="section" n="">
+          <head>CAN'T DO BOTH THINGS AS THEY ARE NOW.
+          </head>
+          <p>"I am unwilling as a Southern man," said Mr. Webb, "to force woman into the vortex of politics, where her sensitiveness and her modesty will often be offended."
+          </p>
+          <p>The women of North Carolina are attempting to have the age of protection for girls raised above fourteen years. We feel sure that in the course of their struggle their modesty and their sensitiveness will often be offended.
+          </p>
+          <p>The question is, should they protect their sensitiveness or their daughters?
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>DO YOU KNOW?
+          </head>
+          <p>That Arizona elected a woman state Senator this year?</p>
+          <p>That Oregon has a woman state Senator?</p>
+          <p>That women doctors are being appointed to English hospitals to replace men who have gone to the front?</p>
+          <p>That in Los Angeles a woman judge has been sitting in a police court in cases in which women were arraigned?</p>
+      
+        </div>
+        <div type="section" n="">
+          <head>A LITTLE REVERENCE IS A DANGEROUS THING.
+          </head>
+          <p>General French, it is reported, has been converted to woman suffrage by his admiration for the "heroism, endurance and ability that women have shown on the battlefields."
+          </p>
+          <p>When men are opposed to suffrage they always say it is because they "revere women too much"— But, on learning to revere her a little bit more, they are converted.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>MORE PEARLS FROM ANTI-SUFFRAGE SPEECHES.
+          </head>
+          <p>"Mr. Speaker, I do not contend that there are no mothers, no true wives, no pure women, advocating woman suffrage." Mr. Fields, of New Jersey.
+          </p>
+          <p>A narrower man would have contended that any woman who did advocate suffrage was not a mother, true wife or pure woman.
+          </p>
+          <p>"It takes the bloom of her modesty, the grace of her gentleness, the touch of her sympathy and the glory of her love to make man what he ought to be." Mr. Hefflin, of Alabama.
+          </p>
+          <p>Sometimes (we only say sometimes) it takes more than that.
+          </p>
+          <p>"Shall the fascination of sex introduce new influence into legislatures?" Mr. Parker, of New Jersey.
+          </p>
+          <p>From our recollection of legislatures, we should say the answer was in the affirmative.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>A BOLD THINKER.
+          </head>
+          <p>"I know the stuff that political parties are made of," said Mr. Dies, of Texas. "They are just common clay."
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>A SIGNIFICANT OMISSION.
+          </head>
+          <p>The motto of a Brooklyn anti-suffrage league is: "We believe the men of New York State capable of conducting the government for the benefit of both men and women." 
+          </p>
+          <p>You see why they did not add "and children."
+          </p>
+        
+        </div>
+        <div type="section" n="">
+          <head>  </head>
+          <p>Women are angels, they are jewels, they are queens and princesses of our hearts.—Anti-suffrage speech of Mr. Carter, of Oklahoma.</p>
+            
+          <lg>
+            <lg><l>"Angel, or jewel, or princess or queen,</l>
+              <l>Tell me immediately where you have been."</l></lg>
+            
+              <lg><l>"I've been to ask all my slaves so devoted</l>
+                <l>Why they against my enfranchisement voted."</l></lg>
+            
+                <lg><l>"Angel and princess, that action was wrong.</l>
+                  <l>Back to the kitchen, where angels belong."</l></lg>
+          </lg>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

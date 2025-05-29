@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1915-02-14</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>February 14, 1915</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="">
+          <head>"Oh, That ’Twere Possible!"
+          </head>
+          <p>(With Apologies to Lord Tennyson.)
+          </p>
+          <p>"The grant of suffrage to women is repugnant to instincts that strike their roots deep in the order of nature. It runs counter to human reason, it flouts the teachings of experience and the admonitions of common sense."— N. Y. Times, Feb. 7, 1915.
+          </p>
+          <lg>
+           <lg> <l>Oh, that ’twere possible</l>
+            <l>After those words inane</l>
+            <l>For me to read The Times</l>
+            <l>Ever again!</l></lg>
+            
+            <lg><l>When I was wont to read it</l>
+            <l>In the early morning hours,</l>
+            <l>In a mood ’twixt wrath and mirth,</l>
+            <l>I exclaimed: "Alas, Ye Powers,</l>
+            <l>These ideas are fainter, quainter</l>
+            <l>Than anything on earth!"</l></lg>
+            
+           <lg><l>A paper's laid before me.</l>
+            <l>Not thou, not like to thee.</l>
+            <l>Dear me, if it were possible</l>
+            <l>The Times should ever see</l>
+            <l>How very far the times have moved</l>
+            <l>(Spelt with a little "t").</l></lg>
+            
+          </lg>
+        </div>
+        <div type="section" n="">
+          <head>MORE GEMS FROM THE SAME MINE.
+          </head>
+          <p>“The right to vote has been possessed for many years by the women of Wyoming, Colorado, Utah and Idaho, and has been granted more recently to those of Washington, California, Arizona, Kansas, Oregon, Illinois, Montana and Nevada. The moral effect of woman suffrage in those states has been negative.
+          </p>
+          <p>This effect of women's votes in the two last named states is the more remarkable for the reason that women have not yet had a chance to vote there.
+          </p>
+          <p>A few columns further back the same writer says that far from being negative the woman's vote would create a political muddle, or else would tend to "weaken the state, stir up discord in society and in the home, and would put obstacles in the way of progress.”
+          </p>
+          <p>Some men, it seems, fail to “comprehend how deeply rooted in the basic ideals of our civilization are the true objections to turning women into the everlasting scrimmage of life, depriving her of the respect and protection she needs in return for a privilege which would surely fail of  effect.”
+          </p>
+          <p>We understand that the seventy-seven women raftsmen and wood choppers in the United States, the forty-five quarry operators, the forty-four longshoremen, the thirty-one women blacksmiths and fifteen stone masons agree that the ballot is the only danger that threatens the ease and respect of their thoroughly protected lives.
+          </p>
+          <p>“Some men reason foolishly, vote foolishly, but their motives and their decisions have at least some discoverable relation to the public aspects of the questions at issue. When that relation is not discoverable men have to admit that they vote in a feminine way."
+          </p>
+          <p>Then, in case any feminine reader of "The Times" might feel hurt by this estimate of her mental powers, the writer goes on to assure her that his argument "is not in the remotest manner based upon the assumption that woman is man's inferior intellectually or any other way." Based on that or nothing, we should say.
+          </p>
+          <p>Finally, the whole story is summed up in this sentence:
+            <lb/>"No upright and decent man desires to withhold from woman any privilege that will benefit her."
+            <lb/>The italics are our own.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>DISHONEST IN THE RATIO OF 1 TO 365.
+          </head>
+          <p>"Say Women Sold Votes" is the heading of a news article in "The Times," telling how three women and about 1,100 men have been indicted for selling their votes in a recent school election in Kentucky. News, as some one has said, is the unexpected.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>TURNING TO BETTER THINGS.
+          </head>
+          <p>"I speak on behalf of the unenfranchised, the almost voiceless millions of my countrymen. Their claim is just, and it is constitutional. It will be heard. It cannot be rejected. To the outward eye, monarchs and Parliaments seem to rule with an absolute and unquestioned sway, but— and I quote the words which one of our old Puritan poets has left us—
+          </p>
+          <lg>
+            <l>'There is on earth a yet auguster thing,</l>
+              <l>Veiled though it be, than Parliament or King.’
+            </l>
+          </lg>
+          <p>That auguster thing is the tribunal which God has set up in the con- sciences of men. It is before this tribunal that I am now permitted humbly to plead, and there is something in my heart—a small but exultant voice—which tells me I shall not plead in vain."—John Bright, December, 1865.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>A MOTHER IN NEED OF INSTRUCTION.
+          </head>
+          <p>A woman who applied for help on Bundle Day said: "Fifteen children have I borne. My husband died and left me with ten to support. I took in washing."
+          </p>
+          <p>We hope certain members of the New York Board of Education have already explained to this benighted woman that she cannot follow two professions at the same time.
+          </p>
+          <p>She cannot be both a good mother and a good washerwoman.
+          </p>
+          <p>She must choose.
+          </p>
+          <p>If she doesn't choose right her washing must be taken away from her to teach her her duty as a mother.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>NO, BUT WE SEE WHAT YOU MEAN.
+          </head>
+          <p>(Dear A. D. M.: Don't you ever, when you've finished the papers, say something like this? William and Bertie X.)
+          </p>
+          <lg>
+            <lg><l>Oh, pshaw! No woman's been oppressed,</l>
+            <l>No law, worse luck, appears tyrannic.</l>
+            <l>I do not, after careful search,</l>
+            <l>Find man especially Satanic.</l></lg>
+            
+            <lg><l>The Legislatures rush our Bill,</l>
+            <l>Officials slave in our behalf.</l>
+            <l>It's all good news, of course, but still—</l>
+            <l>It doesn't make a paragraph.</l></lg>
+            
+          </lg>
+        </div>
+        
+        </div>
+    </body>
+  </text>
+</TEI>

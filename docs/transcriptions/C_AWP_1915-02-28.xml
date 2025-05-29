@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1915-02-28</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>February 28, 1915</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="">
+          <head>What Governments Say To Women.
+          </head>
+          <p>(The law compels a married woman to take the nationality of her husband.)
+          </p>
+          <p>In Time of War.
+          </p>
+            <lg><l>Help us. Your country needs you;</l>
+            <l>Show that you love her,</l>
+            <l>Give her your men to fight,</l>
+            <l>Ay, even to fall.</l>
+            <l>The fair, free land of your birth,</l>
+            <l>Set nothing above her,</l>
+            <l>Not husband nor son;</l>
+            <l>She must come first of all.</l></lg>
+            <p>In Time of Peace.
+            </p>
+            <lg><l>What's this? You've wed an alien.</l>
+            <l>Yet you ask for legislation</l>
+            <l>To guard your nationality?</l>
+            <l>We're shocked at your demand.</l>
+            <l>A woman when she marries</l>
+            <l>Takes her husband's name and nation;</l>
+            <l>She should love her husband only.</l>
+            <l>What's a woman's native land?</l></lg>
+          
+        </div>
+        <div type="section" n="">
+          <head>(a) FANCY AND (b) FACT.
+          </head>
+          <p>(a) "The home will be different, maternity less frequent." —Fanciful anti-suffrage editorial, "The New York Times," February 14, 1915.
+          </p>
+          <p>(b) According to the Bureau of Vital Statistics, the birth rate in California was 16.7 in 1914, as compared wih 16.4 in 1913. In 1906 it was only 10.3 Women were enfranchised in California in 1910.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>OH, IF WE COULD ONLY THINK LIKE THAT:
+          </head>
+          <p>A friend of ours, a member of the reasoning sex and of the legal profession, tells us he is opposed to suffrage for the following grounds:
+          </p>
+          <p>1. Because where women vote their vote has been just like the men's.
+          </p>
+          <p>2. Because if women voted it would disrupt the government.
+          </p>
+          <p>3. Because women won't vote anyhow.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>ANOTHER OF THOSE CURIOUS COINCIDENCES.
+          </head>
+          <p>On February 15 the House of Representatives passed a bill making it unlawful to ship in interstate commerce the products of a mill, cannery or factory which have been produced by the labor of children under fourteen years.
+          </p>
+          <p>Forty-three gentlemen voted against it.
+          </p>
+          <p>Forty-one of these forty-three had also voted against the woman suffrage bill.
+          </p>
+          <p>Not one single vote was cast against it from any state where women vote for Congressmen.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>HER ALLIES.
+          </head>
+          <p>We should like to know how Mrs. Daniel Markham, lately appointed a delegate to the National Child Labor Committee, feels about those forty-one votes cast by anti-suffragists against protection for children. Mrs. Markham is president of the Connecticut Anti-Suffrage Association.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>SONG OF THOSE FORTY-THREE.
+          </head>
+          <p></p>
+          <lg>
+            <l>(With Apologies.)</l>
+            <l>We love, we love, we love the child,</l>
+            <l>But O State's Rights!</l>
+            <l>When babies toil, we quite recoil,</l>
+            <l>But O State's Rights!</l>
+            <l>We wish that they had time for play,</l>
+            <l>And need not work at nights,</l>
+            <l>We grieve, you see, unspeakably,</l>
+            <l>But vote State's Rights.</l>
+            
+          </lg>
+        </div>
+        <div type="section" n="">
+          <head>OUR OWN ANTI-SUFFRAGE COLUMN.
+          </head>
+          <p>(Drawn from anti-suffrage letters to "The New York Times" of February 21, 1915.
+          </p>
+          <p>"The best men I know do not vote."—Elizabeth E. Goldsmith.
+          </p>
+          <p>"Men and women were created to co-operate."—Henrietta Wheatle.
+          </p>
+          <p>"The exponents of this pernicious doctrine have been eminently successful in bringing this question to an issue, and already the influence exerted in many quarters is deplorable."—Ethel Beyea.
+          </p>
+          <p>"The suffragists threaten and trouble the men, and naturally the men feel bound to take some action to placate them."—Anne D. Murdock.
+          </p>
+          <p>"Women must needs be protected by men. Nature decrees it. And to give this protection the men must keep within their own control all the machinery of government, including the making of the laws."—H. O. Magie.
+          </p>
+          <p>(Note: We have heard this same argument a little differently applied: Belgium must needs be protected by Germany. Nature decrees it. And to give that protection Germany must needs, etc. . . .)
+          </p>
+        </div>
+
+        </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1915-01-10</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>January 10, 1915</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="">
+          <head>Many Men to Any Women.
+          </head>
+          <lg>
+            <l>IF YOU have beauty, charm, refinement, tact,</l>
+            <l>If you can prove that, should I set you free,</l>
+            <l>You would not contemplate the smallest act</l>
+            <l>That might annoy or interfere with me.</l>
+            <l>If you can show that women will abide</l>
+            <l>By the best standards of their womanhood</l>
+            <l>(And I must be the person to decide</l>
+            <l>What in a woman is the highest good);</l>
+            <l>lf you display efficiency supreme</l>
+            <l>In philanthropic work, devoid of pay:</l>
+            <l>lf you can show a clearly thought-out scheme</l>
+            <l>For bringing the millennium in a day.</l>
+            <l>Why then, dear lady, at some time remote.</l>
+            <l>I might consider giving you the vote.</l>
+          </lg>
+        </div>
+        <div type="section" n="">
+          <head>OUR OWN WAR NOTES.
+          </head>
+          <p>It is seriously suggested that polygamy may be the natural consequence of the present war.
+          </p>
+          <p>According to an Associated Press dispatch, Austria has at last decided to recognize mothers as legal parents.
+          </p>
+          <p>In the United States a bill has been proposed making it necessary to refer the question of declaring war to a popular vote.
+          </p>
+          <p>"I am not accustomed to use the language of eulogy. I have never studied the art of paying compliments to women, but I must say that if all that has been said by orators and poets since the creation of the world in praise of women were applied to the women of America, it would not do them justice for their conduct during the war."—Abraham Lincoln.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>TO THE GREAT DINING-OUT MAJORITY.
+          </head>
+          <p>The New York State Association Opposed to Woman Suffrage is sending out leaflets to its members urging them to "tell every man you meet, your tailor, your postman, your grocer, as well as your dinner partner, that you are opposed to woman suffrage."
+          </p>
+          <p>We hope the 90,000 sewing machine operatives, the 40,000 saleswomen, the 32,000 laundry operatives, the 20,000 knitting and silk mill girls, the 17,000 women janitors and cleaners, the 12,000 cigar makers, to say nothing of the 700,000 other women and girls in industry in New York State, will remember when they have drawn off their long gloves and tasted their oysters to tell their dinner partners that they are opposed to woman suffrage because it might take women out of the home.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>HISTORY MADE EASY.
+          </head>
+          <p>The same association objects to the proposal to introduce into our school histories some facts about the progress of woman suffrage in the country.
+          </p>
+          <p>If only the Democrats will take a similar stand about Republican victories, and the Republicans about Democratic successes; if the believers in war will be firm about there being no record of peace times, and the pacifists about there being no mention of war, our children may be able to escape the study of history altogether.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>WHY CANARY BIRDS PREFER CAGES.
+          </head>
+          <p>A little Southern boy who was given a canary bird in a cage was asked by a tender-hearted relation to set it free. He answered that this was inexpedient, for the following reasons:
+          </p>
+          <p>That keeping it in a cage obliged him to feed and tend it, and that this developed his character beneficially.
+          </p>
+          <p>That he enjoyed hearing it sing.
+          </p>
+          <p>That it is the nature of canary birds to live in cages. He had had three, and they had all come in cages.
+          </p>
+          <p>That if he set it free, it would fly away and never come back. It had never told him it wished for freedom. Canary birds could have anything they wanted, but they must make their wishes known.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>Indians May Lose Rich Power Sites—No Plan for Payment.—Head-line.
+          </head>
+          <p>Chorus of Women and Indians:
+          </p>
+          <lg>
+            <l>Isn't it great</l>
+            <l>To be wards of the state,</l>
+            <l>Without any power to influence fate!</l>
+            
+          </lg>
+        </div>
+        <div type="section" n="">
+          <head>STRANGE EFFECT OF THE ABSENCE OF THE STRONGER SEX.
+          </head>
+          <p>A Berlin dispatch, commenting on the unusual orderliness of the city on New Year’s Eve, says: “Comparatively few men were present. Formerly the police were busy on New Year’s Eve, but last night they had nothing to do.”
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>THE SAY SO AND THEY OUGHT TO KNOW.
+          </head>
+          <p>Just as the Municipal Bureau of Fire Prevention in Chicago had solemnly declared against women ushers in theatres on the ground that “in time of emergency women are not equal to men,” Mrs. Thomas Edison showed herself to be the only person in all the crowd watching the fire in her husband’s laboratory who was cool enough to think of rescuing his papers and records.
+          </p>
+          <p>We have no proof of the assertion that we now make: The Municipal Bureau of Fire Prevention is made up of men.
+          </p>
+          <lg>
+            <l>Men are very brave, you know,</l>
+            <l>That was settled long ago;</l>
+            <l>Ask, however, if you doubt it,</l>
+            <l>Any man you meet about it;</l>
+            <l>He will say, I think, like me,</l>
+            <l>Men are brave as they can be.</l>
+            
+            <l>Women think they’re brave you say?</l>
+            <l>Do they really? Well, they may,</l>
+            <l>But such biassed attestation</l>
+            <l>Is not worth consideration,</l>
+            <l>For a legal judgment shelves</l>
+            <l>What they say about themselves.</l>
+          </lg>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

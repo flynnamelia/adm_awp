@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1915-01-03</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>January 3, 1915</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>PARTNERS.
+          </head>
+          <p>("Our laws have not yet reached the point of holding that property which is the result of the husband's earnings and the wife's savings becomes their joint property. . . . In this most important of all partnerships there is no partnership property."—Recent decision of New York Supreme Court.)
+          </p>
+          <lg>
+            <lg><l>Lady, lovely lady, come and share</l>
+            <l>All my care;</l>
+            <l>Oh, how gladly I will hurry</l>
+            <l>To confide my every worry,</l>
+            <l>(And they're very dark and drear)</l>
+            <l>In your ear.</l></lg>
+            
+            <lg><l>Lady, share the praise I obtain,</l>
+            <l>Now and again;</l>
+            <l>Though I'm shy, it doesn't matter,</l>
+            <l>I will tell you how they flatter:</l>
+            <l>Every compliment I'll share,</l>
+            <l>Fair and square.</l></lg>
+            
+            <lg><l>Lady, I my toil will divide</l>
+            <l>At your side;</l>
+            <l>I outside our home, you within;</l>
+            <l>You shall wash and cook and spin,</l>
+            <l>I'll provide the flax and food,</l>
+            <l>If you're good.</l></lg>
+            
+            <lg><l>Partners, lady, we shall be,</l>
+            <l>You and me;</l>
+            <l>Partners in the highest sense,</l>
+            <l>Looking for no recompense,</l>
+            <l>For, the savings that we make,</l>
+            <l>I shall take.</l></lg>
+            
+          </lg>
+        </div>
+        <div type="section" n="2">
+          <head>IF YOU CALL IT THINKING.
+          </head>
+          <p>At a recent dinner of the Southern Society, former Attorney General George W. Wickersham said, according to "The New York World": 
+          </p>
+          <p>"No people can thrive and advance if, side by side and working with them, are 10,000,000 who are disenfranchised from ail voice in government. God knows that this is a difficult problem, and God knows how it will be solved, but it cannot be solved by denying to any one, be he black or yellow or red, the right of a voice in making the laws by which he shall be governed and in the choice of the men who shall govern him."
+          </p>
+          <p>This is evidently a woman suffrage speech?
+          </p>
+          <p>Oh, no, Mr. Wickersham is a strong anti-suffragist.
+          </p>
+          <p>What did he mean then?
+          </p>
+          <p>That he does not think a woman is any one.
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head>PEARLS FROM THE WOMAN'S PROTEST (ANTI-SUFFRAGE).
+          </head>
+          <p>"Their absolute impotence to control or deliver the vote of enfranchised women is proved."
+          </p>
+          <p>More, give us more anti arguments like this!
+          </p>
+          <p>"In Silver Bow County, Montana, 2,000 voters didn't vote on the suffrage question."
+          </p>
+          <p>This appears to be an argument against manhood suffrage, showing that men don't use the vote when they get it.
+          </p>
+          <p>"In the dry and suffrage parade in Columbus the Sunday before election five little colored girls marched carrying a banner with the inscription, 'We are the men of to-morrow.' "
+          </p>
+          <p>The "Antis" are alarming themselves unnecessarily.
+          </p>
+          <p>The little girls were mistaken.
+          </p>
+          <p>"If the suffragettes wished to stop war they should have thrown their bombs at the Krupp factory or the English fleet."
+          </p>
+          <p>It is impossible to tell whether this is an indorsement of war or an incitement to militancy.
+          </p>
+          <p>"The suffragists disdain woman's work, but they do not seriously aspire to men's. Where are they to be found? So far we have seen but one mention of any organized effort on their part in English papers. . . . In the meantime, Lady French, in the direct traditional manage of the women the gets results, is asking for thousands of scarfs and belts to clothe the soldiers and employing regularly a large number of women in executing her commands."
+          </p>
+          <p>Lady French is doing most of her work with the National Union of Woman Suffrage Societies in the distribution of relief and care of non-combatants.
+          </p>
+          <p>Mrs. Harley, Sir John French's sister, an active member of the National Suffrage Society, is organizing a girls' cadet corps for aid to the injured.
+          </p>
+          <p>Mrs. Despard, president of the Woman's Freedom League, Sir John's other sister, established one of the first free clinics in the East End of London.
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>PEACE HATH HER BATTLEFIELDS.
+          </head>
+          <p>("The loss of 500,000 men as the result of the present warfare could be made good in less than ten years through complete abstinence from alcoholic beverages by all the inhabitants of Russia.—Arthur Hunter, Chairman of the Medico-Actuarial Investigation, at the meeting of Life Insurance Presidents.)
+          </p>
+          <p>Four of the five states that voted for prohibition this year are woman suffrage states.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>A BATTLE HYMN.
+          </head>
+          <p>(“It is far better policy for the saloon men and brewers to take a firm stand against woman suffrage and fight than it is to pretend friendliness in the hope that the women will appreciate it if they get the ballot and will vote in favor of the saloon,.”—National Forum, Butte, Mont.)
+          </p>
+          <lg>
+          <lg>  <l>Montana, Montana,</l>
+            <l>We never shall forget</l>
+            <l>The glorious struggle that we made</l>
+            <l>To have and keep you wet.</l>
+            <l>We boasted you, we toasted you,</l>
+            <l>We tried to make you great,</l>
+            <l>But now no more as heretofore,</l>
+            <l>You'll be the wettest state.</l></lg>
+            
+            <lg><l>Montana, Montana,</l>
+            <l>The moving finger wrote,</l>
+            <l>We tried, alack, to hold it back,</l>
+            <l>But women got the vote.</l>
+            <l>Yet still the tale will echo</l>
+            <l>With merriment and shout,</l>
+            <l>With what delight we fought the fight</l>
+            <l>To keep the women out.</l>
+            </lg>
+          </lg>
+        </div>
+
+        </div>
+    </body>
+  </text>
+</TEI>

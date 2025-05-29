@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1915-01-17</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>January 17, 1915</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>BEGINNING AT HOME.
+          </head>
+          <p>If only President Wilson had said:
+            <lb/>
+            "I hold it as a fundamental principle, and so do you, that every people has the right to determine its own form of government . . . and until recently the women of America, 50 per cent of the people, have not had a ‘look in' in determining who should be their governors, or what their government should be. Now I am for the 50 per cent. . . . The liberty, if they can get it, is theirs. And so far as my influence goes while I am President, nobody shall interfere with them.” 
+          </p>
+          <p>He did use almost these exact words, but his enthusiasm was roused for the liberty of the men of Mexico—not for that of his own countrywomen.
+          </p>
+          
+        </div>
+        <div type="section" n="2">
+          <head>TO PRESIDENT WILSON
+          </head>
+          <p> </p>
+          <lg>
+            <l>Wise and just man—for such I think you are—</l>
+            <l>How can you see so burningly and clear</l>
+            <l>Injustices and tyrannies afar,</l>
+            <l>Yet blind your eyes to one that lies so near?</l>
+            <l>How can you plead so earnestly for men</l>
+            <l>Who fight their own fight with a bloody hand;</l>
+            <l>How hold their cause so wildly dear, and then</l>
+            <l>Forget the women of your native land?</l>
+            <l>With your stern ardor and your scholar's word,</l>
+            <l>You speak to us of human liberty;</l>
+            <l>Can you believe that women are not stirred</l>
+            <l>By this same human longing to be free?</l>
+            <l>He who for liberty would strike a blow</l>
+            <l>Need not take arms, or fly to Mexico.</l>
+            
+          </lg>
+          <p>("Now, there is one thing I have got a great enthusiasm about —I might
+            almost say a reckless enthusiasm—and that is human liberty."—Mr. Wilson's
+            Jackson Day Speech.)
+          </p>
+          <p>To suffragists, who have heard the President so often refuse even to express an opinion of woman suffrage, there seems nothing at all reckless in his enthusiasm for human liberty.
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head>IF NOT COARSE, IS IT AN ARGUMENT?
+          </head>
+          <p>A dispatch from Washington fears that an injustice was done to Mr. Bowdle, of Ohio, while he was speaking against woman suffrage in the debate of Tuesday. The acoustics of the House are so bad that the galleries seemed to imagine that "a coarse argument had been used."
+          </p>
+          <p>This is what Mr. Bowdle was saying, in speaking of the personal charms of the women of Washington: "Their feet are beautiful, their ankles are beautiful, but here I must pause"—
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>THE GIRL IS MOTHER TO THE WOMAN, APPARENTLY.
+          </head>
+          <p>Of the defendants in our Children's Court last year 11,452 were boys and 2.464 were girls
+          </p>
+          <p>Of the criminals throughout the country over 90 per cent are male and less than 10 per cent female.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>IF PEOPLE, BAD PEOPLE.
+          </head>
+          <p>An anti-suffrage speaker, engaged in attacking, not the principles of democracy, but women as a sex, declared recently that statistics prove that women are more unfaithful in marriage than men. 
+          </p>
+          <p>Even "The New York Times" felt it necessary to protest editorially against this statement.
+          </p>
+          <p>"The wife," it says, "who knows of her husband's wrongdoing will often hide it, and present to the world a brave front. . . . But the man who knows of his wife's wrongdoing and is merciful is so rare that he would not figure heavily in a census of family troubles."
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>ANOTHER GOOD WORD FOR WOMEN.
+          </head>
+          <p>A writer in "The New Age" seems to have discovered that Germany is fighting for the masculine ideal, threatened by feminism in Europe.
+          </p>
+          <p>He says:
+          <lb/>
+            "We begin to see that peace is a dream and is not even a lovely dream, for it implies the establishment of female supremacy, and the consequent subjection of man to the purposes of woman. . . . Germany's bid for world-dominion is, in this aspect, a denial of the feminist ideal. . . . One result may be predicted—the tradition of war will be maintained and the natural antagonism of the sexes intensified. The cause of feminism will not be victorious. . . . The glory of war is revived, the spirit of nationality is awakened, and with it a host of ideals that put men beyond the reach of the purposes of women.
+            
+          </p>
+          
+        </div>
+        <div type="section" n="7">
+          <head>HIS PLACE IS HIS CAGE.
+          </head>
+          <p>Put Double Chains on Gunda—Keepers Say He Likes It—Even When He Was Allowed to Go Into His Yard He Preferred His Cage.—Headline.
+          </p>
+          <p>Where have we heard reasoning like this before?</p>
+          <p>A good elephant prefers his cage.</p>
+          <p>Therefore he prefers to be chained in it.</p>
+                <p>If he doesn't prefer to be chained in it, he isn't a really good elephant.
+          </p>
+        </div>
+        <div type="section" n="8">
+          
+          <lg>
+            <l>Women love self-sacrifice,</l>
+            <l>Suffering and good advice.</l>
+            <l>If they don't love these sincerely,</l>
+            <l>Then they're not true women, really.</l>
+            <l>Oh, it shocks me so to note</l>
+            <l>Women pleading for the vote!</l>
+            <l>Saying publicly it would</l>
+            <l>Educate and do them good.</l>
+            <l>Such a selfish reason trips</l>
+            <l>Oddly from a woman's lips.</l>
+            <l>But it must not be supposed</l>
+            <l>I am in the least opposed.</l>
+            <l>If they want it, let them try it.</l>
+            <l>I think men will profit by it</l>
+          </lg>
+        </div>
+
+        </div>
+    </body>
+  </text>
+</TEI>
