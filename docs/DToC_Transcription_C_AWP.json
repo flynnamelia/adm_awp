@@ -1,0 +1,37 @@
+{
+    "editionTitle": "Are Women People?",
+    "editionSubtitle": "A Digital Edition of Alice Duer Miller’s New York Tribune Column (March 1914- April 1915)",
+    "ignoreNamespace": true,
+    "documents": "//text",
+    "documentContent": "",
+    "documentTitle": "head/title",
+    "documentAuthor": "",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/docs/transcriptions/C_AWP_1914-03-01.xml",
+        "https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/docs/transcriptions/C_AWP_1914-03-08.xml",
+        "https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/docs/transcriptions/C_AWP_1914-03-15.xml",
+        "https://raw.githubusercontent.com/flynnamelia/adm_awp/refs/heads/main/docs/transcriptions/C_AWP_1914-03-29.xml"
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//orgName",
+                "label": "group"
+            },
+            {
+                "xpath": "//persName",
+                "label": "person"
+            }
+        ],
+        "toc": [
+            "b5835033379d40f02d908211774fa3e71dce8a589f1124f23812c1bb8e1f5fae",
+            "6e9fc5ead7b7c1e340ba5bbeff1bfe2bcaad4805145ad7e8c49ed36ca7ec675e",
+            "dd4b6923ac779436ff82c7dd0061d70144a3f8115432c29be2a40103ea51e95a",
+            "7df1dd9ba75c2ea30989c0e48f04080792e6b96eb07036cd4cae570606951138"
+        ]
+    }
+}
