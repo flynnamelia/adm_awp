@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date/>
+        </bibl>
+      </sourceDesc>
+		</fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+	<text>
+    <front>
+      <div type="header">
+        <dateline>MARCH 8, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="column">
+        <div type="section" n="1">
+          <head>Because Woman's Place Is The Home.</head>
+          <p>The <orgName>Association Opposed to Woman Suffrage</orgName> announces that it will provide speakers and literature and will support for re-election any candidate whose only disqualification for office is opposition to woman suffrage.</p>
+		  <p/>
+        </div>
+        <div type="section" n="2">
+          <head>In Lighter Vein.</head>
+          <p>The "Jackson Daily News" says, in speaking of the debate on raising the age of consent above twelve, in the Mississippi Legislature:</p>
+		  <p>A surprising feature of the debate was the refusal of many members to consider the subject seriously. Ordinarily, a measure involving the question of fixing the age at which a girl may consent to her own ruin would seem to justify much solemnity, but such was not the case during the debate on the Everett bill.</p>
+		  <p>Several comic amendments were introduced—one providing that wearing the present fashions in dress should be accepted as presumptive evidence of unchaste character; and another raising the age of consent to fifty. The tone of some of the speeches drove the women out of the galleries.</p>
+		  <p>But then women have no sense of humor.</p>
+        </div>
+        <div type="section" n="3">
+          <head>Evolution.</head>
+          <lg>
+            <l>Said Mr. Jones in 1910:</l>
+            <l>"Women, subject yourselves to men."</l><l>Nineteen-eleven heard him quote:</l><l>"They rule the world without the vote."</l><l>By Nineteen twelve he would submit</l><l>When all the women wanted it.</l><l>In 1913, looking glum,</l><l>He said that it was bound to come</l><l>This year, I heard him say with pride:</l><l>"No reasons on the other side."</l><l>By 1915, he'll insist</l><l>He's always been a suffragist:</l><l>And what is really stranger, too,</l><l>Will think that what he says is true.</l><l>FELICIA.</l>
+          </lg>
+        </div>
+        <div type="section" n="4">
+          <head>Not Incredible After Sixty Years.</head>
+          <p>The fact that Bellevue and the Allied Hospitals have appointed women as internes gives us an opportunity to quote with pride an editorial from The Tribune in 1853:</p>
+		  <p>"Fifty years hence it will be difficult to gain credit for the assertion that American women acquiesced throughout the former half of the 19th Century in the complete monopoly of the medical profession by men."</p>
+		  <p>While sixteen years later the Buffalo Medical Journal was still saying:</p>
+		  <p>"If I were to plan with malicious hate the greatest curse I could conceive for women . . . and make them as far as possible loathsome and disgusting to men, I would favor the so-called reform which proposed to make doctors of them."</p>
+        </div>
+        <div type="section" n="5">
+          <head>The Universal Question.</head>
+          <p>"All the people have the franchise, in our glorious Christian nation;</p>
+		  <p>Rich and poor are on an equal; there is no discrimination."</p>
+		  <p>"Father, say, are women people?" "Why, most surely, Hezekiah;</p>
+		 <p>No one ever dares deny it, save a flagrant, willful liar!"</p>
+		 		  <p>—<persName>T. C . Williams</persName>, in the Detroit News</p>
+        </div>
+        <div type="section" n="6">
+          <head>The Logic of the Law.</head>
+          <p>Eminent Lawyer—I don’t believe in giving women the vote, but I do believe in giving her every other opportunity.</p>
+		  <p>Eminent Feminist—Do you believe in opening the Harvard and Columbia law schools to women?</p>
+		  <p> Eminent Lawyer—No, but you see I know how much men dislike arguing a case against a woman.</p>
+        </div>
+        <div type="section" n="7">
+          <head/>
+          <p>In New York women are allowed to practise law, but are not admitted to the New York Bar Association.</p>
+		  <p>In Italy <persName>Dr. Teresa Labriola</persName>, professor of Common Law in the University of Rome, is allowed to teach law to men, but is not allowed practise.</p>
+        </div>
+
+        <div type="section" n="">
+          <head>And Again.</head>
+          <p>In 1875 the Supreme Court of Wisconsin, in denying the petition of a woman to practise before it, said:</p>
+		  <p>"It would be shocking to man's reverence for womanhood and faith in woman . . . that woman should be permitted to mix professionally in all the nastiness which finds its way into the courts of justice."</p>
+		  <p>It then names thirteen subjects as unfit for the attention of women—three of them are crimes committed against women, and in all the others women are at least as much concerned as men.</p>
+        </div>
+
+        <div type="section" n="">
+          <head>Suffragists, Please Note.</head>
+          <p>"But liberty is not the chief and constant object of their (the American people's) desires: equality is their idol: they make rapid and sudden efforts to obtain liberty and if they miss their aim, resign themselves to their dis appointment; but nothing can satisfy them without equality, and they would rather perish than lose it."</p>
+		  <p>—<persName>De Tocqueville</persName>: "Democracy in America," 1835.</p>
+        </div>
+
+        <div type="section" n="">
+          <head>Our Grandmothers Were Womanly Women.</head>
+          <p>From K. B.—a student of book catalogues—we get this:</p>
+		  <p>(Sampson, Deborah.), The female review: or memoirs of an American young lady, whose life and character are peculiarly distinguished—being a Continental soldier (for nearly three years) in the late American War, during which she performed the duties of every department into which she was called with punctual exactness, fidelity and honor. Dedham, 1797.</p>
+		  		  <p>An anonymous and obviously light-minded contributor sends us this, under the caption: "Where Women Vote":</p>
+		  <p>"Los Angeles, Feb. 14. –- A hen in Venice did her share to-day to reduce the high cost of living and established a record for expeditious production by laying four eggs in two minutes."</p>
+
+        </div>
+
+      </div>
+    </body>
+  </text>
+</TEI>

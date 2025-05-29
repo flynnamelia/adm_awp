@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+    <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?person_annotation_20250526015506907",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-26T05:55:06.907Z",
+	"dcterms:modified": "2025-05-26T05:55:06.907Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?person_annotation_20250526015506907#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?person_annotation_20250526015506907#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[2]/head/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://commons.cwrc.ca/orlando:9b51f0a0-d4e8-4622-9b2a-66d7da429a5d",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?person_annotation_20250526015713392",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-26T05:57:13.392Z",
+	"dcterms:modified": "2025-05-26T05:57:13.392Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?person_annotation_20250526015713392#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?person_annotation_20250526015713392#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[10]/head/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/100189299",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader>
+  <text>
+    <front>
+      <div type="header">
+        <dateline>MARCH 1, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="column">
+        <div type="section" n="1">
+          <head>It Sounds a Little Like a Suffragist.</head>
+          <p>"I don't want a smug lot of experts to sit behind closed doors in Washington and play Providence to me.…. I have never found a man who knew how to take care of me."—<persName>Woodrow Wilson</persName>, in "The New Freedom."</p>
+        </div>
+        <div type="section" n="2">
+          <head>With Apologies to <persName key="James Whitcomb Riley" ref="https://commons.cwrc.ca/orlando:9b51f0a0-d4e8-4622-9b2a-66d7da429a5d">James Whitcomb Riley</persName></head>
+          <p>("The London Globe" in an editorial against co-edu-cation says: "The result of taking second place to the "girls at school is that the boy feels an inferiority that he is never afterward able entirely to shake off.")</p>
+          <lg>
+            <l>There, little girl, don't read!</l>
+            <l>You're fond of your books, it's true;</l>
+            <l>But Brother might mope</l>
+            <l>If he had no hope</l><l>Of getting ahead of you.</l><l>It's dull for a boy who cannot lead.</l><l>There, little girl, don't read!</l>
+          </lg>
+        </div>
+        <div type="section" n="4">
+          <head>They Must Be Protected.</head>
+          <p>In 1850 the medical students at Harvard petitioned against opening the medical school to women, on the ground that "whenever a woman should prove herself capable of an intellectual achievement this latter would cease to constitute an honor for the men who had previously prized it.</p>
+          <p>"Their wisdom is shown by a letter in "The New York Times" from <persName>Dr. Mall</persName>, of Johns Hopkins, whosays: "This year we shall graduate in medicine eightymen and ten women; two men and four women areleading the class."</p>
+            <p>The fact that 40 per cent of the women and only 2½ per cent of the men are among these leaders would indi-cate that men no longer prize leadership.</p>
+        </div>
+        <div type="section" n="5">
+          <head>Strange, If True.</head>
+          <p>"The women who are pushing this bill," says "The Providence Tribune," in speaking of the suffrage bill in the Rhode Island Legislature, "are not irresponsible agi-tators, noisily seeking notoriety in unsexed abandon."</p>
+            <p>This would be hard to believe on any authority but that of "The Providence Tribune."</p>
+        </div>
+          <div type="section" n="6">
+          <head>Beautiful, Beautiful Words.</head>
+          <p>"Southern womanhood," said <persName>Mr. Hefflin</persName> (anti-suffragist, of Alabama), "is the priceless jewel of the Southern household, and we will safeguard and protect it with the last drop of our blood."</p>
+           <p>The latest available statistics show that in 1900 31 per cent of the girls between ten and fifteen were bread-winners in Alabama a higher percentage than that of any other state except South Carolina. The age of consent is fourteen.</p>
+        </div>
+        <cb n="2"/>
+          <div type="section" n="7">
+          <head>Where Women Have Always Been People.</head>
+          <p>Among the bills introduced into the present Legis-lature in New York is that of <persName>Assemblyman Brennan</persName>: </p>
+            <p>• • • in relation to disorderly conduct, which provides that every person (instead of every common prostitute or night walker) found loitering or being in any thoroughfare or public place for the purpose of pros-tuition or solicitation shall be guilty of disorderly con-duct, – New York Evening Post.</p>
+        </div>
+        <div type="section" n="8">
+          <head>The Weaker Sex.</head>
+          <p>During the recent debate on the eight-hour law for women in the District of Columbia <persName>Mr. McKellar</persName> said:</p>
+           <p>"Men who work for the government work only eight hours, and yet here in Washington, the seat of government, we have no law regulating the hours which a woman may work."</p>
+           <p>Some of the Representatives felt so badly about women working at all that they could not face doing anything to shorten her hours.</p>
+        </div>
+        <div type="section" n="">
+          <head>An Irresistible Force and an Immovable Body.</head>
+          <p>The Secretary of the Navy has come out in favor of matrimony for naval officers.</p>
+           <p>The New York Board of Education has come out in favor of celibacy for teachers.</p>
+           <p>Now, if a naval officer wanted to marry a New York teacher —---</p>
+
+        </div>
+        <div type="section" n="">
+          <head>Our Missionary Department.</head>
+          <p>We read with regret an account of a woman who with a broom routed three gunmen who were robbing a saloon.</p>
+           <p>We instantly mailed her a copy of <persName>Daniel Webster</persName>'s "Letter to Young Ladies," in which he shows that it is a woman's duty to be "mild, social and sentimental."</p>
+        </div>
+        <div type="section" n="">
+          <head>Many Brave Men Before <persName key="John Stuart Mill" ref="http://viaf.org/viaf/100189299">John Stuart Mill</persName>.</head>
+          <p>My lord Gasper then said, laughing: "Since you have given women letters and continence and magnanimity and temperance, I marvel that you would not also have them govern cities, make laws and lead armies, and let the men stay at home to cook and spin."</p>
+           <p>The Magnifico replied, also laughing: "Perhaps even this would not be amiss." —"The Book of The Coutier." 1528</p>
+        </div>
+        <div type="section" n="">
+          <head>And Women DO Get Them.</head>
+          <p>"When men shirk, or are unfit for their jobs, women get them," says "Life."</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

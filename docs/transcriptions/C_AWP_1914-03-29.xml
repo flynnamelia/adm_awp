@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-03-29</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>March 29, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="">
+          <head>WHAT! NOT OUR GRANDMOTHERS, EITHER?
+          </head>
+          <p>"As for the democratic daughters of America, who for many reasons might be supposed likely to be well up in such housewifely lore (sewing), they are for the most part so ignorant of it that I have heard the most eloquent preacher of the City of New York advert to their in- capacity in this respect as an impediment to their assistance to the poor."—Fanny Kemble's Journal, 1835.
+         </p>
+          <p>"Young women of moderate or no fortune are brought up as ignorant of housewifery as if destined to be heiresses of crowns. Is it surprising that marriages are diminishing among us, that young men should hesitate to enter into a connection which threatens but too truly expense and embarrassment, and that of the few who are more adventurous no inconsiderable number are driven to speedy bankruptcy?"—H. P. Powers, Address at Newark Institute for Young Ladies, 1821.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>YOUTHFUL HYSTERIA.
+          </head>
+          <p>One of the most weighty arguments against militancy is the bad example set to other turbulent groups</p>
+          <p>First, there was Ulster, and now Prince John, aged nine, when reluctant to leave St. James's Park, jumps on a bench and shouts "Votes for Women!" embarrassing his nurse and seriously alarming a Cabinet minister who happened to be passing.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>DID YOU KNOW
+          </head>
+          <p>That over 40 per cent of the Bachelor of Arts degrees awarded in this country in 1910 went to women?</p>
+          <p>That the high schools graduate almost a third more girls than boys?</p>
+          <p>That over 78 per cent of the teachers are women?</p>
+          <p>That only about 10 per cent of the children in the country go to private schools?</p>
+          <p>That a prize offered last year for the best yield above 100 bushels an acre of shelled corn for any farmer in the State of Maine was won by a girl?
+          </p>
+          <p>As that old anti-feminist, Cato the Consul, said: "As soon as they begin to equal us they will have the advantage over us."
+          </p>
+        </div>
+        <div type="section" n="">
+          <head></head>
+          <p>"In the sixth century," said Mr. Lane, of Oregon, in the Senate the other day, "the early fathers of the Christian Church debated with great gravity whether or not woman had a soul: At the Council of Macon, after much discussion, it was voted on, and woman won out by a majority of one. That was a great concession for men to make, was it not? . . . And now here in this day we are questioning her right to participate with ourselves upon full equality in the affairs of men. Whether we will decide by one vote or not, I do not know. I rather suspect that we will not be quite up to the mark set by our old fathers at Macon."
+          </p>
+          <p>But they were—just exactly.
+          </p>
+          <p>“Of thy wit I wonder that thou purposest to fight with women. for if fortune be on our side, and if it hap that thou be overcome, then art thou shamed evermore when thou art overcome by women, and if our gods be wroth with us, and thou overcomest us, it shall turn thee to little worship, that thou have the mastery of women.
+          </p>
+          <p>Which is a translation of a letter that Bartholomew Anglicus says the Queen of the Amazons wrote to Alexander the Great.
+          </p>
+
+        </div>
+        <div type="section" n="">
+          <head>OUR OWN TWELVE ANTI-SUFFRAGE REASONS.
+          </head>
+          <p>1. Because no woman will leave her domestic duties to vote.</p>
+          <p>2. Because no woman who votes will attend to her domestic duties.</p>
+          <p>3. Because it will make dissension between husband and wife.</p>
+          <p>4. Because every wife will vote exactly as her husband does.</p>
+         <p>5. Because bad women will corrupt our politics.</p>
+          <p>6. Because bad politics will corrupt our women.</p>
+        <p>7. Because women have no power of organization.</p>
+          <p>8. Because women will form themselves into a woman's party.</p>
+          <p>9. Because men and women are so different that they must have different duties.</p>
+          <p>10. Because men and women are so much alike that men with one vote each can express themselves and us, too.</p>
+          <p>11. Because women cannot use force.</p>
+          <p>12. Because the militants can and do use force.</p>
+          
+        </div>
+        <div type="section" n="">
+          <head>STATES5 RIGHTS AND CHILDREN'S RIGHTS.
+          </head>
+          <p>Some people think only a federal child labor law will be effective.
+          </p>
+          <p>At the conference the other day Mrs. Florence told a story of a man who had to live in a boat five miles off the coast of Maine because he had once violated the federal law against stealing scallops; whereas a factory was running very comfortably on the mainland which every day violated the state law against child labor.
+          </p>
+          <p>"What!" we can imagine the states' rights orators exclaiming, "would you have us regard our children like scallops?"
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>LOYALTY.
+          </head>
+          <p>Well, we enjoy living in New York, even though it does stand second to Chicago in population—voting population.
+          </p>
+          <p>(The father of gods and men smiled, and called unto him golden Aphrodite and said: "Not unto thee, my child, are given the works of war, but follow thou after the loving task of wedlock.” Iliad, Bk. V, 425.)</p>
+          <lg>
+            <l>When Zeus reprimanded his beautiful daughter</l>
+            <l>For getting mixed up in a masculine brawl,</l>
+            <l>And told her her sphere was the Home, and not slaughter,</l>
+            <l>Did she take to the axe and the torch? Not at all.</l>
+            <l>She said: "If the home is my sole occupation,</l>
+            <l>And interest in war is expressly forbid,</l>
+            <l>I think I can make the domestic relation</l>
+            <l>A good deal like war, if I try." And she did.</l>
+            <l>ROLAND.</l>
+          </lg>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>
