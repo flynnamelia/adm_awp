@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-07-12</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>July 12, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>DEMOCRACY IS NOT ALWAYS LIKE CHARITY.
+          </head>
+          <p>She—The President must be a suffragist. He said on the Fourth:
+            "This independence is not merely for us, but for everybody to whom we can find means of extending it."
+          </p>
+          <p>He—Don't be absurd. You know he was thinking of Mexico, not of women.
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>OF MAN BY MAN FOR MAN.
+          </head>
+          <p>(Only the italics are our own.)
+          </p>
+          <p>We set up this nation and we propose to set it up on the rights of <hi rend="italic">man</hi>.
+            <lb/>We said all <hi rend="italic">men</hi> who wish to be free, come to us and they will be welcome.
+            <lb/>To what other nation can you look for instant sympathy that thrills the whole body politic when <hi rend="italic">men</hi> anywhere are fighting for their rights?
+            <lb/>(Sentences from President Wilson's Fourth of July speech.)
+          </p>
+        </div>
+        
+        <div type="section" n="3">
+          <head>THAT HAS A FEMININE SOUND.
+          </head>
+          <p>The only female mentioned in the President's speech was America.
+          </p>
+          <p>He referred to our country as "she" because, perhaps, "She puts human rights above all other rights.
+          </p>
+        </div>
+        
+        <div type="section" n="4">
+          <head>WHOLE DUTY OF HEROINES.
+          </head>
+          <lg>
+            <l>(With apologies to R. L. S.)</l>
+            
+            <l>A heroine must be polite,</l>
+            <l>And do what others say is right.</l>
+            <l>And think men wise and formidable—</l>
+            <l>At least, as far as she is able.</l>
+            
+          </lg>
+        </div>
+        <div type="section" n="5">
+          <head>EQUALITY UNDER THE LAW?
+          </head>
+          <p>A woman has been appointed special judge to preside in a divorce hearing in Indiana.
+          </p>
+          <p>Will the husband in the case feel that he is getting a square deal?</p>
+          <p>And if not, how about the women in all other cases?</p>
+        </div>
+        <div type="section" n="6">
+          <head>DO YOU KNOW?
+          </head>
+          <p>That the National Consumers' League says:</p>
+          <p>That 428,276 women and girls work in textile factories in this country?</p>
+          <p>That 252,432 women and children make clothing in factories?</p>
+          <p>That 190,000 women and children work in cotton mills?</p>
+          <p>That 90,619 women and children work in tobacco factories?</p>
+          <p>That 88,628 women and children work in canneries?</p>
+          <p>That 80,000 women and children work in steam laundries?</p>
+          <p>That in eighteen states the daily hours of work for women in laundries is unlimited?</p>
+          <p>That only four states—Washington, California, Colorado and Arizona and the District of Columbia have an eight-hour law for women?</p>
+        
+        </div>
+        <div type="section" n="7">
+          <head>FEMINISM IN THE SIXTEENTH CENTURY.
+          </head>
+<lg>
+  <l>"But by record of antique time I finde</l>
+  <l>That women wont in warres to bear most sway,</l>
+  <l>And, to all great exploits themselves inclin'd</l>
+  <l>Of which they still the girlond bore away;</l>
+  <l>Till envious Men, fearing their rules decay,</l>
+  <l>Gan coyne streight lawes to curb their liberty;</l>
+  <l>Yet, sith they warlike armes have laid away,</l>
+  <l>They have excelled in artes and pollicy,</l>
+  <l>And now we foolish men that prayse gin eke t' envy.”</l>
+  <l>Spenser's Faerie Queen. Bk. III, Canto II.</l>
+  
+</lg>
+        </div>
+        <div type="section" n="8">
+          <head>THE DANGEROUS INNOVATION.
+          </head>
+          <p>The use of bronze, we are told, which began about 5000 B. C. in the East, took about two thousand five hundred years to get across Europe.</p>
+          <p>We expect before long to hear of the discovery of a contemporary tab- let showing:</p>
+          <p>That the alloying of metals is contrary to Nature.</p>
+          <p>That the heroes of 6000 B. C. never heard of bronze.</p>
+          <p>That men would lose their charm if they used any metal but gold.</p>
+         
+        </div>
+        <div type="section" n="9">
+          <head>THE WOMAN PERIL.
+          </head>
+          <p>The attention of the English government has been called to the fact that none of the women "who render invaluable imperial and social service throughout the dominion" have ever found their names in the list of royal honors.
+          </p>
+          <p>But a woman's true nature is to work without reward.
+          </p>
+          <p>That is why she is so much to be feared in polities.
+          </p>
+        </div>
+        <div type="section" n="10">
+          <head>WELL, SOMEBODY MUST BE GOOD.
+          </head>
+          <p>A Florida correspondent writes that it is against the law in Florida to ship liquor to a woman.
+          </p>
+          <p>Fortunately, very few of the women have had occasion to find it out.
+          </p>
+        </div>
+        <div type="section" n="11">
+          <head>FIFTY YEARS' WASTE.
+          </head>
+          <p>A woman has for the first time been appointed Superintendent and
+            Deputy Medical Officer to the women convicts in an English prison.</p>
+          <p>Less than fifty years ago Miss Jex-Blake, the first woman to attempt taking a medical degree in England, was stoned in the streets of Edinburgh and the university closed to her.</p>
+         
+        </div>
+        <div type="section" n="12">
+          <head> </head>
+          <p>[The following beautiful poem is offered by Aggie as an answer (suitable to any time or place) to a demand on the part of women to do something that their grandmothers didn't do.]
+          </p>
+          <lg>
+            <l>Why in the world do you want to be so mannish?</l>
+            <l>Why in the world do you want to be so queer?</l>
+            <l>Don't you really know the home would vanish?</l>
+            <l>Haven't you ever heard of woman's sphere?</l>
+            
+          </lg>
+        </div>
+        
+        
+        </div>
+    </body>
+  </text>
+</TEI>

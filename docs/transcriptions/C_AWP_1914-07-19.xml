@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-07-19</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>July 19, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>IS THIS A WOMAN'S WORK?
+          </head>
+          <p>Under this heading an editorial appeared in "The New York Times" of July 12, which, in speaking of the Blackwell's Island riot, said: "Surely no decent man can believe it is right for a woman, however 'advanced' in ideas she may be, to be placed in contact with that horrible mob of besotted, degenerate, utterly vicious outcasts. . . . It is a spectacle which might be expected to nauseate the most stalwart advocate of 'woman's rights.'"
+          </p>
+          <p>The next day the principal headline in the same paper was: MISS DAVIS BRINGS PEACE TO ISLAND.
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>PEACE AND ITS CAUSES.
+          </head>
+          <p>One of the many letters received by Miss Davis from convicts said:
+          </p>
+          <p>"We believe that you have spoken from a sister's and mother's heart of affection to erring and unfortunate brothers. . . . You have our confidence that . . . we may expect to get a more intelligent view of the purpose and intent of penal punishment."
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head> </head>
+          <p>A speaker at the National Education Association advised girls not to study algebra. Many girls, he said, had lost their souls through this study. The idea has been taken up with enthusiasm by a great many girls, as the following poem indicates:
+          </p>
+          <lg>
+            <lg><l>THE MAIDEN'S VOW.</l>
+            <l>I will avoid equations,</l>
+            <l>And shun the naughty surd,</l>
+            <l>I must beware the perfect square;</l>
+            <l>Through it young girls have erred;</l>
+            <l>And when men mention Rule of Three</l>
+            <l>Pretend I have not heard.</l></lg>
+            
+            <lg><l>Through Sturm's delightful theorems</l>
+            <l>Ecstatic joys assure,</l>
+            <l>Though permutations and combinations</l>
+            <l>My woman's heart allure,</l>
+            <l>I'll never study algebra.</l>
+            <l>But keep my spirit pure.</l>
+            <l>—MABEL MAY ORVILLE.</l></lg>
+            
+          </lg>
+        </div>
+        <div type="section" n="4">
+          <head>THE LAW-ABIDING SEX.
+          </head>
+          <p>A lady (who, by the by, read the anti-suffrage resolution before the Federated Women's Clubs) is our authority for the statement that "the atmosphere in many women's clubs at times now becomes almost too unpleasant. In men's clubs there is nothing like it; anything so bitter would lead men to blows or murder."
+          </p>
+          <p>Does this mean women are less emotional, or have more self-control?
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>WHERE CHIVALRY IS IN FLOWER.
+          </head>
+          <p>Two women have been lynched within six months in the sunny South.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>THE WAY OUR COUSINS GOVERN.
+          </head>
+          <p>"The London Times" tells us that in the town of Andover (England) riots started recently on a Saturday night and continued until, by the following afternoon, a crowd of 2,000 people were throwing brickbats and breaking windows. Not until Monday morning did the police succeed in clearing the streets.
+          </p>
+          <p>As the disturbance appeared to have no connection with woman suffrage, only one person was arrested, and he was discharged without trial.
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>BUT HOW ABOUT THE SUPPLY?
+          </head>
+          <p>A Mr. de Casseres in the "International" is of the opinion that if we "gave every woman in the suffrage movement her ideal male she would strip the lie of the 'ballot' from her speech."
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>DO YOU KNOW?
+          </head>
+          <p>That according to the census of 1910:
+          </p>
+          <p>The number of women in "domestic and personal service" has increased 25 per cent in ten years?
+          </p>
+          <p>The number of women in professional service has increased 39 per cent?
+          </p>
+          <p>Women doctors have increased almost 100 per cent from about 7,000 in 1900 to 14,000 in 1910?
+          </p>
+          <p>Women lawyers have increased 33 per cent?
+          </p>
+          <p>That of the total number of workers in this country the women have increased from 18.3 per cent in 1900 to 21.2 per cent in 1910?
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head>THE SLAVES OF FASHION.
+          </head>
+          <p>The National Association of Clothing Designers announces that the fashions for men this fall will have padded shoulders, sleeves tapering at the wrist and coats cut to give a "chesty" look to the wearer.
+          </p>
+          <p>
+            Whereas, the Executive Committee of the Cloak, Suit and Skirt Manufacturing Association admits frankly that women will not be dictated to in such questions as the length of their coats.          
+          </p>
+        </div>
+        <div type="section" n="10">
+          <head>A SUFFRAGIST TO A CERTAIN GREAT EXECUTIVE.
+          </head>
+          <p>(After Thomas Carew.)
+          </p>
+          <lg>
+            <l>Give us more love or more disdain,</l>
+            <l>A kind or an insulting tone</l>
+            <l>Alike gives snap to our campaign:</l>
+            <l>Your temperateness affords us none.</l>
+            <l>Oh, let us score at your expense,</l>
+            <l>And do, oh, do, get off the fence!</l>
+            
+          </lg>
+        </div>
+        <div type="section" n="11">
+          <head>THE YOUNGER GENERATION IS FEMINIST.
+          </head>
+          <p>One of our great dailies continues strongly opposed in its editorial comment, but THE OFFICE BOY IS WEARING A VOTES FOR WOMEN BUTTON.
+          </p>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

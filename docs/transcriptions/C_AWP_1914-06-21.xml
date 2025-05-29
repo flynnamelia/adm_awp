@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-06-21</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>May 21, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>CONCEDED.
+          </head>
+          <p>After all, we doubt if women could have had the political acumen to appoint a plumber as warden of Sing Sing.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>THE SLAVE OF DUTY.
+          </head>
+          <p>(As Gilbert might have written it.)</p>
+          <lg>
+            <l>When the militant is not engaged in arson,</l>
+            <l>'Gaged in arson,</l>
+            <l>Or in kidnapping a duke from Rotten Row,</l>
+            <l>Rotten Row,</l>
+            <l>Oh, she loves to do a kindness to the parson,</l>
+            <l>To the parson,</l>
+            <l>And to teach the orphan children how to sew,</l>
+            <l>How to sew.</l>
+            <l>When she is not putting bombs beneath the palace,</l>
+            <l>'Neath the palace.</l>
+            <l>When she has not got the Cabinet on the run,</l>
+            <l>On the run,</l>
+            <l>She is utterly devoid of hate and malice,</l>
+            <l>Hate and malice,</l>
+            <l>And her life is a serene domestic one,</l>
+            <l>’Mestic one.</l>
+          </lg>
+        </div>
+        <div type="section" n="">
+          <head>WOMEN ARE TOO EMOTIONAL, ETC., ETC.
+          </head>
+          <p>Spectators of the polo game on Tuesday agree that "it was easy to pick out the voters in the crowd—they were so cool and impassive, even when the American team scored.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>DID HE, WE WONDER, BY ANY CHANCE MEAN MEN?
+          </head>
+          <p>Representative Jones's bill giving independence to the Filipinos says: "It has always been the purpose of the people of the United States to withdraw their sovereignity over the Philippine Islands." Only, you know, about half the people of the United States haven't got any sovereignty to withdraw.
+          </p>
+          <p>I cannot say I think you are very generous to the ladies, for whilst you are proclaiming peace and good will to men, emancipating all nations, you insist upon retaining an absolute power over women.—Abigail Adams, in a letter, 1776.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>DO YOU KNOW—
+          </head>
+          <p>That the following facts were testified to before the Federal Commission on Industrial Affairs:</p>
+          <p>That children under twelve work in the Southern cotton mills?</p>
+          <p>That children of five work in the New York canneries?</p>
+          <p>That children of three have been seen at work for six hours at a stretch "shucking oysters" in Southern oyster canneries?</p>
+          <p>That in this state supervising factory inspectorships are exempt from Civil Service rules.</p>
+        </div>
+        <div type="section" n="">
+          
+          <p>He—But women are so personal in their judgment!</p>
+          <p>She—Oh, are they?</p>
+          <p>He—Yes, my wife is.</p>
+          
+        </div>
+        <div type="section" n="">
+          
+          <p>The right of a State Senator of Maryland to take his seat is being questioned on the ground that he is a clergyman.— St. Louis Globe-Democrat.
+          </p>
+          <p>We are sending the Senator some old pamphlets—obtained we shan't say where—to prove—
+          </p>
+          <p>1. That there is no such thing as a natural right to sit in the Maryland Senate.
+          </p>
+          <p>2. That politics would undoubtedly contaminate him.
+          </p>
+          <p>3. That if he should take office all other clergymen would immediately desert their pulpits and rush into the legislature.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>INTELLECTUAL INFERIORITY.
+          </head>
+          <p>A woman has taken the $300 prize given to the member of the graduating class in Cornell Medical School who has the highest standing.
+          </p>
+          <p>The class consisted of fifteen men and five women.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>VANITIE.
+          </head>
+          <p>And yet the most modest of men continues, when he wishes to praise a woman's intellect, to say that "she has a man's mind."
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>THE BRIGHTER SIDE.
+          </head>
+          <lg><l>When the haughty suffrage beauty, in pursuance of her duty,</l>
+          <l>The government of tyrant man assails,</l>
+          <l>When she tells the eager masses how he forms the criminal classes,</l>
+          <l>(Ninety-four per cent of criminals are males),</l>
+          <l>Do not feel too much affrighted lest her home be wrecked and blighted</l>
+          <l>By her knowledge of man's perfidy and greed;</l>
+          <l>You will find that special sinner who sits opposite her at dinner</l>
+          <l>She considers something very fine indeed.</l>
+          </lg>
+        </div>
+        <div type="section" n="">
+          <head>IF WOMEN HAD A SENSE OF HUMOR.
+          </head>
+          <p>"Life" has awarded a prize to an essay on "Feminism" which says: "Man was designed to do the work of the world."
+          </p>
+          <p>But then, as "The Woman's Journal" points out, "Life" is a funny paper.
+          </p>
+        </div> 
+        </div>
+    </body>
+  </text>
+</TEI>

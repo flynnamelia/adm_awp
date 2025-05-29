@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-06-14</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>May 14, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>THE INFERIOR SEX
+          </head>
+          <p>It appears that in the recent election in New York four dead men, to say nothing of several who were ill in bed, took the trouble to vote.
+          </p>
+          <p>Yet women can be kept from the polls, as the antis are always telling us, by nothing more serious than a little bad weather.
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>HEADS, I WIN.
+          </head>
+          <lg>
+            <lg><l>My Uncle Wilbur Simpson says</l>
+            <l>That women are not ever brave:</l>
+            <l>He says whenever things go wrong</l>
+            <l>They drop this independent song,</l>
+            <l>And call for men to save.</l></lg>
+            
+           <lg> <l>Yet when the doctor came to-day</l>
+            <l>To vaccinate us, great and small,</l>
+            <l>My Uncle Wilbur ran away,</l>
+            <l>Whereas I thought his wife, Aunt May,</l>
+            <l>Was not afraid at all.</l></lg>
+            
+            <lg><l>I said: "But don't you think Aunt May</l>
+            <l>Was brave about her vaccination?"</l>
+            <l>He frowned and answered: "No; Great Scott!</l>
+            <l>It seems these women haven't got</l>
+            <l>The least imagination." FELICIA.</l></lg>
+          </lg>
+        </div>
+        <div type="section" n="3">
+          <head>ANY WOMEN BUT AMERICAN WOMEN.
+          </head>
+          <p>And now the Democratic party is preparing a bill granting independence to the Filipino—men, we assume.
+          </p>
+          <p>Some years ago Mr. Taft said: "The fact is, not only among the Tagalogs, but among the Christian Filipinos, the woman is the active member of the family, so if you expect to confer political power upon the Filipinos, it ought to be conferred upon the women."
+          </p>
+        </div>
+
+        <div type="section" n="4">
+          <head>DO YOU KNOW?
+          </head>
+          <p>That the prize given annually in Philadelphia by the National Municipal League for the best essay on municipal government was won this year by a woman?</p>
+          <p>That at Columbia University this spring fifteen girls and only twelve men were, elected to the academic honors of Phi Beta Kappa?</p>
+          <p>That at Ohio State University the proportion elected was fourteen girls and four men?</p>
+          <p>That at the University of Nebraska there were twenty-two women and only eight men chosen?</p>
+          <p>That a woman—and a suffragist—has won the $10,000 prize for the best play, offered by Mr. Winthrop Ames?</p>
+          
+        </div>
+        <div type="section" n="5">
+          <head>PREVIOUS OUTBREAKS OF HYSTERIA IN ENGLAND.
+          </head>
+          <p>"It was only after five hundred men had gone to prison for a cheap press," says "The Nation," (London) "that the government reduced the stamp duty on newspapers from fourpence to a penny."
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>BRAVE, MEN AFTER AGAMEMNON.
+          </head>
+          <p>A cowardly suffragette ("a suffragette disguised as a lady," as "The Sun" puts it) knelt at King George's feet during a recent drawing room and made a verbal petition. And yet, we are told, the heroic monarch "remained impassive."
+          </p>
+          <p>The palace officials, on the other hand, are reported to be "on the verge of nervous prostration over the incident."And some of the American press seem to share their distress.
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>LET'S BE THOROUGH.
+          </head>
+          <p>If the only way for the English government to show its courage is to let the militant suffragists, die, why would it not be braver still to go further, and kill off everybody who has subscribed to the militant union?
+          </p>
+          <p>This, according to The Tribune, would include the Duchess of Teck, Princess Arthur of Connaught, the Princess Alexander of Teck, the Princess Royal (sister to the King), Princess Christian, to say nothing of such minor characters as the Duchesses of Westminster, Portland and Marlborough.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>WE ONLY SAY IT SEEMS SO.
+          </head>
+          <p>Statistics of the City of Berlin show that married men live longer than bachelors, whereas married women die sooner than spinsters.
+          </p>
+          <p>It seems as if one sex were easier to live with than the other.
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head>FASHION NOTES: PAST AND PRESENT.
+          </head>
+          <p>1880—Anti-suffrage arguments are being worn long, calm and flowing this year, with the dominant note that of women's intellectual inferiority.</p>
+          <p>1890—Violence is very evident in this season's fash- ions, and our more conservative thinkers are saying that woman suffrage threatens the home, the Church and the Republic.</p>
+          <p>1900—A complete change of style has taken place. Everything is being worn a l'aristocrate, with the repeated assertion that too many people are voting already."</p>
+          <p>1914—The best line of goods shown by the leading anti-suffrage houses this spring is the statement that woman suffrage is the same thing as free love. The effect is extremely piquant and surprising.</p>
+        </div>
+        <div type="section" n="10">
+          <head>THE UNCONSCIOUS SUFFRAGIST.
+          </head>
+          <p>"The new things in the world are the things that are divorced from force. The things that show the moral compulsion of the human conscience—those are the things by which we are building up civilization—not by force."
+          </p>
+          <p>No, this is not a quotation from a suffrage speech, but part of President Wilson's address to the mid-shipmen.
+          </p>
+        </div>
+        <div type="section" n="11">
+          <head>WE THINK WE KNOW THE ANSWER.
+          </head>
+          <p>Speaking of the good old times, when white-haired mothers ruled over adoring homes, we wish to ask one question: When a man called another "an old woman" in those days did he mean it as a compliment?
+          </p>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

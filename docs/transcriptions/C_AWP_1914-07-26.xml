@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-07-26</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>July 26, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>MERELY VALID, JUST AND UNIVERSAL.
+          </head>
+          <p>Some of our esteemed contemporaries object to Secretary Bryan’s conversion to suffrage on the ground that the reasons he gives for his conversion are not new.
+          </p>
+          <p>The same criticism might be made of the Ten Commandments.
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>THE ENDANGERED HOME.
+          </head>
+          <p>The Bishop of London in a recent speech in the House of Lords called attention to the decine in infant mortality in the countries where women vote.
+          </p>
+          <p>The following figures (representing the average for ten years of deaths in children under a year per thousand births) have been compiled by the American Association for the Prevention of Infant Mortality:
+          </p>          
+          <table>
+            <row>
+              <cell>Chili</cell><cell>326</cell>
+              <cell>Finland</cell><cell>133</cell>
+            </row>
+            <row>
+              <cell>German Empire</cell><cell>197</cell>
+              <cell>Tasmania</cell><cell>93</cell>
+            </row>
+            <row>
+              <cell>Spain</cell><cell>170</cell>
+              <cell>South Australia</cell><cell>93</cell>
+            </row>
+            <row>
+              <cell>United States (approximate)</cell><cell>155</cell>
+              <cell>Norway</cell><cell>85</cell>
+            </row>
+            <row>
+              <cell>Canada</cell><cell>140</cell>
+              <cell>New Zealand</cell><cell>76</cell>
+            </row>
+          </table>
+          <p>In the countries in the left-hand column only men vote. <lb/>In those in the right-hand column women are fully enfranchised.</p>
+          
+        </div>
+        <div type="section" n="3">
+          <head>INDIRECT INFLUENCE.
+          </head>
+          <lg>
+            <l>(Not from "The Vicar of Wakefield.")</l>
+            
+            <l>When lovely woman stoops to jolly</l>
+            <l>And finds that lawmakers refuse,</l>
+            <l>What art can soothe her melancholy,</l>
+            <l>What charm can give the dear her dues?</l>
+            <l>The only charm her sons and brothers</l>
+            <l>Insist on having, let her note,</l>
+            <l>Is one they fear to give their mothers</l>
+            <l>(I wonder why) and that's—the vote.</l>
+            <l>C. HARRISON.</l>
+            
+          </lg>
+        </div>
+        <div type="section" n="4">
+          <head>WHY WOMEN WANT POLICEWOMEN.
+          </head>
+          <p>The Under Secretary for the Home Office in England advances a curious reason against the appointment of policewomen.
+          </p>
+          <p>He told delegations from twenty-four organizations who waited on him that he believed that in cases of assaults on women and children the victims' stories had better be told to womén, but, he said: "There is a prejudice against women. There might be more against women constables.”
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>NOT NECESSARILY CAUSE AND EFFECT.
+          </head>
+          <p>Massachusetts has the oldest anti-suffrage association in the country.
+          </p>
+          <p>Massachusetts has the largest proportion of insane people of any state.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>THOUGHT THEIR PLACE WAS THE HOME.
+          </head>
+          <p>A mother has kidnapped her children from the Albany Orphan Asylum and is holding them in a house with barricaded doors.
+          </p>
+          <p>A judge committed them to the asylum after a series of freight car robberies, in which, it is said they had a part.
+          </p>
+          <p>The ages of these criminals range from twelve to fourteen years.
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>WOMEN DON’T SEEM TO UNDERSTAND POLITICS.
+          </head>
+          <p>Mrs. Grish, head of Jersey City’s Poor Department, is not giving satisfaction to certain elements in the community. She is reported to have made a reduction of 50 per cent in the expenses of her department
+          </p>
+          <p>And to have administered relief without regard to politics.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>THE CALL TO FREEDOM.
+          </head>
+          <p>(There is no reason why men should not wear shirtwaists wherever women may go thus attired.—Editorial in N. Y. Times, July 18, 1914.)
+          </p>
+          <lg>
+            <l>We'll cast off coat and waistcoat,</l>
+            <l>Men must and shall be free:</l>
+            <l>Girls wear transparent shirtwaists;</l>
+            <l>So, pray, why should not we?</l>
+            <l>(Yet if a woman should by chance</l>
+            <l>This very argument advance</l>
+            <l>In favor of her wearing pants</l>
+            <l>How shocking that would be!)</l>
+            <l>F. O'B.</l>
+            
+          </lg>
+        </div>
+        <div type="section" n="9">
+          <head>WHY WE OPPOSE SHIRTWAISTS FOR MEN.
+          </head>
+          <p>1—Because the great majority of men do not want shirtwaists. The present outery is raised by a small minority of disappointed men who have failed to charm women in the costume of a gentleman and so favor any change.</p>
+          <p>2—Because shirtwaists would add a new burden to men's already overburdened lives. They would have to give time and attention not only to the fit and pattern of their shirts, but to the development of their figures.</p>
+          <p>3—Because shirtwaists would distract men from their business duties. They must not listen to false friends who tell them they could select their waists in a few minutes. Do women?</p>
+          <p>4—Because it would lessen the respect in which women hold men.What woman could look up to a shirtwaist man as she now does to one in a graceful swallow-tail?</p>
+          <p>5—Because identity of costume would tend to wipe out all differentiation between the sexes. Any student knows that this will do away with the home, destroy the sanctity of the marriage tie and so eventually undermine the foundations of this great Republic.</p>
+          
+        </div>
+        <div type="section" n="10">
+          <head>AND AS A MATTER OF FACT IT DOESN'T.
+          </head>
+          <p>Three hundred or more convicts were engaged in a riot in Trenton State's Prison on July 13.
+          </p>
+          <p>So far we have not heard any one suggest that this proves that no man is fit to be Commissioner of Correction.
+          </p>
+        </div>
+        <div type="section" n="11">
+          <head>EXPERIMENTAL PSYCHOLOGY.
+          </head>
+          <p>Whenever we ask a woman over fifty if girls were more attractive twenty-five years ago than they are now, she says: "Oh, dear, yes!" But when we put the same question to a girl under twenty, she answers, "Of course not!"
+          </p>
+        </div>
+        
+        </div>
+    </body>
+  </text>
+</TEI>

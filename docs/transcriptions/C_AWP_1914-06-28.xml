@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-06-28</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>June 28, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>OUR OWN VERSION.
+          </head>
+          <p>Better Babies, Better Mothers, Fathers could not be improved upon.
+          </p>
+          <lg>
+            <l>I pledge to be the baby's friend,</l>
+            <l>Let everybody note;</l>
+            <l>Clean air, clean clothes, clean food he’ll get</l>
+            <l>When mother gets the vote.</l>
+            <l>— AGGIE.</l>
+          </lg>
+        </div>
+        <div type="section" n="2">
+          <head>SOMEWHAT DELAYED IN TRANSMISSION.
+          </head>
+          <p>We regret to record another outbreak of militancy, with the destruction of property belonging to innocent outsiders. Last night, shouting "Taxation without representation is tyranny!" a band of fanatics, disguised as Indians, threw into Boston Harbor 342 chests of tea, valued at £18,000. Public sympathy has been completely alienated by this act of vandalism and their cause put back fifty years.
+          </p>
+          <p>"Asquith Keeps Promise."—Headline in "The New York Evening Post." An almost unprecedented occurrence.
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head>WE THOUGHT WOMEN WERE CITIZENS, MR. CHAIRMAN.
+          </head>
+          <p>"We are here," said Mr. Osborn at the recent gathering of Democrats, "to fulfil the spirit of a statute intended to place within the hands of every citizen his share in the duties and power of government."
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>'TWIXT CASH AND CHIVALRY.
+          </head>
+          <p>The policemen of Denmark are threatening to strike because the new policewomen are started at a higher salary than they.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>GOOD FOR EDUCATION AND CHARITY, BUT HOW ABOUT THE HOME?
+          </head>
+          <p>A committee of the Louisiana Legislature has reported favorably on a bill to amend the state constitution so as to enable women to sit on educational and charitable boards.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>WHY WE OPPOSE VOTES FOR MEN.
+          </head>
+          <p>In Italy, a manhood suffrage country, strikers have burnt down two railway stations.
+          </p>
+          <p>In Montana, a manhood suffrage state, federal troops have had to be called in to keep order in the mines.
+          </p>
+          <p>In New York State the factory and fire regulations are found to be so much at variance that it is impossible to obey both. 
+          </p>
+          <p>We are not blaming these misguided though probably conscientious men, but could anything show more clearly that they are out of their natural sphere?
+          </p>
+          <p>MAN'S PLACE IS THE ARMORY.
+          </p>
+          
+        </div>
+        <div type="section" n="7">
+          <head>ANY SEWING CIRCLE WILL TELL THEM ABOUT IT.
+          </head>
+          <p>A French chasseur has been deprived of his leave because he shaved his mustache, "an effeminate fashion," which his colonel disapproves. 
+          </p>
+          <p>When will men learn to be manly?
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>INTERNATIONAL REACTIONARIES.
+          </head>
+          <p>Twenty-eight countries voted yes and four voted no on the proposal to allow women to take part in the Olympic Games.
+          </p>
+          <p>Those voting no were France, Turkey, Japan and the United States.
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head>THE ENEMIES WE MAKE.
+          </head>
+          <p>Senator Overman, of North Carolina, is reported to have cheered when the State Democratic Convention failed to indorse woman suffrage.
+          </p>
+          <p>Senator Overman was one of the bitterest opponents to the Child's Welfare Bureau, although it appeared that he did not know how many hours children were allowed legally to work in his own state.
+          </p>
+          <p>Questioned on this subject in the United States Senate on January 24, 1912, he said: "I do not remember. They (the hours) have been reduced lately. It is ten hours, I think. I am not sure."
+          </p>
+        </div>
+        <div type="section" n="10">
+          <head>USEFUL RECIPE.
+          </head>
+          <p>It has been generally found that the best way to keep women out of high salaried civil service positions is to advertise the examinations as open to men only.
+          </p>
+          <lg>
+            <l>A very naughty girl, I ween,</l>
+            <l>Was Arabella T. McPherson;</l>
+            <l>When nurse said: "There's a little queen,”</l>
+            <l>She said: "I'd rather be a person.”</l>
+          </lg>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

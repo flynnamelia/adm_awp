@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-07-05</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>June 5, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="">
+          <head>PRIZE WINNERS IN THE PROPORTION OF ONE TO THREE.
+          </head>
+          <p>We hate boasting, but we must point out that out of four prize winning babies three were girls.
+          </p>
+          <p>Aggie writes:
+          </p>
+          <lg>
+            <l>Aggie writes:</l>
+            <l>Joanna Wiggers, don't be proud,</l>
+            <l>Though Pride seems indicated, maybe:</l>
+            <l>Or else your friends will think aloud:</l>
+            <l>"She used to be a perfect baby!"</l>
+            
+            <l>And Mired B. Ball suggests in the manner of Sir Henry Wotton,</l>
+            <l>You meaner babies of the State</l>
+            <l>Who poorly satisfy our eyes</l>
+            <l>More by your numbers than your weight,</l>
+            <l>Although Joanna takes the prize,</l>
+            <l>You please your parents, I surmise.</l>
+          </lg>
+        </div>
+        <div type="section" n="">
+          <head>CONSISTENCY'S A JEWEL.
+          </head>
+          <p>Mrs. Mabel Botswood Marvell writes us that, though an anti-suffragist, she has refused to pay her taxes on the following grounds:</p>
+           <p>A woman's place is the home, and not the tax collector's office.</p>
+             <p> She cannot spare the time from her domestic duties.</p>
+               <p>She fears she will be contaminated by the low, vulgar people who already pay taxes.</p>
+                 <p>Nature designed men to pay taxes and women to run up bills. We must not fly in the face of nature.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>STATECRAFT.
+          </head>
+          <p>Who said that Mr. Asquith was unable to deal with the suffrage situation in England? According to "The Times," he has engaged women detectives to guard the House of Commons from suffragette intruders.
+          </p>
+          <p>If only they don't all turn out to be members of Mrs. Pankhurst's Union!
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>DO YOU KNOW?
+          </head>
+          <p>That the New York State Civil Service Commission has announced that the examinations for director and superintendents of the new Bureau of Employment will not be open to women?
+          </p>
+          <p>That there is nothing in the law itself to prevent a woman's holding these positions?
+          </p>
+          <p>That one-third of the wage-earners in this state are women?
+          </p>
+          <p>That, as women have successfully held such offices as Commissioner of Charities and head of the Bureau of Industries there seems no adequate reason why a competitive examination for similar positions should be closed to them?
+          </p>
+        </div>
+        <div type="section" n="">
+          <p>Saturday last, where a man, by trade a shoemaker, and who added to it the profession, though not what ought to be the practice, of the preacher of the Gospel, exposed his wife, a decent looking young woman, apparently about twenty-five years of age, to sale, at the public railing, with a halter about her waist. She was purchased by a hay salesman for 29 shillings, and was delivered to him with all due form.—London Paper, June 29, 1814.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>WE REALIZE IT WAS A MISPRINT.
+          </head>
+          <p>If we were as narrow-minded as we have been accused of being, we should make capital out of the utterances of a prominent person who is reported as saying in "The Times" of June 26: "I don't think women ought to vote. . . . Why, you would have women competing with me!”
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>SPEAKING FOR ONE, WE DON'T CARE AT ALL.
+          </head>
+          <p>Women as a sex are accustomed to being reproached for the femi- nine fashions, whatever they are, but now "The Louisville Courier-Journal" says we are responsible for men's clothing, too.
+          </p>
+          <p>"Women," it says, "seem to prefer that men should wear uncomfortable collars. As long as they do the men will continue to be more or less uncomfortable."
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>YES, SOME MEN USE THE WORD MALE IN THAT SENSE.
+          </head>
+          <p>Dr. Charles Eliot, president emeritus of Harvard, is reported to have said:
+          </p>
+          <p>"Universal suffrage prolongs in the United States the effect of universal education: for it stimulates all citizens throughout their lives to reflect on problems outside the narrow circle of their private interests and occupations; to read about public questions; to discuss public characters and to hold themselves ready in some degree to give a rational account of their political faith." 
+          </p>
+          <p>We fear Dr. Eliot, when he says "universal," means "male."
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>OUR OWN ADVICE TO HEROINES:
+          </head>
+          <lg>
+            <l>A heroine must cling and shrink</l>
+            <l>When heroes are about,</l>
+            <l>And thus the watching world will think:</l>
+            <l>"How brave his heart and stout!"</l>
+            <l>But if he chance to be away</l>
+            <l>When bright-faced dangers shine,</l>
+            <l>It will be best for her to play</l>
+            <l>The oak tree, not the vine.</l>
+            <l>In fact, the most important thing</l>
+            <l>Is knowing when it’s time to cling.</l>
+          </lg>
+          <p>AS WE ALWAYS SUSPECTED.
+          </p>
+        </div>
+                </div>
+    </body>
+  </text>
+</TEI>

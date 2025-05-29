@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-06-07</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>June 7, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>IT DEPENDS ON WHO DID IT.
+          </head>
+          <p>We are placed in an awkward position by a news item we have just received from M. G.
+          </p>
+          <p>A certain state, it appears, has wasted $180,000 on voting machines which public sentiment won't allow to be used.
+          </p>
+          <p>If the state in question is a woman suffrage state, this proves that women are unfit for the vote.
+          </p>
+          <p>If, however, it is a manhood suffrage state, this shows only that the best and wisest of us make mistakes at times.
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>EXCUSE IT, PLEASE, MR. BLAKE.
+          </head>
+          <p>(No, I am unable to grasp the logic of anti-suffragism. —John Galsworthy.)
+          </p>
+          <lg><l>Anti, Anti, burning bright</l>
+            <l>In our intellectual night.</l>
+            <l>What ingenious-minded guy</l>
+            <l>Could frame thy dreadful sophistry?</l>
+          </lg>
+        </div>
+        <div type="section" n="3">
+          <head>WHY WE OPPOSE WOMEN TRAVELLING IN RAILWAY TRAINS
+          </head>
+          <p>1. Because travelling in trains is not a natural right.</p>
+          <p>2. Because our great-grandmothers never asked to travel in trains.</p>
+          <p>3. Because woman's place is in the home, not in the train.</p>
+          <p>4. Because it is unnecessary; there is no point reached by a train that cannot be reached on foot.</p>
+          <p>5. Because it will double the work of conductors, engineers and brakemen, who are already overburdened.</p>
+          <p>6. Because men smoke and play cards in trains. Is there any reason to believe women will behave better?</p>
+          
+        </div>
+        <div type="section" n="4">
+          <head>THE GREAT ILLUSION.
+          </head>
+          <p>During the recent suffrage debate in the House of Lords, Lord Ampthill said: "All authority depends ultimately on force, and men alone are in a position to use force."
+          </p>
+          <p>About the same time 1,500 policemen, with 1,000 more in reserve, were engaged in opposing the march of 200 women.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>AND THEN THERE'S THIS.
+          </head>
+          <p>"The less the noble lords talk of the evils of militancy the better . . . in view of the fact that Lords Selborne and Curzon, to say nothing of Lord Milner, are all members of that treasonable and seditious conspiracy known as the 'British Covenant' in support of armed revolution in Ulster."—Daily Herald (England.)
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>DO YOU KNOW?
+          </head>
+          <p>That a woman has been elected president of a national bank in Illinois?</p>
+          <p>That a woman has been county judge in Colorado since 1911?</p>
+          <p>That a woman is one of the best revolver shots on the Chicago police force?</p>
+          <p>That two-thirds of the taxes in Delaware County, Pa., are paid by women?</p>
+          <p>That the increase in organized labor in New York State during the last year has been 20 per cent. in men's organizations and 111 per cent, among women?</p>
+        </div>
+        <div type="section" n="7">
+          <head>INFORMATION WANTED.
+          </head>
+          <p>A Westchester judge is reported to have decided that it is reprehensible for a mother to teach her child to pray that its father be made better.
+          </p>
+          <p>Three possibilities remain: to pray that its father be made worse, to pray that he be preserved exactly as he is, or to omit his name from all supplications.
+          </p>
+          <p>Will the judge please indicate which of these courses a conscientious wife and mother should pursue?
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>INCREASE OF CRIMINALITY AMONG WOMEN.
+          </head>
+          <p>Last Sunday a woman spent eight hours in jail because her four-year-old daughter walked on the grass in a public park.
+            <lb/>Both criminals, you observe, belong to the sex that is demanding the vote!
+          </p>
+          <p>The fact that Vice-President Marshall has said: "My wife is against suffrage, and that settles me," has naturally inspired a good deal of poetry.
+          </p>
+        </div>
+        <div type="section" n="9">
+          <lg>
+            <lg><l>Feargus O'Brien writes:</l>
+            <l>My wife dislikes the income tax,</l>
+            <l>And so I cannot pay it;</l>
+            <l>She says that golf all interest lacks,</l>
+            <l>So now I never play it;</l>
+            <l>She is opposed to tolls repeal</l>
+            <l>(Though why, I cannot say),</l>
+            <l>But woman's duty is to feel,</l>
+            <l>And man's is to obey.</l></lg>
+            
+            <lg><l>And Peter Parkins says:</l>
+            <l>I'm in a hard position for a perfect gentleman,</l>
+            <l>I want to please the ladies, but I don't see how I can,</l>
+            <l>My present wife's a suffragist, and counts on my support,</l>
+            <l>But my mother is an anti of a rather biting sort;</l>
+            <l>One grandmother is on the fence, the other much opposed,</l>
+            <l>And my sister lived in Oregon, and thinks the question's closed;</l>
+            <l>Each one is counting on my vote to represent her view.</l>
+            <l>Now what should you think proper for a gentleman to do?</l></lg>
+          </lg>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>
