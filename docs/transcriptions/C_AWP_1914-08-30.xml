@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-08-30</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>August 30, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>OUR OWN WAR NEWS.
+          </head>
+          <p>"It is a foregone conclusion," says the Paris correspondent of 'The Evening Sun,' "that when the war is over the vote will be given the French woman, since in the absence of the man, she will demonstrate what she is able to do."
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head></head>
+          <lg>
+            <l>Hippolyte, Penthesilea,</l>
+            <l>Maria Theresa and Joan,</l>
+            <l>Augustina and Boadicea,</l>
+            <l>And some militant girls of our own—</l>
+            <l>It would take a brave man and a dull one</l>
+            <l>To say to these ladies: "Of course</l>
+            <l>We adore you while meek,</l>
+            <l>Timid, clinging and weak,</l>
+            <l>But A WOMAN CAN NEVER USE FORCE."</l>
+            
+          </lg>
+        </div>
+        <div type="section" n="3">
+          <head>SPLENDID FELLOWS.
+          </head>
+          <p>The new anti-suffrage society in Georgia is jubilant over the fact that the Georgia legislature has killed the suffrage bill in committee. The same body of men has made it merely a misdemeanor to take a girl of fourteen to a house of prostitution; it had hitherto been a felony.
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>DO YOU KNOW—
+          </head>
+          <p>That in Georgia school is kept for only 132 days a year?</p>
+          <p>That in Georgia the legal age at which a girl may consent to her own ruin is ten?</p>
+          <p>That children of twelve are allowed to work in the factories, and, if orphans, at ten?</p>
+          <p>That 35 per cent of the children between ten and fifteen are at work?</p>
+          <p>That the working hours for minors are "from sunrise to sunset."</p>
+          <p>And that the anti-suffragists are very proud of the fact that "our legislators are with us?"</p>
+      
+        </div>
+        <div type="section" n="5">
+          <head>SO GREAT A FAVORITE IS WOMAN UNDER THE LAW.
+          </head>
+          <p>We select an item that appeared about thirty years ago in "The New York Evening Express":
+          </p>
+          <p>"Last evening Captain Lowery of the 27th Precinct made a descent upon a dance house in the basement of 96 Greenwich Street, and arrested fifty-two men and eight women. The entire batch was brought before Justice Flammer at the Tombs Police Court this morning. The fifty- two men were fined three dollars each, all but twelve paying at once: the eight women were fined ten dollars each and sent to the island for one month."
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>DECIDING ON ITS MERITS.
+          </head>
+          <p>Chippewa Indians of the Bad River Tribe have voted in favor of giving women a share in the government.
+          </p>
+          <p>Doesn't that show the kind of people who approve of it?
+          </p>
+          <p>But then the Church of England has just done exactly the same thing.
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>WE MIGHT GET CIVILIZED TOO QUICKLY.
+          </head>
+          <p>The Nebraska men's Association Opposed to Woman Suffrage says:
+          </p>
+          <p>"We yield to none in our admiration, veneration and respect for woman. We recognize in her admirable and adorable qualities, and sweet and noble influences which make for the betterment of mankind and the advancement of civilization." And then they show why it is they don't want polities bettered and civilized.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>EARLY SUFFRAGISTS.
+          </head>
+          <p>"No such phrase as virtual representation was ever known in law or constitution." JAMES OTIS.
+          </p>
+          <p>“They who have no voice nor vote in the electing of representatives do not enjoy liberty, but are absolutely enslaved to those who have votes."
+          </p>
+          <p>BENJAMIN FRANKLIN.
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head>EDUCATION.
+          </head>
+          <lg>
+            <l>He sent his sons to college,</l>
+            <l>But for girls, he thought, that knowledge</l>
+            <l>Was a gift that could be used by very few,</l>
+            <l>And he wondered ever after</l>
+            <l>With tears, jeers and sneers and laughter</l>
+            <l>At how singularly little women knew. AGGIE.</l>
+            
+          </lg>
+    
+        </div>
+        <div type="section" n="10">
+          <head>UNFORTUNATELY.
+          </head>
+          <p>"How about woman suffrage?" Mr. Murphy was asked.
+          </p>
+          <p>"Ask Mr. So-and-So," was the reply. "He is interested in the ladies."
+          </p>
+          <p>Alas, he who is interested in the ladies as individuals is not always interested in women as people.
+          </p>
+        </div>
+        <div type="section" n="11">
+          <head>AS LONG AS THEY LAST.
+          </head>
+          <p>"This is a time," says a distinguished anti-suffragist, in condemning the peace demonstration, "for woman to show her skill in household management."
+          </p>
+          <p>Some women are afraid there won't be any households to manage, if this goes on.
+          </p>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

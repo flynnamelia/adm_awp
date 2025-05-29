@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-12-06</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>December 6, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>WITHOUT HUMAN TIES.
+          </head>
+          <p>A public school teacher, Mrs. Louise M. Drew, has applied for leave of absence without pay, in order to take care of her sick mother, and the committee on elementary schools has advocated refusing the request.
+          </p>
+          <p>We must point out to the committee that, while they can still find women teachers who have never been mothers, they will experience some difficulty in finding those who have never been daughters.
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>PROTECTING THE HOME.
+          </head>
+          <p>There is a rumor that the Board of Education is now making an investigation of its charwomen. All those found to be supporting young children will lose their jobs.
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head> </head>
+          <p></p>
+        </div>
+        <div type="section" n="4">
+          <head>ADVICE TO TEACHERS.
+          </head>
+          <p></p>
+          <lg>
+            <l>Ask for leave of absence—</l>
+            <l>Do not be beguiled—</l>
+            <l>To go away or rest or play,</l>
+            <l>But not to bear a child.</l>
+            
+            <l>Have tuberculosis,</l>
+            <l>Have a fever mild,</l>
+            <l>Have a bout of mumps or gout,</l>
+            <l>But do not have a child</l>
+            
+            <l>Boards of Education</l>
+            <l>(Sometimes falsely styled)</l>
+            <l>Must not lose their right to choose</l>
+            <l>Who may have a child.</l>
+            <l>ESTELLE.</l>
+          </lg>
+        </div>
+        <div type="section" n="5">
+          <head> </head>
+          <p>The rules of the British Service Commission (which is controlled by men) require women employes to resign on their marriage.
+          </p>
+          <p>This is done, it has been asserted, in order to protect the homes of these women.
+          </p>
+          <p>Since the war, "The Woman's Journal" says, thousands of married women telephone and telegraph operators have been taken back.
+          </p>
+          <p>Don't those women's homes need protecting any more?
+          </p>
+          <p>Or don't the men need the women's jobs any more?
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>SPHERELESS.
+          </head>
+          <p>In Belgium before the war there was a strong suffrage movement among the women.
+          </p>
+          <p>They were told woman's sphere was the home.
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>A POSSIBLE DOUBT.
+          </head>
+          <p>The only difficulty that occurs to us off-hand concerning Mrs. Dodge's estimate that only 200,000 women in this country believe in suffrage is that the Woman's Suffrage party has enrolled 131,000 members in Greater New York alone.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>REMARKABLE INSTANCE OF THE EFFICACY OF PRAYER.
+          </head>
+          <p>Dr. Katharine Davis said the other day: "I know women who as secretaries are holding down public offices—know more about the work than the man who was elected to the office. They hold their place from one administration to another, and I've heard them praying that the next man elected wouldn't know much about it."
+          </p>
+          <p>Oh, so that's why?
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head>INTERCEPTED.
+          </head>
+          
+          <lg>
+            <l>"Only the worst of them vote."</l>
+            <l>"Are not the suffragists frights?"</l>
+            <l>"Nietzsche's the person to quote."</l>
+            <l>"I prefer love to my rights."</l>
+            
+            <l>"Are not the suffragists frights?"</l>
+            <l>"Sex is their only appeal."</l>
+            <l>" I prefer love to my rights."</l>
+            <l>"No, we don't think, but we feel."</l>
+            
+            <l>"Sex is their only appeal."</l>
+            <l>"Woman belongs at the loom."</l>
+            <l>"No, we don't think, but we feel."</l>
+            <l>"Doesn't it rub off the bloom?"</l>
+            
+            <l>"Woman belongs at the loom."</l>
+            <l>"Isn't the speaker a bore?"</l>
+            <l>"Doesn't it rub off the bloom?"</l>
+            <l>"Oh, it's a fad—nothing more."</l>
+            
+            <l>"Isn't the speaker a bore?"</l>
+            <l>"Nietzsche's the person to quote."</l>
+            <l>"Oh, it's a fad—nothing more."</l>
+            <l>“Only the worst of them vote."</l>
+            
+          </lg>
+        </div>
+        <div type="section" n="10">
+          <head>CANDOR.
+          </head>
+          <p>The Bundesrath of Germany has decided to furnish medical and financial assistance to women at the time of childbirth, in order to "alleviate the anxiety of husbands at the front."
+          </p>
+          <p>How strange this would sound: "The Bundesrath has decided to furnish assistance to the wounded at the front, in order to alleviate the anxiety of wives and mothers at home."
+          </p>
+          <p>When a benefit is suggested for men, the question asked is, Will it benefit men?
+          </p>
+          <p>When a benefit is suggested for women, the question is as above.
+          </p>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

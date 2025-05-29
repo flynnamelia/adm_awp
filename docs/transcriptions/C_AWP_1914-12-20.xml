@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-12-20</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>December 20, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>GLORY.
+          </head>
+          <p></p>
+          <lg>
+            <lg> <l>I WENT to see old Susan Gray,</l>
+            <l>Whose soldier sons had marched away,</l>
+              <l>And this is what she had to say:</l></lg>
+            
+              <lg><l>"It isn't war I hate at all—</l>
+            <l>’Tis likely men must fight—</l>
+            <l>But, oh, these flags and uniforms,</l>
+            <l>It's them that isn't right!</l>
+            <l>If war must come, and come it does,</l>
+            <l>To take our boys from play,</l>
+            <l>It isn't right to make it seem</l>
+                <l>So beautiful and gay."</l></lg>
+            
+                <lg><l>I left old Susan with a sigh;</l>
+            <l>A famous band was marching by</l>
+                  <l>To make men glad they had to die.</l></lg>
+            
+          </lg>
+        </div>
+        <div type="section" n="2">
+          <head>WOMEN HAVE NOTHING TO DO WITH POLITICS.
+          </head>
+          <p>THE committee selected by the English government to deal with the question of relief for soldiers' widows and wives is equally divided between the political parties, but there is, of course, no woman on it.
+          </p>
+          <p>What do women know about the needs of wives and widows? That is now a political question.
+          </p>
+          <p>THE English government has decided to close the public-houses to women during the war.
+          </p>
+          <p>To close them to men might alienate the brewers.
+          </p>
+          <p>THIS recalls a law said to exist in one of the Southern States, forbidding the shipping of liquor to a woman.
+          </p>
+          <p>The maximum of legislation and the minimum of inconvenience!
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head>FACT AND FANCY.
+          </head>
+          <p>Speaking in the House of Commons on the subject of war widows' pensions, Mr. Asquith said that a considerable number of these young widows have been in the habit of working, and would naturally continue to work to gain their own livelihood, and if the government was going to adopt the expedient of putting them all in a position in which they need not work at all, he thought it would be a very bad thing for them and the community.
+          </p>
+          <p>All very true, Mr. Asquith: but it confirms our impression that when a woman asks a share in government her place is the home, but as soon as it seems likely to cost the government anything to keep her there her place is out in the world earning her living.
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>WE WONDER WHY.
+          </head>
+          <p>Even before the men of Boston dumped the tea into the harbor, three hundred women, according to Mary Caroline Crawford, in "Social Life in Old New England,"did what was in those days an unprecedented thing. They prepared an "agreement" regarding tea in which they said:
+          </p>
+          <p>"We, the subscribers, do strictly engage that we will totally abstain from the use of that article (sickness excepted) not only in our respective families, but that we will absolutely refuse it, if it should be offered to us upon any occasion whatsoever. This agreement we cheerfully come into, as we believe the very distressed situation of our country requires it, and we do here by oblige ourselves religiously to observe it, till the late revenue acts are repealed."— Woman's Journal.
+          </p>
+          <p>WHY has this, action on the part of women never been included in text-books which speak so often of the Boston Tea Party?
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>EMPLOYE OR PARTNER?
+          </head>
+          <p>THE court has decided that a wife's savings out of her housekeeping allowance do not belong to her.
+          </p>
+          <p>Neither does the money an economical cook saves for her employer belong to her.
+          </p>
+          <p>But he has to pay the cook a salary for doing it.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>THEY ALSO SERVE.
+          </head>
+          <p>THE Merchants' Association recently passed a resolution urging all business houses to give their employes time for service in the National Guard with full pay, and without deducting time from the regular vacation period.
+          </p>
+          <p>How does the Merchants' Association stand on the request of the
+          </p>
+          <p>Teacher-Mothers for leave of absence without pay?
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>THE PROTECTED SEX.
+          </head>
+          <p>A WOMAN engineer has been dismissed by the Board of Education (under a new rule that women shall not attend high pressure boilers), although her work has been satisfactory and she holds a license from the Police Department to attend such boilers.
+          </p>
+          <p>Protect women by giving their jobs to men!
+          </p>
+          <lg>
+            <lg><l>"Lady, dangers lurk in boilers,</l>
+            <l>Risks I could not let you face.</l>
+            <l>Men were meant to be the toilers,</l>
+            <l>Home, you know, is woman's place.</l>
+            <l>Have no home? Well, is that so?</l>
+            <l>Still, it's not my fault, you know.</l></lg>
+            
+           <lg> <l>"Charming lady, work no more;</l>
+            <l>Fair you are and sweet as honey;</l>
+            <l>Work might make your fingers sore,</l>
+            <l>And, besides, I need the money.</l>
+            <l>Prithee, rest—or starve or rob—</l>
+            <l>Only let me have your job!"</l></lg>
+          </lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

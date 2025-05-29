@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-08-23</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>August 23, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>PEDESTALS, REAL AND FICTITIOUS.
+          </head>
+          <p>It appears that one of the few statues of women erected in this country is that put up to a woman who killed nine Indians with a tomahawk.
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>OH, BEWARE!
+          </head>
+          <lg>
+            <lg><l>In the days that are gone when a statue was wanted</l>
+            <l>In parks or museums, where statues must be,</l>
+            <l>A chivalrous man would come forward undaunted,</l>
+            <l>And say, "If you must have one, make it of me.</l>
+            <l>Bad though they be, yet I'll agree</l>
+            <l>If you must make them, why, make them of me.</l></lg>
+            
+            <lg><l>But chivalry's dead, as I always expected,</l>
+            <l>Since women would not let things stay as they were;</l>
+            <l>So now I suppose when a statue's erected</l>
+            <l>Men will say brutally: "Make it of her.</l>
+            <l>She may prefer things as they were,</l>
+            <l>When we start making the statues of her."</l></lg>
+            
+          </lg>
+        </div>
+        <div type="section" n="3">
+          <head>OUR OWN WAR NEWS.
+          </head>
+          <p>In Austria—the country whose demands started this war—it is illegal for a woman to belong to any political organization.</p>
+          <p>In Germany, the Kaiser has expressed his opinion that woman's influence should be limited to church, children and cooking.</p>
+          <p>The women workers in the Belgian national arms factory armed themselves and defended the factory against the Germans.</p>
+          <p>Young women are drilling and joining rifle corps in Brussels, saying that "it is better to die as Belgians than to live as Germans."</p>
+                  <p>In Canada every married man volunteering for active service is required to bring the written consent of his wife.
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>OUR ENEMIES, GOD BLESS THEM.
+          </head>
+          <p>Dr. Gregorius, a prominent member of the German League to Combat the Emancipation of Women, has recently visited the Scandinavian coun- tries, where women vote. He reports that the men there have become completely feminized. "Man," he says, "has lost his passion to fight and conquer men and women, and aims alone at showing sweet reason."
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>NATURAL LIMITATIONS.
+          </head>
+          <p>"If nominated and elected, my sole ambition will be to redeem the only pledge I have made, or will make, which is to restore to the people of the state decent government."
+          </p>
+          <p>Does Mr. Hinman consider women people?
+          </p>
+          <p>No, not in his political speeches.
+          </p>
+          <p>Therefore, there seems no reason to assume that the above pledge includes decent government for women.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>CONSISTENCY—THE JEWEL.
+          </head>
+          <p>"When we declare that the people should rule, we believe this means that all the people should rule. Therefore, we favor the submission to the voters of a constitutional amendment granting the suffrage to women."—Democratic Platform of West Virginia, 1914.
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>ARE THEY INTERESTED IN POLITICS WHEN THEY GET THE VOTE?
+          </head>
+          <p>We learn from "The Boston Post" that out of 2,388 assessed males in the town of Whitman only fourteen attended a recent town meeting.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>CIVILIZATION STRIDES ON.
+          </head>
+          <p>In England, while infidelity in a wife is sufficient grounds for her husband to get a divorce, infidelity in the husband is not sufficient grounds for the wife to get a divorce, unless cruelty is added.
+          </p>
+          <p>A bill to equalize the condition has just been withdrawn in the House of Lords before its second reading.
+          </p>
+          <p>Still, English women must remember that they are not as badly off as Chaldean women were. In Chaldea a man could divorce his wife by paying back her dowry, and saying, "Thou are not my wife," but if a woman said, "Thou are not my husband," she was drowned.
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head> </head>
+          <p>Which sex is the more law-abiding?</p>
+          <p>Women; less than 6 per cent of our criminals are women.</p>
+          <p>How much does crime cost this country annually?</p>
+          <p>About $6,000,000,000, it has been estimated.</p>
+          <p>How is this expended?</p>
+          <p>A large part on salaries to wardens, policemen, jurors, lawyers and judges.</p>
+          <p>Are these administrators of law drawn chiefly from the law-abiding sex?</p>
+          <p>Certainly not</p>
+          <p>What, then, is woman's connection with that $6,000,000,000?</p>
+          <p>She is allowed to pay her share of it.
+          </p>
+        </div>
+        <div type="section" n="10">
+          <head>THAT OLD ILLUSION.
+          </head>
+          <p>The percentage of failures among the men students of Leland Stanford University ranges from 11 t o 13½ per cent. Among the women students it ranges from 2 to 2½ per cent.
+          </p>
+          <p>Yet it was not so very many years ago that a German doctor wrote a book entitled, "The Physiological Weakmindedness of Women."
+          </p>
+        </div>
+        <div type="section" n="11">
+          <head>AN EVEN GREATER DISCOVERY IS COMING TO HIM.
+          </head>
+          <p>A writer in "The North China News" is struck by his discovery of a tribe in Cabul, where "the women choose their husbands, not the husbands their wives . . . a female prerogative that has no parallel among any other people of the earth.
+          </p>
+          <lg>
+            <l>Now that Europe's so troubled by Kaisers and Kings,</l>
+            <l>I am sure we are glad that we don't have such things.</l>
+            <l>(Adapted for our own use from R. L. S.)</l> 
+          </lg>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

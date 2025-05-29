@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-12-13</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>December 13, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="">
+          <head> </head>
+          <p>(An Englishwoman whose income has stopped owing to her two sons having joined the English army was taken care of last night at the Florence Crittenden Mission.—Press Clipping)
+          </p>
+          <lg>
+            <lg><l>The young men said to their mother:</l>
+            <l>"Hear us. O dearest and best!</l>
+            <l>Time cannot cool or smother</l>
+            <l>The love of you in our breast;</l>
+            <l>Here is your place, and no other—</l>
+            <l>Come home and rest!"</l></lg>
+            
+            <lg><l>And the mother's heart was grateful</l>
+            <l>For the love of her cherished ones,</l>
+            <l>And her labor, bitter and hateful,</l>
+            <l>She left at the word of her sons,</l>
+            <l>Till she heard far-off the fateful</l>
+            <l>Voices of guns.</l></lg>
+            
+            <lg><l>Their love did more enslave her;</l>
+            <l>They did not understand</l>
+            <l>That none could guard or save her</l>
+            <l>When war was on the land</l>
+            <l>But herself, and God, who gave her</l>
+            <l>Heart and mind and hand.</l></lg>
+            
+          </lg>
+        </div>
+        <div type="section" n="">
+          <head>UNDER SUSPICION.
+          </head>
+          <p>Certainly the English government is not felicitous in its dealings with women.
+          </p>
+          <p>It has now decided to place under police surveillance all women whose husbands enlist, and it intends to withdraw the separation allowance voted to soldiers' wives in the case of any woman whose conduct strikes the War Office as "unworthy."
+          </p>
+          <p>If it is necessary to supervise the morals of all who receive government money, why not begin with members of Parliament?
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>VERY DOUBTFUL, IF THEY WEREN'T WOMEN.
+          </head>
+          <p>In speaking of this, "The Nation" (London) says: "Whether a department can by one stroke abolish the rights of these women seems to us very doubtful in law."
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>RELENTLESS LOGIC.
+          </head>
+          <p>The New York State Organization Opposed to Woman Suffrage (if only the title were shorter we should speak of it more often) announces officially: "Pink roses, pink paper, pink enrolment cards, pink leaflets, everything pink, for the final campaign against suffrage in New York State."
+          </p>
+          <p>It's hard to know what to answer.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>RESULTS.
+          </head>
+          <p>A commission, composed of an anti-suffragist, a suffragist and a non-partisan, has been sent to investigate conditions in the suffrage states, and reports as follows:
+          </p>
+          <p>How does the vote affect labor conditions?
+          </p>
+          <p>(1) The labor legislation that women pass is bad.
+          </p>
+          <p>(2) In suffrage states the working girl is healthy, rich and glad.
+          </p>
+          <p>(3) Conditions in the suffrage states are neither good nor bad.
+          </p>
+          <p>How does the vote affect the liquor trade?
+          </p>
+          <p>(1) The liquor interests all declare the woman's vote a boon.
+          </p>
+          <p>(2) The woman's vote has practically extinguished the saloon.
+          </p>
+          <p>(3) The woman's vote has no effect, although it may have soon.
+          </p>
+          <p>How does the vote affect the women themselves?
+          </p>
+          <p>(1) The women in the suffrage states have not survived the test.
+          </p>
+          <p>(2) The women in the suffrage states are women at their best.
+          </p>
+          <p>(3) The women in the suffrage states are just like all the rest.
+          </p>
+          <p>And so on and on.
+          </p>
+          
+        </div>
+        <div type="section" n="">
+          <head>SOME VERY FINE WORDS.
+          </head>
+          <p>If only President Wilson had said in his message: "And there is an- other great piece of legislation which awaits and should receive the sanction of the Senate. I mean the bill which gives a larger measure of self-government to the women of this country. How better, in this time of anxious questioning and perplexed policy, could we show our confidence in the principles of liberty, as the source as well as the expression of life, how better could we demonstrate our own self-possession and steadfastness in the course of justice and disinterestedness?"
+          </p>
+          <p>In no way, Mr. President.But, unhappily, the above question referred to Philippine men, not to American women.
+            
+          </p>
+          
+        </div>
+        <div type="section" n="">
+          <head>AN UNFEMININE POINT OF VIEW.
+          </head>
+          <p>The New York Times reports that Miss Chittenden said: "The anti-suffragists believe in women occupying public positions to serve city and state, if they were not hampered by family ties."
+          </p>
+          <p>Hampered, Miss Chittenden? 
+          </p>
+          <p>Is that how anti-suffragists look on home ties?
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>BEAUTY FIRST.
+          </head>
+          <p>"The saddest sight," said Dr. Sargent in a lecture at the Women's University Club, "the saddest sight is to see a woman lose all her feminine charm in the stress of business competition."
+          </p>
+          <p>This may be the saddest sight to Dr. Sargent, but perhaps to the woman herself it might be even sadder to lose her only means of livelihood.
+          </p>
+          <lg>
+            <lg>"I'd rather see a woman dead</lg>
+            <lg>Than see her plain," our father said;</lg>
+            <lg>And so we boys took little guns</lg>
+            <lg>And killed off all the ugly ones."</lg>
+            
+          </lg>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

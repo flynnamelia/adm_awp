@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-09-06</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>September 6, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>PLAYTHINGS.
+          </head>
+          <lg>
+            <lg><l>Last year the shops were crowded</l>
+            <l>With soldier suits and guns—</l>
+            <l>The presents that at Christmastide</l>
+            <l>We give our little sons;</l>
+            <l>And many a glittering trumpet,</l>
+            <l>And many a sword and drum;</l>
+            <l>But as they're made in Germany</l>
+            <l>This year they will not come.</l></lg>
+            
+            <lg><l>Perhaps another season</l>
+            <l>We shall not give our boys</l>
+            <l>Such very warlike playthings,</l>
+            <l>Such military toys;</l>
+            <l>Perhaps another season</l>
+            <l>We shall not find it sweet</l>
+            <l>To watch this game of soldier men</l>
+            <l>Who dream not of defeat.</l>
+            </lg>
+          </lg>
+        </div>
+        <div type="section" n="2">
+          <head>OUR OWN WAR NEWS.
+          </head>
+          <p>It has been reported (unofficially):</p>
+          <p>That three Red Cross nurses have been shot while tending the wounded.</p>
+          <p>That several women spies have been hung.</p>
+          <p>That women and children were killed by the Zeppelin bombs dropped on Antwerp.</p>
+          <p>"The N. Y. Times" has said editorially that it is women "who suffer most from war's evils and have least to say, or to do, regarding entrance on war."</p>
+     
+        </div>
+        <div type="section" n="3">
+          <head>MEN OR PEOPLE?
+          </head>
+          <p>"Only the emancipation, the freeing and heartening of the vital energies of all the people will redeem us."—Woodrow Wilson.
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>MILITANTS.
+          </head>
+          <p>So far no one has said that the destruction of the architectural treasures of Louvain by German men proves that no man is fit for the ballot.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>THE MENTALLY INFERIOR.
+          </head>
+          <p>Out of 175 candidates for university scholarships from Manhattan and the Bronx the highest standing was taken by a girl, Helen Monat.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>THE PROTECTED HOME.
+          </head>
+          <p>Deaths of infants under 1 year per 1,000 births, by cities:
+          </p>
+          <table>
+            <row>
+              <cell>Lowell, Mass.</cell>
+              <cell>23.1</cell>
+              
+              <cell>Seattle, Wash.</cell>
+              <cell>8.2</cell>
+            </row>
+            <row>
+              <cell>Detroit, Mich.</cell>
+              <cell>17.9</cell>
+              
+              <cell>Los Angeles, Cal.</cell>
+              <cell>9.7</cell>
+            </row>
+            <row>
+              <cell>Fall River, Mass.</cell>
+              <cell>18.6</cell>
+              
+              <cell>Dunedin, New Zealand</cell>
+              <cell>3.8</cell>
+            </row>
+          </table>
+            <p>(The cities in the right-hand column are in states or countries where
+            </p>
+        </div>
+        <div type="section" n="7">
+          <head>EIGHTEEN YEARS' DEVELOPMENT IN ANTI-SUFFRAGE.
+          </head>
+          <p>
+            From <persName>Senator Root</persName>'s anti-suffrage speech in 1894:	
+          </p>
+          <p>
+            "If there is one thing settled in the long discussion of this subject it is that suffrage is not a natural right, but is simply a means of government; and the sole question to be discussed is whether government by the suffrage of men and women will be better government than by the suffrage of men alone."	
+          </p>
+          <p>
+            "We are asked to do it. Why? To do it from good nature, to do it because my friend Mr. Lauterbach is a good fellow, because it will please this lady and that lady, . . . to do it, heaven knows, for how many good reasons, but all reasons of good nature, of kindliness, of complaisance, opposed to the simple performance of the duty which we came here to discharge under our oaths."	
+          </p>
+          <cb/>
+          <p>From Hon. <persName>Harold J. Hinman</persName>'s anti-suffrage speech in 1912:</p>
+          <p>"If there is one thing settled in the long discussion of this subject it is that suffrage is not a natural right, but is simply a means of government. The question . . . means this: Whether, in the most economical division of function, . . . the work of choosing representatives can be best performed . . . by both sexes or only by the men."
+          </p>
+          <p>“Why Mr. Speaker, should we be asked to do it? From good nature, because my friend from New York, <persName>Mr. Murray</persName>, is a good fellow; because it will be pleasing to this or that lady to do it for reasons of kindliness, of complaisance, all of them reasons opposed to the simple performance of the duty which we came here to discharge under the constitution which we have sworn to support and defend."
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>NOT A PERSON.
+          </head>
+          <p>New York has no statue of a woman, but may have one, observes an exchange. Zat so? How about that big one in the harbor?—Philadelphia Inquirer.
+          </p>
+          <p>But that is not the statue of a woman, but of an ideal in which women have not yet been given their full share.
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head>IF THEY MEANT ALL THEY SAID.
+          </head>
+          
+          <lg>
+            <lg><l>Charm is a woman's strongest arm;</l>
+            <l>My charwoman is full of charm.</l>
+            <l>I chose her, not for strength of arm,</l>
+            <l>But for her strange, elusive charm.</l></lg>
+            
+            <lg><l>And how tears heighten woman's powers!</l>
+            <l>My typist weeps for hours and hours:</l>
+            <l>I took her for her weeping powers—</l>
+            <l>They so delight my business hours.</l></lg>
+            
+            <lg><l>A woman lives by intuition.</l>
+            <l>Though my accountant shuns addition</l>
+            <l>She has the rarest intuition</l>
+            <l>(And I myself can do addition).</l></lg>
+            
+            <lg><l>Timidity in girls is nice;</l>
+            <l>My cook is so afraid of mice.</l>
+            <l>Now, you'll admit it's very nice</l>
+            <l>To feel your cook's afraid of mice!</l></lg>
+          </lg>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

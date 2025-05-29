@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-08-09</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>August 9, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>AND THEY THOUGHT THEY BELIEVED IT.
+          </head>
+          <p>Many of the wise men of Europe who to-day are advocating bloodshed were telling the English militants two weeks ago that "violence was never justifiable."
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>ARE WOMEN PEOPLE, MR. HEDGES?
+          </head>
+          <p>"If nominated," says Job E. Hedges, in announcing himself a candidate for the Governorship, "my appeal for election will be to the people, at large."
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head>"BUT DON'T GO NEAR THE WATER."
+          </head>
+          <p>The Mayor of New York is in favor of women delegates to the Constitutional Convention, provided that "they do not represent solely the interests of women."
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>WHO DOES REPRESENT THE INTERESTS OF WOMEN?
+          </head>
+          <p>In addressing the Hopgrowers Picnic the other day. Governor Glynn said: "I am acting for the man in the city as well as for the man in the country." 
+          </p>
+          <p>And he probably is.
+          </p>
+        </div>
+ 
+        <div type="section" n="5">
+          <head>WHAT EVERY WOMAN KNOWS, BUT MUSN'T SAY.
+          </head>
+<lg>
+  <l>"I don't pretend I'm clever," he remarked, "or very wise."</l>
+  <l>And at this she murmured, "Really," with the right polite surprise.</l>
+  <l>"But women," he continued, "I must own I understand:</l>
+  <l>Women are a contradiction—honorable and underhand—</l>
+  <l>Constant as the star Polaris, yet as changeable as Fate,</l>
+  <l>Always flying what they long for, always seeking what they hate."</l>
+  <l>"Don't you think," began the lady, but he cut her short: "I see</l>
+  <l>That you take it personally—women always do," said he:</l>
+  <l>"You will pardon me for saying every woman is the same,</l>
+  <l>Very greedy for approval, very sensitive to blame;</l>
+  <l>Sweet and passionate are women; weak in mind, but strong of soul;</l>
+  <l>Even you admit, I fancy, that they haven't self-control?"</l>
+  <l>"No, I don't admit they haven't," said that patient lady then,</l>
+  <l>"Or they could not sit and listen to the nonsense talked by men."</l>
+</lg>
+        </div>
+        <div type="section" n="6">
+          
+          <p>Question—Would a woman prefer to be tried by a jury of men, or of women?
+            <lb/>Answer—A beautiful and fascinating woman with a guilty conscience would rather be tried by a jury of the stronger sex. But as only a minority of women are beautiful and fascinating, and as not all of these have guilty consciences, the great majority of women would probably prefer to be tried by women.
+            <lb/>(The Californian women are now pushing a bill to enable them to serve on juries.)
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>WOMEN ARE SO LAWLESS.
+          </head>
+          <p>In 1834 in England five boys under fourteen were condemned to be hanged for stealing a shawl and some playthings. In response to protests of the mothers, the judge explained that he was not there to deal with the child, but with the act, and that the act tended to endanger the rights of property.
+          </p>
+          <p>Even with this the mothers were not content.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>FIND THE FALLACY.
+          </head>
+          <p>("Street cleaning is just housekeeping on a large scale."—Commissioner Fetherston.</p>
+          <lg>
+            
+            <l>Politics are no affair of women.</l>
+            <l>Street cleaning is politics.</l>
+            <l>Hence</l>
+            <l>Street cleaning is no affair of women.</l>
+            
+            <l>Street cleaning is no affair of women.</l>
+            <l>Street cleaning is housekeeping.</l>
+            <l>Hence</l>
+            <l>Housekeeping is no affair of women.</l>
+          </lg>
+        </div>
+        <div type="section" n="9">
+          <head>BLIND TO HIS MERCIES.
+          </head>
+          <p>A captain in the United States Marine Corps protests bitterly that the laws of sixteen states disenfranchise him on account of his profession.
+          </p>
+          <p>We are sending him a pamphlet entitled, "Indirect Influence More Potent Than the Ballot."
+          </p>
+        </div>
+        <div type="section" n="10">
+          <head>HE DIDN'T APPRECIATE INDIRECT INFLUENCE EITHER.
+          </head>
+          <p>In 1787 a correspondent of George Washington agreed with the Captain. He spoke of "severe measures such as death, confiscation or disenfranchisement."
+          </p>
+        </div>
+        <div type="section" n="11">
+          <head>HIGHER PAY AND THE SAME WORK.
+            
+          </head>
+          <p>A girl was arrested in Philadelphia the other day, charged with wearing men's clothes. She said that the reason she wore them was that she could earn higher wages when taken for a man.
+          </p>
+        </div>
+        <div type="section" n="12">
+          <head>ARE JUDGES DEGRADED BY BEING PAID:
+            
+          </head>
+          <p>It was ruled in a New Jersey court recently that an agreement by which a husband paid his wife wages for her domestic services was illegal because "such payment would degrade the wife into the character of a menial servant."
+          </p>
+        </div>
+      <div type="section" n="13">
+        <head>THE ANTI-FEMINIST.</head>
+        <p>She: No, indeed. I'm not for it. I know women; they are so untruthful and so inaccurate, and they can't keep a secret, and then they're so jealous!</p>
+          <p>He: Oh, is that the way you are?</p>
+            <p>She: SIR!</p>
+   
+      </div>         
+      <div type="section" n="14">
+        <head>WE COMPLIMENT THE STERNER SEX AT THE EXPENSE OF OUR OWN.</head>
+        <p>But we must say for them that when a man says all men are liars, he means you to understand that he'll lie himself at a pinch. But when a woman says all women are liars, she means you to infer that she is conspicuously superior to her sex.
+        </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
