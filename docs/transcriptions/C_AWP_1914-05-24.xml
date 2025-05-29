@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-05-24</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>May 24, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>THAT'S THE WAY IT IS SOMETIMES ARGUED.
+          </head>
+          <p>A Danish woman, Frau Baudinz, has just been made captain of a transatlantic vessel running out of Copenhagen.
+          </p>
+          <p>If her ship should ever meet with misfortune, and Captain Baudinz, following the custom of the sea, should place her male passengers in safety and go down with her ship, would this show that men were unfit for the ballot?
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>CHIVALRY.
+          </head>
+          <lg><l>It's treating a woman politely,</l>
+          <l>Provided she isn't a fright;</l>
+          <l>It's guarding the girls who act rightly,</l>
+          <l>If you can be judge of what's right;</l>
+          <l>It's being—not just, but so pleasant;</l>
+          <l>It's tipping while wages are low;</l>
+          <l>It's making a beautiful present,</l>
+          <l>And failing to pay what you owe.</l></lg>
+          
+        </div>
+        <div type="section" n="3">
+          <head>PUTTING IT UP TO NATURE.
+          </head>
+          <p>"If nature," says a letter to "The Sun," "had intended Miss Davis to govern and command outside an extremely limited sphere, nature would have made her a man."
+          </p>
+          <p>How true of the late Queen Victoria!
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>LEARNING HER PLACE.
+          </head>
+          <p>In Virginia a woman may be a notary public, but may not practise law.
+          </p>
+          <p>In West Virginia, on the other hand, she may practise law, but she may not be a notary public.
+          </p>
+          <p>Some women can't understand the logic of government.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>PROTECTION.
+          </head>
+          <p>The Hungarian Legislature has just drafted a bill making certain sorts of military service compulsory for women—such service as nursing in the hospitals, attending to the soldiers' food and clothing and looking after the telephone and telegraph.
+          </p>
+          <p>No woman, however, will be asked to undertake anything dangerous without—what do you think?—the consent of her husband.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>DO THEY USE IT WHEN THEY HAVE IT?
+          </head>
+          <p>We learn from "The Woman's Journal" that only 16 per cent of the male voters of Dallas cast their votes at the recent election.
+          </p>
+          <p>"One of the strange things about the attitude of the antisuffragists among women is that they seem to regard themselves as holding a brief against their own sex."—Editorial in New York Tribune.
+          </p>
+          <p>As George Meredith said: "What a woman thinks of women is the test of her nature."
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>NOT GOING NEAR THE WATER.
+          </head>
+          <p>The anti-suffragists tell us that they are organized in fifteen states, but we notice that not one of these is a suffrage state.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>WHY WE ARE IN FAVOR OF SUFFRAGE.
+          </head>
+          <p>"I cannot praise a fugitive and cloistered virtue, unexperienced and unbreathed, that never sallies out and seeks the adversary, but slinks out of the race, where that immortal garland is to be run for, not without dust and heat."—John Milton: "Artopagita."
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head>THE INDIRECT INFLUENCE IN ACTION.
+          </head>
+          <p> </p>
+        </div>
+        <div type="section" n="10">
+          <head> </head>
+          <p>In England the government has sustained a minor defeat on their bill for regulating plumage in women's hats. The opposition to the bill arose, not among women, but from members of Parliament who feared the bill gave suffragists "too easy a road to jail."
+          </p>
+          <p>"If this bill becomes a law," said Mr. Glyn-Smith, "many thousand of women would adopt as the emblem of their great organization a cheap foreign feather, and would probably be seen walking with it in their hats round the Houses of Parliament to show their contempt of Parliament."
+          </p>
+          <p>Would women legislators be so easily intimidated?
+          </p>
+          <p>"Until she is thirty the American woman's sole intellectual diversion is flirting. After thirty she gets a craze for education and neglects her home."—Karin Michaelis Strangeland.
+          </p>
+          <lg><l>No, it isn't home-neglecting</l>
+          <l>If you spend your time selecting</l>
+          <l>Seven blouses and a jacket and a hat;</l>
+          <l>Or to give your day to paying</l>
+          <l>Needless visits, or to playing</l>
+          <l>Auction bridge. What critic could object to that?</l>
+          <l>But to spend two precious hours</l>
+          <l>At a lecture! Oh, my powers!</l>
+          <l>The home is all a woman needs to learn!</l>
+          <l>And an hour, or a quarter,</l>
+          <l>Spent in voting! Why, my daughter,</l>
+          <l>The home would not be there on your return.</l></lg>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

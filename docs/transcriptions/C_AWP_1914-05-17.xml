@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-05-17</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>May 17, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>GRADED CHIVALRY.
+          </head>
+          <p>At about the same moment in Washington on May 9 three delegations of women asked to see their Senators.
+          </p>
+          <p>The women from a non-suffrage state were told that "the Senator did not want to see them."
+          </p>
+          <p>The delegates from a campaign state (New York) found that not one Senator or Representative from their state could be discovered either in the Capitol or the offices.
+          </p>
+          <p>The delegates from a suffrage state were summoned by an almost hysterically, eager page, crying: "The ladies from Oregon, the ladies from Oregon. The Senator wants to see the ladies from Oregon."
+          </p>
+          <lg>
+            <l>Oh, where, oh where have our Senators gone?</l>
+            <l>Oh, where, oh where can they be?</l>
+            <l>They come so late and they don't stay long,</l>
+            <l>Oh, how do they represent me?</l>
+          </lg>
+        </div>
+        <div type="section" n="2">
+          <head>THE PROTECTED SEX.
+          </head>
+          <p>The British Civil Service Commission—a majority of which are men—reports:</p>
+            <p>1. That women's wages should be lower than men's because women soon marry and leave the service.</p>
+            <p>2. That women should be compelled to resign from the service as soon as they marry.
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head>IS TENDER ALWAYS THE WORD?
+          </head>
+          <p>"The exercise of the right of suffrage by women would result chiefly in depriving women of the tender regard of men."—Editorial in The New York Times, May 2, 1914.
+          </p>
+          <p>Until 1864 no state had moved to raise the age of consent above ten years: and in 1871 Delaware lowered it to seven, where it now remains.
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>TACT.
+          </head>
+          <p>We learn from the press that the young Mayor of Futuria, in welcoming a convention of Honest Balloters, said:
+          </p>
+          <p>"I myself am not convinced that an honest ballot is necessary. When, however, enough of you want to be honest, and want to be honest enough, you will be. Until then my experience does not lead me to believe that any of you will suffer from a little graft."
+          </p>
+          <p>Interviewed later by a reporter from "The Futurist Romancer," the Mayor expressed surprise that any one had supposed that his speech meant anything. "To me it did not seem to," he said.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>OUT OF THEIR NATURAL SPHERE.
+          </head>
+          <p>The Red Cross nurses are going to the front, duly instructed, we hope,</p>
+          <p>1. That woman's place is the home.
+          </p>
+          <p>2. That women have no part in war.</p>
+          
+          <p>The evil effects of this sort of thing are soon seen.</p>
+          <p>This is what Clara Barton once said in addressing the soldiers: "When you were weak and I was strong I toiled for you. Now you are strong and I am weak.
+          Because of my work for you I ask your aid. I ask the ballot for myself and my sex. As I stood by you, I pray you stand by me and mine."</p>
+          
+        </div>
+        <div type="section" n="6">
+          <head>DO YOU KNOW?
+          </head>
+          <p>1. That five women probation officers have just been dropped?</p>
+          <p>2. That six additional men probation officers have been provided?</p>
+          <p>3. That over twenty thousand women pass through the police courts of Manhattan and The Bronx in a year?</p>
+          <p>4. That no one so far has offered any explanation as to why the women probation officers have been dropped?</p>
+
+        </div>
+        <div type="section" n="7">
+          <head>MEN'S APPRECIATION OF THEIR INDIRECT INFLUENCE.
+          </head>
+          <p>"But these great cities, says my honorable friend, are virtually, though not directly, represented. Are not the wishes of Manchester, he asks, as much consulted as those of any other town which sends members to Parliament? Now, sir, I do not understand how a power which is salutary when exercised virtually can be noxious when exercised directly. If the wishes of Manchester have as much weight with us as they would have under a system which gives representatives to Manchester, how can there be any danger in giving representatives to Manchester?"
+            <lb/>—Lord Macaulay: Speech on the Reform Bill.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>MOTHERS' DAY.
+          </head>
+          <p>(The President has proclaimed the second Sunday in May Mothers' Day. It is to be celebrated by wearing red flowers, raising flags, and sermons in the churches.)
+          </p>
+          
+          <lg><lg>
+          <l>"Come, Johnny dear, and stir the bread."</l>
+          <l>"Mother, I can't," her offspring said,</l>
+          <l>For I must seek a flower red,</l>
+          <l>As this is Mothers' Day.</l></lg>
+          
+          <lg><l>"Then little Tom must fetch some coal."</l>
+          <l>"I have," said he, "a higher goal—</l>
+          <l>To raise our standard on its pole,</l>
+          <l>For this is Mothers' Day.</l></lg>
+          
+         <lg> <l>"'Tis time for church, my children two."</l>
+          <l>But with a grin those sportsmen true</l>
+          <l>Replied: "Not much; that's up to you,</l>
+          <l>For this is Mothers' Day.”</l></lg></lg>
+          
+        </div>
+        <div type="section" n="9">
+          <head>OTHER CELEBRATIONS.
+          </head>
+          <p>And now we learn from "The New York Sun" that Tennessee and Kentucky have proclaimed May 23 to be Rooster Day. "On that day the members of the Southern Poultry Association will buy all the old roosters, paying for them the same price as they pay for hens on that day."
+          </p>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

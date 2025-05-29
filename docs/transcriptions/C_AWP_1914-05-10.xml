@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-05-10</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>May 10, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>STATESMEN WE HAVE EXPERIENCED.
+          </head>
+          <p>We have not heard anything so carefully balanced as Mayor Mitchel's speech to the suffragists since William Howard Taft retired from public life.
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>THE DANGERS OF CAUTION.
+          </head>
+          <p>Just four years ago President Taft, in cracking up representative government to another convention of suffragists, said that he wished to be understood as excluding "Hottentots, or any wholly unintelligent class."
+          </p>
+          <p>In commenting on the incident "The New York Times" said: "That the President is not for or against either group may be a mark of the judicial temperament, but it will not give him peace or popularity in the one camp or in the other."
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head>THE ATTACK ON THE WELL KNOWN HOME.
+          </head>
+          <p>Sir Arthur Newsholme, the English statistician, says: "Infant mortality is the most sensitive index we possess of social welfare."
+          </p>
+          <p>The infant death rate in New Zealand (a suffrage country) is less than half the rate of the United States.
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>ONLY PANACEAS NEED APPLY.
+          </head>
+          <p>"As to whether or not the ballot would confer material benefit upon the 20 per cent of women in industrial and professional life we have only to recall the fact that millions of male voters are out of work."—The Woman's Protest [anti-suffrage], April, 1914.
+          </p>
+          <p>As to whether or not doctors confer any benefit upon the human race we have only to consider that about 900,000 people die annually in this country.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>THE DOG DIDN'T KNOW.
+          </head>
+          <p>Dispatches from Albania say that in the taking of the town of Kolonia women and children were massacred.
+          </p>
+          <p>Evidently some one had not heard about women and children having no part in war.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>THE ORDEAL BY FIRE.
+          </head>
+          <p>The Wellesley policeman is said to have been won over to suffrage by the behavior of the girls during the fire. Many men were converted by a study of the facts in connection with the Triangle fire, where 135 girls and only 18 men were burned.
+          </p>
+          <p>And some day, perhaps, people will just listen to reason without any fire at all.
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>IS IT ESSENTIAL?
+          </head>
+          <p>In 1850 the Tennessee Legislature refused to pass the married woman's property bill on the ground "that women have no souls and therefore have no right to hold property." 
+          </p>
+          <p>Colorado papers please note.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>THE INDIRECT MENACE.
+          </head>
+          <p>We doubt if timid males will be much reassured by Mrs. Gilman's assertion that feminists will never propose. Her reason is so sinister: she says they can manage without.
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head>ALWAYS JAM YESTERDAY.
+          </head>
+          <p>In commenting upon the younger women of his day a Lord Chief Justice of England, who died in 1676, said:
+          </p>
+          <p>"In former times the education of gentlewomen was religious, sober, serious; their carriage modest, and creditable was their habit and dress. When they were young they learned to read and to sew; as they grew up they learned to spin, to knit, to make up their own garments; they learned chat belonged to housewifery. . . . But now the world is altered; young gentlewomen learn to be bold, talk loud and more than comes to their share, think it disparagement to them to know what belongs to good housewifery or to practise it."
+          </p>
+        </div>
+        <div type="section" n="10">
+          <head>WHY WE OPPOSE VOTES FOR MEN.
+          </head>
+          <p>Because man's place is the armory.</p>
+          <p>Because no really manly man wants to settle any question, except by fighting about it.</p>
+          <p>Because if men do adopt peaceable methods, women will no longer look up to them.</p>
+          <p>Because men will lose their charm if they step out of their natural sphere and busy themselves with other matters than uniforms, drums and feats of arms.</p>
+          <p>Because men are too emotional to vote. Their conduct at baseball games, football games and political conventions shows this, while their innate tendency to ap- peal to force renders them peculiarly unfit for the task of government.</p>
+          
+          <p> </p>
+        </div>
+        <div type="section" n="11">
+          <head>A SARTORIAL NOTE FROM ALABAMA.
+          </head>
+          <p>"I do not believe that there is a red-blooded man in the world who in his heart believes in woman suffrage,” says Mr. Hefin. “I think that any man who favors it ought to be made to wear a dress."
+          </p>
+        </div>
+        <div type="section" n="12">
+          <head>INDEFENSIBLE DEFINITION NO. 2.
+          </head>
+         <lg><l>Democracy is this—to hold</l>
+          <l>That all who wander down the pike</l>
+          <l>In cart or car, on foot or bike</l>
+          <l>Or male or female, young or old,</l>
+          <l>Are much alike—are much alike.</l></lg>
+          
+        </div>
+        
+        </div>
+    </body>
+  </text>
+</TEI>

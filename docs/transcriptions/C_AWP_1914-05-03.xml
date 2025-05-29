@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-05-03</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>May 3, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>NOTHING TO DO WITH WAR.
+          </head>
+          <p>The most dangerous position in war, apparently, is that of the non-combatant.
+          </p>
+          <p>Out of forty-five people killed in one day's battle in Colorado thirty were women and children. In the Boer war twenty thousand women and children died in the concentration camps—twice the number of men who fell in action in both armies together.
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>NEITHER HERE NOR THERE.
+          </head>
+          <p>"Woman's place," said Senator Martine, "is at the bedside."
+          </p>
+          <p>Yet when Florence Nightingale first attempted to organize her corps of trained nurses it was asked how she could "be guilty of so unwomanly an act, such an outrage upon the modesty of her sex as to introduce women into hospitals where common soldiers lay ill and dying."
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head> </head>
+          <lg><l>"Indelicate" was once the word; then "unsexed" took its place,</l>
+          <l>And now "unfeminine's" the term that feminists must face;</l>
+          <l>But yet in spite of all, the world moves on, and strange to say,</l>
+          <l>What was unsexed in ’48 is Woman's Sphere to-day.</l>
+          <l>F. G.</l></lg>
+        </div>
+        <div type="section" n="4">
+          <head>PATRIOTISM.
+          </head>
+          <p>The National Surety Company has announced that "the standing of none of its employes would be impaired if they volunteered for service in Mexico."
+          </p>
+          <p>But the New York Board of Education dismisses. teachers who are absent for the purpose of bearing a child.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>COPY-CATS!
+          </head>
+          <p>The good marksmanship of the U.S. mine ship San Francisco has been generally commended. Her guns broke every window in succession of the Naval College in Vera Cruz.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>DO YOU KNOW?
+          </head>
+          <p>That almost as many men as girls worked in the Triangle factory?</p>
+          <p>That 135 girls were burnt to death there?</p>
+          <p>That no men were burnt?</p>
+          <p>That only forty men have been burnt in factory fires in this state during the last five years?</p>
+          <p>That it is easier for a man to escape from a fire than for a woman?</p>
+          <p>That our fire laws are strict enough to protect men, but not to protect women?</p>
+          <p>That our fire laws are made and administered by men?</p>
+        </div>
+        <div type="section" n="7">
+          <head>THE FAVORED SEX AND INDIRECT INFLUENCE.
+          </head>
+          <p>In 1835 a petition of women to Congress asking for the abolition of the slave trade was laid on the table by a vote of 180 to 31.
+          </p>
+          <p>In February, 1914, out of thirty-six petitions presented to Congress in two days, all but three were referred to appropriate committees. These three laid on the table were petitions of women asking for the vote.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>OUR MARKET LETTER.
+          </head>
+          <p>In 1803 a man in England sold his wife for a guinea, but in 1808 another could only get sixpence and a quid of tobacco for his.
+          </p>
+          <p>In view of the unsettled state of the market, we doubt if it is now possible to dispose of these holdings at any price.
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head>WHY WE OPPOSE POCKETS FOR WOMEN.
+          </head>
+          <p>1.—Because pockets are not a natural right.</p>
+          <p>2.—Because the great majority of women do not want pockets. If they did, they would have them.</p>
+          <p>3.—Because whenever women have had pockets they have not used them.</p>
+          <p>4.—Because women are expected to carry enough things as it is without the additional burden of pockets.</p>
+          <p>5.—Because it would make dissension between husband and wife as to whose pockets were to be filled.</p>
+          <p>6.—Because it would destroy man's chivalry toward woman if he did not have to carry all her things in his pockets.</p>
+          <p>7.—Because men are men and women are women. We must not fly in the face of nature.</p>
+          <p>8.—Because pockets have been used by men to carry tobacco, pipes, whiskey flasks, chewing gum and compromising letters. We see no reason to suppose that women would use them more wisely.</p>
+
+        </div>
+        <div type="section" n="10">
+          <head>THEIR STRENGTH IS AS THE STRENGTH OF TEN.
+          </head>
+          <p>The Hon. Mr. Hefflin, of Alabama, says that every good woman controls somebody's vote as it is.
+          </p>
+          <p>Yes, it is only by goodness, as the ward politicians tell us, that men's votes are controlled.
+          </p>
+        </div>
+        <div type="section" n="11">
+          <head>INDEFENSIBLE DEFINITION NO. 1.
+          </head>
+          <lg><l>"Mother, what is a feminist?"</l>
+         <l>"A feminist, my daughter</l>
+          <l>Is any woman now who cares</l>
+          <l>To think about her own affairs</l>
+          <l>As men don't think she oughter."</l></lg>          
+        </div>     
+        </div>
+    </body>
+  </text>
+</TEI>

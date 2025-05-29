@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-05-31</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>May 31, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>CITY-MOTHERS?
+          </head>
+          <p>Does it show a distorted sense of humor to be amused over the fact that the first three organizations invited by Mayor Mitchel to confer about plans for "baby week" are the Chamber of Commerce, the Merchants' Association and the Advertising Men's League?
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>THE BRAVER NORTH.
+          </head>
+          <p>It was a wonderful and inspiring sight to women from greater New York to see Mayor Will of Syracuse welcoming suffragists without apparent doubt, hesitation or pain.
+          </p>
+          <p>The Latin man believes that giving woman the vote will make her less attractive.—Anna H. Shaw: Speech at Rome.
+          </p>
+          <lg><l>They must sacrifice their beauty</l>
+          <l>Who would do their civic duty,</l>
+          <l>Who the polling booth would enter,</l>
+          <l>Who the ballot box would use;</l>
+          <l>As they drop their ballots in it,</l>
+          <l>Men and women in a minute</l>
+          <l>Lose their charm, the antis tell us,</l>
+          <l>But—the men have less to lose.</l>
+          </lg>
+        </div>
+        <div type="section" n="3">
+          <head>SACRED MILITIA-HOOD.
+          </head>
+          <p>"It is gratifying to note," says a letter in "The Times," "the patriotic spirit which prompted the Board of Aldermen to pass the bill granting leaves of absence with full pay to all municipal employes who may enlist for service in Mexico."
+          </p>
+          <p>It would be gratifying to some of us if the Board of Education would show similar patriotism toward those employes who do not kill the enemy but who do bear the soldier.
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>LOWER PAY FOR BETTER WORK.
+          </head>
+          <p>In the recent metropolitan contest in typewriting the first fourteen places were taken by women, with the exception of the fourth place, which went to a man.
+          </p>
+          <p>Yet for typewriters the national government continues to offer $720 to a woman and $900 to a man for the same position.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>AS IT IS, IT DOESN'T SEEM TO PROVE ANYTHING.
+          </head>
+          <p>The birth rate in Germany has declined seven points in eleven years.
+          </p>
+          <p>If Germany were a woman suffrage country this would prove that women ought not to vote.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>WHICH DOES HE REALLY BELIEVE?
+          </head>
+          <p>In speaking of politics in connection with tolls repeal Senator Root says:
+          </p>
+          <p>"It is the conduct of our nation in conformity with the highest principles of ethics and the highest dictates of that religion which aims to make the men of all the races of the earth brothers in the end."
+          </p>
+          <p>But in speaking of it in connection with woman suffrage he says: "Politics is modified war."
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>MAN'S ELOQUENCE TO MAN.
+          </head>
+          <p>"Who are the guardians of a nation's honor but her own sons?"
+          </p>
+          <p>Some of us, Senator, would have added: "And daughters."
+          </p>
+          <p>"Woman's duties are domestic, but man has been wrong from time immemorial in forcing her to keep her place. Set her free, and she will come back and do voluntarily and as an equal the same work which she used to do as a slave and a drudge."—Count Tolstol.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>INDIRECT INFLUENCE.
+          </head>
+          <p>"When the women's clubs of San Francisco undertook to bring Mrs. Amelia Graham from Chicago to act as a police officer, the city authorities made the condition that she should not go near the segregated district."— The Dallas Laborer.
+          </p>
+          <p>Logically, of course, there is no excuse for drawing the sex line in the punishment of murderers.—N. Y. Times. May 27.
+          </p>
+          <p>Bonaparte—Why do you meddle in politics, Madame?<lb/>Madame de Stael—Sire, when women have their heads cut off it is but just they should know the reason why.
+            
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head>BRICKS WITHOUT STRAW.
+          </head>
+          <p>"Educate your politician," Dr. Williams of Johns Hopkins said recently to an audience of Boston women, "and impress on him that the lives of babies and women are of more importance than those of cattle and hogs." 
+          </p>
+          <p>The only way we know of educating politicians is by voting for or against them.
+          </p>
+          <lg><l>O woman, in our hours of ease</l>
+          <l>We did not always strive to please;</l>
+          <l>But what a difference you will note</l>
+          <l>As soon as you obtain the vote</l></lg>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>
