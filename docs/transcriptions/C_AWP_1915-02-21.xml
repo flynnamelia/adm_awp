@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1915-02-21</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>February 21, 1915</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>YOU NEVER KNOW YOUR LUCK.
+          </head>
+          <p>A bylaw of the New York Board of Education says:</p>
+            <p>"No married woman shall be appointed to any teaching or supervising position in the New York public schools unless her husband is mentally or physically incapacitated to earn a living, or has deserted her for a period of not less than one year. Satisfactory proof of such incapacity or desertion must be presented to the Board of Education."
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>Ideal Candidates.
+          </head>
+          <p>Characters.</p>
+          <castList>
+            <castItem>Board</castItem>
+            <castItem>Three Would-Be Teachers</castItem>
+          </castList>
+          
+          <sp who="#board">
+            <speaker>Chorus by Board</speaker>
+            <lg type="stanza">
+              <l>Now please don't waste</l>
+              <l>Your time and ours</l>
+              <l>By pleas all based</l>
+              <l>On mental powers.</l>
+              <l>She seems to us</l>
+              <l>The proper stuff</l>
+              <l>Who has a hus-</l>
+              <l>Band bad enough.</l>
+              <l>All other pleas appear to us</l>
+              <l>Excessively superfluous.</l>
+            </lg>
+          </sp>
+          <sp who="#teacher1">
+            <speaker>1st Teacher</speaker>
+            <l>My husband is not really bad—</l>
+          </sp>
+          <sp who="#board">
+            <speaker>Board</speaker>
+            <l>How very sad, how very sad!</l>
+          </sp>
+          <sp who="#teacher1">
+            <speaker>1st Teacher</speaker>
+            <l>He's good, but hear my one excuse—</l>
+          </sp>
+          <sp who="#board">
+            <speaker>Board</speaker>
+            <l>Oh, what's the use; oh, what's the use?</l>
+          </sp>
+          <sp who="#teacher1">
+            <speaker>1st Teacher</speaker>
+            <l>Last winter in a railroad wreck</l>
+            <l>He lost an arm and broke his neck.</l>
+            <l>He's doomed, but lingers day by day.</l>
+          </sp>
+          <sp who="#board">
+            <speaker>Board</speaker>
+            <l>Her husband's doomed! Hurray, hurray!</l>
+          </sp>
+          
+          <sp who="#teacher2">
+            <speaker>2nd Teacher</speaker>
+            <l>My husband's kind, and healthy, too.</l>
+          </sp>
+          <sp who="#board">
+            <speaker>Board</speaker>
+            <l>Why, then, of course, you will not do.</l>
+          </sp>
+          <sp who="#teacher2">
+            <speaker>2nd Teacher</speaker>
+            <l>Just hear me out. You'll find you're wrong.</l>
+            <l>It's true his body's good and strong:</l>
+            <l>But, ah, his wits are all astray.</l>
+          </sp>
+          <sp who="#board">
+            <speaker>Board</speaker>
+            <l>Her husband's mad! Hip, hip, hurray!</l>
+          </sp>
+          
+          <sp who="#teacher3">
+            <speaker>3rd Teacher</speaker>
+            <l>My husband's wise and well—the creature!</l>
+          </sp>
+          <sp who="#board">
+            <speaker>Board</speaker>
+            <l>Then you can never be a teacher.</l>
+          </sp>
+          <sp who="#teacher3">
+            <speaker>3rd Teacher</speaker>
+            <l>Wait. For I led him such a life,</l>
+            <l>He could not stand me as a wife;</l>
+            <l>Last Michaelmas he ran away.</l>
+          </sp>
+          <sp who="#board">
+            <speaker>Board</speaker>
+            <l>Her husband hates her. Hip, hurray!</l>
+          </sp>
+          
+          <sp who="#board">
+            <speaker>Chorus by Board</speaker>
+            <lg type="stanza">
+              <l>Now we have found</l>
+              <l>Without a doubt,</l>
+              <l>By process sound</l>
+              <l>And well thought out,</l>
+              <l>Each candidate</l>
+              <l>Is fit in truth</l>
+              <l>To educate</l>
+              <l>The mind of youth.</l>
+              <l>No teacher need apply to us</l>
+              <l>Whose married life's harmonious.</l>
+            </lg>
+          </sp>          
+          <stage>(Curtain.)</stage>
+        </div>
+        <div type="section" n="3">
+          <head>ASK YOUR FATHER.
+          </head>
+          <p>The New York Board of Education gives as the first cause for which leave of absence may be granted: Serious personal illness of the teacher. 
+          </p>
+          <p>We have not yet discovered whether the illness incident to bearing a child is not serious, or not personal.
+          </p>
+        </div>
+        <div type="section" n="4">
+          <head>OUR OWN ANTI-SUFFRAGE COLUMN.
+          </head>
+          <p>(Drawn from letters to "The New York Times" of February 14, 1915.)
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>TOO CLOSELY, SOME THINK.
+            
+          </head>
+          <p>Party politics deal with the business aspects of government. It is man's business, and is closely related to his personal business.—Mrs. Arthur M. Dodge.
+          </p>
+        </div>
+        <div type="section" n="6">
+          <head>NOTHING TO WIVES AND MOTHERS.
+            
+          </head>
+          <p>With battles to be fought by men, and men's lives to be sacrificed, it would seem only fair that men alone should determine a nation's policy.—J. Howard Cowperthwaite. 
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>SOME OLD-FASHIONED COMPLIMENTS.            
+          </head>
+          <p>Rebellious women think they can grow to do all things as well as men. . . . They excel in two things—nursing and singing soprano.—E. G. K.
+          </p>
+          <p>Men are practical and just, and women are temperamentally impressionable, erratic and very theoretical.—W. F. Quinn, Alderman, 15th District.
+          </p>
+          <p>A few descriptive terms selected at random: Restless, dissatisfied, wild, shrieking, blatant, loud-voiced, female demagogues and chronic limelight hunters.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>VERY FITTING.
+          </head>
+          <p>One grandmother in St. Louis is reported to have been influenced by "The Times" anti-suffrage editorial.
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head>THE E DANGER.
+          </head>
+          <lg>
+            <lg>
+              <l>I pity those with all my heart</l>
+              <l>Who think they play, through good and ill,</l>
+              <l>A wise, a safe, a prudent part</l>
+              <l>By standing absolutely still.</l></lg>
+            <lg>
+              <l>They think they're cautious, sure and strong,</l>
+              <l>But sometimes living people say:</l>
+              <l>"This rock has blocked the stream too long,</l>
+              <l>It's time to blast it all away.</l></lg>
+          </lg>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

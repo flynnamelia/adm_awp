@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-12-27</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>December 27, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="">
+          <head>A Lady's Option.
+          </head>
+          <lg>
+            <l>HER old love in tears and silence had been building her a palace,</l>
+            <l>Ringed by moats, flanked with flowers, he had set it on a hill.</l>
+            <l>"Here," he said, "will come no whisper of the world's alarm and malice,</l>
+            <l>In these granite walls imprisoned, I will keep you safe from ill.”</l>
+            <l>As he spoke upon the highway there came riding by a stranger,</l>
+            <l>For an instant on her features he a fleeting glance bestowed.</l>
+            <l>Then he said: "My heart is fickle and the world is full of danger,"</l>
+            <l>And he offered her his stirrup, and he pointed down the road.</l>
+            
+          </lg>
+        </div>
+        <div type="section" n="">
+          <head>JUSTICE AS HE IS ADMINISTERED.
+          </head>
+          <p>THE Roman father had power of life and death over his children.</p>
+          <p>In Rockland County this appears to have extended to sons-in-law.</p>
+          <p>Women are too sympathetic, we have sometimes been told, to sit on juries.</p>
+          <p>Sympathetic to whom?</p>
+          <p>The criminal, or the victim?</p>
+          <p>Ours, however, is not the only country where intoxication is admitted as an excuse for crime.</p>
+          <p>In England, at the Kent Assizes for November, a man charged before</p>
+          <p>Mr. Justice Lawrence, with indecent assault on a little girl of seven pleaded guilty and gave intoxication as an excuse for his conduct. He was let off  with a sentence of twelve months.</p>
+          <p>In the same court, before the same justice, a man charged with forging a check of 22 pounds 18 shillings was sentenced to five years' penal servitude; a crime evidently five times more serious than the preceding one.</p>
+
+        </div>
+        <div type="section" n="">
+          <head>NOT FIGHTING FAIR.
+          </head>
+          <p>TURKISH women, it is reported, have been engaged in an anti-war demonstration. When a military guard was sent to stop their rioting, the women tore their garments and threw them away; thus compelling the guard, under Islamic law, to retire.
+          </p>
+          <p>Question, Who was using force?
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>PUBLIC SERVICE.
+          </head>
+          <p>AN AUXILIARY force of women has now been added to the London police, as a result of conditions incidental to the war.
+          </p>
+          <p>A few days ago, under the indorsement of the Lord Mayor of London and other officials, a military organization of women was formed as a defence in case of the invasion of England.
+          </p>
+          <p>If these movements grow and find favor among our rulers, we may look forward to a time when married women workers will be granted leave of absence with pay in order to perform their military duties, but will be instantly dismissed for asking leave of absence without pay in order to bear a child.
+          </p>
+          <p>No one, however, need worry over the permanence of such a situation—after a few years there won't be any soldiers to drill.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>THE LUXURY OF BEING SUPPORTED.
+          </head>
+          <p>THE most significant fact to consider in asking whether the protection of women demands the dismissal of all mothers from their jobs is that pointed out by Miss Mary Snow, of the Intercollegiate Bureau of Occupations. She says that 55 per cent of adult males in this country earn less than $500 a year.
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>THEIR PLACE NOT ALWAYS THE HOME, AFTER ALL.
+          </head>
+          <p>CONGRESSMAN Bartholdt, of Missouri, in opposing prohibition in the House on Tuesday, said that he knew many saloons "where a gentleman might take his wife and daughters."
+          </p>
+          <p>But with such a united family, why leave home?
+          </p>
+        </div>
+        <div type="section" n="">
+          <head>ON THE HOBSON AMENDMENT.
+          </head>
+          <p>(With apologies to James Whitcomb Riley.)</p>
+          <lg>
+            <l>A GREAT big Goblin's in the House, the blackest ever made,</l>
+            <l>It's after all the Congressmen, and, oh, ain't they afraid!</l>
+            <l>It seeks 'em in the offices, it seeks 'em at recess,</l>
+            <l>It seeks 'em in committee rooms, and everywheres, I guess.</l>
+            <l>They're skeered to answer "aye" and even worse to answer "nay,"</l>
+            <l>It isn't safe for 'em to die, or pair, or stay away.</l>
+            <l>Oh, pity our poor Congressmen, they need it without doubt,</l>
+            <l>Prohibition's going to get 'em</l>
+            <l>Ef they</l>
+            <l>Don't</l>
+            <l>Watch</l>
+            <l>Out!</l></lg>       
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>

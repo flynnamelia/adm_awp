@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		 <fileDesc>
+      <titleStmt>
+				<title>Are Women People?</title>
+				<author>Alice Duer Miller</author>
+				<editor>Amelia Flynn</editor>
+				<respStmt>
+					<resp>TEI Encoding</resp>
+					<name>Amelia Flynn</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>CTS*4020: Digital Research Project</publisher>
+				<address>
+					<orgName>University of Guelph</orgName>
+					<settlement>Guelph</settlement>
+					<postCode>N1G 2W1</postCode>
+					<country>Canada</country>
+				</address>
+				<date when="2025">2025</date>
+				<distributor>University of Guelph</distributor>
+				<authority>Amelia Flynn</authority>
+			</publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Are Women People?</title>
+          <title>New York Tribune</title>
+          <note>Column</note>
+          <date>1914-08-16</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+<text>
+    <front>
+      <div type="header">
+		<dateline>August 16, 1914</dateline>
+        <head type="main">ARE WOMEN PEOPLE?</head>
+        <head type="sub">By Alice Duer Miller</head>
+      </div>
+    </front>
+
+    <body>
+      <div type="article">
+        <div type="section" n="1">
+          <head>THE SHELTERED SEX.
+          </head>
+          <p>"If," says Petrus Novalissius, "our young soldiers going to war had had as much experience in facing death as their mothers had, they would be reckoned veterans."
+          </p>
+        </div>
+        <div type="section" n="2">
+          <head>THAT EXPANDING SPHERE.
+          </head>
+          <p>The French government has called on the women of France to complete the harvesting of the crops.
+          </p>
+          <p>"It suggests a respect in which this war may be far less disastrous than many have feared . . . To a considerable extent women will be able to replace men in the factories . . . A good portion of women will naturally still be necessary in domestic fields, but the number can be much reduced in order to put an active working army into the factories."—Editorial, Boston Transcript, August 8.
+          </p>
+          <p>This is a frank admission that: Women's lives are as much affected by war as men's. Woman's place is in the home only until the business interests of a country need her in the factory.
+          </p>
+        </div>
+        <div type="section" n="3">
+          <head>WOMEN.
+          </head>
+          <p>(With rather insincere apologies to Mr. Rudyard Kipling.)
+          </p>
+          <lg>
+            <lg><l>I went to ask my government if they would set me free,</l>
+            <l>They gave a pardoned crook a vote, but hadn't one for me:</l>
+            <l>The men about me laughed and frowned and said: "Go home, because</l>
+            <l>We really can't be bothered when we're busy making laws."</l></lg>
+            
+            <lg><l>Oh, it's "women this," and "women that," and "women have no sense,"</l>
+            <l>But it's "pay your taxes promptly" when it comes to the expense,</l>
+            <l>It comes to the expense, my dears, it comes to the expense,</l>
+            <l>It's "pay your taxes promptly" when it comes to the expense.</l></lg>
+            
+            <lg><l>I went into a factory to earn my daily bread:</l>
+            <l>Men said: "The home is woman's sphere." "I had no home," I said.</l>
+            <l>But when the men all marched to war, they cried to wife and maid,</l>
+            <l>"Oh, never mind about your homes, but save the export trade."</l></lg>
+            
+            <lg><l>For it's "women this," and "women that," and "Home's the place for you.,</l>
+            <l>But it's "patriotic angels" when there's outside work to do,</l>
+            <l>There's outside work to do, my dears, there's outside work to do,</l>
+            <l>It's "patriotic angels" when there's outside work to do.</l></lg>
+            
+            <lg><l>We are not really senseless, and we are not angels, too,</l>
+            <l>But very human beings, human just as much as you.</l>
+            <l>And it's hard upon occasions to be forceful and sublime</l>
+            <l>When we're treated as incompetents three-quarters of the time.</l></lg>
+            
+            <lg><l>But it's "women this," and "women that," and "woman's like a hen,"</l>
+            <l>But it's "do the country's work alone," when war takes off the men,</l>
+            <l>And it's "women this," and "women that," and everything you please</l>
+            <l>But woman is observed and be sure that woman sees.</l></lg>
+            
+          </lg>
+        </div>
+        <div type="section" n="4">
+          <head>THE TEST OF FEMININITY.
+          </head>
+          <p>Commenting on this same incident, the Evening Sun says editorially of the French women: "Not contentious to rival men, but emulous to second them; not eager to masquerade in male guise, but capable to take up tasks beyond the normal duty of their sex and yet not lose the perfection of their sex."
+          </p>
+          <p>According to some men the only way to tell whether a woman is truly feminine or not is whether she is doing something for him or for herself.
+          </p>
+        </div>
+        <div type="section" n="5">
+          <head>OUR OWN SELECTED WAR NEWS.
+          </head>
+          <p>It is reported in the press:
+          </p>
+          <p>That the Servian women some time since banded themselves in an armed and drilled military organization—"The League of Death"—in order to protect their homes.
+          </p>
+          <p>That the Swiss women have asked for arms.
+          </p>
+          <p>That a girl of eighteen in Holland who shot and killed a German officer was captured and executed.
+          </p>
+          <p>That women aviators are serving as French scouts.
+          </p>
+          <p>That the National American Anti-Suffrage Association when asked to join in a peace demonstration replied that "war was men's business, and women had better not interfere."
+          </p>
+          <lg>
+            <l>And then forsooth, 'tis they that face the call</l>
+            <l>Of war, while we sit, sheltered, hid from all</l>
+            <l>Peril. False, mocking! Sooner would I stand</l>
+            <l>Three times to face their battles, shield in hand,</l>
+            <l>Than bear one child. (Euripides.)</l>
+            
+          </lg>
+        </div>
+        <div type="section" n="6">
+          <head>WHERE DID THEY HEAR THAT?
+          </head>
+          <p>Two hundred Congressmen are said to be holding up legislation by remaining absent from the Capital.
+          </p>
+          <p>Doubtless they believe that THEIR PLACE IS THE HOME.
+          </p>
+        </div>
+        <div type="section" n="7">
+          <head>POLITICS—NOT HOUSEKEEPING.
+          </head>
+          <p>The State Superintendent of Weights and Measures has just made an important ruling on the subject of graduated nursing bottles.
+          </p>
+          <p>Women ought to acknowledge that political questions of this sort are beyond their understanding.
+          </p>
+        </div>
+        <div type="section" n="8">
+          <head>WHO SAYS THE BALLOT DOES NOT EDUCATE?
+          </head>
+          <p>Twenty women who are rejected as policewomen in Chicago on account of their weight have gone into training.
+          </p>
+        </div>
+        <div type="section" n="9">
+          <head>HE OUGHT TO HAVE KNOWN.
+          </head>
+          <p>"The more I study the world," said Napoleon, " the more I am convinced of the inability of force to create anything durable." 
+          </p>
+          <p>Yet many people tell us that force is the only foundation on which our government rests.
+          </p>
+        </div>
+        </div>
+    </body>
+  </text>
+</TEI>
