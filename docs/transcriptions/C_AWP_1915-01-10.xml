@@ -43,7 +43,7 @@
 
     <body>
       <div type="article">
-        <div type="section" n="">
+        <div type="section" n="1">
           <head>Many Men to Any Women.
           </head>
           <lg>
@@ -63,7 +63,7 @@
             <l>I might consider giving you the vote.</l>
           </lg>
         </div>
-        <div type="section" n="">
+        <div type="section" n="2">
           <head>OUR OWN WAR NOTES.
           </head>
           <p>It is seriously suggested that polygamy may be the natural consequence of the present war.
@@ -75,7 +75,7 @@
           <p><hi rend="italic">"I am not accustomed to use the language of eulogy. I have never studied the art of paying compliments to women, but I must say that if all that has been said by orators and poets since the creation of the world in praise of women were applied to the women of America, it would not do them justice for their conduct during the war."</hi>—<persName>Abraham Lincoln</persName>.
           </p>
         </div>
-        <div type="section" n="">
+        <div type="section" n="3">
           <head>TO THE GREAT DINING-OUT MAJORITY.
           </head>
           <p>The <orgName>New York State Association Opposed to Woman Suffrage</orgName> is sending out leaflets to its members urging them to "tell every man you meet, your tailor, your postman, your grocer, as well as your dinner partner, that you are opposed to woman suffrage."
@@ -83,7 +83,7 @@
           <p>We hope the 90,000 sewing machine operatives, the 40,000 saleswomen, the 32,000 laundry operatives, the 20,000 knitting and silk mill girls, the 17,000 women janitors and cleaners, the 12,000 cigar makers, to say nothing of the 700,000 other women and girls in industry in New York State, will remember when they have drawn off their long gloves and tasted their oysters to tell their dinner partners that they are opposed to woman suffrage because it might take women out of the home.
           </p>
         </div>
-        <div type="section" n="">
+        <div type="section" n="4">
           <head>HISTORY MADE EASY.
           </head>
           <p>The same association objects to the proposal to introduce into our school histories some facts about the progress of woman suffrage in the country.
@@ -91,7 +91,7 @@
           <p>If only the Democrats will take a similar stand about Republican victories, and the Republicans about Democratic successes; if the believers in war will be firm about there being no record of peace times, and the pacifists about there being no mention of war, our children may be able to escape the study of history altogether.
           </p>
         </div>
-        <div type="section" n="">
+        <div type="section" n="5">
           <head>WHY CANARY BIRDS PREFER CAGES.
           </head>
           <p>A little Southern boy who was given a canary bird in a cage was asked by a tender-hearted relation to set it free. He answered that this was inexpedient, for the following reasons:
@@ -105,7 +105,7 @@
           <p>That if he set it free, it would fly away and never come back. It had never told him it wished for freedom. Canary birds could have anything they wanted, but they must make their wishes known.
           </p>
         </div>
-        <div type="section" n="">
+        <div type="section" n="6">
           <head>Indians May Lose Rich Power Sites—No Plan for Payment.—Head-line.
           </head>
           <p>Chorus of Women and Indians:
@@ -117,33 +117,35 @@
             
           </lg>
         </div>
-        <div type="section" n="">
+        <div type="section" n="7">
           <head>STRANGE EFFECT OF THE ABSENCE OF THE STRONGER SEX.
           </head>
           <p>A <placeName>Berlin</placeName> dispatch, commenting on the unusual orderliness of the city on New Year’s Eve, says: “Comparatively few men were present. Formerly the police were busy on New Year’s Eve, but last night they had nothing to do.”
           </p>
         </div>
-        <div type="section" n="">
+        <div type="section" n="8">
           <head>THE SAY SO AND THEY OUGHT TO KNOW.
           </head>
           <p>Just as the <orgName>Municipal Bureau of Fire Prevention in Chicago</orgName> had solemnly declared against women ushers in theatres on the ground that “in time of emergency women are not equal to men,” <persName>Mrs. Thomas Edison</persName> showed herself to be the only person in all the crowd watching the fire in her husband’s laboratory who was cool enough to think of rescuing his papers and records.
           </p>
           <p>We have no proof of the assertion that we now make: The Municipal Bureau of Fire Prevention is made up of men.
           </p>
+          </div>
+          <div type="section" n="9">
           <lg>
-            <l>Men are very brave, you know,</l>
+            <lg><l>Men are very brave, you know,</l>
             <l>That was settled long ago;</l>
             <l>Ask, however, if you doubt it,</l>
             <l>Any man you meet about it;</l>
             <l>He will say, I think, like me,</l>
-            <l>Men are brave as they can be.</l>
+            <l>Men are brave as they can be.</l></lg>
             
-            <l>Women think they’re brave you say?</l>
+            <lg><l>Women think they’re brave you say?</l>
             <l>Do they really? Well, they may,</l>
             <l>But such biassed attestation</l>
             <l>Is not worth consideration,</l>
             <l>For a legal judgment shelves</l>
-            <l>What they say about themselves.</l>
+            <l>What they say about themselves.</l></lg>
           </lg>
         </div>
         </div>
