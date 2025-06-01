@@ -60,8 +60,8 @@
             {
                 "xpath": "//persName",
                 "label": "Person"
-            }
-            {,
+            },
+            {
                 "xpath": "//placeName",
                 "label": "Place"
             }
