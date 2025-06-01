@@ -31,7 +31,86 @@
         </bibl>
       </sourceDesc>
     </fileDesc>
-		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-07-05.xml?person_annotation_20250531234752349",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-01T03:47:52.349Z",
+	"dcterms:modified": "2025-06-01T03:47:52.349Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-07-05.xml?person_annotation_20250531234752349#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-07-05.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-07-05.xml?person_annotation_20250531234752349#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/p[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/51731588",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader>
 <text>
     <front>
       <div type="header">
@@ -57,7 +136,7 @@
             <l>Or else your friends will think aloud:</l>
             <l>"She used to be a perfect baby!"</l>
             
-            <l>And Mired B. Ball suggests in the manner of Sir Henry Wotton,</l>
+            <l>And Mired B. Ball suggests in the manner of <persName>Sir Henry Wotton</persName>,</l>
             <l>You meaner babies of the State</l>
             <l>Who poorly satisfy our eyes</l>
             <l>More by your numbers than your weight,</l>
@@ -68,7 +147,7 @@
         <div type="section" n="">
           <head>CONSISTENCY'S A JEWEL.
           </head>
-          <p>Mrs. Mabel Botswood Marvell writes us that, though an anti-suffragist, she has refused to pay her taxes on the following grounds:</p>
+          <p><persName>Mrs. Mabel Botswood Marvell</persName> writes us that, though an anti-suffragist, she has refused to pay her taxes on the following grounds:</p>
            <p>A woman's place is the home, and not the tax collector's office.</p>
              <p> She cannot spare the time from her domestic duties.</p>
                <p>She fears she will be contaminated by the low, vulgar people who already pay taxes.</p>
@@ -78,9 +157,9 @@
         <div type="section" n="">
           <head>STATECRAFT.
           </head>
-          <p>Who said that Mr. Asquith was unable to deal with the suffrage situation in England? According to "The Times," he has engaged women detectives to guard the House of Commons from suffragette intruders.
+          <p>Who said that <persName>Mr. Asquith</persName> was unable to deal with the suffrage situation in England? According to "The Times," he has engaged women detectives to guard the House of Commons from suffragette intruders.
           </p>
-          <p>If only they don't all turn out to be members of Mrs. Pankhurst's Union!
+          <p>If only they don't all turn out to be members of <persName key="Sylvia Pankhurst" ref="http://viaf.org/viaf/51731588">Mrs. Pankhurst</persName>'s Union!
           </p>
         </div>
         <div type="section" n="">
@@ -116,7 +195,7 @@
         <div type="section" n="">
           <head>YES, SOME MEN USE THE WORD MALE IN THAT SENSE.
           </head>
-          <p>Dr. Charles Eliot, president emeritus of Harvard, is reported to have said:
+          <p><persName>Dr. Charles Eliot</persName>, president emeritus of Harvard, is reported to have said:
           </p>
           <p>"Universal suffrage prolongs in the United States the effect of universal education: for it stimulates all citizens throughout their lives to reflect on problems outside the narrow circle of their private interests and occupations; to read about public questions; to discuss public characters and to hold themselves ready in some degree to give a rational account of their political faith." 
           </p>
