@@ -31,163 +31,7 @@
         </bibl>
       </sourceDesc>
     </fileDesc>
-		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "undefined?person_annotation_20250526015506907",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-26T05:55:06.907Z",
-	"dcterms:modified": "2025-05-26T05:55:06.907Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/flynnamelia",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Amelia Flynn"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20250526015506907#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20250526015506907#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div[2]/head/persName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "https://commons.cwrc.ca/orlando:9b51f0a0-d4e8-4622-9b2a-66d7da429a5d",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "undefined?person_annotation_20250526015713392",
-	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-26T05:57:13.392Z",
-	"dcterms:modified": "2025-05-26T05:57:13.392Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/flynnamelia",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Amelia Flynn"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20250526015713392#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20250526015713392#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div[10]/head/persName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/100189299",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	}
-}]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData></teiHeader>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
   <text>
     <front>
       <div type="header">
@@ -201,15 +45,15 @@
       <div type="column">
         <div type="section" n="1">
         	<head>UNION LEAGUE CLUB REPORTED IN FAVOR OF SUFFRAGE.</head>
-        	<p>The Union League Club, having, as it says of itself, invariably given its support to measures extending and securing human rights, reported that "on the question of equal suffrage . . . our principles are not unknown;. . . they are comprised in two words—justice and security."
+        	<p>The <orgName>Union League Club</orgName>, having, as it says of itself, invariably given its support to measures extending and securing human rights, reported that "on the question of equal suffrage . . . our principles are not unknown;. . . they are comprised in two words—justice and security."
         	</p>
-        	<p>But that was in 1868, when they were all a good deal younger, and when they were speaking of negroes—not of the women of New York State.
+        	<p>But that was in 1868, when they were all a good deal younger, and when they were speaking of negroes—not of the women of <placeName>New York State</placeName>.
         	</p>
         </div>
       	<div type="section" n="2">
       		<head>SAFETY FIRST.
       		</head>
-      		<p>The Royal Commission (English) on Civil Service—a majority of which are men—has just issued a report stating, among other things, that, so far as the efficiency of men is higher than that of women, men's salaries should continue to be higher.
+      		<p>The <orgName>Royal Commission (English) on Civil Service</orgName>—a majority of which are men—has just issued a report stating, among other things, that, so far as the efficiency of men is higher than that of women, men's salaries should continue to be higher.
       		</p>
       		<p>And then, lest they should ever be proved wrong, they recommend that the highest examinations should not be open to women.
       		</p>
@@ -225,21 +69,21 @@
       	<div type="section" n="4">
       		<head>PLEASE LET HER, GENTLEMEN.
       		</head>
-      		<p>"I am convinced," Dr. Lyman Abbott is reported to have said, "that in spite of all this talk of sex equality woman in her heart still longs to look up to man with reverence.”
+      		<p>"I am convinced," <persName>Dr. Lyman Abbott</persName> is reported to have said, "that in spite of all this talk of sex equality woman in her heart still longs to look up to man with reverence.”
       		</p>
       		
       	</div>
       	<div type="section" n="5">
       		<head>AN EXPLANATION—NOT AN EXCUSE.
       		</head>
-      		<p>Testifying before the Committee on Ventilation in the House of Parliament, Sir R. Pole-Carew said that the air of the House "caused sleepiness and confusion of the brain."
+      		<p>Testifying before the Committee on Ventilation in the House of Parliament, <persName>Sir R. Pole-Carew</persName> said that the air of the House "caused sleepiness and confusion of the brain."
       		</p>
       		
       	</div>
       	<div type="section" n="6">
       		<head>SEX LIMITATIONS.
       		</head>
-      		<p>Speaking of the Ulster volunteer force, "The Westminster Gazette" says: "The ladies with the Red Cross bandages made a better and more soldier-like appearance when they, assembled and marched through the streets than did the men."
+      		<p>Speaking of the Ulster volunteer force, <title>"The Westminster Gazette"</title> says: "The ladies with the Red Cross bandages made a better and more soldier-like appearance when they, assembled and marched through the streets than did the men."
       		</p>
       		<p>But, as R. W. D. points out, men have turned out to be better cooks and dressmakers than women, so no one need feel hurt.
       		</p>
