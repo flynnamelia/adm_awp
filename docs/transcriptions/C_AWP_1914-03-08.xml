@@ -421,6 +421,162 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-08.xml?date_annotation_20250604222124302",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-05T02:21:24.302Z",
+	"dcterms:modified": "2025-06-05T02:21:24.302Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-08.xml?date_annotation_20250604222124302#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-08.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-08.xml?date_annotation_20250604222124302#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[9]/p[2]/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1835"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-08.xml?date_annotation_20250604222152446",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-05T02:21:52.446Z",
+	"dcterms:modified": "2025-06-05T02:21:52.446Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-08.xml?date_annotation_20250604222152446#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-08.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-08.xml?date_annotation_20250604222152446#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[10]/p[2]/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1797"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
     <front>
@@ -489,13 +645,13 @@
         <div type="section" n="">
           <head>Suffragists, Please Note.</head>
           <p>"But liberty is not the chief and constant object of their (the American people's) desires: equality is their idol: they make rapid and sudden efforts to obtain liberty and if they miss their aim, resign themselves to their dis appointment; but nothing can satisfy them without equality, and they would rather perish than lose it."</p>
-		  <p>—<persName>De Tocqueville</persName>: "Democracy in America," 1835.</p>
+		  <p>—<persName>De Tocqueville</persName>: <title>"Democracy in America,"</title> <date when="1835">1835</date>.</p>
         </div>
 
         <div type="section" n="">
           <head>Our Grandmothers Were Womanly Women.</head>
           <p>From K. B.—a student of book catalogues—we get this:</p>
-		  <p>(Sampson, Deborah.), The female review: or memoirs of an American young lady, whose life and character are peculiarly distinguished—being a Continental soldier (for nearly three years) in the late American War, during which she performed the duties of every department into which she was called with punctual exactness, fidelity and honor. Dedham, 1797.</p>
+		  <p>(Sampson, Deborah.), The female review: or memoirs of an American young lady, whose life and character are peculiarly distinguished—being a Continental soldier (for nearly three years) in the late American War, during which she performed the duties of every department into which she was called with punctual exactness, fidelity and honor. Dedham, <date when="1797">1797</date>.</p>
 		  		  <p>An anonymous and obviously light-minded contributor sends us this, under the caption: "Where Women Vote":</p>
 		  <p>"Los Angeles, Feb. 14. –- A hen in Venice did her share to-day to reduce the high cost of living and established a record for expeditious production by laying four eggs in two minutes."</p>
 
