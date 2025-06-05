@@ -187,6 +187,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-29.xml?date_annotation_20250604222929500",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-06-05T02:29:29.500Z",
+	"dcterms:modified": "2025-06-05T02:29:29.500Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/flynnamelia",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Amelia Flynn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-29.xml?date_annotation_20250604222929500#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-29.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/flynnamelia/adm_awp/main/docs/transcriptions/C_AWP_1914-03-29.xml?date_annotation_20250604222929500#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[3]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1911"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 <text>
     <front>
@@ -217,7 +295,7 @@
         <div type="section" n="">
           <head>DID YOU KNOW
           </head>
-          <p>That over 40 per cent of the Bachelor of Arts degrees awarded in this country in 1910 went to women?</p>
+          <p>That over 40 per cent of the Bachelor of Arts degrees awarded in this country in <date when="1911">1910</date> went to women?</p>
           <p>That the high schools graduate almost a third more girls than boys?</p>
           <p>That over 78 per cent of the teachers are women?</p>
           <p>That only about 10 per cent of the children in the country go to private schools?</p>
@@ -228,7 +306,7 @@
         </div>
         <div type="section" n="">
           <head/>
-          <p>"In the sixth century," said Mr. Lane, of Oregon, in the Senate the other day, "the early fathers of the Christian Church debated with great gravity whether or not woman had a soul: At the Council of Macon, after much discussion, it was voted on, and woman won out by a majority of one. That was a great concession for men to make, was it not? . . . And now here in this day we are questioning her right to participate with ourselves upon full equality in the affairs of men. Whether we will decide by one vote or not, I do not know. I rather suspect that we will not be quite up to the mark set by our old fathers at Macon."
+          <p>"In the sixth century," said <persName>Mr. Lane</persName>, of Oregon, in the Senate the other day, "the early fathers of the Christian Church debated with great gravity whether or not woman had a soul: At the Council of Macon, after much discussion, it was voted on, and woman won out by a majority of one. That was a great concession for men to make, was it not? . . . And now here in this day we are questioning her right to participate with ourselves upon full equality in the affairs of men. Whether we will decide by one vote or not, I do not know. I rather suspect that we will not be quite up to the mark set by our old fathers at Macon."
           </p>
           <p>But they were—just exactly.
           </p>
